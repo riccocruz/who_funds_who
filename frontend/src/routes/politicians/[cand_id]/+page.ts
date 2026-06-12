@@ -1,6 +1,7 @@
 import type { EntryGenerator, PageLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import politiciansList from '$lib/data/politicians.json';
+
+const politicianDataModules = import.meta.glob('/src/lib/data/politicians/*.json');
 
 export const load: PageLoad = async ({ params }) => {
 	try {
@@ -12,5 +13,7 @@ export const load: PageLoad = async ({ params }) => {
 };
 
 export const entries: EntryGenerator = () => {
-	return (politiciansList as { cand_id: string }[]).map((p) => ({ cand_id: p.cand_id }));
+	return Object.keys(politicianDataModules).map((path) => ({
+		cand_id: path.split('/').pop()!.replace('.json', '')
+	}));
 };

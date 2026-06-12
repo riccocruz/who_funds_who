@@ -1,7 +1,5 @@
 <script lang="ts">
-	import { page } from '$app/state';
-
-	const q = $derived(page.url.searchParams.get('q') ?? '');
+	import { base } from '$app/paths';
 
 	type Politician = {
 		cand_id: string;
@@ -11,9 +9,10 @@
 		office_code: string;
 	};
 	type Pac = { cmte_id: string; name: string; committee_type: string };
-	type ServerData = { politicians: Politician[]; pacs: Pac[] };
+	type ServerData = { politicians: Politician[]; pacs: Pac[]; q: string };
 
 	let { data }: { data: ServerData } = $props();
+	const q = $derived(data.q);
 
 	const OFFICE_LABEL: Record<string, string> = { H: 'House', S: 'Senate', P: 'President' };
 	const CMTE_TYPE_LABEL: Record<string, string> = {
@@ -63,7 +62,7 @@
 			<ul class="result-list">
 				{#each filteredPoliticians as c}
 					<li>
-						<a href="/politicians/{encodeURIComponent(c.cand_id)}" class="result-item">
+						<a href={`${base}/politicians/${encodeURIComponent(c.cand_id)}`} class="result-item">
 							<span class="result-name">{c.cand_name}</span>
 							<span class="result-meta">
 								<span class="party" style="color: {PARTY_COLOR[c.party] ?? '#6b7280'}"
@@ -86,7 +85,7 @@
 			<ul class="result-list">
 				{#each filteredPacs as p}
 					<li>
-						<a href="/pacs/{encodeURIComponent(p.cmte_id)}" class="result-item">
+						<a href={`${base}/pacs/${encodeURIComponent(p.cmte_id)}`} class="result-item">
 							<span class="result-name">{p.name}</span>
 							<span class="result-meta"
 								>{CMTE_TYPE_LABEL[p.committee_type] ?? p.committee_type}</span

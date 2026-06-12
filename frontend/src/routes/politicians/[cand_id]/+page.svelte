@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
+	import { base } from '$app/paths';
 	import {
 		createGrid,
 		ModuleRegistry,
@@ -158,7 +159,7 @@
 			paginationPageSize: 20,
 			paginationPageSizeSelector: [20, 50, 100],
 			rowStyle: { cursor: 'pointer' },
-			onRowClicked: (e) => e.data?.cmte_id && goto(`/pacs/${encodeURIComponent(e.data.cmte_id)}`)
+			onRowClicked: (e) => e.data?.cmte_id && goto(`${base}/pacs/${encodeURIComponent(e.data.cmte_id)}`)
 		} satisfies GridOptions<PacDonation>);
 
 		oppGridApi = createGrid<OppositionPac>(oppGridEl, {
@@ -171,7 +172,7 @@
 			paginationPageSize: 20,
 			paginationPageSizeSelector: [20, 50, 100],
 			rowStyle: { cursor: 'pointer' },
-			onRowClicked: (e) => e.data?.cmte_id && goto(`/pacs/${encodeURIComponent(e.data.cmte_id)}`)
+			onRowClicked: (e) => e.data?.cmte_id && goto(`${base}/pacs/${encodeURIComponent(e.data.cmte_id)}`)
 		} satisfies GridOptions<OppositionPac>);
 
 		return () => {
@@ -182,7 +183,7 @@
 </script>
 
 <div class="page">
-	<a href="/politicians" class="back-link">← All Politicians</a>
+	<a href={`${base}/politicians`} class="back-link">← All Politicians</a>
 
 	<section class="header-section">
 		<div class="meta">
