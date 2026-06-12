@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
+	import { resolve } from '$app/paths';
 	import {
 		createGrid,
 		ModuleRegistry,
@@ -100,7 +101,7 @@
 			rowData: rows,
 			defaultColDef: { sortable: true, resizable: true },
 			rowStyle: { cursor: 'pointer' },
-			onRowClicked: (e) => e.data && goto(`/politicians/${encodeURIComponent(e.data.cand_id)}`),
+			onRowClicked: (e) => e.data && goto(resolve(`/politicians/${encodeURIComponent(e.data.cand_id)}`)),
 			pagination: true,
 			paginationPageSize: 20,
 			paginationPageSizeSelector: [20, 50, 100]

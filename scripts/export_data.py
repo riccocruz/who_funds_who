@@ -42,11 +42,11 @@ write(os.path.join(OUT_DIR, 'pacs.json'), pacs)
 # ── Politicians list ───────────────────────────────────────────────────────────
 politicians = [dict(row) for row in con.execute("""
     SELECT
-        cand_id,
+        MIN(cand_id)                    AS cand_id,
         cand_name,
         cand_pty_affiliation            AS party,
         cand_office_st                  AS state,
-        cand_ici                        AS incumbent_status,
+        MIN(cand_ici)                   AS incumbent_status,
         ROUND(MAX(ttl_receipts))        AS total_raised,
         ROUND(MAX(other_pol_cmte_contrib)) AS pac_total,
         ROUND(MAX(ttl_indiv_contrib))   AS indiv_total

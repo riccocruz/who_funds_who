@@ -27,6 +27,8 @@ jobs:
 
       - name: Build
         working-directory: ./frontend
+        env:
+          BASE_PATH: /who_funds_who
         run: npx vite build
 
       - name: Upload artifact

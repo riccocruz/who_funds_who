@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/state';
+	import { resolve } from '$app/paths';
 
 	const q = $derived(page.url.searchParams.get('q') ?? '');
 
@@ -63,7 +64,7 @@
 			<ul class="result-list">
 				{#each filteredPoliticians as c}
 					<li>
-						<a href="/politicians/{encodeURIComponent(c.cand_id)}" class="result-item">
+						<a href={resolve(`/politicians/${encodeURIComponent(c.cand_id)}`)} class="result-item">
 							<span class="result-name">{c.cand_name}</span>
 							<span class="result-meta">
 								<span class="party" style="color: {PARTY_COLOR[c.party] ?? '#6b7280'}"
@@ -86,7 +87,7 @@
 			<ul class="result-list">
 				{#each filteredPacs as p}
 					<li>
-						<a href="/pacs/{encodeURIComponent(p.cmte_id)}" class="result-item">
+						<a href={resolve(`/pacs/${encodeURIComponent(p.cmte_id)}`)} class="result-item">
 							<span class="result-name">{p.name}</span>
 							<span class="result-meta"
 								>{CMTE_TYPE_LABEL[p.committee_type] ?? p.committee_type}</span

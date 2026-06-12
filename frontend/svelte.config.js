@@ -15,8 +15,8 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			// GitHub Pages requires the repo name as base path
-			base: '/who_funds_who'
+			// Set BASE_PATH env var when deploying to GitHub Pages
+			base: process.env.BASE_PATH ?? ''
 		}
 	}
 };

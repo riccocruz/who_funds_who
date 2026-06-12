@@ -14,6 +14,7 @@
 	import { fade } from 'svelte/transition';
 
 	import { goto } from '$app/navigation';
+	import { resolve } from '$app/paths';
 
 	let { children } = $props();
 
@@ -21,7 +22,7 @@
 
 	function handleSearch(e: KeyboardEvent) {
 		if (e.key === 'Enter' && searchQuery.trim()) {
-			goto(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+			goto(resolve('/search') + `?q=${encodeURIComponent(searchQuery.trim())}`);
 		}
 	}
 </script>
@@ -30,7 +31,7 @@
 
 <Navbar>
 	{#snippet children({ hidden, toggle })}
-		<NavBrand href="/">
+		<NavBrand href={resolve('/')}>
 			<span class="brand-name">Who Funds Who</span>
 		</NavBrand>
 		<div class="flex md:order-2">
@@ -59,9 +60,9 @@
 			</div>
 		{/if}
 		<NavUl>
-			<NavLi href="/">Home</NavLi>
-			<NavLi href="/politicians">Politicians</NavLi>
-			<NavLi href="/pacs">PACs</NavLi>
+			<NavLi href={resolve('/')}>Home</NavLi>
+			<NavLi href={resolve('/politicians')}>Politicians</NavLi>
+			<NavLi href={resolve('/pacs')}>PACs</NavLi>
 		</NavUl>
 	{/snippet}
 </Navbar>

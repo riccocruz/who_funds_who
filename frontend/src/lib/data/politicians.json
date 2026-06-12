@@ -184,7 +184,7 @@
         "cand_name": "CROCKETT, JASMINE",
         "party": "DEM",
         "state": "TX",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 11092295.0,
         "pac_total": 169050.0,
         "indiv_total": 7674211.0
@@ -260,17 +260,17 @@
         "indiv_total": 7242492.0
     },
     {
-        "cand_id": "S6MI00426",
+        "cand_id": "H8MI11254",
         "cand_name": "STEVENS, HALEY",
         "party": "DEM",
         "state": "MI",
-        "incumbent_status": "O",
+        "incumbent_status": "I",
         "total_raised": 8870471.0,
         "pac_total": 564556.0,
         "indiv_total": 6479181.0
     },
     {
-        "cand_id": "S6AK00276",
+        "cand_id": "H2AK01158",
         "cand_name": "PELTOLA, MARY",
         "party": "DEM",
         "state": "AK",
@@ -350,7 +350,7 @@
         "indiv_total": 2160874.0
     },
     {
-        "cand_id": "S6OK04247",
+        "cand_id": "H8OK01157",
         "cand_name": "HERN, KEVIN",
         "party": "REP",
         "state": "OK",
@@ -440,7 +440,7 @@
         "indiv_total": 7572496.0
     },
     {
-        "cand_id": "S4TX00722",
+        "cand_id": "H8TX32098",
         "cand_name": "ALLRED, COLIN",
         "party": "DEM",
         "state": "TX",
@@ -494,7 +494,7 @@
         "cand_name": "CARTER, EARL LEROY",
         "party": "REP",
         "state": "GA",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 6842706.0,
         "pac_total": 1065775.0,
         "indiv_total": 2040840.0
@@ -564,7 +564,7 @@
         "cand_name": "MIGUEZ, BLAKE",
         "party": "REP",
         "state": "LA",
-        "incumbent_status": "O",
+        "incumbent_status": "C",
         "total_raised": 6176130.0,
         "pac_total": 60686.0,
         "indiv_total": 3085544.0
@@ -644,7 +644,7 @@
         "cand_name": "GROSS, KEITH",
         "party": "REP",
         "state": "FL",
-        "incumbent_status": "O",
+        "incumbent_status": "C",
         "total_raised": 5680863.0,
         "pac_total": 7000.0,
         "indiv_total": 72092.0
@@ -724,7 +724,7 @@
         "cand_name": "WOOD, JORDAN",
         "party": "DEM",
         "state": "ME",
-        "incumbent_status": "O",
+        "incumbent_status": "C",
         "total_raised": 5134288.0,
         "pac_total": 35100.0,
         "indiv_total": 4835948.0
@@ -934,7 +934,7 @@
         "cand_name": "COLLINS, MICHAEL A JR",
         "party": "REP",
         "state": "GA",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 4533636.0,
         "pac_total": 300100.0,
         "indiv_total": 2907031.0
@@ -1004,7 +1004,7 @@
         "cand_name": "LETLOW, JULIA",
         "party": "REP",
         "state": "LA",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 4398631.0,
         "pac_total": 777477.0,
         "indiv_total": 710076.0
@@ -1114,7 +1114,7 @@
         "cand_name": "MOULTON, SETH",
         "party": "DEM",
         "state": "MA",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 4255419.0,
         "pac_total": 216100.0,
         "indiv_total": 3951789.0
@@ -1500,11 +1500,11 @@
         "indiv_total": 3429188.0
     },
     {
-        "cand_id": "S6IL00474",
+        "cand_id": "H2IL02172",
         "cand_name": "KELLY, ROBIN",
         "party": "DEM",
         "state": "IL",
-        "incumbent_status": "O",
+        "incumbent_status": "I",
         "total_raised": 3466396.0,
         "pac_total": 312250.0,
         "indiv_total": 1075149.0
@@ -2834,7 +2834,7 @@
         "cand_name": "HUNT, WESLEY",
         "party": "REP",
         "state": "TX",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 2071562.0,
         "pac_total": 166500.0,
         "indiv_total": 1376472.0
@@ -3034,7 +3034,7 @@
         "cand_name": "BELL, WESLEY",
         "party": "DEM",
         "state": "MO",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 1903759.0,
         "pac_total": 426796.0,
         "indiv_total": 1459892.0
@@ -4224,7 +4224,7 @@
         "cand_name": "MENENDEZ, ROBERT",
         "party": "DEM",
         "state": "NJ",
-        "incumbent_status": "I",
+        "incumbent_status": "C",
         "total_raised": 1423421.0,
         "pac_total": 547022.0,
         "indiv_total": 864307.0
