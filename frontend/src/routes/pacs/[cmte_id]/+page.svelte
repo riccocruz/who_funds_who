@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
+	import { base } from '$app/paths';
 	import {
 		createGrid,
 		ModuleRegistry,
@@ -121,7 +122,7 @@
 			paginationPageSizeSelector: [20, 50, 100],
 			rowStyle: { cursor: 'pointer' },
 			onRowClicked: (e) =>
-				e.data?.cand_id && goto(`/politicians/${encodeURIComponent(e.data.cand_id)}`)
+				e.data?.cand_id && goto(`${base}/politicians/${encodeURIComponent(e.data.cand_id)}`)
 		} satisfies GridOptions<Recipient>);
 
 		const pacApi = createGrid<PacTransfer>(pacGridEl, {
@@ -173,7 +174,7 @@
 			paginationPageSize: 20,
 			paginationPageSizeSelector: [20, 50, 100],
 			rowStyle: { cursor: 'pointer' },
-			onRowClicked: (e) => e.data?.cmte_id && goto(`/pacs/${encodeURIComponent(e.data.cmte_id)}`)
+			onRowClicked: (e) => e.data?.cmte_id && goto(`${base}/pacs/${encodeURIComponent(e.data.cmte_id)}`)
 		} satisfies GridOptions<PacTransfer>);
 
 		return () => {
@@ -184,7 +185,7 @@
 </script>
 
 <div class="page">
-	<a href="/pacs" class="back-link">← All PACs</a>
+	<a href={`${base}/pacs`} class="back-link">← All PACs</a>
 
 	<section class="header-section">
 		<h1>{data.pac.name}</h1>

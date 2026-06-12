@@ -1,6 +1,7 @@
 import type { EntryGenerator, PageLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import pacsList from '$lib/data/pacs.json';
+
+const pacDataModules = import.meta.glob('/src/lib/data/pacs/*.json');
 
 export const load: PageLoad = async ({ params }) => {
 	try {
@@ -12,5 +13,7 @@ export const load: PageLoad = async ({ params }) => {
 };
 
 export const entries: EntryGenerator = () => {
-	return (pacsList as { cmte_id: string }[]).map((p) => ({ cmte_id: p.cmte_id }));
+	return Object.keys(pacDataModules).map((path) => ({
+		cmte_id: path.split('/').pop()!.replace('.json', '')
+	}));
 };
