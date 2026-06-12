@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MCCARTNEY, RICK",
+        "party": "DEM",
+        "state": "AZ",
+        "indiv_total": 381048.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00435933",
+            "pac_name": "AMERICAN ACADEMY OF NEUROLOGY BRAINPAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00166710",
+            "pac_name": "ARIZONA DEMOCRATIC PARTY",
+            "total_amt": 1061.0,
+            "direct_amt": 1061.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 216,
+        "oos_donors": 27,
+        "oos_total": 27150.0
+    },
+    "opposition": []
+}

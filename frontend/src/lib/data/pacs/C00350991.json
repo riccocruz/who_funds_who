@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "NEW YORK STATE COMMITTEE OF THE WORKING FAMILIES PARTY",
+        "committee_type": "Y",
+        "total_receipts": 975732.0,
+        "indiv_contrib": 248095.0,
+        "total_spent": 946564.0,
+        "cash_on_hand": 511057.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "P00009423",
+            "cand_name": "COMMUNITY LABOR ADMINISTRATIVE SERVICES",
+            "party": null,
+            "state": null,
+            "total_amt": 61446.0,
+            "direct_amt": 0.0,
+            "ie_amt": 61446.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2250.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY19223",
+            "cand_name": "RYAN, PATRICK",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 875.0,
+            "direct_amt": 0.0,
+            "ie_amt": 875.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22085",
+            "cand_name": "MANNION, JOHN W",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 875.0,
+            "direct_amt": 0.0,
+            "ie_amt": 875.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "COMMUNITY LABOR ADMINISTRATIVE SERVICES",
+            "total_amt": 61446.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8NY22177",
+            "pac_name": "COMMUNITY LABOR ADMINISTRATIVE SERVICES",
+            "total_amt": 2250.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4NY22085",
+            "pac_name": "COMMUNITY LABOR ADMINISTRATIVE SERVICES",
+            "total_amt": 875.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8NY19223",
+            "pac_name": "COMMUNITY LABOR ADMINISTRATIVE SERVICES",
+            "total_amt": 875.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00350991"
+}

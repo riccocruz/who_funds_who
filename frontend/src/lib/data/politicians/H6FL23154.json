@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "LARKIN, OLIVER ADAMS",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 323436.0,
+        "pac_receipts_summary": 4100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00908053",
+            "pac_name": "RISING DEMS",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 237.0,
+            "direct_amt": 237.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 192,
+        "oos_donors": 127,
+        "oos_total": 103039.0
+    },
+    "opposition": []
+}

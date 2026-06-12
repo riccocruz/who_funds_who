@@ -1,0 +1,62 @@
+{
+    "pac": {
+        "name": "ILLINOIS DEMOCRATIC COUNTY CHAIRS' ASSOCIATION",
+        "committee_type": "Y",
+        "total_receipts": 54284.0,
+        "indiv_contrib": 38179.0,
+        "total_spent": 54141.0,
+        "cash_on_hand": 9409.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CO06229",
+            "cand_name": "CROW, JASON",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 800.0,
+            "direct_amt": 800.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL13153",
+            "cand_name": "BUDZINSKI, NIKKI",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00687483",
+            "pac_name": "NATIONAL DEMOCRATIC COUNTY OFFICIALS - NDCO",
+            "total_amt": 5500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00167015",
+            "pac_name": "DEMOCRATIC PARTY OF ILLINOIS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00911578",
+            "pac_name": "ILLINOIS VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 160.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00449512"
+}

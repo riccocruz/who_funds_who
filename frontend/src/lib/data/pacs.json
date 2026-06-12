@@ -1,0 +1,4002 @@
+[
+    {
+        "cmte_id": "C00401224",
+        "name": "ACTBLUE",
+        "total_receipts": 1520295377.0,
+        "indiv_contrib": 1484399073.0,
+        "total_spent": 1541939729.0,
+        "cash_on_hand": 78288078.0
+    },
+    {
+        "cmte_id": "C00694323",
+        "name": "WINRED",
+        "total_receipts": 605694549.0,
+        "indiv_contrib": 575752352.0,
+        "total_spent": 606527546.0,
+        "cash_on_hand": 1627150.0
+    },
+    {
+        "cmte_id": "C00892471",
+        "name": "MAGA INC.",
+        "total_receipts": 332786084.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 8822783.0,
+        "cash_on_hand": 347763297.0
+    },
+    {
+        "cmte_id": "C00894162",
+        "name": "TRUMP VANCE INAUGURAL COMMITTEE, INC.",
+        "total_receipts": 247702249.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 0.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00003418",
+        "name": "REPUBLICAN NATIONAL COMMITTEE",
+        "total_receipts": 228380639.0,
+        "indiv_contrib": 121605502.0,
+        "total_spent": 149658749.0,
+        "cash_on_hand": 116787038.0
+    },
+    {
+        "cmte_id": "C00010603",
+        "name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+        "total_receipts": 178110270.0,
+        "indiv_contrib": 113781359.0,
+        "total_spent": 186353878.0,
+        "cash_on_hand": 13878881.0
+    },
+    {
+        "cmte_id": "C00571703",
+        "name": "SLF PAC",
+        "total_receipts": 175443566.0,
+        "indiv_contrib": 124046385.0,
+        "total_spent": 15114229.0,
+        "cash_on_hand": 166412014.0
+    },
+    {
+        "cmte_id": "C00075820",
+        "name": "NRCC",
+        "total_receipts": 164487674.0,
+        "indiv_contrib": 61164951.0,
+        "total_spent": 97324588.0,
+        "cash_on_hand": 78247202.0
+    },
+    {
+        "cmte_id": "C00000935",
+        "name": "DCCC",
+        "total_receipts": 160607598.0,
+        "indiv_contrib": 85832907.0,
+        "total_spent": 114925978.0,
+        "cash_on_hand": 69914212.0
+    },
+    {
+        "cmte_id": "C00835959",
+        "name": "FAIRSHAKE",
+        "total_receipts": 134606729.0,
+        "indiv_contrib": 106202988.0,
+        "total_spent": 33065936.0,
+        "cash_on_hand": 165784992.0
+    },
+    {
+        "cmte_id": "C00027466",
+        "name": "NRSC",
+        "total_receipts": 125974621.0,
+        "indiv_contrib": 73704460.0,
+        "total_spent": 85693645.0,
+        "cash_on_hand": 43015135.0
+    },
+    {
+        "cmte_id": "C00484642",
+        "name": "SMP",
+        "total_receipts": 115673596.0,
+        "indiv_contrib": 94376070.0,
+        "total_spent": 50039618.0,
+        "cash_on_hand": 74804648.0
+    },
+    {
+        "cmte_id": "C00042366",
+        "name": "DSCC",
+        "total_receipts": 111259023.0,
+        "indiv_contrib": 80370259.0,
+        "total_spent": 86145978.0,
+        "cash_on_hand": 36531022.0
+    },
+    {
+        "cmte_id": "C00504530",
+        "name": "CLF",
+        "total_receipts": 110134358.0,
+        "indiv_contrib": 5000.0,
+        "total_spent": 20291165.0,
+        "cash_on_hand": 91441431.0
+    },
+    {
+        "cmte_id": "C00693382",
+        "name": "DEMOCRACY PAC",
+        "total_receipts": 102357828.0,
+        "indiv_contrib": 102000000.0,
+        "total_spent": 33244711.0,
+        "cash_on_hand": 72852057.0
+    },
+    {
+        "cmte_id": "C00495028",
+        "name": "HMP",
+        "total_receipts": 90897203.0,
+        "indiv_contrib": 8660579.0,
+        "total_spent": 32129558.0,
+        "cash_on_hand": 63852500.0
+    },
+    {
+        "cmte_id": "C00799031",
+        "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+        "total_receipts": 89239856.0,
+        "indiv_contrib": 86894199.0,
+        "total_spent": 24610179.0,
+        "cash_on_hand": 93432572.0
+    },
+    {
+        "cmte_id": "C00873893",
+        "name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
+        "total_receipts": 87980387.0,
+        "indiv_contrib": 87555049.0,
+        "total_spent": 86012244.0,
+        "cash_on_hand": 22670021.0
+    },
+    {
+        "cmte_id": "C00858373",
+        "name": "GROW THE MAJORITY",
+        "total_receipts": 83375652.0,
+        "indiv_contrib": 81964317.0,
+        "total_spent": 72797560.0,
+        "cash_on_hand": 10609208.0
+    },
+    {
+        "cmte_id": "C00916114",
+        "name": "LEADING THE FUTURE",
+        "total_receipts": 75535802.0,
+        "indiv_contrib": 75100000.0,
+        "total_spent": 24390931.0,
+        "cash_on_hand": 51144870.0
+    },
+    {
+        "cmte_id": "C00004036",
+        "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+        "total_receipts": 60423304.0,
+        "indiv_contrib": 50327613.0,
+        "total_spent": 25545280.0,
+        "cash_on_hand": 42648530.0
+    },
+    {
+        "cmte_id": "C00828541",
+        "name": "NEVER SURRENDER, INC.",
+        "total_receipts": 51589907.0,
+        "indiv_contrib": 15069125.0,
+        "total_spent": 28369411.0,
+        "cash_on_hand": 50593016.0
+    },
+    {
+        "cmte_id": "C00879510",
+        "name": "AMERICA PAC",
+        "total_receipts": 49862653.0,
+        "indiv_contrib": 49850796.0,
+        "total_spent": 51759285.0,
+        "cash_on_hand": 326017.0
+    },
+    {
+        "cmte_id": "C00925586",
+        "name": "WIN FOR AMERICA",
+        "total_receipts": 43000000.0,
+        "indiv_contrib": 43000000.0,
+        "total_spent": 35473956.0,
+        "cash_on_hand": 7526044.0
+    },
+    {
+        "cmte_id": "C00571588",
+        "name": "RESTORATION OF AMERICA PAC",
+        "total_receipts": 41882949.0,
+        "indiv_contrib": 40721244.0,
+        "total_spent": 29322120.0,
+        "cash_on_hand": 13976422.0
+    },
+    {
+        "cmte_id": "C00580068",
+        "name": "PROGRESSIVE TURNOUT PROJECT",
+        "total_receipts": 38359188.0,
+        "indiv_contrib": 21106012.0,
+        "total_spent": 23839282.0,
+        "cash_on_hand": 28001693.0
+    },
+    {
+        "cmte_id": "C00797670",
+        "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+        "total_receipts": 37625295.0,
+        "indiv_contrib": 35764640.0,
+        "total_spent": 36517360.0,
+        "cash_on_hand": 2135541.0
+    },
+    {
+        "cmte_id": "C00687103",
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "total_receipts": 36115689.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 8890379.0,
+        "cash_on_hand": 31185777.0
+    },
+    {
+        "cmte_id": "C00542217",
+        "name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+        "total_receipts": 35583600.0,
+        "indiv_contrib": 34318301.0,
+        "total_spent": 32764925.0,
+        "cash_on_hand": 4168633.0
+    },
+    {
+        "cmte_id": "C00193433",
+        "name": "EMILYS LIST",
+        "total_receipts": 30949637.0,
+        "indiv_contrib": 17709829.0,
+        "total_spent": 31724026.0,
+        "cash_on_hand": 3715102.0
+    },
+    {
+        "cmte_id": "C00855924",
+        "name": "CONSERVATIVE AMERICANS PAC",
+        "total_receipts": 30695000.0,
+        "indiv_contrib": 30695000.0,
+        "total_spent": 11553276.0,
+        "cash_on_hand": 19202958.0
+    },
+    {
+        "cmte_id": "C00892919",
+        "name": "V-PAC: VICTORS, NOT VICTIMS",
+        "total_receipts": 29534675.0,
+        "indiv_contrib": 29428175.0,
+        "total_spent": 6633708.0,
+        "cash_on_hand": 23017782.0
+    },
+    {
+        "cmte_id": "C00562983",
+        "name": "DEMOCRATIC ACTION",
+        "total_receipts": 28478896.0,
+        "indiv_contrib": 26335692.0,
+        "total_spent": 16099081.0,
+        "cash_on_hand": 13229634.0
+    },
+    {
+        "cmte_id": "C00492140",
+        "name": "AB PAC",
+        "total_receipts": 28025240.0,
+        "indiv_contrib": 32259.0,
+        "total_spent": 21976737.0,
+        "cash_on_hand": 8031133.0
+    },
+    {
+        "cmte_id": "C00927186",
+        "name": "AMERICAN CONSERVATIVE FUND",
+        "total_receipts": 26600000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 23016581.0,
+        "cash_on_hand": 3583419.0
+    },
+    {
+        "cmte_id": "C00913574",
+        "name": "COOPER VICTORY FUND",
+        "total_receipts": 26429888.0,
+        "indiv_contrib": 26009488.0,
+        "total_spent": 22222250.0,
+        "cash_on_hand": 4207638.0
+    },
+    {
+        "cmte_id": "C00911610",
+        "name": "DIGITAL FREEDOM FUND",
+        "total_receipts": 22389725.0,
+        "indiv_contrib": 22389725.0,
+        "total_spent": 21746297.0,
+        "cash_on_hand": 643428.0
+    },
+    {
+        "cmte_id": "C00487470",
+        "name": "CLUB FOR GROWTH ACTION",
+        "total_receipts": 20514645.0,
+        "indiv_contrib": 14425033.0,
+        "total_spent": 8468609.0,
+        "cash_on_hand": 12241698.0
+    },
+    {
+        "cmte_id": "C00341396",
+        "name": "MOVEON.ORG POLITICAL ACTION",
+        "total_receipts": 19663298.0,
+        "indiv_contrib": 19206045.0,
+        "total_spent": 17878636.0,
+        "cash_on_hand": 6549190.0
+    },
+    {
+        "cmte_id": "C00486845",
+        "name": "LCV VICTORY FUND",
+        "total_receipts": 19436496.0,
+        "indiv_contrib": 19035425.0,
+        "total_spent": 941505.0,
+        "cash_on_hand": 19088440.0
+    },
+    {
+        "cmte_id": "C00859058",
+        "name": "EMMER MAJORITY BUILDERS",
+        "total_receipts": 18023918.0,
+        "indiv_contrib": 16902894.0,
+        "total_spent": 17452323.0,
+        "cash_on_hand": 856483.0
+    },
+    {
+        "cmte_id": "C00895821",
+        "name": "DEFEND OUR MAJORITY",
+        "total_receipts": 17637887.0,
+        "indiv_contrib": 16741106.0,
+        "total_spent": 15162097.0,
+        "cash_on_hand": 2475790.0
+    },
+    {
+        "cmte_id": "C00703975",
+        "name": "FIGHT FOR THE PEOPLE PAC",
+        "total_receipts": 16077473.0,
+        "indiv_contrib": 1652119.0,
+        "total_spent": 17552492.0,
+        "cash_on_hand": 287038.0
+    },
+    {
+        "cmte_id": "C00019331",
+        "name": "DEMOCRATIC PARTY OF WISCONSIN FEDERAL",
+        "total_receipts": 15964565.0,
+        "indiv_contrib": 10679026.0,
+        "total_spent": 16865997.0,
+        "cash_on_hand": 1233291.0
+    },
+    {
+        "cmte_id": "C00762591",
+        "name": "SAVE AMERICA",
+        "total_receipts": 15808522.0,
+        "indiv_contrib": 12775.0,
+        "total_spent": 21080428.0,
+        "cash_on_hand": 1160361.0
+    },
+    {
+        "cmte_id": "C00418897",
+        "name": "VOTEVETS",
+        "total_receipts": 15404426.0,
+        "indiv_contrib": 8494126.0,
+        "total_spent": 17296800.0,
+        "cash_on_hand": 8358377.0
+    },
+    {
+        "cmte_id": "C00854059",
+        "name": "ONE GIANT LEAP PAC",
+        "total_receipts": 15314194.0,
+        "indiv_contrib": 12771419.0,
+        "total_spent": 16989923.0,
+        "cash_on_hand": 10175.0
+    },
+    {
+        "cmte_id": "C00794396",
+        "name": "SCHOOL FREEDOM FUND",
+        "total_receipts": 15074854.0,
+        "indiv_contrib": 15000000.0,
+        "total_spent": 1623632.0,
+        "cash_on_hand": 13579508.0
+    },
+    {
+        "cmte_id": "C00750521",
+        "name": "TEAM SCALISE",
+        "total_receipts": 14924081.0,
+        "indiv_contrib": 14921581.0,
+        "total_spent": 15363088.0,
+        "cash_on_hand": 528718.0
+    },
+    {
+        "cmte_id": "C00573261",
+        "name": "END CITIZENS UNITED",
+        "total_receipts": 14774986.0,
+        "indiv_contrib": 7849314.0,
+        "total_spent": 14992933.0,
+        "cash_on_hand": 324165.0
+    },
+    {
+        "cmte_id": "C00896365",
+        "name": "KEEP AMERICA GREAT PAC, INC.",
+        "total_receipts": 14481815.0,
+        "indiv_contrib": 13540535.0,
+        "total_spent": 14318791.0,
+        "cash_on_hand": 163023.0
+    },
+    {
+        "cmte_id": "C00503789",
+        "name": "DGA ACTION",
+        "total_receipts": 14438550.0,
+        "indiv_contrib": 14413463.0,
+        "total_spent": 14213687.0,
+        "cash_on_hand": 244556.0
+    },
+    {
+        "cmte_id": "C00898130",
+        "name": "FIGHT FOR KENTUCKY",
+        "total_receipts": 14215698.0,
+        "indiv_contrib": 13174961.0,
+        "total_spent": 14097016.0,
+        "cash_on_hand": 118682.0
+    },
+    {
+        "cmte_id": "C00771246",
+        "name": "JOHNSON LEADERSHIP FUND",
+        "total_receipts": 14070351.0,
+        "indiv_contrib": 11365172.0,
+        "total_spent": 12096876.0,
+        "cash_on_hand": 2254202.0
+    },
+    {
+        "cmte_id": "C00770941",
+        "name": "TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE",
+        "total_receipts": 13763698.0,
+        "indiv_contrib": 13760984.0,
+        "total_spent": 16006272.0,
+        "cash_on_hand": 4940810.0
+    },
+    {
+        "cmte_id": "C00603084",
+        "name": "NATIONAL DEMOCRATIC TRAINING COMMITTEE (NDTC)",
+        "total_receipts": 13680645.0,
+        "indiv_contrib": 5945561.0,
+        "total_spent": 12586830.0,
+        "cash_on_hand": 1977701.0
+    },
+    {
+        "cmte_id": "C00744946",
+        "name": "HARRIS VICTORY FUND",
+        "total_receipts": 13494714.0,
+        "indiv_contrib": 12360248.0,
+        "total_spent": 17541603.0,
+        "cash_on_hand": 789875.0
+    },
+    {
+        "cmte_id": "C00654053",
+        "name": "THE PAC FOR AMERICA'S FUTURE",
+        "total_receipts": 13451031.0,
+        "indiv_contrib": 3638815.0,
+        "total_spent": 9228203.0,
+        "cash_on_hand": 7132180.0
+    },
+    {
+        "cmte_id": "C00866947",
+        "name": "CORNYN LONESTAR VICTORY FUND",
+        "total_receipts": 12976648.0,
+        "indiv_contrib": 11552771.0,
+        "total_spent": 10156859.0,
+        "cash_on_hand": 2844097.0
+    },
+    {
+        "cmte_id": "C00030718",
+        "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+        "total_receipts": 12973006.0,
+        "indiv_contrib": 8763770.0,
+        "total_spent": 10915160.0,
+        "cash_on_hand": 20454762.0
+    },
+    {
+        "cmte_id": "C00560904",
+        "name": "RAGA ACTION FUND",
+        "total_receipts": 12750424.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 12747489.0,
+        "cash_on_hand": 2935.0
+    },
+    {
+        "cmte_id": "C00902320",
+        "name": "ILLINOIS FUTURE PAC",
+        "total_receipts": 12723000.0,
+        "indiv_contrib": 12273000.0,
+        "total_spent": 12683694.0,
+        "cash_on_hand": 39306.0
+    },
+    {
+        "cmte_id": "C00837518",
+        "name": "NRSC VICTORY",
+        "total_receipts": 12707089.0,
+        "indiv_contrib": 12645922.0,
+        "total_spent": 11421530.0,
+        "cash_on_hand": 1330054.0
+    },
+    {
+        "cmte_id": "C00894709",
+        "name": "PINE TREE RESULTS PAC",
+        "total_receipts": 12706863.0,
+        "indiv_contrib": 12253007.0,
+        "total_spent": 1127613.0,
+        "cash_on_hand": 11579251.0
+    },
+    {
+        "cmte_id": "C00606962",
+        "name": "WORKING FAMILIES PARTY PAC",
+        "total_receipts": 12586461.0,
+        "indiv_contrib": 1361324.0,
+        "total_spent": 10779292.0,
+        "cash_on_hand": 5566896.0
+    },
+    {
+        "cmte_id": "C00559740",
+        "name": "GOPAC ELECTION FUND",
+        "total_receipts": 11831511.0,
+        "indiv_contrib": 56015.0,
+        "total_spent": 11809988.0,
+        "cash_on_hand": 75249.0
+    },
+    {
+        "cmte_id": "C00002766",
+        "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+        "total_receipts": 11331476.0,
+        "indiv_contrib": 11305153.0,
+        "total_spent": 5677626.0,
+        "cash_on_hand": 10215503.0
+    },
+    {
+        "cmte_id": "C00936724",
+        "name": "ELECT CHICAGO WOMEN AKA ECW",
+        "total_receipts": 11193361.0,
+        "indiv_contrib": 7125000.0,
+        "total_spent": 10831562.0,
+        "cash_on_hand": 361799.0
+    },
+    {
+        "cmte_id": "C00490730",
+        "name": "RGA RIGHT DIRECTION PAC",
+        "total_receipts": 11075698.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 10539812.0,
+        "cash_on_hand": 1117038.0
+    },
+    {
+        "cmte_id": "C00915181",
+        "name": "FELLOWSHIP PAC",
+        "total_receipts": 11000000.0,
+        "indiv_contrib": 11000000.0,
+        "total_spent": 3015495.0,
+        "cash_on_hand": 7984505.0
+    },
+    {
+        "cmte_id": "C00011114",
+        "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+        "total_receipts": 10796276.0,
+        "indiv_contrib": 10123894.0,
+        "total_spent": 6790861.0,
+        "cash_on_hand": 5728563.0
+    },
+    {
+        "cmte_id": "C00728360",
+        "name": "MOVEMENT VOTER PAC",
+        "total_receipts": 10739266.0,
+        "indiv_contrib": 954803.0,
+        "total_spent": 7925208.0,
+        "cash_on_hand": 3407823.0
+    },
+    {
+        "cmte_id": "C00914176",
+        "name": "WHATLEY VICTORY COMMITTEE",
+        "total_receipts": 10655494.0,
+        "indiv_contrib": 9754503.0,
+        "total_spent": 6871246.0,
+        "cash_on_hand": 3784248.0
+    },
+    {
+        "cmte_id": "C00768200",
+        "name": "JEFFRIES VICTORY FUND",
+        "total_receipts": 10575733.0,
+        "indiv_contrib": 10347233.0,
+        "total_spent": 10561272.0,
+        "cash_on_hand": 25014.0
+    },
+    {
+        "cmte_id": "C00923417",
+        "name": "THINK BIG",
+        "total_receipts": 10500852.0,
+        "indiv_contrib": 500000.0,
+        "total_spent": 6658110.0,
+        "cash_on_hand": 3842742.0
+    },
+    {
+        "cmte_id": "C00749671",
+        "name": "CITIZENS FOR FREE ENTERPRISE",
+        "total_receipts": 10426672.0,
+        "indiv_contrib": 8669250.0,
+        "total_spent": 9996914.0,
+        "cash_on_hand": 856176.0
+    },
+    {
+        "cmte_id": "C00490847",
+        "name": "WORKING FOR WORKING AMERICANS - FEDERAL",
+        "total_receipts": 10387607.0,
+        "indiv_contrib": 10387607.0,
+        "total_spent": 2322162.0,
+        "cash_on_hand": 10113363.0
+    },
+    {
+        "cmte_id": "C00916692",
+        "name": "AMERICAN MISSION",
+        "total_receipts": 10252199.0,
+        "indiv_contrib": 250000.0,
+        "total_spent": 3405761.0,
+        "cash_on_hand": 6846439.0
+    },
+    {
+        "cmte_id": "C00836221",
+        "name": "DEFEND AMERICAN JOBS",
+        "total_receipts": 10219837.0,
+        "indiv_contrib": 350000.0,
+        "total_spent": 9371383.0,
+        "cash_on_hand": 2150782.0
+    },
+    {
+        "cmte_id": "C00027342",
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+        "total_receipts": 10151942.0,
+        "indiv_contrib": 8962552.0,
+        "total_spent": 10150513.0,
+        "cash_on_hand": 1024579.0
+    },
+    {
+        "cmte_id": "C00847137",
+        "name": "ENGAGE Y'ALL PAC",
+        "total_receipts": 10149833.0,
+        "indiv_contrib": 10100688.0,
+        "total_spent": 9905356.0,
+        "cash_on_hand": 252722.0
+    },
+    {
+        "cmte_id": "C00843110",
+        "name": "LEADERS WE DESERVE",
+        "total_receipts": 10144647.0,
+        "indiv_contrib": 8383960.0,
+        "total_spent": 9067697.0,
+        "cash_on_hand": 2002855.0
+    },
+    {
+        "cmte_id": "C00032979",
+        "name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+        "total_receipts": 10091465.0,
+        "indiv_contrib": 10040345.0,
+        "total_spent": 5552644.0,
+        "cash_on_hand": 7456982.0
+    },
+    {
+        "cmte_id": "C00025254",
+        "name": "MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY",
+        "total_receipts": 10006771.0,
+        "indiv_contrib": 5287153.0,
+        "total_spent": 9067253.0,
+        "cash_on_hand": 3384469.0
+    },
+    {
+        "cmte_id": "C00021121",
+        "name": "VOICE OF TEACHERS FOR EDUC/CMTE ON POL EDUC OF NY STATE UNTD TEACHERS (VOTE/COPE) OF NYSUT",
+        "total_receipts": 9981616.0,
+        "indiv_contrib": 9464328.0,
+        "total_spent": 6143065.0,
+        "cash_on_hand": 16712702.0
+    },
+    {
+        "cmte_id": "C00099259",
+        "name": "REPUBLICAN PARTY OF FLORIDA",
+        "total_receipts": 9837903.0,
+        "indiv_contrib": 2700180.0,
+        "total_spent": 9875108.0,
+        "cash_on_hand": 2240128.0
+    },
+    {
+        "cmte_id": "C00836346",
+        "name": "CAMPAIGN FOR DEMOCRACY COMMITTEE",
+        "total_receipts": 9834628.0,
+        "indiv_contrib": 9699661.0,
+        "total_spent": 7445766.0,
+        "cash_on_hand": 2610544.0
+    },
+    {
+        "cmte_id": "C00669259",
+        "name": "FF PAC",
+        "total_receipts": 9778796.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 7703948.0,
+        "cash_on_hand": 2077771.0
+    },
+    {
+        "cmte_id": "C00633248",
+        "name": "314 ACTION FUND",
+        "total_receipts": 9588809.0,
+        "indiv_contrib": 5785412.0,
+        "total_spent": 8407698.0,
+        "cash_on_hand": 1944005.0
+    },
+    {
+        "cmte_id": "C00697441",
+        "name": "WIN THE ERA PAC",
+        "total_receipts": 9523254.0,
+        "indiv_contrib": 9394986.0,
+        "total_spent": 5480783.0,
+        "cash_on_hand": 5433784.0
+    },
+    {
+        "cmte_id": "C00906263",
+        "name": "LOUISIANA FREEDOM FUND",
+        "total_receipts": 9430842.0,
+        "indiv_contrib": 5372120.0,
+        "total_spent": 7809302.0,
+        "cash_on_hand": 1621539.0
+    },
+    {
+        "cmte_id": "C00632133",
+        "name": "SWING LEFT",
+        "total_receipts": 9192555.0,
+        "indiv_contrib": 1781553.0,
+        "total_spent": 8662545.0,
+        "cash_on_hand": 3729113.0
+    },
+    {
+        "cmte_id": "C00932418",
+        "name": "TEXANS FOR TRUTH AND LIBERTY PAC",
+        "total_receipts": 9133167.0,
+        "indiv_contrib": 9037304.0,
+        "total_spent": 1556267.0,
+        "cash_on_hand": 7576900.0
+    },
+    {
+        "cmte_id": "C00811166",
+        "name": "THE SENTINEL ACTION FUND",
+        "total_receipts": 9051932.0,
+        "indiv_contrib": 8871163.0,
+        "total_spent": 3446966.0,
+        "cash_on_hand": 7581830.0
+    },
+    {
+        "cmte_id": "C00918268",
+        "name": "LONE STAR RISING PAC",
+        "total_receipts": 8988325.0,
+        "indiv_contrib": 4363325.0,
+        "total_spent": 8748229.0,
+        "cash_on_hand": 240096.0
+    },
+    {
+        "cmte_id": "C00028860",
+        "name": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+        "total_receipts": 8769364.0,
+        "indiv_contrib": 7269364.0,
+        "total_spent": 7151178.0,
+        "cash_on_hand": 3759266.0
+    },
+    {
+        "cmte_id": "C00911321",
+        "name": "MD PAC",
+        "total_receipts": 8759524.0,
+        "indiv_contrib": 59493.0,
+        "total_spent": 2670426.0,
+        "cash_on_hand": 6089098.0
+    },
+    {
+        "cmte_id": "C00147512",
+        "name": "CONGRESSIONAL BLACK CAUCUS PAC",
+        "total_receipts": 8757879.0,
+        "indiv_contrib": 6952732.0,
+        "total_spent": 8809520.0,
+        "cash_on_hand": 702282.0
+    },
+    {
+        "cmte_id": "C00658476",
+        "name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+        "total_receipts": 8757437.0,
+        "indiv_contrib": 6906354.0,
+        "total_spent": 8545052.0,
+        "cash_on_hand": 711013.0
+    },
+    {
+        "cmte_id": "C00348540",
+        "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+        "total_receipts": 8712024.0,
+        "indiv_contrib": 8622396.0,
+        "total_spent": 8851447.0,
+        "cash_on_hand": 2594875.0
+    },
+    {
+        "cmte_id": "C00812495",
+        "name": "STATE + LOCAL ELECTION ALLIANCE",
+        "total_receipts": 8656452.0,
+        "indiv_contrib": 6107240.0,
+        "total_spent": 5591411.0,
+        "cash_on_hand": 3349308.0
+    },
+    {
+        "cmte_id": "C00898924",
+        "name": "STRONGER SAFER NATION",
+        "total_receipts": 8625513.0,
+        "indiv_contrib": 1600088.0,
+        "total_spent": 342451.0,
+        "cash_on_hand": 8283062.0
+    },
+    {
+        "cmte_id": "C00770180",
+        "name": "CORNYN VICTORY COMMITTEE",
+        "total_receipts": 8572255.0,
+        "indiv_contrib": 7145131.0,
+        "total_spent": 8249961.0,
+        "cash_on_hand": 395737.0
+    },
+    {
+        "cmte_id": "C00897918",
+        "name": "ONE TEAM SENATE MAJORITY",
+        "total_receipts": 8568210.0,
+        "indiv_contrib": 8502544.0,
+        "total_spent": 8379863.0,
+        "cash_on_hand": 188347.0
+    },
+    {
+        "cmte_id": "C00484402",
+        "name": "COUNTRY ROADS PAC",
+        "total_receipts": 8492281.0,
+        "indiv_contrib": 11092.0,
+        "total_spent": 82162.0,
+        "cash_on_hand": 9492825.0
+    },
+    {
+        "cmte_id": "C00634774",
+        "name": "COMMON SENSE FOR AMERICA PAC",
+        "total_receipts": 8467077.0,
+        "indiv_contrib": 8011332.0,
+        "total_spent": 7355276.0,
+        "cash_on_hand": 1666387.0
+    },
+    {
+        "cmte_id": "C00002840",
+        "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+        "total_receipts": 8368104.0,
+        "indiv_contrib": 8126076.0,
+        "total_spent": 2015934.0,
+        "cash_on_hand": 17220853.0
+    },
+    {
+        "cmte_id": "C00633404",
+        "name": "STOP REPUBLICANS",
+        "total_receipts": 8355692.0,
+        "indiv_contrib": 8141059.0,
+        "total_spent": 8472313.0,
+        "cash_on_hand": 256944.0
+    },
+    {
+        "cmte_id": "C00012476",
+        "name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+        "total_receipts": 8235320.0,
+        "indiv_contrib": 5382383.0,
+        "total_spent": 1439982.0,
+        "cash_on_hand": 9161475.0
+    },
+    {
+        "cmte_id": "C00901223",
+        "name": "LONE STAR LIBERTY PAC",
+        "total_receipts": 8191736.0,
+        "indiv_contrib": 7176736.0,
+        "total_spent": 6243642.0,
+        "cash_on_hand": 1948094.0
+    },
+    {
+        "cmte_id": "C00550970",
+        "name": "EQUALITY PAC",
+        "total_receipts": 8182693.0,
+        "indiv_contrib": 4467598.0,
+        "total_spent": 6826472.0,
+        "cash_on_hand": 1952281.0
+    },
+    {
+        "cmte_id": "C00750919",
+        "name": "OSSOFF VICTORY FUND",
+        "total_receipts": 7990009.0,
+        "indiv_contrib": 7899459.0,
+        "total_spent": 7461275.0,
+        "cash_on_hand": 629278.0
+    },
+    {
+        "cmte_id": "C00568162",
+        "name": "SCALISE LEADERSHIP FUND",
+        "total_receipts": 7902959.0,
+        "indiv_contrib": 4892509.0,
+        "total_spent": 8048644.0,
+        "cash_on_hand": 514960.0
+    },
+    {
+        "cmte_id": "C00676395",
+        "name": "BLACKBURN TENNESSEE VICTORY FUND",
+        "total_receipts": 7902668.0,
+        "indiv_contrib": 7858668.0,
+        "total_spent": 7843622.0,
+        "cash_on_hand": 291605.0
+    },
+    {
+        "cmte_id": "C00725820",
+        "name": "THE LINCOLN PROJECT",
+        "total_receipts": 7852237.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 7800835.0,
+        "cash_on_hand": 261269.0
+    },
+    {
+        "cmte_id": "C00677773",
+        "name": "UNITE AMERICA PAC INC.",
+        "total_receipts": 7815076.0,
+        "indiv_contrib": 147109.0,
+        "total_spent": 3287503.0,
+        "cash_on_hand": 5554346.0
+    },
+    {
+        "cmte_id": "C00365536",
+        "name": "CHC BOLD PAC",
+        "total_receipts": 7789005.0,
+        "indiv_contrib": 5485466.0,
+        "total_spent": 5852658.0,
+        "cash_on_hand": 3755046.0
+    },
+    {
+        "cmte_id": "C00657866",
+        "name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+        "total_receipts": 7739389.0,
+        "indiv_contrib": 7685889.0,
+        "total_spent": 3908172.0,
+        "cash_on_hand": 4281631.0
+    },
+    {
+        "cmte_id": "C00844613",
+        "name": "WIN IT BACK PAC",
+        "total_receipts": 7730110.0,
+        "indiv_contrib": 4765000.0,
+        "total_spent": 5476715.0,
+        "cash_on_hand": 2410934.0
+    },
+    {
+        "cmte_id": "C00155952",
+        "name": "DEMOCRATIC PARTY OF VIRGINIA",
+        "total_receipts": 7722768.0,
+        "indiv_contrib": 803173.0,
+        "total_spent": 6171818.0,
+        "cash_on_hand": 1799631.0
+    },
+    {
+        "cmte_id": "C00926204",
+        "name": "AMERICAN FUTURE",
+        "total_receipts": 7700000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 4388242.0,
+        "cash_on_hand": 3311758.0
+    },
+    {
+        "cmte_id": "C00915595",
+        "name": "GOVERNMENT THAT WORKS PAC",
+        "total_receipts": 7533455.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 5566201.0,
+        "cash_on_hand": 1967254.0
+    },
+    {
+        "cmte_id": "C00808998",
+        "name": "DEMOCRACYFIRST PAC",
+        "total_receipts": 7343016.0,
+        "indiv_contrib": 6500240.0,
+        "total_spent": 7217766.0,
+        "cash_on_hand": 139181.0
+    },
+    {
+        "cmte_id": "C00896928",
+        "name": "TEAM HUSTED",
+        "total_receipts": 7257757.0,
+        "indiv_contrib": 7120655.0,
+        "total_spent": 7256154.0,
+        "cash_on_hand": 1603.0
+    },
+    {
+        "cmte_id": "C00489815",
+        "name": "NEA ADVOCACY FUND",
+        "total_receipts": 7053546.0,
+        "indiv_contrib": 7053546.0,
+        "total_spent": 3156364.0,
+        "cash_on_hand": 4031114.0
+    },
+    {
+        "cmte_id": "C00688655",
+        "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+        "total_receipts": 6942375.0,
+        "indiv_contrib": 6781106.0,
+        "total_spent": 3352497.0,
+        "cash_on_hand": 7209721.0
+    },
+    {
+        "cmte_id": "C00843433",
+        "name": "AMERICAN RIGHTS AND REFORM PAC, INC.",
+        "total_receipts": 6788492.0,
+        "indiv_contrib": 6788492.0,
+        "total_spent": 5927805.0,
+        "cash_on_hand": 1115658.0
+    },
+    {
+        "cmte_id": "C00835967",
+        "name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+        "total_receipts": 6763430.0,
+        "indiv_contrib": 2222016.0,
+        "total_spent": 5006470.0,
+        "cash_on_hand": 2749651.0
+    },
+    {
+        "cmte_id": "C00678839",
+        "name": "INDIVISIBLE ACTION",
+        "total_receipts": 6719839.0,
+        "indiv_contrib": 91193.0,
+        "total_spent": 4304305.0,
+        "cash_on_hand": 3976401.0
+    },
+    {
+        "cmte_id": "C00941567",
+        "name": "HOUSE VICTORY PROJECT 2026",
+        "total_receipts": 6710733.0,
+        "indiv_contrib": 6710733.0,
+        "total_spent": 6709688.0,
+        "cash_on_hand": 1045.0
+    },
+    {
+        "cmte_id": "C00105668",
+        "name": "CALIFORNIA DEMOCRATIC PARTY",
+        "total_receipts": 6702107.0,
+        "indiv_contrib": 2096189.0,
+        "total_spent": 5473646.0,
+        "cash_on_hand": 3868259.0
+    },
+    {
+        "cmte_id": "C00893537",
+        "name": "FIRST PRINCIPLES PAC",
+        "total_receipts": 6692520.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 3821548.0,
+        "cash_on_hand": 2870973.0
+    },
+    {
+        "cmte_id": "C00853861",
+        "name": "GLCF, INC.",
+        "total_receipts": 6684416.0,
+        "indiv_contrib": 6414000.0,
+        "total_spent": 560961.0,
+        "cash_on_hand": 6254986.0
+    },
+    {
+        "cmte_id": "C00031054",
+        "name": "MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE",
+        "total_receipts": 6600974.0,
+        "indiv_contrib": 1943425.0,
+        "total_spent": 6075430.0,
+        "cash_on_hand": 653351.0
+    },
+    {
+        "cmte_id": "C00528554",
+        "name": "RJC VICTORY FUND",
+        "total_receipts": 6600220.0,
+        "indiv_contrib": 6225220.0,
+        "total_spent": 4689020.0,
+        "cash_on_hand": 2262056.0
+    },
+    {
+        "cmte_id": "C00884288",
+        "name": "UNITED BROTHERHOOD OF CARPENTERS & JOINERS OF AMERICA EASTERN ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS FEDERAL LEGISLATIVE IMPROVEMENT COMMITTEE",
+        "total_receipts": 6575041.0,
+        "indiv_contrib": 6541753.0,
+        "total_spent": 6655104.0,
+        "cash_on_hand": 1325357.0
+    },
+    {
+        "cmte_id": "C00835041",
+        "name": "FORWARD BLUE",
+        "total_receipts": 6422782.0,
+        "indiv_contrib": 5944577.0,
+        "total_spent": 4511759.0,
+        "cash_on_hand": 5823775.0
+    },
+    {
+        "cmte_id": "C00754598",
+        "name": "TORRES VICTORY FUND",
+        "total_receipts": 6400520.0,
+        "indiv_contrib": 6321874.0,
+        "total_spent": 6508837.0,
+        "cash_on_hand": -58787.0
+    },
+    {
+        "cmte_id": "C00580100",
+        "name": "MAKE AMERICA GREAT AGAIN PAC",
+        "total_receipts": 6397270.0,
+        "indiv_contrib": 270.0,
+        "total_spent": 6389526.0,
+        "cash_on_hand": 28087.0
+    },
+    {
+        "cmte_id": "C00570226",
+        "name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+        "total_receipts": 6334962.0,
+        "indiv_contrib": 6221864.0,
+        "total_spent": 6279031.0,
+        "cash_on_hand": 131778.0
+    },
+    {
+        "cmte_id": "C00041269",
+        "name": "GEORGIA FEDERAL ELECTIONS COMMITTEE",
+        "total_receipts": 6299674.0,
+        "indiv_contrib": 2420675.0,
+        "total_spent": 6003951.0,
+        "cash_on_hand": 1774379.0
+    },
+    {
+        "cmte_id": "C00140590",
+        "name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+        "total_receipts": 6256670.0,
+        "indiv_contrib": 3636536.0,
+        "total_spent": 6113136.0,
+        "cash_on_hand": 1072657.0
+    },
+    {
+        "cmte_id": "C00104471",
+        "name": "NEW JERSEY DEMOCRATIC STATE COMMITTEE",
+        "total_receipts": 6250663.0,
+        "indiv_contrib": 474897.0,
+        "total_spent": 5188641.0,
+        "cash_on_hand": 1118404.0
+    },
+    {
+        "cmte_id": "C00271338",
+        "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+        "total_receipts": 6210923.0,
+        "indiv_contrib": 4504792.0,
+        "total_spent": 4564329.0,
+        "cash_on_hand": 4302463.0
+    },
+    {
+        "cmte_id": "C00734319",
+        "name": "BOOKER VICTORY FUND",
+        "total_receipts": 6049203.0,
+        "indiv_contrib": 5978321.0,
+        "total_spent": 6063346.0,
+        "cash_on_hand": 115896.0
+    },
+    {
+        "cmte_id": "C00143230",
+        "name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+        "total_receipts": 6048463.0,
+        "indiv_contrib": 85542.0,
+        "total_spent": 2777317.0,
+        "cash_on_hand": 4584465.0
+    },
+    {
+        "cmte_id": "C00916296",
+        "name": "OHIO GRASSROOTS VICTORY FUND",
+        "total_receipts": 6008287.0,
+        "indiv_contrib": 5918737.0,
+        "total_spent": 5148142.0,
+        "cash_on_hand": 860145.0
+    },
+    {
+        "cmte_id": "C00540443",
+        "name": "GIFFORDS PAC",
+        "total_receipts": 5952311.0,
+        "indiv_contrib": 1216922.0,
+        "total_spent": 3627462.0,
+        "cash_on_hand": 2662670.0
+    },
+    {
+        "cmte_id": "C00638320",
+        "name": "DAGA PAC",
+        "total_receipts": 5918758.0,
+        "indiv_contrib": 721765.0,
+        "total_spent": 5817831.0,
+        "cash_on_hand": 191886.0
+    },
+    {
+        "cmte_id": "C00867010",
+        "name": "TEAM MORENO",
+        "total_receipts": 5901152.0,
+        "indiv_contrib": 5717762.0,
+        "total_spent": 5963194.0,
+        "cash_on_hand": 427718.0
+    },
+    {
+        "cmte_id": "C00007922",
+        "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "total_receipts": 5875277.0,
+        "indiv_contrib": 4373610.0,
+        "total_spent": 2871858.0,
+        "cash_on_hand": 4484012.0
+    },
+    {
+        "cmte_id": "C00845271",
+        "name": "THE BENCH",
+        "total_receipts": 5748377.0,
+        "indiv_contrib": 69482.0,
+        "total_spent": 4271503.0,
+        "cash_on_hand": 1486024.0
+    },
+    {
+        "cmte_id": "C00779595",
+        "name": "RSLC PAC",
+        "total_receipts": 5655000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 5690111.0,
+        "cash_on_hand": 45434.0
+    },
+    {
+        "cmte_id": "C00764860",
+        "name": "THE 1776 PROJECT PAC",
+        "total_receipts": 5575513.0,
+        "indiv_contrib": 50387.0,
+        "total_spent": 4873014.0,
+        "cash_on_hand": 1694508.0
+    },
+    {
+        "cmte_id": "C00631549",
+        "name": "FORWARD MAJORITY ACTION",
+        "total_receipts": 5572682.0,
+        "indiv_contrib": 3998732.0,
+        "total_spent": 6279785.0,
+        "cash_on_hand": 1302249.0
+    },
+    {
+        "cmte_id": "C00685719",
+        "name": "DLGA",
+        "total_receipts": 5475795.0,
+        "indiv_contrib": 102723.0,
+        "total_spent": 5392264.0,
+        "cash_on_hand": 1150628.0
+    },
+    {
+        "cmte_id": "C00829721",
+        "name": "EARLY VOTE ACTION PAC",
+        "total_receipts": 5465627.0,
+        "indiv_contrib": 5450127.0,
+        "total_spent": 5341014.0,
+        "cash_on_hand": 688524.0
+    },
+    {
+        "cmte_id": "C00896332",
+        "name": "ASHLEY MOODY VICTORY FUND",
+        "total_receipts": 5441418.0,
+        "indiv_contrib": 5303918.0,
+        "total_spent": 5319970.0,
+        "cash_on_hand": 121448.0
+    },
+    {
+        "cmte_id": "C00859660",
+        "name": "NEW DEMOCRAT MAJORITY",
+        "total_receipts": 5425034.0,
+        "indiv_contrib": 5425034.0,
+        "total_spent": 4250442.0,
+        "cash_on_hand": 1247387.0
+    },
+    {
+        "cmte_id": "C00016899",
+        "name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+        "total_receipts": 5395281.0,
+        "indiv_contrib": 1327120.0,
+        "total_spent": 5179963.0,
+        "cash_on_hand": 2052515.0
+    },
+    {
+        "cmte_id": "C00731042",
+        "name": "POWERED BY PEOPLE",
+        "total_receipts": 5343429.0,
+        "indiv_contrib": 4948784.0,
+        "total_spent": 8256788.0,
+        "cash_on_hand": 645927.0
+    },
+    {
+        "cmte_id": "C00928390",
+        "name": "DEFENDING OUR VALUES PAC",
+        "total_receipts": 5327484.0,
+        "indiv_contrib": 161000.0,
+        "total_spent": 1586060.0,
+        "cash_on_hand": 3741424.0
+    },
+    {
+        "cmte_id": "C00023580",
+        "name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+        "total_receipts": 5313498.0,
+        "indiv_contrib": 5285998.0,
+        "total_spent": 4332908.0,
+        "cash_on_hand": 1471561.0
+    },
+    {
+        "cmte_id": "C00741769",
+        "name": "STRATEGIC VICTORY FUND IE PAC",
+        "total_receipts": 5305001.0,
+        "indiv_contrib": 5000.0,
+        "total_spent": 24086.0,
+        "cash_on_hand": 5315338.0
+    },
+    {
+        "cmte_id": "C00895219",
+        "name": "MARK WARNER VICTORY FUND",
+        "total_receipts": 5273542.0,
+        "indiv_contrib": 4986292.0,
+        "total_spent": 5098799.0,
+        "cash_on_hand": 174743.0
+    },
+    {
+        "cmte_id": "C00846683",
+        "name": "AFC VICTORY FUND",
+        "total_receipts": 5222146.0,
+        "indiv_contrib": 4620615.0,
+        "total_spent": 1570898.0,
+        "cash_on_hand": 3671284.0
+    },
+    {
+        "cmte_id": "C00255695",
+        "name": "LIBERTARIAN NATIONAL COMMITTEE, INC.",
+        "total_receipts": 5117859.0,
+        "indiv_contrib": 1053762.0,
+        "total_spent": 4530955.0,
+        "cash_on_hand": 889025.0
+    },
+    {
+        "cmte_id": "C00685297",
+        "name": "ELECT DEMOCRATIC WOMEN",
+        "total_receipts": 5104620.0,
+        "indiv_contrib": 3929255.0,
+        "total_spent": 3270983.0,
+        "cash_on_hand": 2700853.0
+    },
+    {
+        "cmte_id": "C00847673",
+        "name": "STOP THESE OPPRESSIVE PEOPLE: TYRANTS RACISTS UNQUALIFIEDS MISOGYNISTS PROPAGANDISTS (STOP TRUMP)",
+        "total_receipts": 5096556.0,
+        "indiv_contrib": 4908832.0,
+        "total_spent": 5436708.0,
+        "cash_on_hand": 259949.0
+    },
+    {
+        "cmte_id": "C00757419",
+        "name": "SD PAC",
+        "total_receipts": 5087169.0,
+        "indiv_contrib": 4405092.0,
+        "total_spent": 4863398.0,
+        "cash_on_hand": 523733.0
+    },
+    {
+        "cmte_id": "C00573733",
+        "name": "SECURITY IS STRENGTH PAC",
+        "total_receipts": 5055248.0,
+        "indiv_contrib": 4922000.0,
+        "total_spent": 2000387.0,
+        "cash_on_hand": 3785387.0
+    },
+    {
+        "cmte_id": "C00836403",
+        "name": "TEAM EMMER",
+        "total_receipts": 5034752.0,
+        "indiv_contrib": 5023749.0,
+        "total_spent": 5421574.0,
+        "cash_on_hand": 341686.0
+    },
+    {
+        "cmte_id": "C00932707",
+        "name": "CONSERVATIVE TEXANS PAC",
+        "total_receipts": 5030000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 5030000.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00544387",
+        "name": "AMERICAN PRINCIPLES PROJECT PAC",
+        "total_receipts": 5023997.0,
+        "indiv_contrib": 859035.0,
+        "total_spent": 4572710.0,
+        "cash_on_hand": 511499.0
+    },
+    {
+        "cmte_id": "C00659599",
+        "name": "PROGRESSIVE TAKEOVER",
+        "total_receipts": 5020200.0,
+        "indiv_contrib": 4939116.0,
+        "total_spent": 5091254.0,
+        "cash_on_hand": 186878.0
+    },
+    {
+        "cmte_id": "C00936591",
+        "name": "STAND FOR NEW YORK PAC",
+        "total_receipts": 5000000.0,
+        "indiv_contrib": 5000000.0,
+        "total_spent": 3033132.0,
+        "cash_on_hand": 1966868.0
+    },
+    {
+        "cmte_id": "C00731133",
+        "name": "MAKE LIBERTY WIN",
+        "total_receipts": 4935750.0,
+        "indiv_contrib": 13540.0,
+        "total_spent": 2192013.0,
+        "cash_on_hand": 2771947.0
+    },
+    {
+        "cmte_id": "C00690891",
+        "name": "GRAHAM MAJORITY FUND",
+        "total_receipts": 4919092.0,
+        "indiv_contrib": 4682075.0,
+        "total_spent": 4820039.0,
+        "cash_on_hand": 175558.0
+    },
+    {
+        "cmte_id": "C00024521",
+        "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+        "total_receipts": 4887153.0,
+        "indiv_contrib": 4879653.0,
+        "total_spent": 3701390.0,
+        "cash_on_hand": 1431827.0
+    },
+    {
+        "cmte_id": "C00165688",
+        "name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+        "total_receipts": 4871959.0,
+        "indiv_contrib": 2154944.0,
+        "total_spent": 5065820.0,
+        "cash_on_hand": 353397.0
+    },
+    {
+        "cmte_id": "C00096156",
+        "name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+        "total_receipts": 4867017.0,
+        "indiv_contrib": 4858126.0,
+        "total_spent": 4545325.0,
+        "cash_on_hand": 638925.0
+    },
+    {
+        "cmte_id": "C00908723",
+        "name": "MAGA KY",
+        "total_receipts": 4834000.0,
+        "indiv_contrib": 1464000.0,
+        "total_spent": 4776442.0,
+        "cash_on_hand": 57558.0
+    },
+    {
+        "cmte_id": "C00806893",
+        "name": "JANE FONDA CLIMATE PAC",
+        "total_receipts": 4793967.0,
+        "indiv_contrib": 2004595.0,
+        "total_spent": 3011560.0,
+        "cash_on_hand": 4271989.0
+    },
+    {
+        "cmte_id": "C00005561",
+        "name": "DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA",
+        "total_receipts": 4723894.0,
+        "indiv_contrib": 1949235.0,
+        "total_spent": 4471581.0,
+        "cash_on_hand": 518234.0
+    },
+    {
+        "cmte_id": "C00238725",
+        "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+        "total_receipts": 4588503.0,
+        "indiv_contrib": 4579203.0,
+        "total_spent": 3217004.0,
+        "cash_on_hand": 2347558.0
+    },
+    {
+        "cmte_id": "C00848440",
+        "name": "PROTECT PROGRESS",
+        "total_receipts": 4555044.0,
+        "indiv_contrib": 350000.0,
+        "total_spent": 4037569.0,
+        "cash_on_hand": 2414332.0
+    },
+    {
+        "cmte_id": "C00928374",
+        "name": "JOBS AND DEMOCRACY PAC",
+        "total_receipts": 4544408.0,
+        "indiv_contrib": 175000.0,
+        "total_spent": 3538637.0,
+        "cash_on_hand": 1005771.0
+    },
+    {
+        "cmte_id": "C00513176",
+        "name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+        "total_receipts": 4504979.0,
+        "indiv_contrib": 3894371.0,
+        "total_spent": 3913409.0,
+        "cash_on_hand": 1693937.0
+    },
+    {
+        "cmte_id": "C00935049",
+        "name": "AFFORDABLE CHICAGO NOW! (ACN)",
+        "total_receipts": 4473038.0,
+        "indiv_contrib": 3153000.0,
+        "total_spent": 4382428.0,
+        "cash_on_hand": 90610.0
+    },
+    {
+        "cmte_id": "C00002089",
+        "name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+        "total_receipts": 4466963.0,
+        "indiv_contrib": 4465463.0,
+        "total_spent": 2539970.0,
+        "cash_on_hand": 4096730.0
+    },
+    {
+        "cmte_id": "C00778159",
+        "name": "COMMANDER ZINKE LEADERSHIP FUND",
+        "total_receipts": 4454551.0,
+        "indiv_contrib": 3094247.0,
+        "total_spent": 3146077.0,
+        "cash_on_hand": 1989005.0
+    },
+    {
+        "cmte_id": "C00214643",
+        "name": "NJ STATE LABORERS PAC/ LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "total_receipts": 4420661.0,
+        "indiv_contrib": 4420661.0,
+        "total_spent": 4427238.0,
+        "cash_on_hand": 2253495.0
+    },
+    {
+        "cmte_id": "C00489799",
+        "name": "PLANNED PARENTHOOD VOTES",
+        "total_receipts": 4416931.0,
+        "indiv_contrib": 4263415.0,
+        "total_spent": 2046828.0,
+        "cash_on_hand": 3389105.0
+    },
+    {
+        "cmte_id": "C00745786",
+        "name": "DSI",
+        "total_receipts": 4374364.0,
+        "indiv_contrib": 4374364.0,
+        "total_spent": 5825844.0,
+        "cash_on_hand": 187189.0
+    },
+    {
+        "cmte_id": "C00832949",
+        "name": "PETE RICKETTS VICTORY FUND",
+        "total_receipts": 4363589.0,
+        "indiv_contrib": 4244739.0,
+        "total_spent": 4311242.0,
+        "cash_on_hand": 115981.0
+    },
+    {
+        "cmte_id": "C00552851",
+        "name": "FREEDOM CAUCUS FUND",
+        "total_receipts": 4336842.0,
+        "indiv_contrib": 2337194.0,
+        "total_spent": 4341577.0,
+        "cash_on_hand": 679086.0
+    },
+    {
+        "cmte_id": "C00894295",
+        "name": "DEM TURNOUT 2026",
+        "total_receipts": 4335083.0,
+        "indiv_contrib": 4210563.0,
+        "total_spent": 4178660.0,
+        "cash_on_hand": 156423.0
+    },
+    {
+        "cmte_id": "C00805283",
+        "name": "FAIR COURTS AMERICA",
+        "total_receipts": 4330742.0,
+        "indiv_contrib": 4226249.0,
+        "total_spent": 4866831.0,
+        "cash_on_hand": 6848.0
+    },
+    {
+        "cmte_id": "C00029447",
+        "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+        "total_receipts": 4321032.0,
+        "indiv_contrib": 4318532.0,
+        "total_spent": 2470735.0,
+        "cash_on_hand": 4262378.0
+    },
+    {
+        "cmte_id": "C00836320",
+        "name": "CAMPAIGN FOR DEMOCRACY PAC",
+        "total_receipts": 4318293.0,
+        "indiv_contrib": 183366.0,
+        "total_spent": 3036275.0,
+        "cash_on_hand": 7424130.0
+    },
+    {
+        "cmte_id": "C00355289",
+        "name": "LOCAL 32BJ SERVICE EMPLOYEES INTERNATIONAL UNION AMERICAN DREAM POLITICAL ACTION FUND",
+        "total_receipts": 4312352.0,
+        "indiv_contrib": 4309876.0,
+        "total_spent": 2174246.0,
+        "cash_on_hand": 6048967.0
+    },
+    {
+        "cmte_id": "C00824292",
+        "name": "AMERICAN LEADERSHIP PAC",
+        "total_receipts": 4300000.0,
+        "indiv_contrib": 2500000.0,
+        "total_spent": 3806396.0,
+        "cash_on_hand": 613440.0
+    },
+    {
+        "cmte_id": "C00620971",
+        "name": "FOR OUR FUTURE",
+        "total_receipts": 4282421.0,
+        "indiv_contrib": 2710150.0,
+        "total_spent": 4049593.0,
+        "cash_on_hand": 254282.0
+    },
+    {
+        "cmte_id": "C00441949",
+        "name": "JSTREETPAC",
+        "total_receipts": 4266321.0,
+        "indiv_contrib": 4262321.0,
+        "total_spent": 4271371.0,
+        "cash_on_hand": 138628.0
+    },
+    {
+        "cmte_id": "C00639229",
+        "name": "AMERICAN REVIVAL PAC",
+        "total_receipts": 4260117.0,
+        "indiv_contrib": 133250.0,
+        "total_spent": 3519475.0,
+        "cash_on_hand": 1854051.0
+    },
+    {
+        "cmte_id": "C00830679",
+        "name": "TEAM ELISE",
+        "total_receipts": 4222438.0,
+        "indiv_contrib": 4193773.0,
+        "total_spent": 4219183.0,
+        "cash_on_hand": 5000.0
+    },
+    {
+        "cmte_id": "C00484253",
+        "name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION WORKING FAMILIES ADVOCACY PROJECT",
+        "total_receipts": 4217888.0,
+        "indiv_contrib": 4192888.0,
+        "total_spent": 3640000.0,
+        "cash_on_hand": 599827.0
+    },
+    {
+        "cmte_id": "C00814152",
+        "name": "TURNING POINT PAC INC.",
+        "total_receipts": 4217313.0,
+        "indiv_contrib": 2801891.0,
+        "total_spent": 3263036.0,
+        "cash_on_hand": 1203582.0
+    },
+    {
+        "cmte_id": "C00779223",
+        "name": "JOSH HAWLEY VICTORY COMMITTEE",
+        "total_receipts": 4189893.0,
+        "indiv_contrib": 4065253.0,
+        "total_spent": 4129910.0,
+        "cash_on_hand": 125891.0
+    },
+    {
+        "cmte_id": "C00055582",
+        "name": "NY REPUBLICAN FEDERAL CAMPAIGN COMMITTEE",
+        "total_receipts": 4186438.0,
+        "indiv_contrib": 1244095.0,
+        "total_spent": 4236207.0,
+        "cash_on_hand": 1437329.0
+    },
+    {
+        "cmte_id": "C00835587",
+        "name": "VOTE SAVE AMERICA",
+        "total_receipts": 4164123.0,
+        "indiv_contrib": 2993420.0,
+        "total_spent": 4438457.0,
+        "cash_on_hand": 183674.0
+    },
+    {
+        "cmte_id": "C00035451",
+        "name": "AIR LINE PILOTS ASSOCIATION PAC",
+        "total_receipts": 4132694.0,
+        "indiv_contrib": 4107789.0,
+        "total_spent": 4089977.0,
+        "cash_on_hand": 855570.0
+    },
+    {
+        "cmte_id": "C00692897",
+        "name": "COLLINS VICTORY COMMITTEE",
+        "total_receipts": 4080280.0,
+        "indiv_contrib": 2913780.0,
+        "total_spent": 4057973.0,
+        "cash_on_hand": 30379.0
+    },
+    {
+        "cmte_id": "C00099267",
+        "name": "TEXAS DEMOCRATIC PARTY",
+        "total_receipts": 4047730.0,
+        "indiv_contrib": 2038995.0,
+        "total_spent": 3992876.0,
+        "cash_on_hand": 154177.0
+    },
+    {
+        "cmte_id": "C00685552",
+        "name": "MEDICARE FOR ALL",
+        "total_receipts": 4037402.0,
+        "indiv_contrib": 4034607.0,
+        "total_spent": 3521990.0,
+        "cash_on_hand": 3003512.0
+    },
+    {
+        "cmte_id": "C00608943",
+        "name": "CLEARPATH ACTION FUND, INC.",
+        "total_receipts": 4000000.0,
+        "indiv_contrib": 4000000.0,
+        "total_spent": 1846341.0,
+        "cash_on_hand": 2261470.0
+    },
+    {
+        "cmte_id": "C00167015",
+        "name": "DEMOCRATIC PARTY OF ILLINOIS",
+        "total_receipts": 3925443.0,
+        "indiv_contrib": 399367.0,
+        "total_spent": 3916141.0,
+        "cash_on_hand": 234607.0
+    },
+    {
+        "cmte_id": "C00774703",
+        "name": "COTTON MAJORITY COMMITTEE",
+        "total_receipts": 3900193.0,
+        "indiv_contrib": 3746193.0,
+        "total_spent": 3747026.0,
+        "cash_on_hand": 194904.0
+    },
+    {
+        "cmte_id": "C00040998",
+        "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 3892962.0,
+        "indiv_contrib": 3602865.0,
+        "total_spent": 3557066.0,
+        "cash_on_hand": 6526968.0
+    },
+    {
+        "cmte_id": "C00932723",
+        "name": "AMERICAN PRIORITIES (AP)",
+        "total_receipts": 3850000.0,
+        "indiv_contrib": 3800000.0,
+        "total_spent": 1275596.0,
+        "cash_on_hand": 2574404.0
+    },
+    {
+        "cmte_id": "C00710848",
+        "name": "DMFI PAC",
+        "total_receipts": 3820323.0,
+        "indiv_contrib": 146770.0,
+        "total_spent": 1260019.0,
+        "cash_on_hand": 3360385.0
+    },
+    {
+        "cmte_id": "C00897173",
+        "name": "DEMOCRATS 2026",
+        "total_receipts": 3808430.0,
+        "indiv_contrib": 3808430.0,
+        "total_spent": 2352690.0,
+        "cash_on_hand": 1455739.0
+    },
+    {
+        "cmte_id": "C00573444",
+        "name": "EMMER VICTORY COMMITTEE DBA REPUBLICAN CONGRESSIONAL VICTORY COMMITTEE",
+        "total_receipts": 3772375.0,
+        "indiv_contrib": 3650786.0,
+        "total_spent": 4142846.0,
+        "cash_on_hand": 43325.0
+    },
+    {
+        "cmte_id": "C00753913",
+        "name": "PFLUGER VICTORY COMMITTEE",
+        "total_receipts": 3722201.0,
+        "indiv_contrib": 2859980.0,
+        "total_spent": 3613140.0,
+        "cash_on_hand": 173789.0
+    },
+    {
+        "cmte_id": "C00789933",
+        "name": "CITIZENS ALLIANCE POLITICAL ACTION COMMITTEE INC.",
+        "total_receipts": 3696677.0,
+        "indiv_contrib": 3669177.0,
+        "total_spent": 2014042.0,
+        "cash_on_hand": 1903907.0
+    },
+    {
+        "cmte_id": "C00448696",
+        "name": "SENATE CONSERVATIVES FUND",
+        "total_receipts": 3691596.0,
+        "indiv_contrib": 3645046.0,
+        "total_spent": 4523302.0,
+        "cash_on_hand": 917204.0
+    },
+    {
+        "cmte_id": "C00771543",
+        "name": "CASSIDY LEADERSHIP FUND",
+        "total_receipts": 3674557.0,
+        "indiv_contrib": 3321182.0,
+        "total_spent": 3669353.0,
+        "cash_on_hand": 52968.0
+    },
+    {
+        "cmte_id": "C00696484",
+        "name": "YOUNG VICTORY COMMITTEE",
+        "total_receipts": 3622784.0,
+        "indiv_contrib": 3572472.0,
+        "total_spent": 3483998.0,
+        "cash_on_hand": 157434.0
+    },
+    {
+        "cmte_id": "C00883751",
+        "name": "KENNEDY VICTORY FUND 2024",
+        "total_receipts": 3613576.0,
+        "indiv_contrib": 3613576.0,
+        "total_spent": 3736156.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00483883",
+        "name": "RETIRED AMERICANS PAC",
+        "total_receipts": 3612172.0,
+        "indiv_contrib": 3469619.0,
+        "total_spent": 3248595.0,
+        "cash_on_hand": 1693725.0
+    },
+    {
+        "cmte_id": "C00916429",
+        "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+        "total_receipts": 3601106.0,
+        "indiv_contrib": 3476106.0,
+        "total_spent": 3338627.0,
+        "cash_on_hand": 262480.0
+    },
+    {
+        "cmte_id": "C00788448",
+        "name": "TEAM HAGERTY VICTORY",
+        "total_receipts": 3590135.0,
+        "indiv_contrib": 3444635.0,
+        "total_spent": 3555185.0,
+        "cash_on_hand": 50696.0
+    },
+    {
+        "cmte_id": "C00167130",
+        "name": "PENNSYLVANIA DEMOCRATIC PARTY",
+        "total_receipts": 3578716.0,
+        "indiv_contrib": 424185.0,
+        "total_spent": 3367789.0,
+        "cash_on_hand": 471144.0
+    },
+    {
+        "cmte_id": "C00813089",
+        "name": "FIGHT TO WIN AMERICA, INC.",
+        "total_receipts": 3547000.0,
+        "indiv_contrib": 2772000.0,
+        "total_spent": 3391341.0,
+        "cash_on_hand": 171766.0
+    },
+    {
+        "cmte_id": "C00253294",
+        "name": "LABORERS' DISTRICT COUNCIL OF THE METRO AREA OF PHILADELPHIA AND VICINITY PAC",
+        "total_receipts": 3515625.0,
+        "indiv_contrib": 3514215.0,
+        "total_spent": 2902179.0,
+        "cash_on_hand": 989122.0
+    },
+    {
+        "cmte_id": "C00632398",
+        "name": "LET AMERICA VOTE PAC",
+        "total_receipts": 3509550.0,
+        "indiv_contrib": 3509550.0,
+        "total_spent": 4127830.0,
+        "cash_on_hand": 115465.0
+    },
+    {
+        "cmte_id": "C00946830",
+        "name": "YOU CAN PUSH BACK",
+        "total_receipts": 3500000.0,
+        "indiv_contrib": 3500000.0,
+        "total_spent": 2063530.0,
+        "cash_on_hand": 1436470.0
+    },
+    {
+        "cmte_id": "C00409730",
+        "name": "NEW DEMOCRAT COALITION ACTION FUND",
+        "total_receipts": 3481877.0,
+        "indiv_contrib": 700625.0,
+        "total_spent": 2383666.0,
+        "cash_on_hand": 1336967.0
+    },
+    {
+        "cmte_id": "C00693515",
+        "name": "FAIR FIGHT",
+        "total_receipts": 3480571.0,
+        "indiv_contrib": 819412.0,
+        "total_spent": 5102498.0,
+        "cash_on_hand": 468104.0
+    },
+    {
+        "cmte_id": "C99002396",
+        "name": "AMERICAN POLITICAL ACTION COMMITTEE",
+        "total_receipts": 3440173.0,
+        "indiv_contrib": 3440160.0,
+        "total_spent": 2184255.0,
+        "cash_on_hand": 2877674.0
+    },
+    {
+        "cmte_id": "C00114439",
+        "name": "WASHINGTON STATE DEMOCRATIC CENTRAL COMMITTEE",
+        "total_receipts": 3406084.0,
+        "indiv_contrib": 872917.0,
+        "total_spent": 3444438.0,
+        "cash_on_hand": 358840.0
+    },
+    {
+        "cmte_id": "C00029504",
+        "name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+        "total_receipts": 3390315.0,
+        "indiv_contrib": 1624024.0,
+        "total_spent": 2763964.0,
+        "cash_on_hand": 1940440.0
+    },
+    {
+        "cmte_id": "C00796045",
+        "name": "TRUTH AND COURAGE PAC",
+        "total_receipts": 3377345.0,
+        "indiv_contrib": 2734427.0,
+        "total_spent": 1482783.0,
+        "cash_on_hand": 2587045.0
+    },
+    {
+        "cmte_id": "C00053553",
+        "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+        "total_receipts": 3369131.0,
+        "indiv_contrib": 3267211.0,
+        "total_spent": 2440136.0,
+        "cash_on_hand": 2627208.0
+    },
+    {
+        "cmte_id": "C00007880",
+        "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+        "total_receipts": 3322180.0,
+        "indiv_contrib": 2594298.0,
+        "total_spent": 2207790.0,
+        "cash_on_hand": 1933025.0
+    },
+    {
+        "cmte_id": "C00707844",
+        "name": "EDF ACTION VOTES",
+        "total_receipts": 3315695.0,
+        "indiv_contrib": 3270965.0,
+        "total_spent": 535976.0,
+        "cash_on_hand": 3156429.0
+    },
+    {
+        "cmte_id": "C00002469",
+        "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+        "total_receipts": 3314501.0,
+        "indiv_contrib": 3304501.0,
+        "total_spent": 2556357.0,
+        "cash_on_hand": 1753843.0
+    },
+    {
+        "cmte_id": "C00922583",
+        "name": "COPPER STATE VALUES",
+        "total_receipts": 3311102.0,
+        "indiv_contrib": 2772916.0,
+        "total_spent": 1574906.0,
+        "cash_on_hand": 1736196.0
+    },
+    {
+        "cmte_id": "C00681825",
+        "name": "LAW ENFORCEMENT FOR A SAFER AMERICA PAC",
+        "total_receipts": 3308197.0,
+        "indiv_contrib": 3270023.0,
+        "total_spent": 3325829.0,
+        "cash_on_hand": 93519.0
+    },
+    {
+        "cmte_id": "C00907691",
+        "name": "REPUBLICAN FORWARD",
+        "total_receipts": 3291438.0,
+        "indiv_contrib": 3066438.0,
+        "total_spent": 34301.0,
+        "cash_on_hand": 3257137.0
+    },
+    {
+        "cmte_id": "C00006486",
+        "name": "INDIANA REPUBLICAN STATE COMMITTEE, INC.",
+        "total_receipts": 3268991.0,
+        "indiv_contrib": 597713.0,
+        "total_spent": 2842709.0,
+        "cash_on_hand": 523686.0
+    },
+    {
+        "cmte_id": "C00530766",
+        "name": "WOMEN SPEAK OUT PAC",
+        "total_receipts": 3220358.0,
+        "indiv_contrib": 16495.0,
+        "total_spent": 1307728.0,
+        "cash_on_hand": 2462936.0
+    },
+    {
+        "cmte_id": "C00651042",
+        "name": "MOMS FED UP",
+        "total_receipts": 3214844.0,
+        "indiv_contrib": 3204103.0,
+        "total_spent": 2714823.0,
+        "cash_on_hand": 2862144.0
+    },
+    {
+        "cmte_id": "C00039578",
+        "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+        "total_receipts": 3202592.0,
+        "indiv_contrib": 3152592.0,
+        "total_spent": 3266729.0,
+        "cash_on_hand": 2321621.0
+    },
+    {
+        "cmte_id": "C00764233",
+        "name": "DEFEND THE VOTE",
+        "total_receipts": 3189006.0,
+        "indiv_contrib": 3068914.0,
+        "total_spent": 3259746.0,
+        "cash_on_hand": 16802.0
+    },
+    {
+        "cmte_id": "C00912642",
+        "name": "UNRIGGED PAC",
+        "total_receipts": 3186443.0,
+        "indiv_contrib": 3007267.0,
+        "total_spent": 2959487.0,
+        "cash_on_hand": 226956.0
+    },
+    {
+        "cmte_id": "C00144766",
+        "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 3144887.0,
+        "indiv_contrib": 3117387.0,
+        "total_spent": 2301119.0,
+        "cash_on_hand": 1405418.0
+    },
+    {
+        "cmte_id": "C00770214",
+        "name": "CHAMPION AMERICAN VALUES",
+        "total_receipts": 3142450.0,
+        "indiv_contrib": 3093245.0,
+        "total_spent": 3734986.0,
+        "cash_on_hand": 690903.0
+    },
+    {
+        "cmte_id": "C00110338",
+        "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+        "total_receipts": 3138269.0,
+        "indiv_contrib": 3016451.0,
+        "total_spent": 2051853.0,
+        "cash_on_hand": 2886386.0
+    },
+    {
+        "cmte_id": "C00633792",
+        "name": "FRIENDS OF ANDY BARR COMMITTEE",
+        "total_receipts": 3137236.0,
+        "indiv_contrib": 2986736.0,
+        "total_spent": 3168362.0,
+        "cash_on_hand": 10000.0
+    },
+    {
+        "cmte_id": "C00748228",
+        "name": "MARCH ON PAC",
+        "total_receipts": 3126823.0,
+        "indiv_contrib": 136646.0,
+        "total_spent": 3601610.0,
+        "cash_on_hand": 509760.0
+    },
+    {
+        "cmte_id": "C00337733",
+        "name": "MASON TENDERS DISTRICT COUNCIL OF GREATER NEW YORK & LI PAC - FEDERAL",
+        "total_receipts": 3119673.0,
+        "indiv_contrib": 3119673.0,
+        "total_spent": 2921142.0,
+        "cash_on_hand": 307981.0
+    },
+    {
+        "cmte_id": "C00089243",
+        "name": "MASSACHUSETTS DEMOCRATIC STATE COMMITTEE - FED FUND",
+        "total_receipts": 3113731.0,
+        "indiv_contrib": 2042833.0,
+        "total_spent": 2858328.0,
+        "cash_on_hand": 445022.0
+    },
+    {
+        "cmte_id": "C00904417",
+        "name": "MURPHY MOBILIZATION FUND",
+        "total_receipts": 3109763.0,
+        "indiv_contrib": 3109763.0,
+        "total_spent": 3089289.0,
+        "cash_on_hand": 20474.0
+    },
+    {
+        "cmte_id": "C00940957",
+        "name": "ACCOUNTABILITY PROJECT INC",
+        "total_receipts": 3093196.0,
+        "indiv_contrib": 400000.0,
+        "total_spent": 2507985.0,
+        "cash_on_hand": 585211.0
+    },
+    {
+        "cmte_id": "C00523241",
+        "name": "SPECIAL OPERATIONS FOR AMERICA",
+        "total_receipts": 3086266.0,
+        "indiv_contrib": 3082146.0,
+        "total_spent": 3060501.0,
+        "cash_on_hand": 46054.0
+    },
+    {
+        "cmte_id": "C00815753",
+        "name": "J STREET ACTION FUND",
+        "total_receipts": 3082226.0,
+        "indiv_contrib": 832112.0,
+        "total_spent": 2249991.0,
+        "cash_on_hand": 864359.0
+    },
+    {
+        "cmte_id": "C00007542",
+        "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+        "total_receipts": 3076106.0,
+        "indiv_contrib": 3076093.0,
+        "total_spent": 3084564.0,
+        "cash_on_hand": 190114.0
+    },
+    {
+        "cmte_id": "C00035600",
+        "name": "IOWA DEMOCRATIC PARTY",
+        "total_receipts": 3049775.0,
+        "indiv_contrib": 2116073.0,
+        "total_spent": 2564030.0,
+        "cash_on_hand": 807814.0
+    },
+    {
+        "cmte_id": "C00448373",
+        "name": "HUCK PAC FOR AMERICA",
+        "total_receipts": 3049634.0,
+        "indiv_contrib": 3041494.0,
+        "total_spent": 2930672.0,
+        "cash_on_hand": 131265.0
+    },
+    {
+        "cmte_id": "C00002972",
+        "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+        "total_receipts": 3030116.0,
+        "indiv_contrib": 2955720.0,
+        "total_spent": 3160951.0,
+        "cash_on_hand": 2230643.0
+    },
+    {
+        "cmte_id": "C00872655",
+        "name": "ACLU VOTER EDUCATION FUND",
+        "total_receipts": 3020977.0,
+        "indiv_contrib": 3020977.0,
+        "total_spent": 1195005.0,
+        "cash_on_hand": 3303953.0
+    },
+    {
+        "cmte_id": "C00825851",
+        "name": "MAKE AMERICA GREAT AGAIN INC.",
+        "total_receipts": 3007856.0,
+        "indiv_contrib": 100.0,
+        "total_spent": 10847848.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00162818",
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION",
+        "total_receipts": 3006498.0,
+        "indiv_contrib": 2468968.0,
+        "total_spent": 4231399.0,
+        "cash_on_hand": 12764272.0
+    },
+    {
+        "cmte_id": "C00925560",
+        "name": "WIN FOR PENNSYLVANIA",
+        "total_receipts": 3000729.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 1855.0,
+        "cash_on_hand": 2998874.0
+    },
+    {
+        "cmte_id": "C00284885",
+        "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+        "total_receipts": 2995505.0,
+        "indiv_contrib": 2980505.0,
+        "total_spent": 3334916.0,
+        "cash_on_hand": 430529.0
+    },
+    {
+        "cmte_id": "C00895607",
+        "name": "NO SURRENDER FUND",
+        "total_receipts": 2960324.0,
+        "indiv_contrib": 2959324.0,
+        "total_spent": 2524628.0,
+        "cash_on_hand": 435696.0
+    },
+    {
+        "cmte_id": "C00044842",
+        "name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
+        "total_receipts": 2950529.0,
+        "indiv_contrib": 1051461.0,
+        "total_spent": 2900235.0,
+        "cash_on_hand": 722128.0
+    },
+    {
+        "cmte_id": "C00458000",
+        "name": "PROGRESSIVE CHANGE CAMPAIGN COMMITTEE",
+        "total_receipts": 2947431.0,
+        "indiv_contrib": 1181620.0,
+        "total_spent": 3087328.0,
+        "cash_on_hand": 174280.0
+    },
+    {
+        "cmte_id": "C00754069",
+        "name": "PAF",
+        "total_receipts": 2946953.0,
+        "indiv_contrib": 1831380.0,
+        "total_spent": 2387410.0,
+        "cash_on_hand": 861487.0
+    },
+    {
+        "cmte_id": "C00074450",
+        "name": "REPUBLICAN PARTY OF WISCONSIN",
+        "total_receipts": 2946071.0,
+        "indiv_contrib": 1089011.0,
+        "total_spent": 2466605.0,
+        "cash_on_hand": 737833.0
+    },
+    {
+        "cmte_id": "C00906073",
+        "name": "CONSERVATIVE VALUES FOR LOUISIANA",
+        "total_receipts": 2875000.0,
+        "indiv_contrib": 2875000.0,
+        "total_spent": 2630811.0,
+        "cash_on_hand": 244189.0
+    },
+    {
+        "cmte_id": "C00893198",
+        "name": "CONSERVATIVE FIGHTER PAC",
+        "total_receipts": 2874841.0,
+        "indiv_contrib": 2198841.0,
+        "total_spent": 2849049.0,
+        "cash_on_hand": 25793.0
+    },
+    {
+        "cmte_id": "C00808311",
+        "name": "RSLC VICTORY FUND",
+        "total_receipts": 2871008.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 2929455.0,
+        "cash_on_hand": 1065360.0
+    },
+    {
+        "cmte_id": "C00829952",
+        "name": "HOPE IN ACTION PAC",
+        "total_receipts": 2860779.0,
+        "indiv_contrib": 2644500.0,
+        "total_spent": 2834948.0,
+        "cash_on_hand": 169670.0
+    },
+    {
+        "cmte_id": "C00142711",
+        "name": "THE BOEING COMPANY PAC",
+        "total_receipts": 2852056.0,
+        "indiv_contrib": 2839495.0,
+        "total_spent": 2847169.0,
+        "cash_on_hand": 802224.0
+    },
+    {
+        "cmte_id": "C00255752",
+        "name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+        "total_receipts": 2849016.0,
+        "indiv_contrib": 2846516.0,
+        "total_spent": 2438372.0,
+        "cash_on_hand": 870479.0
+    },
+    {
+        "cmte_id": "C00902015",
+        "name": "FIGHT FOR AMERICA PAC",
+        "total_receipts": 2839558.0,
+        "indiv_contrib": 62000.0,
+        "total_spent": 119401.0,
+        "cash_on_hand": 2720158.0
+    },
+    {
+        "cmte_id": "C00898890",
+        "name": "WITH HONOR FUND III, INC.",
+        "total_receipts": 2814264.0,
+        "indiv_contrib": 282250.0,
+        "total_spent": 2273999.0,
+        "cash_on_hand": 540266.0
+    },
+    {
+        "cmte_id": "C00904607",
+        "name": "MAJORITY FUND",
+        "total_receipts": 2803300.0,
+        "indiv_contrib": 2803300.0,
+        "total_spent": 2797839.0,
+        "cash_on_hand": 5461.0
+    },
+    {
+        "cmte_id": "C00744920",
+        "name": "CFFE PAC",
+        "total_receipts": 2790312.0,
+        "indiv_contrib": 70882.0,
+        "total_spent": 1126114.0,
+        "cash_on_hand": 1865971.0
+    },
+    {
+        "cmte_id": "C00409516",
+        "name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+        "total_receipts": 2787443.0,
+        "indiv_contrib": 737443.0,
+        "total_spent": 3575815.0,
+        "cash_on_hand": 1087003.0
+    },
+    {
+        "cmte_id": "C00220566",
+        "name": "NEW YORK STATE LABORERS' INTERNATIONAL UNION OF NORTH AMERICA POLITICAL ACTION COMMITTEE",
+        "total_receipts": 2766945.0,
+        "indiv_contrib": 2323007.0,
+        "total_spent": 2101407.0,
+        "cash_on_hand": 3752531.0
+    },
+    {
+        "cmte_id": "C00930438",
+        "name": "ALABAMA FREEDOM FUND",
+        "total_receipts": 2738425.0,
+        "indiv_contrib": 1195100.0,
+        "total_spent": 2395071.0,
+        "cash_on_hand": 343354.0
+    },
+    {
+        "cmte_id": "C00825281",
+        "name": "SERVICE AND HONOR",
+        "total_receipts": 2733092.0,
+        "indiv_contrib": 2731677.0,
+        "total_spent": 2888451.0,
+        "cash_on_hand": 126234.0
+    },
+    {
+        "cmte_id": "C00871368",
+        "name": "PROJECT 218",
+        "total_receipts": 2729432.0,
+        "indiv_contrib": 2724522.0,
+        "total_spent": 432646.0,
+        "cash_on_hand": 2335916.0
+    },
+    {
+        "cmte_id": "C00409003",
+        "name": "HEARTLAND VALUES PAC",
+        "total_receipts": 2708174.0,
+        "indiv_contrib": 731476.0,
+        "total_spent": 2188010.0,
+        "cash_on_hand": 1762744.0
+    },
+    {
+        "cmte_id": "C00344234",
+        "name": "PAC TO THE FUTURE",
+        "total_receipts": 2707532.0,
+        "indiv_contrib": 2584777.0,
+        "total_spent": 5400105.0,
+        "cash_on_hand": 7236509.0
+    },
+    {
+        "cmte_id": "C00630665",
+        "name": "JUSTICE DEMOCRATS PAC",
+        "total_receipts": 2687248.0,
+        "indiv_contrib": 1671298.0,
+        "total_spent": 2409113.0,
+        "cash_on_hand": 1374378.0
+    },
+    {
+        "cmte_id": "C00236489",
+        "name": "KOCH, INC. POLITICAL ACTION COMMITTEE (KOCHPAC)",
+        "total_receipts": 2680599.0,
+        "indiv_contrib": 2661785.0,
+        "total_spent": 1924641.0,
+        "cash_on_hand": 2942792.0
+    },
+    {
+        "cmte_id": "C00944371",
+        "name": "KY PAC",
+        "total_receipts": 2675000.0,
+        "indiv_contrib": 2675000.0,
+        "total_spent": 2616144.0,
+        "cash_on_hand": 58856.0
+    },
+    {
+        "cmte_id": "C00014498",
+        "name": "REPUBLICAN PARTY OF IOWA",
+        "total_receipts": 2670589.0,
+        "indiv_contrib": 1974010.0,
+        "total_spent": 2262024.0,
+        "cash_on_hand": 637846.0
+    },
+    {
+        "cmte_id": "C00411116",
+        "name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+        "total_receipts": 2667576.0,
+        "indiv_contrib": 2534643.0,
+        "total_spent": 1458841.0,
+        "cash_on_hand": 2926272.0
+    },
+    {
+        "cmte_id": "C00824342",
+        "name": "WAY BACK PAC",
+        "total_receipts": 2648042.0,
+        "indiv_contrib": 106836.0,
+        "total_spent": 2124628.0,
+        "cash_on_hand": 913263.0
+    },
+    {
+        "cmte_id": "C00143743",
+        "name": "REPUBLICAN PARTY OF TEXAS",
+        "total_receipts": 2611515.0,
+        "indiv_contrib": 1111899.0,
+        "total_spent": 2442025.0,
+        "cash_on_hand": 588367.0
+    },
+    {
+        "cmte_id": "C00909655",
+        "name": "NAVAJO COUNTY DEMOCRATIC COMMITTEE",
+        "total_receipts": 2600489.0,
+        "indiv_contrib": 145882.0,
+        "total_spent": 213947.0,
+        "cash_on_hand": 2386542.0
+    },
+    {
+        "cmte_id": "C00488742",
+        "name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "total_receipts": 2597655.0,
+        "indiv_contrib": 2540410.0,
+        "total_spent": 2540410.0,
+        "cash_on_hand": 72669.0
+    },
+    {
+        "cmte_id": "C00165159",
+        "name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+        "total_receipts": 2594981.0,
+        "indiv_contrib": 1355337.0,
+        "total_spent": 1417987.0,
+        "cash_on_hand": 1533603.0
+    },
+    {
+        "cmte_id": "C00898379",
+        "name": "THE NO KINGS PAC",
+        "total_receipts": 2594153.0,
+        "indiv_contrib": 2574145.0,
+        "total_spent": 1744000.0,
+        "cash_on_hand": 850154.0
+    },
+    {
+        "cmte_id": "C00831404",
+        "name": "WITH HONOR FUND II, INC.",
+        "total_receipts": 2592044.0,
+        "indiv_contrib": 2616208.0,
+        "total_spent": 2586598.0,
+        "cash_on_hand": 120697.0
+    },
+    {
+        "cmte_id": "C00358663",
+        "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA-ROC PAC)",
+        "total_receipts": 2587277.0,
+        "indiv_contrib": 1969825.0,
+        "total_spent": 3049683.0,
+        "cash_on_hand": 10356696.0
+    },
+    {
+        "cmte_id": "C00857615",
+        "name": "TEAM JORDAN",
+        "total_receipts": 2586190.0,
+        "indiv_contrib": 2465876.0,
+        "total_spent": 2546437.0,
+        "cash_on_hand": 71089.0
+    },
+    {
+        "cmte_id": "C00303024",
+        "name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+        "total_receipts": 2585281.0,
+        "indiv_contrib": 2579281.0,
+        "total_spent": 3399522.0,
+        "cash_on_hand": 1677148.0
+    },
+    {
+        "cmte_id": "C00001305",
+        "name": "REPUBLICAN PARTY OF VIRGINIA INC",
+        "total_receipts": 2582142.0,
+        "indiv_contrib": 1126254.0,
+        "total_spent": 2041601.0,
+        "cash_on_hand": 683231.0
+    },
+    {
+        "cmte_id": "C00559906",
+        "name": "AMERICAS PAC",
+        "total_receipts": 2577600.0,
+        "indiv_contrib": 27600.0,
+        "total_spent": 2751870.0,
+        "cash_on_hand": 30244.0
+    },
+    {
+        "cmte_id": "C00828608",
+        "name": "HARDWORKING AMERICANS INC.",
+        "total_receipts": 2572608.0,
+        "indiv_contrib": 1392608.0,
+        "total_spent": 2940465.0,
+        "cash_on_hand": 464507.0
+    },
+    {
+        "cmte_id": "C00064766",
+        "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+        "total_receipts": 2561492.0,
+        "indiv_contrib": 2561492.0,
+        "total_spent": 2893172.0,
+        "cash_on_hand": 1442242.0
+    },
+    {
+        "cmte_id": "C00868976",
+        "name": "HOLD THE LINE",
+        "total_receipts": 2544316.0,
+        "indiv_contrib": 2540703.0,
+        "total_spent": 2796088.0,
+        "cash_on_hand": 280124.0
+    },
+    {
+        "cmte_id": "C00563726",
+        "name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+        "total_receipts": 2543555.0,
+        "indiv_contrib": 1001850.0,
+        "total_spent": 1547861.0,
+        "cash_on_hand": 1690606.0
+    },
+    {
+        "cmte_id": "C00010421",
+        "name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+        "total_receipts": 2524484.0,
+        "indiv_contrib": 2521984.0,
+        "total_spent": 1023539.0,
+        "cash_on_hand": 2326355.0
+    },
+    {
+        "cmte_id": "C00852012",
+        "name": "TEAM MCCORMICK",
+        "total_receipts": 2507077.0,
+        "indiv_contrib": 2232877.0,
+        "total_spent": 2414867.0,
+        "cash_on_hand": 173866.0
+    },
+    {
+        "cmte_id": "C00894881",
+        "name": "DEMOCRATS WIN FUND",
+        "total_receipts": 2503241.0,
+        "indiv_contrib": 2497039.0,
+        "total_spent": 2099024.0,
+        "cash_on_hand": 404218.0
+    },
+    {
+        "cmte_id": "C00776385",
+        "name": "SAVE MISSOURI VALUES",
+        "total_receipts": 2500000.0,
+        "indiv_contrib": 2500000.0,
+        "total_spent": 3036835.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00492421",
+        "name": "NANCY PELOSI VICTORY FUND",
+        "total_receipts": 2494879.0,
+        "indiv_contrib": 2470166.0,
+        "total_spent": 2503075.0,
+        "cash_on_hand": 1127.0
+    },
+    {
+        "cmte_id": "C00895227",
+        "name": "MARK WARNER ACTION FUND",
+        "total_receipts": 2477598.0,
+        "indiv_contrib": 2472598.0,
+        "total_spent": 2440659.0,
+        "cash_on_hand": 36939.0
+    },
+    {
+        "cmte_id": "C00894063",
+        "name": "PRO-CHOICE MAJORITY 2026",
+        "total_receipts": 2471460.0,
+        "indiv_contrib": 2466759.0,
+        "total_spent": 2127955.0,
+        "cash_on_hand": 343505.0
+    },
+    {
+        "cmte_id": "C00088591",
+        "name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+        "total_receipts": 2467389.0,
+        "indiv_contrib": 2467389.0,
+        "total_spent": 3136484.0,
+        "cash_on_hand": 7283473.0
+    },
+    {
+        "cmte_id": "C00868091",
+        "name": "LISA MCCLAIN LEADERSHIP FUND",
+        "total_receipts": 2465366.0,
+        "indiv_contrib": 2380116.0,
+        "total_spent": 2441623.0,
+        "cash_on_hand": 25243.0
+    },
+    {
+        "cmte_id": "C00789966",
+        "name": "FORWARD PARTY",
+        "total_receipts": 2444945.0,
+        "indiv_contrib": 316097.0,
+        "total_spent": 2441187.0,
+        "cash_on_hand": 55771.0
+    },
+    {
+        "cmte_id": "C00864785",
+        "name": "IN THIS TOGETHER PAC",
+        "total_receipts": 2436322.0,
+        "indiv_contrib": 876359.0,
+        "total_spent": 1130355.0,
+        "cash_on_hand": 1524878.0
+    },
+    {
+        "cmte_id": "C00130773",
+        "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+        "total_receipts": 2427599.0,
+        "indiv_contrib": 2417591.0,
+        "total_spent": 2537347.0,
+        "cash_on_hand": 1751145.0
+    },
+    {
+        "cmte_id": "C00884296",
+        "name": "TEAM ROGERS",
+        "total_receipts": 2421790.0,
+        "indiv_contrib": 2412289.0,
+        "total_spent": 2870826.0,
+        "cash_on_hand": 25486.0
+    },
+    {
+        "cmte_id": "C00162339",
+        "name": "OHIO REPUBLICAN PARTY STATE CENTRAL & EXECUTIVE COMMITTEE",
+        "total_receipts": 2420648.0,
+        "indiv_contrib": 1082191.0,
+        "total_spent": 2439208.0,
+        "cash_on_hand": 1044631.0
+    },
+    {
+        "cmte_id": "C00573436",
+        "name": "SMITH VICTORY",
+        "total_receipts": 2403491.0,
+        "indiv_contrib": 2176991.0,
+        "total_spent": 2500145.0,
+        "cash_on_hand": 2500.0
+    },
+    {
+        "cmte_id": "C00038505",
+        "name": "NORTH CAROLINA REPUBLICAN PARTY",
+        "total_receipts": 2394527.0,
+        "indiv_contrib": 1267806.0,
+        "total_spent": 2530166.0,
+        "cash_on_hand": 264589.0
+    },
+    {
+        "cmte_id": "C00003251",
+        "name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+        "total_receipts": 2393472.0,
+        "indiv_contrib": 2389472.0,
+        "total_spent": 1617197.0,
+        "cash_on_hand": 2577841.0
+    },
+    {
+        "cmte_id": "C00158576",
+        "name": "INTERNATIONAL LONGSHOREMEN'S ASSOCIATION COMMITTEE ON POLITICAL EDUCATION",
+        "total_receipts": 2370565.0,
+        "indiv_contrib": 2195573.0,
+        "total_spent": 651376.0,
+        "cash_on_hand": 11137821.0
+    },
+    {
+        "cmte_id": "C00708289",
+        "name": "PUTTING PEOPLE BEFORE POLITICIANS INC",
+        "total_receipts": 2368735.0,
+        "indiv_contrib": 1815764.0,
+        "total_spent": 2573066.0,
+        "cash_on_hand": 651174.0
+    },
+    {
+        "cmte_id": "C00879221",
+        "name": "CRUSH MAGA PAC",
+        "total_receipts": 2363636.0,
+        "indiv_contrib": 1933936.0,
+        "total_spent": 1335611.0,
+        "cash_on_hand": 1079525.0
+    },
+    {
+        "cmte_id": "C00459925",
+        "name": "AMERICAN MOBILIZATION PAC",
+        "total_receipts": 2349700.0,
+        "indiv_contrib": 603870.0,
+        "total_spent": 1159534.0,
+        "cash_on_hand": 1225417.0
+    },
+    {
+        "cmte_id": "C00044776",
+        "name": "ALABAMA REPUBLICAN PARTY",
+        "total_receipts": 2348798.0,
+        "indiv_contrib": 1446039.0,
+        "total_spent": 2257460.0,
+        "cash_on_hand": 161458.0
+    },
+    {
+        "cmte_id": "C00178038",
+        "name": "NEW HAMPSHIRE DEMOCRATIC PARTY",
+        "total_receipts": 2339792.0,
+        "indiv_contrib": 649722.0,
+        "total_spent": 2250696.0,
+        "cash_on_hand": 284460.0
+    },
+    {
+        "cmte_id": "C00679191",
+        "name": "DIGIDEMS PAC",
+        "total_receipts": 2333932.0,
+        "indiv_contrib": 681432.0,
+        "total_spent": 1095971.0,
+        "cash_on_hand": 1263262.0
+    },
+    {
+        "cmte_id": "C00568444",
+        "name": "CENTER FORWARD COMMITTEE",
+        "total_receipts": 2325600.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 660078.0,
+        "cash_on_hand": 1668314.0
+    },
+    {
+        "cmte_id": "C00754044",
+        "name": "TEAM RONNY",
+        "total_receipts": 2309862.0,
+        "indiv_contrib": 1953801.0,
+        "total_spent": 1183932.0,
+        "cash_on_hand": 1274073.0
+    },
+    {
+        "cmte_id": "C00106146",
+        "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+        "total_receipts": 2295601.0,
+        "indiv_contrib": 1353253.0,
+        "total_spent": 2437409.0,
+        "cash_on_hand": 1268069.0
+    },
+    {
+        "cmte_id": "C00773903",
+        "name": "TEAM HILL",
+        "total_receipts": 2293778.0,
+        "indiv_contrib": 2005978.0,
+        "total_spent": 2183107.0,
+        "cash_on_hand": 190833.0
+    },
+    {
+        "cmte_id": "C00718221",
+        "name": "ASHLEY HINSON VICTORY COMMITTEE",
+        "total_receipts": 2291332.0,
+        "indiv_contrib": 2283832.0,
+        "total_spent": 2163008.0,
+        "cash_on_hand": 162594.0
+    },
+    {
+        "cmte_id": "C00853481",
+        "name": "DEMOCRATS WHO WIN",
+        "total_receipts": 2289953.0,
+        "indiv_contrib": 2289953.0,
+        "total_spent": 3395008.0,
+        "cash_on_hand": 76120.0
+    },
+    {
+        "cmte_id": "C00831917",
+        "name": "KATHERINE CLARK VICTORY FUND",
+        "total_receipts": 2288250.0,
+        "indiv_contrib": 2268250.0,
+        "total_spent": 2223674.0,
+        "cash_on_hand": 69587.0
+    },
+    {
+        "cmte_id": "C00130658",
+        "name": "CPAC ACTION PAC",
+        "total_receipts": 2287113.0,
+        "indiv_contrib": 2269972.0,
+        "total_spent": 1975239.0,
+        "cash_on_hand": 593592.0
+    },
+    {
+        "cmte_id": "C00156810",
+        "name": "REPUBLICAN PARTY OF KENTUCKY",
+        "total_receipts": 2283035.0,
+        "indiv_contrib": 1540843.0,
+        "total_spent": 1502714.0,
+        "cash_on_hand": 2113445.0
+    },
+    {
+        "cmte_id": "C00010439",
+        "name": "IDAHO STATE DEMOCRATIC PARTY",
+        "total_receipts": 2281900.0,
+        "indiv_contrib": 1656564.0,
+        "total_spent": 1590393.0,
+        "cash_on_hand": 787521.0
+    },
+    {
+        "cmte_id": "C00829432",
+        "name": "DEFENDING AMERICA'S FUTURE",
+        "total_receipts": 2280202.0,
+        "indiv_contrib": 1755201.0,
+        "total_spent": 2500786.0,
+        "cash_on_hand": 156266.0
+    },
+    {
+        "cmte_id": "C00862094",
+        "name": "GREAT OPPORTUNITY PAC, INC.",
+        "total_receipts": 2279218.0,
+        "indiv_contrib": 2275000.0,
+        "total_spent": 352596.0,
+        "cash_on_hand": 2263089.0
+    },
+    {
+        "cmte_id": "C00804856",
+        "name": "LF PAC",
+        "total_receipts": 2262011.0,
+        "indiv_contrib": 2045191.0,
+        "total_spent": 846599.0,
+        "cash_on_hand": 2225896.0
+    },
+    {
+        "cmte_id": "C00896225",
+        "name": "MGP VICTORY FUND",
+        "total_receipts": 2256799.0,
+        "indiv_contrib": 2222699.0,
+        "total_spent": 1719601.0,
+        "cash_on_hand": 537197.0
+    },
+    {
+        "cmte_id": "C00473918",
+        "name": "WOMEN VOTE",
+        "total_receipts": 2240347.0,
+        "indiv_contrib": 1212962.0,
+        "total_spent": 2600484.0,
+        "cash_on_hand": 2005989.0
+    },
+    {
+        "cmte_id": "C00673715",
+        "name": "THUNE VICTORY COMMITTEE",
+        "total_receipts": 2237340.0,
+        "indiv_contrib": 944340.0,
+        "total_spent": 2156875.0,
+        "cash_on_hand": 80665.0
+    },
+    {
+        "cmte_id": "C00274431",
+        "name": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+        "total_receipts": 2228043.0,
+        "indiv_contrib": 2227543.0,
+        "total_spent": 1505171.0,
+        "cash_on_hand": 1318361.0
+    },
+    {
+        "cmte_id": "C00219642",
+        "name": "ENTERPRISE HOLDINGS, INC. / ENTERPRISE MOBILITY POLITICAL ACTION COMMITTEE",
+        "total_receipts": 2227008.0,
+        "indiv_contrib": 2194504.0,
+        "total_spent": 2756557.0,
+        "cash_on_hand": 448938.0
+    },
+    {
+        "cmte_id": "C00782656",
+        "name": "ALABAMA CHRISTIAN CONSERVATIVES (ACC)",
+        "total_receipts": 2225500.0,
+        "indiv_contrib": 525500.0,
+        "total_spent": 1426738.0,
+        "cash_on_hand": 998058.0
+    },
+    {
+        "cmte_id": "C00895193",
+        "name": "RETIRED DEMS 2026",
+        "total_receipts": 2222734.0,
+        "indiv_contrib": 2222734.0,
+        "total_spent": 1479572.0,
+        "cash_on_hand": 743162.0
+    },
+    {
+        "cmte_id": "C00816058",
+        "name": "LETLOW VICTORY FUND",
+        "total_receipts": 2218404.0,
+        "indiv_contrib": 2163154.0,
+        "total_spent": 2218792.0,
+        "cash_on_hand": 3912.0
+    },
+    {
+        "cmte_id": "C00849778",
+        "name": "TED CRUZ VICTORY FUND",
+        "total_receipts": 2210178.0,
+        "indiv_contrib": 1758300.0,
+        "total_spent": 2355397.0,
+        "cash_on_hand": 20001.0
+    },
+    {
+        "cmte_id": "C00891440",
+        "name": "NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS POWER PAC",
+        "total_receipts": 2198681.0,
+        "indiv_contrib": 2139196.0,
+        "total_spent": 802119.0,
+        "cash_on_hand": 3428390.0
+    },
+    {
+        "cmte_id": "C00875278",
+        "name": "LAST FRONTIER PAC",
+        "total_receipts": 2193000.0,
+        "indiv_contrib": 2193000.0,
+        "total_spent": 15891.0,
+        "cash_on_hand": 2177109.0
+    },
+    {
+        "cmte_id": "C00004275",
+        "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+        "total_receipts": 2188098.0,
+        "indiv_contrib": 337367.0,
+        "total_spent": 2654300.0,
+        "cash_on_hand": 1782133.0
+    },
+    {
+        "cmte_id": "C00141812",
+        "name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND",
+        "total_receipts": 2185589.0,
+        "indiv_contrib": 697922.0,
+        "total_spent": 2372775.0,
+        "cash_on_hand": 329811.0
+    },
+    {
+        "cmte_id": "C00769232",
+        "name": "JEFFERSON RISING",
+        "total_receipts": 2184602.0,
+        "indiv_contrib": 2000005.0,
+        "total_spent": 2380831.0,
+        "cash_on_hand": 1150719.0
+    },
+    {
+        "cmte_id": "C00001313",
+        "name": "REPUBLICAN PARTY OF MINNESOTA - FEDERAL",
+        "total_receipts": 2181462.0,
+        "indiv_contrib": 1288968.0,
+        "total_spent": 2135318.0,
+        "cash_on_hand": 104825.0
+    },
+    {
+        "cmte_id": "C00248716",
+        "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+        "total_receipts": 2174722.0,
+        "indiv_contrib": 2174722.0,
+        "total_spent": 1889301.0,
+        "cash_on_hand": 1249291.0
+    },
+    {
+        "cmte_id": "C00609255",
+        "name": "SULLIVAN VICTORY",
+        "total_receipts": 2174404.0,
+        "indiv_contrib": 2043904.0,
+        "total_spent": 2162755.0,
+        "cash_on_hand": 30214.0
+    },
+    {
+        "cmte_id": "C00809483",
+        "name": "EIGHTEEN FIFTY-FOUR FUND",
+        "total_receipts": 2164756.0,
+        "indiv_contrib": 100000.0,
+        "total_spent": 109573.0,
+        "cash_on_hand": 2084677.0
+    },
+    {
+        "cmte_id": "C00000901",
+        "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+        "total_receipts": 2154117.0,
+        "indiv_contrib": 2073761.0,
+        "total_spent": 1926430.0,
+        "cash_on_hand": 1042560.0
+    },
+    {
+        "cmte_id": "C00627075",
+        "name": "LEGISLATIVE MAJORITY PAC",
+        "total_receipts": 2150566.0,
+        "indiv_contrib": 2150544.0,
+        "total_spent": 2152271.0,
+        "cash_on_hand": 1920.0
+    },
+    {
+        "cmte_id": "C00718510",
+        "name": "OCCUPY DEMOCRATS ELECTION FUND",
+        "total_receipts": 2148727.0,
+        "indiv_contrib": 171650.0,
+        "total_spent": 2262100.0,
+        "cash_on_hand": 128611.0
+    },
+    {
+        "cmte_id": "C00093054",
+        "name": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT",
+        "total_receipts": 2141951.0,
+        "indiv_contrib": 2139402.0,
+        "total_spent": 2152134.0,
+        "cash_on_hand": 74350.0
+    },
+    {
+        "cmte_id": "C00708644",
+        "name": "BLACK BEAR PAC, INC.",
+        "total_receipts": 2139951.0,
+        "indiv_contrib": 1573500.0,
+        "total_spent": 130894.0,
+        "cash_on_hand": 2612245.0
+    },
+    {
+        "cmte_id": "C00885137",
+        "name": "SPEAK UP PAC",
+        "total_receipts": 2138117.0,
+        "indiv_contrib": 2036183.0,
+        "total_spent": 2038223.0,
+        "cash_on_hand": 272370.0
+    },
+    {
+        "cmte_id": "C00188367",
+        "name": "DEMOCRATIC PARTY OF OREGON",
+        "total_receipts": 2135497.0,
+        "indiv_contrib": 973400.0,
+        "total_spent": 2323701.0,
+        "cash_on_hand": 216667.0
+    },
+    {
+        "cmte_id": "C00247403",
+        "name": "NORPAC",
+        "total_receipts": 2119700.0,
+        "indiv_contrib": 2065352.0,
+        "total_spent": 2012354.0,
+        "cash_on_hand": 602040.0
+    },
+    {
+        "cmte_id": "C00905745",
+        "name": "HEMP INDUSTRY & FARMERS OF AMERICA",
+        "total_receipts": 2117329.0,
+        "indiv_contrib": 68828.0,
+        "total_spent": 1779967.0,
+        "cash_on_hand": 337362.0
+    },
+    {
+        "cmte_id": "C00786830",
+        "name": "WELCOMEPAC",
+        "total_receipts": 2109141.0,
+        "indiv_contrib": 892327.0,
+        "total_spent": 1807524.0,
+        "cash_on_hand": 633470.0
+    },
+    {
+        "cmte_id": "C00571596",
+        "name": "DAINES SENATE MAJORITY FUND",
+        "total_receipts": 2095166.0,
+        "indiv_contrib": 1865166.0,
+        "total_spent": 2153927.0,
+        "cash_on_hand": 87913.0
+    },
+    {
+        "cmte_id": "C00692319",
+        "name": "VPP",
+        "total_receipts": 2094644.0,
+        "indiv_contrib": 2052382.0,
+        "total_spent": 2188566.0,
+        "cash_on_hand": 465992.0
+    },
+    {
+        "cmte_id": "C00886614",
+        "name": "YOUR COMMUNITY PAC",
+        "total_receipts": 2085576.0,
+        "indiv_contrib": 1826278.0,
+        "total_spent": 1150740.0,
+        "cash_on_hand": 1070328.0
+    },
+    {
+        "cmte_id": "C00007658",
+        "name": "DEMOCRATIC PARTY OF SOUTH CAROLINA",
+        "total_receipts": 2084778.0,
+        "indiv_contrib": 539230.0,
+        "total_spent": 1579212.0,
+        "cash_on_hand": 575034.0
+    },
+    {
+        "cmte_id": "C00211318",
+        "name": "DELOITTE POLITICAL ACTION COMMITTEE",
+        "total_receipts": 2076852.0,
+        "indiv_contrib": 2044497.0,
+        "total_spent": 2445188.0,
+        "cash_on_hand": 674237.0
+    },
+    {
+        "cmte_id": "C00577361",
+        "name": "MULLIN VICTORY FUND",
+        "total_receipts": 2070599.0,
+        "indiv_contrib": 2026349.0,
+        "total_spent": 1744171.0,
+        "cash_on_hand": 462252.0
+    },
+    {
+        "cmte_id": "C00083279",
+        "name": "CALIFORNIA REAL ESTATE POLITICAL ACTION COMMITTEE/FEDERAL - CALIFORNIA ASSOCIATION OF REALTORS",
+        "total_receipts": 2053126.0,
+        "indiv_contrib": 1851517.0,
+        "total_spent": 3981725.0,
+        "cash_on_hand": 1452258.0
+    },
+    {
+        "cmte_id": "C00898395",
+        "name": "JUSTICE PAC",
+        "total_receipts": 2040494.0,
+        "indiv_contrib": 2035832.0,
+        "total_spent": 1526073.0,
+        "cash_on_hand": 514420.0
+    },
+    {
+        "cmte_id": "C00885491",
+        "name": "DEMOCRACY DEFENDERS PAC",
+        "total_receipts": 2040123.0,
+        "indiv_contrib": 4810.0,
+        "total_spent": 1578444.0,
+        "cash_on_hand": 1057669.0
+    },
+    {
+        "cmte_id": "C00624817",
+        "name": "EARN INTERNATIONAL UNION OF OPERATING ENGINEERS",
+        "total_receipts": 2037500.0,
+        "indiv_contrib": 2037500.0,
+        "total_spent": 2038794.0,
+        "cash_on_hand": 205485.0
+    },
+    {
+        "cmte_id": "C00935809",
+        "name": "CHICAGO PROGRESSIVE PARTNERSHIP",
+        "total_receipts": 2036537.0,
+        "indiv_contrib": 1022500.0,
+        "total_spent": 1979819.0,
+        "cash_on_hand": 56718.0
+    },
+    {
+        "cmte_id": "C00150672",
+        "name": "GEORGIA REPUBLICAN PARTY INC.",
+        "total_receipts": 2034220.0,
+        "indiv_contrib": 1191166.0,
+        "total_spent": 2104329.0,
+        "cash_on_hand": 181917.0
+    },
+    {
+        "cmte_id": "C00841361",
+        "name": "NEXT GENERATION PAC",
+        "total_receipts": 2028079.0,
+        "indiv_contrib": 1978290.0,
+        "total_spent": 1262093.0,
+        "cash_on_hand": 771444.0
+    },
+    {
+        "cmte_id": "C00787945",
+        "name": "BLUEWAVEAMERICA",
+        "total_receipts": 2027239.0,
+        "indiv_contrib": 919581.0,
+        "total_spent": 2929432.0,
+        "cash_on_hand": 73335.0
+    },
+    {
+        "cmte_id": "C00011197",
+        "name": "KENTUCKY STATE DEMOCRATIC CENTRAL EXECUTIVE COMMITTEE",
+        "total_receipts": 2025154.0,
+        "indiv_contrib": 1190148.0,
+        "total_spent": 1857041.0,
+        "cash_on_hand": 221428.0
+    },
+    {
+        "cmte_id": "C00922955",
+        "name": "NORTHWOODS FUTURE PAC",
+        "total_receipts": 2025000.0,
+        "indiv_contrib": 1025000.0,
+        "total_spent": 1785927.0,
+        "cash_on_hand": 239073.0
+    },
+    {
+        "cmte_id": "C00004812",
+        "name": "MORTGAGE BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE (MORPAC)",
+        "total_receipts": 2014458.0,
+        "indiv_contrib": 1858300.0,
+        "total_spent": 2189256.0,
+        "cash_on_hand": 634744.0
+    },
+    {
+        "cmte_id": "C00010868",
+        "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+        "total_receipts": 2010751.0,
+        "indiv_contrib": 1909723.0,
+        "total_spent": 2148984.0,
+        "cash_on_hand": 362826.0
+    },
+    {
+        "cmte_id": "C00670216",
+        "name": "YOUTH PROGRESSIVE ACTION CATALYST",
+        "total_receipts": 2003289.0,
+        "indiv_contrib": 1832478.0,
+        "total_spent": 1496819.0,
+        "cash_on_hand": 638276.0
+    },
+    {
+        "cmte_id": "C00711929",
+        "name": "TEAM MORRISEY",
+        "total_receipts": 2002165.0,
+        "indiv_contrib": 1950765.0,
+        "total_spent": 1997443.0,
+        "cash_on_hand": 10428.0
+    },
+    {
+        "cmte_id": "C00916494",
+        "name": "PXP2",
+        "total_receipts": 2000000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 2121.0,
+        "cash_on_hand": 1997879.0
+    },
+    {
+        "cmte_id": "C00939124",
+        "name": "PANHANDLE PATRIOTS PAC",
+        "total_receipts": 2000000.0,
+        "indiv_contrib": 2000000.0,
+        "total_spent": 0.0,
+        "cash_on_hand": 2000000.0
+    },
+    {
+        "cmte_id": "C00728667",
+        "name": "AMERICA ONE",
+        "total_receipts": 1999486.0,
+        "indiv_contrib": 1712600.0,
+        "total_spent": 2375976.0,
+        "cash_on_hand": 194325.0
+    },
+    {
+        "cmte_id": "C00748673",
+        "name": "WESLEY HUNT VICTORY FUND",
+        "total_receipts": 1997020.0,
+        "indiv_contrib": 1987520.0,
+        "total_spent": 2060954.0,
+        "cash_on_hand": 9031.0
+    },
+    {
+        "cmte_id": "C00754051",
+        "name": "WORKERS VOTE",
+        "total_receipts": 1994241.0,
+        "indiv_contrib": 542345.0,
+        "total_spent": 3508205.0,
+        "cash_on_hand": 766865.0
+    },
+    {
+        "cmte_id": "C00630707",
+        "name": "NATIONAL DEMOCRATIC REDISTRICTING PAC",
+        "total_receipts": 1993666.0,
+        "indiv_contrib": 1990224.0,
+        "total_spent": 1901372.0,
+        "cash_on_hand": 249633.0
+    },
+    {
+        "cmte_id": "C00166710",
+        "name": "ARIZONA DEMOCRATIC PARTY",
+        "total_receipts": 1981857.0,
+        "indiv_contrib": 855659.0,
+        "total_spent": 3461232.0,
+        "cash_on_hand": 551065.0
+    },
+    {
+        "cmte_id": "C00884874",
+        "name": "STOP PROJECT 2025",
+        "total_receipts": 1981709.0,
+        "indiv_contrib": 1978854.0,
+        "total_spent": 1472892.0,
+        "cash_on_hand": 959513.0
+    },
+    {
+        "cmte_id": "C00649574",
+        "name": "CRAPO VICTORY COMMITTEE",
+        "total_receipts": 1980429.0,
+        "indiv_contrib": 1374665.0,
+        "total_spent": 1472809.0,
+        "cash_on_hand": 609580.0
+    },
+    {
+        "cmte_id": "C00426775",
+        "name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1977823.0,
+        "indiv_contrib": 1971274.0,
+        "total_spent": 2362557.0,
+        "cash_on_hand": 724233.0
+    },
+    {
+        "cmte_id": "C00817379",
+        "name": "LAWLER VICTORY FUND",
+        "total_receipts": 1977224.0,
+        "indiv_contrib": 1961327.0,
+        "total_spent": 1974340.0,
+        "cash_on_hand": 8703.0
+    },
+    {
+        "cmte_id": "C00904623",
+        "name": "OVERSIGHT ACTION FUND",
+        "total_receipts": 1951607.0,
+        "indiv_contrib": 140637.0,
+        "total_spent": 1895882.0,
+        "cash_on_hand": 55725.0
+    },
+    {
+        "cmte_id": "C00450098",
+        "name": "WOMENCOUNT PAC",
+        "total_receipts": 1943985.0,
+        "indiv_contrib": 148699.0,
+        "total_spent": 2108012.0,
+        "cash_on_hand": 817932.0
+    },
+    {
+        "cmte_id": "C00390674",
+        "name": "FREEDOM FUND",
+        "total_receipts": 1939418.0,
+        "indiv_contrib": 35000.0,
+        "total_spent": 616027.0,
+        "cash_on_hand": 2237583.0
+    },
+    {
+        "cmte_id": "C00872440",
+        "name": "DEMOCRATS DEFENDING DEMOCRACY",
+        "total_receipts": 1929562.0,
+        "indiv_contrib": 1929562.0,
+        "total_spent": 1921256.0,
+        "cash_on_hand": 63614.0
+    },
+    {
+        "cmte_id": "C00841130",
+        "name": "RESTORE OUR NATION (RON PAC)",
+        "total_receipts": 1927005.0,
+        "indiv_contrib": 275196.0,
+        "total_spent": 843443.0,
+        "cash_on_hand": 5699699.0
+    },
+    {
+        "cmte_id": "C00592089",
+        "name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+        "total_receipts": 1920004.0,
+        "indiv_contrib": 57385.0,
+        "total_spent": 1251176.0,
+        "cash_on_hand": 905618.0
+    },
+    {
+        "cmte_id": "C00910653",
+        "name": "ELECT DIVERSE DEMOCRATS 2026",
+        "total_receipts": 1902833.0,
+        "indiv_contrib": 1901558.0,
+        "total_spent": 413760.0,
+        "cash_on_hand": 1489073.0
+    },
+    {
+        "cmte_id": "C00010033",
+        "name": "MONTANA DEMOCRATIC PARTY",
+        "total_receipts": 1893345.0,
+        "indiv_contrib": 623371.0,
+        "total_spent": 1851948.0,
+        "cash_on_hand": 676186.0
+    },
+    {
+        "cmte_id": "C00850925",
+        "name": "BRANDON HERRERA VICTORY COMMITTEE",
+        "total_receipts": 1891686.0,
+        "indiv_contrib": 1891686.0,
+        "total_spent": 1870998.0,
+        "cash_on_hand": 22276.0
+    },
+    {
+        "cmte_id": "C00267849",
+        "name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1890752.0,
+        "indiv_contrib": 1780317.0,
+        "total_spent": 2293759.0,
+        "cash_on_hand": 2278271.0
+    },
+    {
+        "cmte_id": "C00027359",
+        "name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+        "total_receipts": 1886734.0,
+        "indiv_contrib": 1881734.0,
+        "total_spent": 1111732.0,
+        "cash_on_hand": 3842911.0
+    },
+    {
+        "cmte_id": "C00574970",
+        "name": "FAIR SHOT PAC",
+        "total_receipts": 1885625.0,
+        "indiv_contrib": 625110.0,
+        "total_spent": 1757928.0,
+        "cash_on_hand": 820397.0
+    },
+    {
+        "cmte_id": "C00767640",
+        "name": "RANGER PAC",
+        "total_receipts": 1881097.0,
+        "indiv_contrib": 1865906.0,
+        "total_spent": 1894322.0,
+        "cash_on_hand": 24691.0
+    },
+    {
+        "cmte_id": "C00899419",
+        "name": "PATRIOTIC FUND, INC.",
+        "total_receipts": 1877126.0,
+        "indiv_contrib": 1002126.0,
+        "total_spent": 1248484.0,
+        "cash_on_hand": 628642.0
+    },
+    {
+        "cmte_id": "C00627737",
+        "name": "OHIOANS FOR HOMEOWNERSHIP",
+        "total_receipts": 1871848.0,
+        "indiv_contrib": 1263675.0,
+        "total_spent": 274837.0,
+        "cash_on_hand": 7610228.0
+    },
+    {
+        "cmte_id": "C00912865",
+        "name": "OHIO FLYER PAC",
+        "total_receipts": 1862856.0,
+        "indiv_contrib": 1771000.0,
+        "total_spent": 87834.0,
+        "cash_on_hand": 1775022.0
+    },
+    {
+        "cmte_id": "C00197228",
+        "name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+        "total_receipts": 1854605.0,
+        "indiv_contrib": 1848605.0,
+        "total_spent": 2104786.0,
+        "cash_on_hand": 493243.0
+    },
+    {
+        "cmte_id": "C00772848",
+        "name": "NO VOTE LEFT BEHIND PAC",
+        "total_receipts": 1847347.0,
+        "indiv_contrib": 1787107.0,
+        "total_spent": 1939188.0,
+        "cash_on_hand": 118166.0
+    },
+    {
+        "cmte_id": "C00807412",
+        "name": "HELLFIRE PAC",
+        "total_receipts": 1845677.0,
+        "indiv_contrib": 1757194.0,
+        "total_spent": 2599318.0,
+        "cash_on_hand": 33913.0
+    },
+    {
+        "cmte_id": "C00823997",
+        "name": "RUDY VICTORY FUND",
+        "total_receipts": 1833286.0,
+        "indiv_contrib": 1814286.0,
+        "total_spent": 1819916.0,
+        "cash_on_hand": 37618.0
+    },
+    {
+        "cmte_id": "C00824151",
+        "name": "COLLINS VICTORY FUND",
+        "total_receipts": 1828182.0,
+        "indiv_contrib": 1820209.0,
+        "total_spent": 1811150.0,
+        "cash_on_hand": 18533.0
+    },
+    {
+        "cmte_id": "C00921353",
+        "name": "KATIE HOBBS VICTORY FUND",
+        "total_receipts": 1824883.0,
+        "indiv_contrib": 1783083.0,
+        "total_spent": 1824628.0,
+        "cash_on_hand": 255.0
+    },
+    {
+        "cmte_id": "C00001016",
+        "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+        "total_receipts": 1824427.0,
+        "indiv_contrib": 1822554.0,
+        "total_spent": 1193565.0,
+        "cash_on_hand": 964475.0
+    },
+    {
+        "cmte_id": "C00899427",
+        "name": "SERVANT-LEADER FUND, INC.",
+        "total_receipts": 1823608.0,
+        "indiv_contrib": 40000.0,
+        "total_spent": 1711102.0,
+        "cash_on_hand": 112506.0
+    },
+    {
+        "cmte_id": "C00899633",
+        "name": "GOP WINNING WOMEN 2026",
+        "total_receipts": 1804545.0,
+        "indiv_contrib": 1675045.0,
+        "total_spent": 1714289.0,
+        "cash_on_hand": 90256.0
+    },
+    {
+        "cmte_id": "C00900993",
+        "name": "NEW LEADERSHIP NOW",
+        "total_receipts": 1797000.0,
+        "indiv_contrib": 1797000.0,
+        "total_spent": 515049.0,
+        "cash_on_hand": 1281951.0
+    },
+    {
+        "cmte_id": "C00538835",
+        "name": "COMMON GROUND PAC",
+        "total_receipts": 1794814.0,
+        "indiv_contrib": 1141549.0,
+        "total_spent": 1362058.0,
+        "cash_on_hand": 472272.0
+    },
+    {
+        "cmte_id": "C00097568",
+        "name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1793771.0,
+        "indiv_contrib": 1787271.0,
+        "total_spent": 1602886.0,
+        "cash_on_hand": 3837707.0
+    },
+    {
+        "cmte_id": "C00893263",
+        "name": "CONSERVATIVES FOR AMERICA PAC",
+        "total_receipts": 1793200.0,
+        "indiv_contrib": 1523076.0,
+        "total_spent": 271681.0,
+        "cash_on_hand": 1521519.0
+    },
+    {
+        "cmte_id": "C00716704",
+        "name": "PROTECT AND SERVE PAC",
+        "total_receipts": 1790582.0,
+        "indiv_contrib": 1165084.0,
+        "total_spent": 1378465.0,
+        "cash_on_hand": 419443.0
+    },
+    {
+        "cmte_id": "C00076810",
+        "name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+        "total_receipts": 1789087.0,
+        "indiv_contrib": 1783447.0,
+        "total_spent": 2355966.0,
+        "cash_on_hand": 43672.0
+    },
+    {
+        "cmte_id": "C00804690",
+        "name": "AMERICA 21 PAC",
+        "total_receipts": 1786323.0,
+        "indiv_contrib": 1000000.0,
+        "total_spent": 2023595.0,
+        "cash_on_hand": 744640.0
+    },
+    {
+        "cmte_id": "C00821439",
+        "name": "MAHA PAC",
+        "total_receipts": 1784185.0,
+        "indiv_contrib": 8598.0,
+        "total_spent": 9113272.0,
+        "cash_on_hand": 412073.0
+    },
+    {
+        "cmte_id": "C00109546",
+        "name": "VALERO ENERGY CORPORATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1783886.0,
+        "indiv_contrib": 1773269.0,
+        "total_spent": 1580423.0,
+        "cash_on_hand": 960098.0
+    },
+    {
+        "cmte_id": "C00833590",
+        "name": "DELBENE DEMOCRATIC MAJORITY FUND",
+        "total_receipts": 1774545.0,
+        "indiv_contrib": 1749545.0,
+        "total_spent": 1722020.0,
+        "cash_on_hand": 52525.0
+    },
+    {
+        "cmte_id": "C00040220",
+        "name": "TENNESSEE REPUBLICAN PARTY FEDERAL ELECTION ACCOUNT",
+        "total_receipts": 1774163.0,
+        "indiv_contrib": 820392.0,
+        "total_spent": 1840486.0,
+        "cash_on_hand": 231693.0
+    },
+    {
+        "cmte_id": "C00765982",
+        "name": "STAND FOR AMERICA PAC",
+        "total_receipts": 1771854.0,
+        "indiv_contrib": 488641.0,
+        "total_spent": 2047735.0,
+        "cash_on_hand": 2633585.0
+    },
+    {
+        "cmte_id": "C00835751",
+        "name": "FRIENDS OF KENNEDY",
+        "total_receipts": 1771337.0,
+        "indiv_contrib": 1770338.0,
+        "total_spent": 1721707.0,
+        "cash_on_hand": 98236.0
+    },
+    {
+        "cmte_id": "C00031088",
+        "name": "WASHINGTON STATE REPUBLICAN PARTY",
+        "total_receipts": 1755363.0,
+        "indiv_contrib": 1010612.0,
+        "total_spent": 1747596.0,
+        "cash_on_hand": 49862.0
+    },
+    {
+        "cmte_id": "C00064774",
+        "name": "NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1749626.0,
+        "indiv_contrib": 1732700.0,
+        "total_spent": 1756591.0,
+        "cash_on_hand": 777481.0
+    },
+    {
+        "cmte_id": "C00882480",
+        "name": "PRIVATE PROPERTY RIGHTS PAC",
+        "total_receipts": 1744767.0,
+        "indiv_contrib": 1731807.0,
+        "total_spent": 1733839.0,
+        "cash_on_hand": 12758.0
+    },
+    {
+        "cmte_id": "C00698340",
+        "name": "MARKEY VICTORY FUND",
+        "total_receipts": 1738779.0,
+        "indiv_contrib": 1723629.0,
+        "total_spent": 1736859.0,
+        "cash_on_hand": 9174.0
+    },
+    {
+        "cmte_id": "C00077321",
+        "name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1737769.0,
+        "indiv_contrib": 1538216.0,
+        "total_spent": 3880373.0,
+        "cash_on_hand": 2566924.0
+    },
+    {
+        "cmte_id": "C00540203",
+        "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+        "total_receipts": 1727263.0,
+        "indiv_contrib": 1250000.0,
+        "total_spent": 1412806.0,
+        "cash_on_hand": 572596.0
+    },
+    {
+        "cmte_id": "C00078451",
+        "name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+        "total_receipts": 1721243.0,
+        "indiv_contrib": 1714243.0,
+        "total_spent": 2025206.0,
+        "cash_on_hand": 455670.0
+    },
+    {
+        "cmte_id": "C00937094",
+        "name": "STRONG PAC",
+        "total_receipts": 1706500.0,
+        "indiv_contrib": 6500.0,
+        "total_spent": 1646449.0,
+        "cash_on_hand": 60051.0
+    },
+    {
+        "cmte_id": "C00107235",
+        "name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+        "total_receipts": 1704884.0,
+        "indiv_contrib": 1695384.0,
+        "total_spent": 1804508.0,
+        "cash_on_hand": 1687574.0
+    },
+    {
+        "cmte_id": "C00416131",
+        "name": "MIDWEST VALUES PAC",
+        "total_receipts": 1698109.0,
+        "indiv_contrib": 1673225.0,
+        "total_spent": 1759074.0,
+        "cash_on_hand": 542598.0
+    },
+    {
+        "cmte_id": "C00733352",
+        "name": "AMERICANS 4 SECURITY PAC",
+        "total_receipts": 1698008.0,
+        "indiv_contrib": 1688008.0,
+        "total_spent": 1670051.0,
+        "cash_on_hand": 31652.0
+    },
+    {
+        "cmte_id": "C00167346",
+        "name": "TENNESSEE DEMOCRATIC PARTY",
+        "total_receipts": 1697040.0,
+        "indiv_contrib": 762682.0,
+        "total_spent": 1685791.0,
+        "cash_on_hand": 51937.0
+    },
+    {
+        "cmte_id": "C00916643",
+        "name": "HOLD THE SENATE",
+        "total_receipts": 1678425.0,
+        "indiv_contrib": 1673425.0,
+        "total_spent": 1611555.0,
+        "cash_on_hand": 66870.0
+    },
+    {
+        "cmte_id": "C00179408",
+        "name": "MAINE DEMOCRATIC PARTY",
+        "total_receipts": 1672257.0,
+        "indiv_contrib": 946475.0,
+        "total_spent": 1679689.0,
+        "cash_on_hand": 384541.0
+    },
+    {
+        "cmte_id": "C00001636",
+        "name": "SMART TD PAC",
+        "total_receipts": 1665441.0,
+        "indiv_contrib": 1573005.0,
+        "total_spent": 1260149.0,
+        "cash_on_hand": 3056865.0
+    },
+    {
+        "cmte_id": "C00608380",
+        "name": "DLCC PAC",
+        "total_receipts": 1661138.0,
+        "indiv_contrib": 568853.0,
+        "total_spent": 637547.0,
+        "cash_on_hand": 1322573.0
+    },
+    {
+        "cmte_id": "C00000422",
+        "name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1655907.0,
+        "indiv_contrib": 1524699.0,
+        "total_spent": 816136.0,
+        "cash_on_hand": 1327861.0
+    },
+    {
+        "cmte_id": "C00832147",
+        "name": "MITTEN PAC",
+        "total_receipts": 1652614.0,
+        "indiv_contrib": 1430868.0,
+        "total_spent": 1067033.0,
+        "cash_on_hand": 810314.0
+    },
+    {
+        "cmte_id": "C00008268",
+        "name": "TRANSPORT WORKERS UNION OF AMERICA POLITICAL CONTRIBUTIONS COMMITTEE",
+        "total_receipts": 1651093.0,
+        "indiv_contrib": 1645093.0,
+        "total_spent": 1446802.0,
+        "cash_on_hand": 841494.0
+    },
+    {
+        "cmte_id": "C00922187",
+        "name": "FIGHTING FOR TEXAS",
+        "total_receipts": 1650135.0,
+        "indiv_contrib": 1645135.0,
+        "total_spent": 1650135.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00640300",
+        "name": "ACTIVATE AMERICA",
+        "total_receipts": 1644080.0,
+        "indiv_contrib": 1636850.0,
+        "total_spent": 1185276.0,
+        "cash_on_hand": 723335.0
+    },
+    {
+        "cmte_id": "C00480830",
+        "name": "PACE OF CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION - LOCAL, STATE, FEDERAL CANDIDATES",
+        "total_receipts": 1642951.0,
+        "indiv_contrib": 1613185.0,
+        "total_spent": 1684631.0,
+        "cash_on_hand": 1657809.0
+    },
+    {
+        "cmte_id": "C00890939",
+        "name": "SECURE PROGRESS",
+        "total_receipts": 1632750.0,
+        "indiv_contrib": 106837.0,
+        "total_spent": 1657321.0,
+        "cash_on_hand": 4520.0
+    },
+    {
+        "cmte_id": "C00778134",
+        "name": "CLAUDIA TENNEY FOR CONGRESS VICTORY FUND",
+        "total_receipts": 1629184.0,
+        "indiv_contrib": 1627184.0,
+        "total_spent": 1649264.0,
+        "cash_on_hand": 348.0
+    },
+    {
+        "cmte_id": "C00089458",
+        "name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+        "total_receipts": 1619478.0,
+        "indiv_contrib": 1548287.0,
+        "total_spent": 1239056.0,
+        "cash_on_hand": 410425.0
+    },
+    {
+        "cmte_id": "C00686980",
+        "name": "STEIL VICTORY FUND",
+        "total_receipts": 1618177.0,
+        "indiv_contrib": 1534677.0,
+        "total_spent": 1529931.0,
+        "cash_on_hand": 135449.0
+    },
+    {
+        "cmte_id": "C00467431",
+        "name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1616227.0,
+        "indiv_contrib": 30000.0,
+        "total_spent": 1318193.0,
+        "cash_on_hand": 1065107.0
+    },
+    {
+        "cmte_id": "C00893230",
+        "name": "LICCARDO VICTORY FUND",
+        "total_receipts": 1615350.0,
+        "indiv_contrib": 1608350.0,
+        "total_spent": 1662218.0,
+        "cash_on_hand": 3810.0
+    },
+    {
+        "cmte_id": "C00305318",
+        "name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1614328.0,
+        "indiv_contrib": 352332.0,
+        "total_spent": 1435012.0,
+        "cash_on_hand": 395081.0
+    },
+    {
+        "cmte_id": "C00847897",
+        "name": "GOD, FAMILY, & COUNTRY PAC",
+        "total_receipts": 1613710.0,
+        "indiv_contrib": 1574542.0,
+        "total_spent": 1304323.0,
+        "cash_on_hand": 394027.0
+    },
+    {
+        "cmte_id": "C00750166",
+        "name": "THE SQUAD VICTORY FUND",
+        "total_receipts": 1612430.0,
+        "indiv_contrib": 1612430.0,
+        "total_spent": 1602756.0,
+        "cash_on_hand": 68142.0
+    },
+    {
+        "cmte_id": "C00191247",
+        "name": "ALASKA DEMOCRATIC PARTY",
+        "total_receipts": 1607278.0,
+        "indiv_contrib": 683938.0,
+        "total_spent": 992926.0,
+        "cash_on_hand": 723928.0
+    },
+    {
+        "cmte_id": "C00831669",
+        "name": "KATHERINE CLARK MAJORITY FUND",
+        "total_receipts": 1606503.0,
+        "indiv_contrib": 1207428.0,
+        "total_spent": 1546831.0,
+        "cash_on_hand": 66775.0
+    },
+    {
+        "cmte_id": "C00161786",
+        "name": "FEDERAL: COLORADO DEMOCRATIC PARTY",
+        "total_receipts": 1603864.0,
+        "indiv_contrib": 665454.0,
+        "total_spent": 1506899.0,
+        "cash_on_hand": 313399.0
+    },
+    {
+        "cmte_id": "C00009985",
+        "name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+        "total_receipts": 1601712.0,
+        "indiv_contrib": 1566147.0,
+        "total_spent": 1563129.0,
+        "cash_on_hand": 244934.0
+    },
+    {
+        "cmte_id": "C00022343",
+        "name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+        "total_receipts": 1592960.0,
+        "indiv_contrib": 1579460.0,
+        "total_spent": 1954525.0,
+        "cash_on_hand": 622804.0
+    },
+    {
+        "cmte_id": "C00699553",
+        "name": "CALVERT VICTORY FUND",
+        "total_receipts": 1585341.0,
+        "indiv_contrib": 1569841.0,
+        "total_spent": 1599202.0,
+        "cash_on_hand": 38981.0
+    },
+    {
+        "cmte_id": "C00024968",
+        "name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1579210.0,
+        "indiv_contrib": 1572088.0,
+        "total_spent": 1511699.0,
+        "cash_on_hand": 607079.0
+    },
+    {
+        "cmte_id": "C00000729",
+        "name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1576963.0,
+        "indiv_contrib": 1520825.0,
+        "total_spent": 1026710.0,
+        "cash_on_hand": 667715.0
+    },
+    {
+        "cmte_id": "C00001198",
+        "name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+        "total_receipts": 1575567.0,
+        "indiv_contrib": 1503067.0,
+        "total_spent": 1389960.0,
+        "cash_on_hand": 1080680.0
+    },
+    {
+        "cmte_id": "C00548818",
+        "name": "TEAM HUDSON",
+        "total_receipts": 1574474.0,
+        "indiv_contrib": 1530974.0,
+        "total_spent": 1448555.0,
+        "cash_on_hand": 130169.0
+    },
+    {
+        "cmte_id": "C00082792",
+        "name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1566962.0,
+        "indiv_contrib": 1551043.0,
+        "total_spent": 1994472.0,
+        "cash_on_hand": 1062537.0
+    },
+    {
+        "cmte_id": "C00582841",
+        "name": "COALITION FOR PROGRESS",
+        "total_receipts": 1565012.0,
+        "indiv_contrib": 1434700.0,
+        "total_spent": 11141591.0,
+        "cash_on_hand": 0.0
+    },
+    {
+        "cmte_id": "C00941690",
+        "name": "FIGHT FOR NEBRASKA PAC",
+        "total_receipts": 1562722.0,
+        "indiv_contrib": 200.0,
+        "total_spent": 1242387.0,
+        "cash_on_hand": 320335.0
+    },
+    {
+        "cmte_id": "C00085316",
+        "name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1560030.0,
+        "indiv_contrib": 1559280.0,
+        "total_spent": 1662919.0,
+        "cash_on_hand": 431556.0
+    },
+    {
+        "cmte_id": "C00113241",
+        "name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "total_receipts": 1550175.0,
+        "indiv_contrib": 1459858.0,
+        "total_spent": 1438578.0,
+        "cash_on_hand": 493268.0
+    },
+    {
+        "cmte_id": "C00832493",
+        "name": "YOUTH SAVE DEMOCRACY PAC",
+        "total_receipts": 1548299.0,
+        "indiv_contrib": 1546190.0,
+        "total_spent": 1740049.0,
+        "cash_on_hand": 117481.0
+    }
+]

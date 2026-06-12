@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BOOZMAN VICTORY",
+        "committee_type": "N",
+        "total_receipts": 30000.0,
+        "indiv_contrib": 25000.0,
+        "total_spent": 25032.0,
+        "cash_on_hand": 8718.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00349746",
+            "pac_name": "CALIFORNIA DAIRIES, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 3724.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00763524"
+}

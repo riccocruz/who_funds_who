@@ -1,0 +1,52 @@
+{
+    "pac": {
+        "name": "LANGWORTHY LEADERSHIP & ACCOUNTABILITY FUND",
+        "committee_type": "N",
+        "total_receipts": 150800.0,
+        "indiv_contrib": 150800.0,
+        "total_spent": 150800.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 22600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 22600.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 51984.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00483487",
+            "pac_name": "BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC",
+            "total_amt": 9808.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00650853",
+            "pac_name": "CREATING OPPORTUNITIES, MARKETS AND ENTHUSIASM IN RURAL KENTUCKY PAC",
+            "total_amt": 9808.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00827881",
+            "pac_name": "CIRCLE THE WAGONS PAC",
+            "total_amt": 9808.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00934109"
+}

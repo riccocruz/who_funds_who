@@ -1,0 +1,118 @@
+{
+    "pac": {
+        "name": "STEEL MANUFACTUERS ASSOCIATION, INC. 21ST CENTURY STEEL MAKERS COALITION (SMA PAC)",
+        "committee_type": "N",
+        "total_receipts": 41100.0,
+        "indiv_contrib": 20600.0,
+        "total_spent": 17313.0,
+        "cash_on_hand": 20971.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IN03174",
+            "cand_name": "BELL, PHILIP KIRK",
+            "party": null,
+            "state": null,
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AR01083",
+            "cand_name": "CRAWFORD, ERIC ALAN RICK",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00525071",
+            "pac_name": "COMMERCIAL METALS COMPANY PAC (CMC PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00379628",
+            "pac_name": "NUCOR CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896118",
+            "pac_name": "TENARIS GLOBAL SERVICES (USA) CORP. POLITICAL ACTION COMMITTEE (TENARIS USA PAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00567263",
+            "pac_name": "GERDAU AMERISTEEL US INC. (GERDAU PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00576470"
+}

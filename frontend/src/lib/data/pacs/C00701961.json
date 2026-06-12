@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "LAVENDER DEMOCRATS",
+        "committee_type": "N",
+        "total_receipts": 28762.0,
+        "indiv_contrib": 25292.0,
+        "total_spent": 21420.0,
+        "cash_on_hand": 12084.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00635664",
+            "pac_name": "WOMEN FOR AMERICAN VALUES AND ETHICS POLITICAL ACTION COMMITTEE (A/K/A WAVE PAC)",
+            "total_amt": 1050.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00654681",
+            "pac_name": "DEMOCRATIC CLUB OF SEAL BEACH",
+            "total_amt": 400.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00526053",
+            "pac_name": "LEISURE WORLD DEMOCRATIC CLUB",
+            "total_amt": 300.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00321943",
+            "pac_name": "DEMOCRATIC PARTY OF ORANGE COUNTY FED PAC",
+            "total_amt": 262.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00570168",
+            "pac_name": "NEWPORT BEACH WOMEN'S DEMOCRATIC CLUB FEDERAL PAC",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00640433",
+            "pac_name": "CANYON DEMOCRATS",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00835330",
+            "pac_name": "CENTRAL ORANGE COUNTY DEMOCRATIC CLUB",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00675058",
+            "pac_name": "ALISO NIGUEL DEMOCRATIC CLUB",
+            "total_amt": 100.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00701961"
+}

@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "TRANSFORMATIVE CHANGE PAC",
+        "committee_type": "Q",
+        "total_receipts": 10100.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 20689.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL04153",
+            "cand_name": "GARCIA, PATTY",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL07420",
+            "cand_name": "DRIVER, ANTHONY JR.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA50098",
+            "cand_name": "CAMPA-NAJJAR, AMMAR",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00035451",
+            "pac_name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00690669"
+}

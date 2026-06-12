@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "TOGETHER FOR WORKING PEOPLE",
+        "committee_type": "O",
+        "total_receipts": 57020.0,
+        "indiv_contrib": 57020.0,
+        "total_spent": 57000.0,
+        "cash_on_hand": 20.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 55000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 55000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2WA03217",
+            "pac_name": "THE NEW MEDIA FIRM",
+            "total_amt": 55000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00926675"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PUSCZEK, AMANDA NOELLE",
+        "party": "DEM",
+        "state": "AL",
+        "indiv_total": 13708.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00902809",
+            "pac_name": "CITIZENS FOR AMANDA PUSCZEK",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 11,
+        "oos_donors": 4,
+        "oos_total": 1300.0
+    },
+    "opposition": []
+}

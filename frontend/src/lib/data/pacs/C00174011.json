@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "RETAIL, WHOLESALE & DEPARTMENT STORE UNION COMMITTEE ON POLITICAL EDUCATION (RWDSU COPE)",
+        "committee_type": "Q",
+        "total_receipts": 46325.0,
+        "indiv_contrib": 46325.0,
+        "total_spent": 1000.0,
+        "cash_on_hand": 107671.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00714527",
+            "pac_name": "MORELLE VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00329375",
+            "pac_name": "MEEKS FOR CONGRESS",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00363317",
+            "pac_name": "MANHATTAN POLITICAL ACTION COMMITTEE (MANHATTAN PAC)",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00174011"
+}

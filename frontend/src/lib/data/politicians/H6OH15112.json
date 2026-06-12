@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "LEONARD, DON RALPH",
+        "party": "DEM",
+        "state": "OH",
+        "indiv_total": 268191.0,
+        "pac_receipts_summary": 6500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00764217",
+            "pac_name": "BARRIER TO ENTRY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 225,
+        "oos_donors": 77,
+        "oos_total": 52904.0
+    },
+    "opposition": []
+}

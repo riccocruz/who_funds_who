@@ -1,0 +1,97 @@
+{
+    "pac": {
+        "name": "COUNCIL FOR A LIVABLE WORLD CANDIDATE FUND",
+        "committee_type": "Q",
+        "total_receipts": 11163.0,
+        "indiv_contrib": 5880.0,
+        "total_spent": 10242.0,
+        "cash_on_hand": 23521.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 4725.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 4725.0
+        },
+        {
+            "cand_id": "H0CA10149",
+            "cand_name": "GARAMENDI, JOHN",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 4250.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2750.0
+        },
+        {
+            "cand_id": "H8CA10126",
+            "cand_name": "HARDER, JOSH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 4118.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2618.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 2300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2300.0
+        },
+        {
+            "cand_id": "H4WI03169",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 1750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1750.0
+        },
+        {
+            "cand_id": "H2WI03130",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 1750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1750.0
+        },
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00387555"
+}

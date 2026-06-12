@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "FAROOQI, AISHA",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 266656.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00758219",
+            "pac_name": "NO DEM LEFT BEHIND PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 173,
+        "oos_donors": 138,
+        "oos_total": 116813.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PRUITT, MIKE",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 432346.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 269,
+        "oos_donors": 167,
+        "oos_total": 118357.0
+    },
+    "opposition": []
+}

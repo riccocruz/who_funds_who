@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "LAUF, CATALINA",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 927289.0,
+        "pac_receipts_summary": 4000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00657866",
+            "pac_name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+            "total_amt": 37540.0,
+            "direct_amt": 0.0,
+            "ie_amt": 37540.0
+        },
+        {
+            "cmte_id": "C00769125",
+            "pac_name": "DREAM BIG PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00781666",
+            "pac_name": "AMERICAN RENAISSANCE PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 240,
+        "oos_donors": 210,
+        "oos_total": 128181.0
+    },
+    "opposition": []
+}

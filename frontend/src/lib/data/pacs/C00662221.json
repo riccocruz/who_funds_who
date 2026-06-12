@@ -1,0 +1,210 @@
+{
+    "pac": {
+        "name": "HOUSE FREEDOM ACTION",
+        "committee_type": "O",
+        "total_receipts": 1469087.0,
+        "indiv_contrib": 1360321.0,
+        "total_spent": 1890603.0,
+        "cash_on_hand": 15318.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07203",
+            "cand_name": "BARRETT, JOSEPH MICHAEL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 383825.0,
+            "direct_amt": 0.0,
+            "ie_amt": 383825.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA04135",
+            "cand_name": "PERRY, SCOTT",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 32490.0,
+            "direct_amt": 0.0,
+            "ie_amt": 32490.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 13500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 13500.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA09246",
+            "cand_name": "CLYDE, ANDREW",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 10014.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10014.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ01354",
+            "cand_name": "CRANE, ELI",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 9984.0,
+            "direct_amt": 0.0,
+            "ie_amt": 9984.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ05265",
+            "cand_name": "LAMB, MARK",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 4944.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4944.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4SC01313",
+            "cand_name": "BIGGS, SHERI",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 3500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 3500.0
+        },
+        {
+            "cand_id": "H8MD01094",
+            "cand_name": "HARRIS, ANDREW P",
+            "party": "REP",
+            "state": "MD",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H0CO03165",
+            "cand_name": "BOEBERT, LAUREN",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 375.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 375.0
+        },
+        {
+            "cand_id": "H6OH04082",
+            "cand_name": "JORDAN, JAMES D.",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 310.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 310.0
+        },
+        {
+            "cand_id": "H2MO07143",
+            "cand_name": "BURLISON, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 200.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 129.0,
+            "direct_amt": 0.0,
+            "ie_amt": 129.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07203",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 383825.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00552851",
+            "pac_name": "FREEDOM CAUCUS FUND",
+            "total_amt": 350000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 88251.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 32490.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 13500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA10104",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 12485.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0GA09246",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 10014.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2AZ01354",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 9984.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6AZ05265",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 4944.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TN07187",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 129.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TN07294",
+            "pac_name": "NEIGHBORHOOD RESEARCH AND MEDIA",
+            "total_amt": 129.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00662221"
+}

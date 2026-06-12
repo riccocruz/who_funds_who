@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "BOWLING PROPRIET0RS' ASSOCIATION OF AMERICA, INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 13305.0,
+        "indiv_contrib": 13305.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 83839.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NC00505",
+            "cand_name": "BUDD, THEODORE P",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA16320",
+            "cand_name": "SMUCKER, LLOYD K.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00079855"
+}

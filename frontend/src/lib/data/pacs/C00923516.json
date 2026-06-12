@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "THANK YOU FOR YOUR ATTENTION TO THIS MATTER PAC",
+        "committee_type": "O",
+        "total_receipts": 1210582.0,
+        "indiv_contrib": 1208500.0,
+        "total_spent": 282901.0,
+        "cash_on_hand": 927681.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NC01137",
+            "cand_name": "BUCKHOUT, LAURIE",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 191000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 191000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4NC01137",
+            "pac_name": "EASTERN CAROLINA CONSERVATIVES FUND",
+            "total_amt": 191000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00923516"
+}

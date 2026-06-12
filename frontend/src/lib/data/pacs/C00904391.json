@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SAVING AMERICAN DEMOCRACY PAC",
+        "committee_type": "Q",
+        "total_receipts": 1546280.0,
+        "indiv_contrib": 1545081.0,
+        "total_spent": 1501605.0,
+        "cash_on_hand": 44675.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00271338",
+            "pac_name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+            "total_amt": 1418000.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 1199.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00904391"
+}

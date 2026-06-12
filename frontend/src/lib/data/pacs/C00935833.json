@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DSCC LIFTOFF FUND 2026",
+        "committee_type": "N",
+        "total_receipts": 126150.0,
+        "indiv_contrib": 126150.0,
+        "total_spent": 121442.0,
+        "cash_on_hand": 4708.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 75450.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00785816",
+            "pac_name": "LIFTOFF PAC",
+            "total_amt": 42450.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00935833"
+}

@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "INCUBATE PAC",
+        "committee_type": "N",
+        "total_receipts": 10955.0,
+        "indiv_contrib": 10955.0,
+        "total_spent": 4563.0,
+        "cash_on_hand": 6392.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC02287",
+            "cand_name": "DAVIS, DON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC03172",
+            "cand_name": "MURPHY, GREGORY FRANCIS DR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MA04192",
+            "cand_name": "AUCHINCLOSS, JAKE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00870741"
+}

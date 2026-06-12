@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BICKELHAUPT, JULIE",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 70681.0,
+        "pac_receipts_summary": 300.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00376590",
+            "pac_name": "ILLINOIS CORN GROWERS ASSOCIATION POLITICAL INVOLVEMENT FUND-FEDERAL",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 58,
+        "oos_donors": 5,
+        "oos_total": 4852.0
+    },
+    "opposition": []
+}

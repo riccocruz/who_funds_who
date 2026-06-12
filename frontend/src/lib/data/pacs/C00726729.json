@@ -1,0 +1,134 @@
+{
+    "pac": {
+        "name": "BOOTS ON THE GROUND - FEDERAL",
+        "committee_type": "Q",
+        "total_receipts": 63529.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 49078.0,
+        "cash_on_hand": 24998.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NJ02166",
+            "cand_name": "VAN DREW, JEFF MR",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VA02064",
+            "cand_name": "KIGGANS, JENNIFER",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA04135",
+            "cand_name": "PERRY, SCOTT",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00739490",
+            "pac_name": "SOUTH JERSEY FIRST",
+            "total_amt": 43527.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00164418",
+            "pac_name": "NEW JERSEY REPUBLICAN STATE COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00000729",
+            "pac_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00238725",
+            "pac_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00726729"
+}

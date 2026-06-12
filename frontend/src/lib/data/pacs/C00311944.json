@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "DGA-PAC THE POLITICAL ACTION COMMITTEE OF THE DIRECTORS GUILD OF AMERICA INC.",
+        "committee_type": "Q",
+        "total_receipts": 154785.0,
+        "indiv_contrib": 134730.0,
+        "total_spent": 73819.0,
+        "cash_on_hand": 460813.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MD08457",
+            "cand_name": "RASKIN, JAMIE",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": -3000.0,
+            "direct_amt": -3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MA02041",
+            "cand_name": "NEAL, RICHARD E",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": -3000.0,
+            "direct_amt": -3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00422774",
+            "pac_name": "ADVANCING DEMOCRACY AND MOBILIZATION PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00311944"
+}

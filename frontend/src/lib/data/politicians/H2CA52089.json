@@ -1,0 +1,1879 @@
+{
+    "politician": {
+        "cand_name": "PETERS, SCOTT",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 257935.0,
+        "pac_receipts_summary": 804750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00010983",
+            "pac_name": "JOHNSON & JOHNSON POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00088591",
+            "pac_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00113811",
+            "pac_name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00211318",
+            "pac_name": "DELOITTE POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252338",
+            "pac_name": "AMERICAN CHEMISTRY COUNCIL PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00292318",
+            "pac_name": "THERMO FISHER SCIENTIFIC INC. PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00340364",
+            "pac_name": "BLUE SHIELD OF CALIFORNIA PAC (SHIELD PAC)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00410084",
+            "pac_name": "AMERICAN CLINICAL LABORATORY ASSOCIATON PAC (LABPAC)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00486217",
+            "pac_name": "LPL FINANCIAL LLC POLITICAL ACTION COMMITTEE (LPL PAC)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00491118",
+            "pac_name": "LUNDBECK LLC EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00697409",
+            "pac_name": "IPSEN BIOPHARMACEUTICALS, INC. EMPLOYEE POLITICAL ACTION COMMITTEE (IPSEN EMPLOYEE PAC)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00329185",
+            "pac_name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
+            "total_amt": 9500.0,
+            "direct_amt": 9500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00033969",
+            "pac_name": "NOVARTIS CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 9000.0,
+            "direct_amt": 9000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002972",
+            "pac_name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "total_amt": 8000.0,
+            "direct_amt": 8000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00008748",
+            "pac_name": "SEMPRA ENERGY EMPLOYEES POLITICAL ACTION COMMITTEE- FEDERAL",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00012245",
+            "pac_name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00107235",
+            "pac_name": "PRICEWATERHOUSECOOPERS POLITICAL ACTION COMMITTEE I",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00227744",
+            "pac_name": "ERNST & YOUNG POLITICAL ACTION COMMITTEE",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00096156",
+            "pac_name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00078451",
+            "pac_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00339085",
+            "pac_name": "QUALCOMM INCORPORATED POLITICAL ACTION COMMITTEE (QPAC)",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00346353",
+            "pac_name": "CRH AMERICAS, INC. PAC",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00426775",
+            "pac_name": "CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00542365",
+            "pac_name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00064774",
+            "pac_name": "NEXTERA ENERGY, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5500.0,
+            "direct_amt": 5500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002469",
+            "pac_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010082",
+            "pac_name": "NCTA - THE INTERNET & TELEVISION ASSOCIATION POLITICAL ACTION COMMITTEE (NCTAPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00011114",
+            "pac_name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00022343",
+            "pac_name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00024521",
+            "pac_name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00029504",
+            "pac_name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00040279",
+            "pac_name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00064766",
+            "pac_name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00076810",
+            "pac_name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00077321",
+            "pac_name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00089458",
+            "pac_name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00095869",
+            "pac_name": "POWERPAC OF THE EDISON ELECTRIC INSTITUTE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00144345",
+            "pac_name": "SANOFI US SERVICES INC. EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00148031",
+            "pac_name": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00158881",
+            "pac_name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00215285",
+            "pac_name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00251876",
+            "pac_name": "AMGEN INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00259572",
+            "pac_name": "AMERICAN CLEAN POWER ASSOCIATION CLEANPOWER PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00281212",
+            "pac_name": "BAE SYSTEMS INC. POLITICAL ACTION COMMITTEE (BAE SYSTEMS USA PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00300418",
+            "pac_name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION VOLUNTARY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00301929",
+            "pac_name": "KELLEY DRYE & WARREN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00314997",
+            "pac_name": "LABORATORY CORPORATION OF AMERICA HOLDINGS POLITICAL PARTICIPATION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00336057",
+            "pac_name": "ARRAY DIGITAL INFRASTRUCTURE, INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00340075",
+            "pac_name": "BASF CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00396895",
+            "pac_name": "GILEAD SCIENCES INC HEALTHCARE POLICY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00410274",
+            "pac_name": "MASTERCARD INTERNATIONAL INC. EMPLOYEE PAC (MASTERCARD PAC) OR (MASTERCARD EMPLOYEE PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00431544",
+            "pac_name": "DUNKIN' BRANDS, INC. POLITICAL ACTION COMMITTEE (DUNKIN' PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00477653",
+            "pac_name": "COX ENTERPRISES PAC (COXPAC) INC.",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00536573",
+            "pac_name": "ABBVIE POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00752766",
+            "pac_name": "TTM TECHNOLOGIES INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00903880",
+            "pac_name": "ABUNDANCE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00343137",
+            "pac_name": "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00859520",
+            "pac_name": "TRANSMISSION PAC",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007880",
+            "pac_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00140061",
+            "pac_name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00468660",
+            "pac_name": "VERTEX PHARMACEUTICALS INCORPORATED POLITICAL ACTION COMMITTEE (VPAC)",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00016683",
+            "pac_name": "PFIZER INC. PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00021972",
+            "pac_name": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA BETTER GOVERNMENT COMMITTEE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00084491",
+            "pac_name": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING POLITICAL ACTION COMMITTEE INC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00109017",
+            "pac_name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00151787",
+            "pac_name": "CUBIC CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00450965",
+            "pac_name": "SIEMENS HEALTHINEERS PAC (THE EMPLOYEE FUNDED POLITICAL ACTION COMMITTEE OF SIEMENS MEDICAL SOLUTIONS USA, INC.)",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00733527",
+            "pac_name": "NEUROCRINE BIOSCIENCES PAC INC.",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000901",
+            "pac_name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00001198",
+            "pac_name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00040535",
+            "pac_name": "AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00072769",
+            "pac_name": "ROCHE DIAGNOSTICS CORPORATION PAC (ROCHE DXPAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00186288",
+            "pac_name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00239780",
+            "pac_name": "PHILIPS NORTH AMERICA LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00303024",
+            "pac_name": "LOCKHEED MARTIN CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00343459",
+            "pac_name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00380550",
+            "pac_name": "FMR LLC POLITICAL ACTION COMMITTEE - FEDERAL (FIDELITY PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00389403",
+            "pac_name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC. PAC (SEMA & PRI PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00411900",
+            "pac_name": "EDWARDS LIFESCIENCES POLITICAL ACTION COMMITTEE (A.K.A. EDWARDS PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00437244",
+            "pac_name": "INVENERGY LLC PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00446948",
+            "pac_name": "ENGINEERING AND SOFTWARE SYSTEMS SOLUTIONS, INC. PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00516526",
+            "pac_name": "ALLIANCE FOR AUTOMOTIVE INNOVATION POLITICAL ACTION COMMITTEE (AUTO PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00523233",
+            "pac_name": "EDF POWER SOLUTIONS, INC. PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00696591",
+            "pac_name": "ACROSS THE AISLE PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00003855",
+            "pac_name": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION COMMITTEE (CANDY PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007922",
+            "pac_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00008474",
+            "pac_name": "CITIGROUP INC. PAC - FEDERAL (CITI PAC - FEDERAL)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00012310",
+            "pac_name": "BLACK & VEATCH POLITICAL ACTION COMMITTEE (BLACK & VEATCH PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00024968",
+            "pac_name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00035675",
+            "pac_name": "BRISTOL-MYERS SQUIBB COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00048579",
+            "pac_name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00059238",
+            "pac_name": "THE KROGER CO. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00068692",
+            "pac_name": "FEDEX CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00081547",
+            "pac_name": "DTE ENERGY COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00097485",
+            "pac_name": "MERCK & CO., INC., EMPLOYEES POLITICAL ACTION COMMITTEE (MERCK PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00113159",
+            "pac_name": "EASTMANPAC-POLITICAL ACTION COMMITTEE OF EASTMAN CHEMICAL COMPANY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00121319",
+            "pac_name": "THRIVENT FINANCIAL FOR LUTHERANS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00127258",
+            "pac_name": "AIR PRODUCTS AND CHEMICALS, INC. POLITICAL ALLIANCE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00144766",
+            "pac_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00144774",
+            "pac_name": "SOUTHERN COMPANY EMPLOYEES PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00151340",
+            "pac_name": "DLA PIPER LLP (US) POLITICAL ACTION COMMITTEE (DLA PIPER PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00194126",
+            "pac_name": "BEAM SUNTORY INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00196725",
+            "pac_name": "HEWLETT PACKARD ENTERPRISE COMPANY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00199257",
+            "pac_name": "GENENTECH INC. POLITICAL ACTION COMMITTEE (GENENPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00239848",
+            "pac_name": "NUCLEAR ENERGY INSTITUTE FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00248716",
+            "pac_name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00279455",
+            "pac_name": "ZENECA INC. POLITICAL ACTION COMMITTEE (AZPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00324483",
+            "pac_name": "BERKSHIRE HATHAWAY ENERGY COMPANY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00326595",
+            "pac_name": "CAPITAL ONE FINANCIAL CORP. ASSOC. POLITICAL FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00339655",
+            "pac_name": "US ONCOLOGY INC. NETWORK POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00349746",
+            "pac_name": "CALIFORNIA DAIRIES, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00355677",
+            "pac_name": "BIOTECHNOLOGY INNOVATION ORGANIZATION PAC (BIO PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00359539",
+            "pac_name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00361741",
+            "pac_name": "INTUIT INC. 21ST CENTURY LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00363879",
+            "pac_name": "ENTERGY CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (ENPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00368720",
+            "pac_name": "STERIS CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE (A.K.A. STERIS EMPLOYEE PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00379768",
+            "pac_name": "EXPERIAN NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (EXPERIAN PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00383976",
+            "pac_name": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00384602",
+            "pac_name": "AMERICAN SOCIETY FOR RADIATION ONCOLOGY PAC (''ASTRO-PAC'')",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00386524",
+            "pac_name": "TRUIST FINANCIAL CORPORATION FEDERAL PAC (FORMERLY SUNTRUST BANKS, INC. POLITICAL ACTION COMMITTEE)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00395723",
+            "pac_name": "ALSTON & BIRD PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00397851",
+            "pac_name": "CENTENE CORPORATION POLITICAL ACTION COMMITTEE (CENTENE PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00400333",
+            "pac_name": "INTERDIGITAL, INC., PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00404194",
+            "pac_name": "GENWORTH FINANCIAL, INC. POLITICAL ACTION COMMITTEE (GENWORTH PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00435933",
+            "pac_name": "AMERICAN ACADEMY OF NEUROLOGY BRAINPAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00441733",
+            "pac_name": "TAKEDA PHARMACEUTICALS AMERICA INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00444885",
+            "pac_name": "ASTELLAS US LLC PAC (ASTELLAS PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00457234",
+            "pac_name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00501163",
+            "pac_name": "SEAWORLD PARKS & ENTERTAINMENT INC. PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00507392",
+            "pac_name": "ENCORE CAPITAL GROUP, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00541169",
+            "pac_name": "NATIONAL ASSOCIATION OF MANUFACTURERS PAC (NAM-PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00543371",
+            "pac_name": "BIOMARIN PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE AKA BIOMARIN PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00546234",
+            "pac_name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00579540",
+            "pac_name": "ALLY FINANCIAL INC. ADVOCACY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00670331",
+            "pac_name": "ALNYLAM PHARMACEUTICALS, INC. POLITICAL ACTION COMMITTEE (ALNYLAM PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00693002",
+            "pac_name": "FOX CORPORATION POLITICAL ACTION COMMITTEE (FOX PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00717900",
+            "pac_name": "PTC THERAPEUTICS, INC. POLITICAL ACTION COMMITTEE (PTC-PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00721811",
+            "pac_name": "JAZZ PHARMACEUTICALS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00763664",
+            "pac_name": "TRACTOR SUPPLY COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00774497",
+            "pac_name": "BIPARTISAN CLIMATE FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829119",
+            "pac_name": "BACPAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00836437",
+            "pac_name": "VIASAT, INC. POLITICAL ACTION COMMITTEE ('VIASAT PAC')",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00847764",
+            "pac_name": "CLEARWAY ENERGY INC PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00851600",
+            "pac_name": "GLOBAL AIR LOGISTICS AND TRAINING, INC. POLITICAL ACTION COMMITTEE (GALT AEROSPACE PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00895706",
+            "pac_name": "TEAMHEALTH HOLDINGS INC PAC (TEAMHEALTH PROVIDERS PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00003251",
+            "pac_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010868",
+            "pac_name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00105338",
+            "pac_name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00171330",
+            "pac_name": "HOLLAND & KNIGHT COMMITTEE FOR EFFECTIVE GOVERNMENT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00217638",
+            "pac_name": "INTERNATIONAL COUNCIL OF SHOPPING CENTERS INC POLITICAL ACTION COMMITTEE (ICSC PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00262295",
+            "pac_name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00311878",
+            "pac_name": "MEDTRONIC INC. PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00325092",
+            "pac_name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00376582",
+            "pac_name": "BECTON DICKINSON AND COMPANY PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00413955",
+            "pac_name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00428623",
+            "pac_name": "GOOGLE LLC NETPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00432252",
+            "pac_name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00459800",
+            "pac_name": "PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT FEDERAL PAC (PECG FED-PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00471169",
+            "pac_name": "ALEXION PHARMACEUTICALS INC. PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00488882",
+            "pac_name": "U.S. BANCORP FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00489302",
+            "pac_name": "SUNRUN INC POLITICAL ACTION COMMITTEE (SUNRUN PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00306175",
+            "pac_name": "LYONDELL CHEMICAL COMPANY PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00422501",
+            "pac_name": "CSL BEHRING LLC EMPLOYEES POLITICAL ACTION COMMITTEE (CSL EMPLOYEES PAC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00529073",
+            "pac_name": "MONDELEZ INTERNATIONAL, INC. PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00720920",
+            "pac_name": "EMPLOYEES OF QUANTA SERVICES, INC.",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00803676",
+            "pac_name": "PIM BRANDS INC. EMPLOYEE PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00865667",
+            "pac_name": "THE LUBRIZOL CORPORATION EMPLOYEES PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00894196",
+            "pac_name": "FLUENCE ENERGY PAC AKA FLUENCE PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00903955",
+            "pac_name": "EPIC SYSTEMS CORPORATION PAC (EPIC PAC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00441949",
+            "pac_name": "JSTREETPAC",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00811687",
+            "pac_name": "SAAB, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (SAAB PAC)",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000422",
+            "pac_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000729",
+            "pac_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000984",
+            "pac_name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002261",
+            "pac_name": "FEDERATION OF AMERICAN HOSPITALS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002790",
+            "pac_name": "OLIN CORPORATION GOOD GOVERNMENT FUND (OLIN WINCHESTER GOOD GOVERNMENT FUND)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007070",
+            "pac_name": "TEXAS INSTRUMENTS INCORPORATED POLITICAL ACTION COMMITTEE (TI PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00024349",
+            "pac_name": "ALASKA AIR GROUP INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00032698",
+            "pac_name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE (ICBA PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00034132",
+            "pac_name": "FLUOR CORPORATION POLITICAL ACTION COMMITTEE (FLUOR PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00035451",
+            "pac_name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00038604",
+            "pac_name": "AMERICAN FINANCIAL SERVICES ASSOCIATION PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00048702",
+            "pac_name": "NATIONAL GRID USA POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00063164",
+            "pac_name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00074096",
+            "pac_name": "DOW INC. PAC (DOWPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00077701",
+            "pac_name": "THE KRAFT HEINZ COMPANY POLITICAL ACTION COMMITTEE (KRAFTHEINZPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00084475",
+            "pac_name": "3M COMPANY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00089136",
+            "pac_name": "ALTRIA GROUP,  INC. POLITICAL ACTION COMMITTEE (ALTRIAPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00091561",
+            "pac_name": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00096842",
+            "pac_name": "THE AMERICAN ELECTRIC POWER COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00098061",
+            "pac_name": "TARGET CORPORATION CITIZENS POLITICAL FORUM (TARGETCITIZENS POLITICAL FORUM)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00104299",
+            "pac_name": "JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00104802",
+            "pac_name": "DELTA AIR LINES PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00104901",
+            "pac_name": "AKIN GUMP STRAUSS HAUER & FELD LLP CIVIC ACTION COMMITTEE (AKA AKIN GUMP PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00107771",
+            "pac_name": "XCEL ENERGY EMPLOYEE POLITICAL ACTION COMMITTEE (XPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00114132",
+            "pac_name": "AMERICAN VETERINARY MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00126763",
+            "pac_name": "NATIONAL ASSOCIATION OF CONVENIENCE STORES POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00132092",
+            "pac_name": "ALLIANT ENERGY CORPORATION EMPLOYEE'S POLITICAL ACTION COMM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00142711",
+            "pac_name": "THE BOEING COMPANY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00150797",
+            "pac_name": "BLANK  ROME PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00161422",
+            "pac_name": "TECO ENERGY INC EMPLOYEES' PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00192153",
+            "pac_name": "NATIONAL ASSOCIATION OF REHABILIATION PROVIDERS & AGENCIES INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00196246",
+            "pac_name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00204453",
+            "pac_name": "KING & SPALDING NONPARTISAN COMMITTEE FOR GOOD GOVERNMENT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00206136",
+            "pac_name": "AMEREN CORPORATION FEDERAL POLITICAL ACTION COMMITTEE (AMEREN FEDPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00213066",
+            "pac_name": "CAREER EDUCATION COLLEGES AND UNIVERSITIES POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00213074",
+            "pac_name": "HILTON WORLDWIDE POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00215053",
+            "pac_name": "SWEDISH MATCH NORTH AMERICA LLC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00216895",
+            "pac_name": "ARNOLD & PORTER KAYE SCHOLER LLP (APKS) PARTNERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00219642",
+            "pac_name": "ENTERPRISE HOLDINGS, INC. / ENTERPRISE MOBILITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00228106",
+            "pac_name": "PPL CORPORATION PEOPLE FOR GOOD GOVERNMENT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00235739",
+            "pac_name": "BNSF RAILWAY COMPANY RAILPAC (BNSF RAILPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00241380",
+            "pac_name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00245548",
+            "pac_name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00267849",
+            "pac_name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00283135",
+            "pac_name": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00306449",
+            "pac_name": "AMERICAN ACADEMY OF OTOLARYNGOLOGY-HEAD AND NECK SURGERY ENT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00312017",
+            "pac_name": "SCOTT PETERS FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00312777",
+            "pac_name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00325936",
+            "pac_name": "SOCIETY OF THORACIC SURGEONS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00329474",
+            "pac_name": "YUM BRANDS INC. GOOD GOVERNMENT FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00340356",
+            "pac_name": "ADVANCED MEDICAL TECHNOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00340943",
+            "pac_name": "DAVITA INC. POLITICAL ACTION COMMITTEE (DAPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00357863",
+            "pac_name": "BOSTON SCIENTIFIC CORPORATION POLITICAL ACTION COMMITTEE (BSC PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00361758",
+            "pac_name": "T-MOBILE US, INC.  POLITICAL ACTION COMMITTEE (T-PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00374447",
+            "pac_name": "AECOM PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00375360",
+            "pac_name": "AMERICAN COLLEGE OF CARDIOLOGY PAC (HEARTPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00382424",
+            "pac_name": "AMERICAN COLLEGE OF SURGEONS PROFESSIONAL ASSOCIATION PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00390583",
+            "pac_name": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK POLITICAL ACTION COMMITTEE)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00391219",
+            "pac_name": "INFINEON TECHNOLOGIES AMERICAS CORP. POLITICAL ACTION COMMITTEE (IFAM PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00391979",
+            "pac_name": "HERZOG PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00399089",
+            "pac_name": "COOK GROUP INC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00406801",
+            "pac_name": "AVANGRID POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00410407",
+            "pac_name": "EDJ HOLDING COMPANY, INC. POLITICAL ACTION COMMITTEE (EDWARD JONES PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00424838",
+            "pac_name": "NOVO NORDISK INC. PAC (NOVO NORDISK PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00430256",
+            "pac_name": "MOLINA HEALTHCARE, INC. PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00447565",
+            "pac_name": "FINSECA PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00466813",
+            "pac_name": "HUMANE WORLD ACTION FUND POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00471565",
+            "pac_name": "THE CONTINUUM FUND, ZACHRY HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00473116",
+            "pac_name": "THREE RIVERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00495002",
+            "pac_name": "AMERICAN INVESTMENT COUNCIL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00507962",
+            "pac_name": "AES CORPORATION POLITICAL ACTION COMMITTEE; THE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00521914",
+            "pac_name": "PRIMERICA INC POLITICAL ACTION COMMITTEE (PRIMERICA PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00523936",
+            "pac_name": "IRON MOUNTAIN INCORPORATED EMPLOYEES PAC (IMPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00562546",
+            "pac_name": "NOVOCURE INC. PAC (A.K.A. NOVOCURE PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00590315",
+            "pac_name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00652842",
+            "pac_name": "ADVANSIX INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00754648",
+            "pac_name": "GRAIL, INC. PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00817585",
+            "pac_name": "WESTERN ALLIANCE BANCORPORATION POLITICAL ACTION COMMITTEE (WABPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00830208",
+            "pac_name": "GE HEALTHCARE TECHNOLOGIES INC. PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00835637",
+            "pac_name": "AREVON ENERGY INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00848697",
+            "pac_name": "LANTHEUS HOLDINGS INC POLITICAL ACTION COMMITTEE (LANTHEUS PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00894881",
+            "pac_name": "DEMOCRATS WIN FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00897785",
+            "pac_name": "OKLO INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00901843",
+            "pac_name": "EXACT SCIENCES CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00917567",
+            "pac_name": "CORPORATE ENERGY BUYERS ASSOCIATION PAC (CEBA PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00761858",
+            "pac_name": "RWE CLEAN ENERGY SERVICES, LLC PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00688432",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0
+        },
+        {
+            "cmte_id": "C00615096",
+            "pac_name": "NATIONAL ASSOCIATION OF VISION CARE PLANS (NAVCP) PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00797670",
+            "pac_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+            "total_amt": -6.0,
+            "direct_amt": -6.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00147173",
+            "pac_name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 129,
+        "oos_donors": 60,
+        "oos_total": 75898.0
+    },
+    "opposition": []
+}

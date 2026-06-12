@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "AXXESS CONSULT INC POLITICAL ACTION COMMITTEE (AXXESS PAC)",
+        "committee_type": "Q",
+        "total_receipts": 28459.0,
+        "indiv_contrib": 28459.0,
+        "total_spent": 16000.0,
+        "cash_on_hand": 43506.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S8TN00337",
+            "cand_name": "BLACKBURN, MARSHA MRS.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00188987",
+            "pac_name": "NATIONAL ALLIANCE FOR CARE AT HOME PAC (ALLIANCE PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00692897",
+            "pac_name": "COLLINS VICTORY COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859553",
+            "pac_name": "ALSOBROOKS VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00806984"
+}

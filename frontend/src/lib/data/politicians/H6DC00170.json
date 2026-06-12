@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "ZALESNE, KINNEY",
+        "party": "DEM",
+        "state": "DC",
+        "indiv_total": 663231.0,
+        "pac_receipts_summary": 4500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00488387",
+            "pac_name": "TRI-STATE MAXED-OUT WOMEN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00195024",
+            "pac_name": "MARYLAND ASSOCIATION FOR CONCERNED CITIZENS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00652164",
+            "pac_name": "JERSEY VALUES PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 298,
+        "oos_donors": 203,
+        "oos_total": 394591.0
+    },
+    "opposition": []
+}

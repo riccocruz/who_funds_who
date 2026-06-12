@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "BERGMANN, CHARLOTTE",
+        "party": "REP",
+        "state": "TN",
+        "indiv_total": 9235.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00122101",
+            "pac_name": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00111534",
+            "pac_name": "JONES WALKER L.L.P. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00607374",
+            "pac_name": "ELBERT GUILLORY'S AMERICA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00097568",
+            "pac_name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 14,
+        "oos_donors": 2,
+        "oos_total": 900.0
+    },
+    "opposition": []
+}

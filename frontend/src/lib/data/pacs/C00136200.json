@@ -1,0 +1,130 @@
+{
+    "pac": {
+        "name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
+        "committee_type": "Y",
+        "total_receipts": 488332.0,
+        "indiv_contrib": 10790.0,
+        "total_spent": 434810.0,
+        "cash_on_hand": 217361.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6RI00221",
+            "cand_name": "WHITEHOUSE, SHELDON",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 12313.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 180743.0,
+            "tx_count": 28
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 58900.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6RI00221",
+            "pac_name": "CFO CONSULTING",
+            "total_amt": 12313.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00906487",
+            "pac_name": "NEW ENGLAND DEMOCRATIC VICTORY FUND",
+            "total_amt": 7077.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00403592",
+            "pac_name": "NARRAGANSETT BAY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00428623",
+            "pac_name": "GOOGLE LLC NETPAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00785584",
+            "pac_name": "DASS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00089243",
+            "pac_name": "MASSACHUSETTS DEMOCRATIC STATE COMMITTEE - FED FUND",
+            "total_amt": 4732.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00085316",
+            "pac_name": "THE CIGNA GROUP EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00025254",
+            "pac_name": "MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00702043",
+            "pac_name": "I.B.E.W. LOCAL 103 FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1666.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 1125.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00194746",
+            "pac_name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00839886",
+            "pac_name": "SUPPORTING EFFECTIVE THOUGHTFUL LEADERSHIP PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00007922",
+            "pac_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "total_amt": 833.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00007658",
+            "pac_name": "DEMOCRATIC PARTY OF SOUTH CAROLINA",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00136200"
+}

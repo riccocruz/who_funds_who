@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "ELECTION INTEGRITY PAC",
+        "committee_type": "O",
+        "total_receipts": 111111.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 111111.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00544387",
+            "pac_name": "AMERICAN PRINCIPLES PROJECT PAC",
+            "total_amt": 37500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00814624"
+}

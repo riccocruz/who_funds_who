@@ -1,0 +1,66 @@
+{
+    "politician": {
+        "cand_name": "HARRIS, SHAWN",
+        "party": "DEM",
+        "state": "GA",
+        "indiv_total": 7895108.0,
+        "pac_receipts_summary": 3688.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00832238",
+            "pac_name": "DEMOCRACY THROUGH VOTING",
+            "total_amt": 17958.0,
+            "direct_amt": 0.0,
+            "ie_amt": 17958.0
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00573709",
+            "pac_name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00811786",
+            "pac_name": "DEMOCRACY DEFENSE FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00510461",
+            "pac_name": "SHAWN HARRIS FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 4293,
+        "oos_donors": 3670,
+        "oos_total": 1355959.0
+    },
+    "opposition": []
+}

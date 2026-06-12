@@ -1,0 +1,142 @@
+{
+    "pac": {
+        "name": "RHEEM MANUFACTURING COMPANY POLITICAL ACTION COMMITTEE (RHEEM PAC)",
+        "committee_type": "N",
+        "total_receipts": 42000.0,
+        "indiv_contrib": 42000.0,
+        "total_spent": 25250.0,
+        "cash_on_hand": 46650.0
+    },
+    "stats": {
+        "candidates_funded": 10
+    },
+    "recipients": [
+        {
+            "cand_id": "H0AR03055",
+            "cand_name": "WOMACK, STEPHEN A THE HON",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AL00230",
+            "cand_name": "TUBERVILLE, THOMAS H",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL02170",
+            "cand_name": "FIGURES, SHOMARI C.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00065",
+            "cand_name": "KENNEDY, JOHN NEELY",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IN08249",
+            "cand_name": "MESSMER, MARK MR.",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL05102",
+            "cand_name": "STRONG, DALE WHITNEY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00774703",
+            "pac_name": "COTTON MAJORITY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00551853",
+            "pac_name": "OORAH! POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00410308",
+            "pac_name": "SHORE PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00828012"
+}

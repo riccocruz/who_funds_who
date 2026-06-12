@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CONFORTI, NIKI",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 273641.0,
+        "pac_receipts_summary": 750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00362178",
+            "pac_name": "FAMILY-PAC FEDERAL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 205,
+        "oos_donors": 118,
+        "oos_total": 38451.0
+    },
+    "opposition": []
+}

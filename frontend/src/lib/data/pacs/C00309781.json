@@ -1,0 +1,98 @@
+{
+    "pac": {
+        "name": "PHOENIX EDUCATION PARTNERS, INC. GOVERNANCE FUND",
+        "committee_type": "Q",
+        "total_receipts": 42167.0,
+        "indiv_contrib": 42167.0,
+        "total_spent": 36500.0,
+        "cash_on_hand": 136582.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MI07103",
+            "cand_name": "WALBERG, TIMOTHY L REP",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IL12060",
+            "cand_name": "BOST, MICHAEL",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4IA00129",
+            "cand_name": "ERNST, JONI K",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4SD00049",
+            "cand_name": "ROUNDS, MIKE",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00493924",
+            "pac_name": "REINVENTING A NEW DIRECTION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00825810",
+            "pac_name": "CISCOMANI VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00309781"
+}

@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION OF BANKRUPTCY TRUSTEES POLITICAL ACTION COMMITTEE (NABT PAC)",
+        "committee_type": "Q",
+        "total_receipts": 20490.0,
+        "indiv_contrib": 20490.0,
+        "total_spent": 16016.0,
+        "cash_on_hand": 62254.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8VA06104",
+            "cand_name": "CLINE, BENJAMIN LEE",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0DE00092",
+            "cand_name": "COONS, CHRISTOPHER A.",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00505065",
+            "pac_name": "GLENN IVEY FOR CONGRESS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00348623"
+}

@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "OHIO CATTLEMEN'S ASSOCIATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 15865.0,
+        "indiv_contrib": 15865.0,
+        "total_spent": 16500.0,
+        "cash_on_hand": 55679.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00425371"
+}

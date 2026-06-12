@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "MISSISSIPPI BANKERS POLITICAL ACTION COMMITTEE-FEDERAL FUND",
+        "committee_type": "Q",
+        "total_receipts": 24916.0,
+        "indiv_contrib": 24916.0,
+        "total_spent": 26500.0,
+        "cash_on_hand": 4727.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 26500.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00106716"
+}

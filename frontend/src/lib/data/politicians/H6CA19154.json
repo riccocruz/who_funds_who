@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "VERBICA, PETER COE",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 58524.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00712695",
+            "pac_name": "VITORIA PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 59,
+        "oos_donors": 5,
+        "oos_total": 6500.0
+    },
+    "opposition": []
+}

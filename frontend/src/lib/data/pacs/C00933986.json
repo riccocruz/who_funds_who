@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "FISH FAMILY FREEDOM FUND",
+        "committee_type": "N",
+        "total_receipts": 844728.0,
+        "indiv_contrib": 844678.0,
+        "total_spent": 778803.0,
+        "cash_on_hand": 65925.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00191247",
+            "pac_name": "ALASKA DEMOCRATIC PARTY",
+            "total_amt": 126000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00831545",
+            "pac_name": "CACHE PAC",
+            "total_amt": 41500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00933986"
+}

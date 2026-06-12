@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "RADIANT INDUSTRIES, INC. PAC",
+        "committee_type": "N",
+        "total_receipts": 30000.0,
+        "indiv_contrib": 30000.0,
+        "total_spent": 7051.0,
+        "cash_on_hand": 22949.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC13243",
+            "cand_name": "HARRIGAN, PAT",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA07273",
+            "cand_name": "MCCORMICK, RICHARD DEAN DR.",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN03254",
+            "cand_name": "FLEISCHMANN, CHARLES J",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00931212"
+}

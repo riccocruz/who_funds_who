@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "CRUX CLIMATE, INC. PAC (CRUX PAC)",
+        "committee_type": "N",
+        "total_receipts": 18015.0,
+        "indiv_contrib": 17000.0,
+        "total_spent": 12603.0,
+        "cash_on_hand": 5413.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S2NM00088",
+            "cand_name": "HEINRICH, MARTIN",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4UT00282",
+            "cand_name": "CURTIS, JOHN",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00898528"
+}

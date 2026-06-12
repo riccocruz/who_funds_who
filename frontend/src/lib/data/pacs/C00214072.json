@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "UNIVERSAL LEAF TOBACCO COMPANY, INCORPORATED POLITICAL ACTION COMMITTEE (FEDERAL)",
+        "committee_type": "Q",
+        "total_receipts": 14739.0,
+        "indiv_contrib": 13644.0,
+        "total_spent": 1095.0,
+        "cash_on_hand": 25740.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC02287",
+            "cand_name": "DAVIS, DON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00013607",
+            "cand_name": "JASON SMITH FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00678854",
+            "pac_name": "WITTMAN VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00214072"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "ORANGE COAST HUDDLE",
+        "committee_type": "N",
+        "total_receipts": 19925.0,
+        "indiv_contrib": 19325.0,
+        "total_spent": 13414.0,
+        "cash_on_hand": 11289.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA47188",
+            "cand_name": "GARCIA, ROBERT",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00321943",
+            "pac_name": "DEMOCRATIC PARTY OF ORANGE COUNTY FED PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00789867"
+}

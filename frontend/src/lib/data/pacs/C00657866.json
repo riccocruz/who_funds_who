@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+        "committee_type": "O",
+        "total_receipts": 7739389.0,
+        "indiv_contrib": 7685889.0,
+        "total_spent": 3908172.0,
+        "cash_on_hand": 4281631.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL19186",
+            "cand_name": "LAUF, CATALINA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 37540.0,
+            "direct_amt": 0.0,
+            "ie_amt": 37540.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00918227",
+            "pac_name": "KENTUCKY FIRST PAC",
+            "total_amt": 1010000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6FL19186",
+            "pac_name": "STAFFORD CREATIVE",
+            "total_amt": 37540.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00657866"
+}

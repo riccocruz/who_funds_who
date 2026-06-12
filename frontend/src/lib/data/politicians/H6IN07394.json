@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HORNEDO, GEORGE",
+        "party": "DEM",
+        "state": "IN",
+        "indiv_total": 172647.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00780437",
+            "pac_name": "COURAGE TO ACT",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 139,
+        "oos_donors": 100,
+        "oos_total": 94811.0
+    },
+    "opposition": []
+}

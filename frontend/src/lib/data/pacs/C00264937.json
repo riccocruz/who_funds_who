@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "GREAT LAKES DREDGE & DOCK COMPANY POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 20364.0,
+        "indiv_contrib": 20364.0,
+        "total_spent": 12000.0,
+        "cash_on_hand": 16814.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX07170",
+            "cand_name": "HUNT, WESLEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00611137",
+            "pac_name": "COLLINS FOR CONGRESS",
+            "total_amt": 1500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00264937"
+}

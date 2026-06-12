@@ -1,0 +1,172 @@
+{
+    "pac": {
+        "name": "B BRIGADE MAJORITY FUND",
+        "committee_type": "Q",
+        "total_receipts": 70109.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 79981.0,
+        "cash_on_hand": 1891.0
+    },
+    "stats": {
+        "candidates_funded": 13
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IA02043",
+            "cand_name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA08124",
+            "cand_name": "BRESNAHAN, ROB",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA20094",
+            "cand_name": "VALADAO, DAVID",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NJ07261",
+            "cand_name": "KEAN, THOMAS H. JR.",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI02094",
+            "cand_name": "HUIZENGA, WILLIAM P",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MT02098",
+            "cand_name": "DOWNING, TROY",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI10150",
+            "cand_name": "JAMES, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI01226",
+            "cand_name": "BERGMAN, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2525.0,
+            "direct_amt": 2525.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI08296",
+            "cand_name": "HASSAN, AMIR",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00817874",
+            "pac_name": "BARRETT BRIGADE VICTORY FUND",
+            "total_amt": 37607.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00113811",
+            "pac_name": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00921817",
+            "pac_name": "MORGAN MURPHY FOR SENATE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00820787"
+}

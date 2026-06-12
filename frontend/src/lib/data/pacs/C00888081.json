@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "HEALTH CARE SAVES LIVES",
+        "committee_type": "O",
+        "total_receipts": 351000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 352305.0,
+        "cash_on_hand": 1300.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0CA48198",
+            "pac_name": "SCALE TO WIN",
+            "total_amt": 6199.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6CA48245",
+            "pac_name": "SCALE TO WIN",
+            "total_amt": 999.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00888081"
+}

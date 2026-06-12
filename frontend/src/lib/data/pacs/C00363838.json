@@ -1,0 +1,114 @@
+{
+    "pac": {
+        "name": "HUNTSMAN CORPORATION PAC (HUNTSMAN PAC)",
+        "committee_type": "Q",
+        "total_receipts": 39982.0,
+        "indiv_contrib": 39982.0,
+        "total_spent": 47382.0,
+        "cash_on_hand": 78284.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4SD00049",
+            "cand_name": "ROUNDS, MIKE",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX02166",
+            "cand_name": "CRENSHAW, DANIEL",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8ID00092",
+            "cand_name": "RISCH, JAMES E MR.",
+            "party": "UNK",
+            "state": "ID",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL01055",
+            "cand_name": "CARL, JERRY LEE, JR",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571976",
+            "pac_name": "THE PETER NORBECK LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00788448",
+            "pac_name": "TEAM HAGERTY VICTORY",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00885897",
+            "pac_name": "FEDORCHAK VICTORY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00772434",
+            "pac_name": "PAC FOR AMERICA",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00363838"
+}

@@ -1,0 +1,97 @@
+{
+    "pac": {
+        "name": "SOLVENTUM CORPORATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 65541.0,
+        "indiv_contrib": 65541.0,
+        "total_spent": 18643.0,
+        "cash_on_hand": 46898.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "S2SD00068",
+            "cand_name": "THUNE, JOHN R.",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL13148",
+            "cand_name": "BUCHANAN, VERNON",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA46116",
+            "cand_name": "CORREA, LOU",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA31170",
+            "cand_name": "CISNEROS FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX35011",
+            "cand_name": "CASTRO, JOAQUIN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MN04049",
+            "cand_name": "MCCOLLUM, BETTY",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00906925"
+}

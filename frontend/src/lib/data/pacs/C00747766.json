@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "TRUTH TO POWER",
+        "committee_type": "Q",
+        "total_receipts": 408259.0,
+        "indiv_contrib": 387063.0,
+        "total_spent": 438554.0,
+        "cash_on_hand": 269500.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6ME02197",
+            "cand_name": "WOOD, JORDAN",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00873059",
+            "pac_name": "DAVE MIN VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00747766"
+}

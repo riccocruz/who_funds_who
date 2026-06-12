@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SCHIFF, ADAM",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 6461264.0,
+        "pac_receipts_summary": 62501.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00105338",
+            "pac_name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00164939",
+            "pac_name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

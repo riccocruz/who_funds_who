@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "SKOL PAC",
+        "committee_type": "N",
+        "total_receipts": 18825.0,
+        "indiv_contrib": 4429.0,
+        "total_spent": 49132.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6ME02148",
+            "cand_name": "LEPAGE, PAUL",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY06226",
+            "cand_name": "PLUCINSKI, GREG",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA07273",
+            "cand_name": "MCCORMICK, RICHARD DEAN DR.",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI01226",
+            "cand_name": "BERGMAN, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00760421",
+            "pac_name": "KISTNER VICTORY FUND",
+            "total_amt": 11048.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00732925"
+}

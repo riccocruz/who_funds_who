@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "LEADING THE FUTURE",
+        "committee_type": "O",
+        "total_receipts": 75535802.0,
+        "indiv_contrib": 75100000.0,
+        "total_spent": 24390931.0,
+        "cash_on_hand": 51144870.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00916692",
+            "pac_name": "AMERICAN MISSION",
+            "total_amt": 10000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00923417",
+            "pac_name": "THINK BIG",
+            "total_amt": 10000000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00916114"
+}

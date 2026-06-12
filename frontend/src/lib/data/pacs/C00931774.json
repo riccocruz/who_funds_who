@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "ARTICLE ONE PAC",
+        "committee_type": "V",
+        "total_receipts": 950100.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 950066.0,
+        "cash_on_hand": 34.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06114",
+            "cand_name": "FOUSHEE, VALERIE",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 600000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 600000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11310",
+            "cand_name": "WAY, TAHESHA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 350000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 350000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NC06114",
+            "pac_name": "GPS IMPACT",
+            "total_amt": 600000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NJ11310",
+            "pac_name": "AL MEDIA LLC",
+            "total_amt": 350000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00931774"
+}

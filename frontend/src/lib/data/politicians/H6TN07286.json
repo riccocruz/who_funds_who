@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "COPELAND, DARDEN HUNTER",
+        "party": "DEM",
+        "state": "TN",
+        "indiv_total": 459464.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00787945",
+            "pac_name": "BLUEWAVEAMERICA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 215,
+        "oos_donors": 121,
+        "oos_total": 68818.0
+    },
+    "opposition": []
+}

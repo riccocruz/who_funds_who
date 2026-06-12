@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "J. H. FLETCHER & CO. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 11900.0,
+        "indiv_contrib": 11900.0,
+        "total_spent": 2221.0,
+        "cash_on_hand": 13060.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00496257"
+}

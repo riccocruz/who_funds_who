@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "PUB K PAC",
+        "committee_type": "N",
+        "total_receipts": 10556.0,
+        "indiv_contrib": 5290.0,
+        "total_spent": 7328.0,
+        "cash_on_hand": 3227.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL02208",
+            "cand_name": "DUNN, NEAL PATRICK MD, FACS",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00899658"
+}

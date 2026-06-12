@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "MIJENTE PAC",
+        "committee_type": "W",
+        "total_receipts": 65583.0,
+        "indiv_contrib": 4981.0,
+        "total_spent": 70935.0,
+        "cash_on_hand": 163109.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00738039"
+}

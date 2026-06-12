@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "GEORGIA OILMEN'S ASSOCIATION INC PAC (GOAPAC)",
+        "committee_type": "Q",
+        "total_receipts": 12000.0,
+        "indiv_contrib": 12000.0,
+        "total_spent": 13000.0,
+        "cash_on_hand": 41200.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H0GA09246",
+            "cand_name": "CLYDE, ANDREW",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6GA00390",
+            "cand_name": "COLLINS, MICHAEL A JR",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA07273",
+            "cand_name": "MCCORMICK, RICHARD DEAN DR.",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00319194"
+}

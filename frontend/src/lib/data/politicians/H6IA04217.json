@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "DAWSON, DAVE",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 87927.0,
+        "pac_receipts_summary": 1800.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00629063",
+            "pac_name": "THE MAJORITY RULES",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 300.0,
+            "direct_amt": 300.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 106,
+        "oos_donors": 7,
+        "oos_total": 2675.0
+    },
+    "opposition": []
+}

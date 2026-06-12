@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "NATIONAL RIGHT TO LIFE VICTORY FUND",
+        "committee_type": "O",
+        "total_receipts": 71627.0,
+        "indiv_contrib": 71627.0,
+        "total_spent": 25786.0,
+        "cash_on_hand": 116372.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 4648.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4648.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 147.0,
+            "direct_amt": 0.0,
+            "ie_amt": 147.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 147.0,
+            "direct_amt": 0.0,
+            "ie_amt": 147.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "I360",
+            "total_amt": 4648.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "CALL MULTIPLIER",
+            "total_amt": 147.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "CALL MULTIPLIER",
+            "total_amt": 147.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00509893"
+}

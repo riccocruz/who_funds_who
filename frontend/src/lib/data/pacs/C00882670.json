@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "EL PASO ELECTRIC COMPANY EMPLOYEE PAC - FEDERAL",
+        "committee_type": "N",
+        "total_receipts": 12666.0,
+        "indiv_contrib": 12500.0,
+        "total_spent": 3500.0,
+        "cash_on_hand": 14000.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00882670"
+}

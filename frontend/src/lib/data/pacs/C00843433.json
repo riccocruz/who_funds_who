@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "AMERICAN RIGHTS AND REFORM PAC, INC.",
+        "committee_type": "O",
+        "total_receipts": 6788492.0,
+        "indiv_contrib": 6788492.0,
+        "total_spent": 5927805.0,
+        "cash_on_hand": 1115658.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00892471",
+            "pac_name": "MAGA INC.",
+            "total_amt": 2050000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00906701",
+            "pac_name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+            "total_amt": 1500000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00843433"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "BUILDING BLUE",
+        "committee_type": "Q",
+        "total_receipts": 203971.0,
+        "indiv_contrib": 203971.0,
+        "total_spent": 155630.0,
+        "cash_on_hand": 48342.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 2511.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00908806"
+}

@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "WESTERN GROWERS POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 85500.0,
+        "indiv_contrib": 85500.0,
+        "total_spent": 5326.0,
+        "cash_on_hand": 81463.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA20082",
+            "cand_name": "COSTA, JIM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00193979"
+}

@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "HEALTH ALLIANCE PLAN PAC",
+        "committee_type": "Q",
+        "total_receipts": 49555.0,
+        "indiv_contrib": 49555.0,
+        "total_spent": 28802.0,
+        "cash_on_hand": 87083.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MI04126",
+            "cand_name": "MOOLENAAR, JOHN MR.",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00410670"
+}

@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "FIRST SERVICE CREDIT UNION POLITICAL ACTION COMMITTEE (FSCU PAC)",
+        "committee_type": "N",
+        "total_receipts": 11423.0,
+        "indiv_contrib": 11423.0,
+        "total_spent": 9007.0,
+        "cash_on_hand": 4726.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX22302",
+            "cand_name": "NEHLS, TROY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3250.0,
+            "direct_amt": 3250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX21343",
+            "cand_name": "KARLSRUHER, JESSICA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00654186",
+            "pac_name": "SOCK IT TO 'EM PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00827519",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC - FEDERAL",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00892042"
+}

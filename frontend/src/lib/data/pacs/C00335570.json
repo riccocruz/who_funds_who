@@ -1,0 +1,166 @@
+{
+    "pac": {
+        "name": "ACADIAN AMBULANCE  SERVICE EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE, INC.",
+        "committee_type": "Q",
+        "total_receipts": 37059.0,
+        "indiv_contrib": 37059.0,
+        "total_spent": 48000.0,
+        "cash_on_hand": 7756.0
+    },
+    "stats": {
+        "candidates_funded": 13
+    },
+    "recipients": [
+        {
+            "cand_id": "H2LA05126",
+            "cand_name": "LETLOW, JULIA",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 9500.0,
+            "direct_amt": 9500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX09124",
+            "cand_name": "CAIN, BRISCOE ROWELL III",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VA02064",
+            "cand_name": "KIGGANS, JENNIFER",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6OH09172",
+            "cand_name": "SHEAHAN, MADISON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4LA06211",
+            "cand_name": "FIELDS, CLEO",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA02149",
+            "cand_name": "CARTER, TROY A. SR.",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0OR02127",
+            "cand_name": "BENTZ, CLIFF",
+            "party": "REP",
+            "state": "OR",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MI00470",
+            "cand_name": "SLOTKIN, ELISSA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 9000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00776708",
+            "pac_name": "HIGGINS VICTORY COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00335570"
+}

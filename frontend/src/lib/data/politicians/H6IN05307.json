@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "FORD, JAMES (J.D.) DAVID",
+        "party": "DEM",
+        "state": "IN",
+        "indiv_total": 217175.0,
+        "pac_receipts_summary": 12084.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00410068",
+            "pac_name": "FRATERNITY & SORORITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00907816",
+            "pac_name": "NEIGHBORS TO ELECT J.D. FORD",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 223,
+        "oos_donors": 19,
+        "oos_total": 8602.0
+    },
+    "opposition": []
+}

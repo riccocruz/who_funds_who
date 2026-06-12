@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "TERRY, RANDAL ALLAN MR.",
+        "party": "UN",
+        "state": "00",
+        "indiv_total": 26010.0,
+        "pac_receipts_summary": 5623.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00895813",
+            "pac_name": "DESTROY THE DEMOCRAT PARTY",
+            "total_amt": 5208.0,
+            "direct_amt": 5208.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 24,
+        "oos_donors": 24,
+        "oos_total": 17334.0
+    },
+    "opposition": []
+}

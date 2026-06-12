@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "BLUE CROSS AND BLUE SHIELD OF NEBRASKA PAC",
+        "committee_type": "Q",
+        "total_receipts": 21642.0,
+        "indiv_contrib": 21642.0,
+        "total_spent": 22209.0,
+        "cash_on_hand": 41543.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "PETE RICKETTS FOR SENATE",
+            "party": null,
+            "state": null,
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02125",
+            "cand_name": "BACON, DONALD J",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00194746",
+            "pac_name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+            "total_amt": 12500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00276311"
+}

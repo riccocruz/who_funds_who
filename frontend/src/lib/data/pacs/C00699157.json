@@ -1,0 +1,84 @@
+{
+    "pac": {
+        "name": "CLEAR CHANNEL OUTDOOR, LLC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 85548.0,
+        "indiv_contrib": 85548.0,
+        "total_spent": 27250.0,
+        "cash_on_hand": 402082.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8AZ09040",
+            "cand_name": "STANTON, GREG",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA02142",
+            "cand_name": "LAMALFA, DOUG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ03109",
+            "cand_name": "ANSARI, YASSAMIN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00341800",
+            "pac_name": "AIRPORTS COUNCIL INTERNATIONAL-NORTH AMERICA PAC",
+            "total_amt": 2000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00699157"
+}

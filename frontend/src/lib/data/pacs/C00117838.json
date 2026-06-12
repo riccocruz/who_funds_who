@@ -1,0 +1,126 @@
+{
+    "pac": {
+        "name": "BAXTER HEALTHCARE CORPORATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 46305.0,
+        "indiv_contrib": 46305.0,
+        "total_spent": 87443.0,
+        "cash_on_hand": 25843.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IN09143",
+            "cand_name": "HOUCHIN, ERIN",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2SD00068",
+            "cand_name": "THUNE, JOHN R.",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8NY00082",
+            "cand_name": "SCHUMER, CHARLES E.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MS02068",
+            "cand_name": "THOMPSON, BENNIE G.",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI12079",
+            "cand_name": "DINGELL, DEBBIE",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC14050",
+            "cand_name": "EDWARDS, CHUCK",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL10068",
+            "cand_name": "SCHNEIDER, BRADLEY S.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC02125",
+            "cand_name": "ROSS, DEBORAH",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 25000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 17500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00886796",
+            "pac_name": "VANTIVE US HEALTHCARE LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00117838"
+}

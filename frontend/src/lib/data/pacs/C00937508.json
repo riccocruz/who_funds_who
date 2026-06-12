@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "PROTECT AMERICA",
+        "committee_type": "N",
+        "total_receipts": 55091.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 10140.0,
+        "cash_on_hand": 44951.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NY19268",
+            "cand_name": "OBERACKER, PETER KARL JR",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6ME02148",
+            "cand_name": "LEPAGE, PAUL",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00937524",
+            "pac_name": "TEAM MIKE",
+            "total_amt": 55091.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00937508"
+}

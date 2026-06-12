@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "RIVERSIDE COUNTY DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 201085.0,
+        "indiv_contrib": 125937.0,
+        "total_spent": 117994.0,
+        "cash_on_hand": 154581.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00402826",
+            "pac_name": "SAN DIEGO COUNTY DEMOCRATIC PARTY (FED. ACCT.)",
+            "total_amt": 300.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00419283",
+            "pac_name": "DEMOCRATS OF SOUTHWEST RIVERSIDE COUNTY",
+            "total_amt": 295.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00396994"
+}

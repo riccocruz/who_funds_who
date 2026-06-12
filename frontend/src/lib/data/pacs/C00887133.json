@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "MIDLAND FINANCIAL CO. POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 28250.0,
+        "indiv_contrib": 28250.0,
+        "total_spent": 15500.0,
+        "cash_on_hand": 38750.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H4OK06056",
+            "cand_name": "LUCAS, FRANK D.",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO05234",
+            "cand_name": "CLEAVER, EMANUEL II",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KY06104",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL14067",
+            "cand_name": "FOSTER, G. WILLIAM (BILL)",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CO07045",
+            "cand_name": "PETTERSEN, BRITTANY LOUISE",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX19099",
+            "cand_name": "ARRINGTON, JODEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00909184",
+            "pac_name": "LANKFORD VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00887133"
+}

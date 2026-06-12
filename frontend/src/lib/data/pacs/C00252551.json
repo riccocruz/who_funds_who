@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF SAN DIEGO COUNTY",
+        "committee_type": "Y",
+        "total_receipts": 620926.0,
+        "indiv_contrib": 345996.0,
+        "total_spent": 608087.0,
+        "cash_on_hand": 46699.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00715375",
+            "pac_name": "CALIFORNIA REPUBLICAN LEADERSHIP PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00741355",
+            "pac_name": "MAJORITY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 335.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00252551"
+}

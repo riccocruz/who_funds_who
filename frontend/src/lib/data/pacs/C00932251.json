@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MEDINA COUNTY REPUBLICAN PARTY OF TEXAS",
+        "committee_type": "X",
+        "total_receipts": 28278.0,
+        "indiv_contrib": 26278.0,
+        "total_spent": 32320.0,
+        "cash_on_hand": 28319.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00116020",
+            "pac_name": "VULCAN MATERIALS COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00387464",
+            "pac_name": "ALAMO PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00932251"
+}

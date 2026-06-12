@@ -1,0 +1,42 @@
+{
+    "politician": {
+        "cand_name": "BODNAR, SETH",
+        "party": "IND",
+        "state": "MT",
+        "indiv_total": 1332525.0,
+        "pac_receipts_summary": 26050.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00771972",
+            "pac_name": "HEARTLAND PATRIOTS",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00824342",
+            "pac_name": "WAY BACK PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 680,
+        "oos_donors": 444,
+        "oos_total": 702794.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00693838",
+            "pac_name": "MORE JOBS, LESS GOVERNMENT",
+            "total_amt": 96051.0
+        },
+        {
+            "cmte_id": "C00764209",
+            "pac_name": "LEADERSHIP IN ACTION",
+            "total_amt": 10000.0
+        }
+    ]
+}

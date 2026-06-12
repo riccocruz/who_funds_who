@@ -1,0 +1,180 @@
+{
+    "pac": {
+        "name": "AMERICAN ASSOCIATION OF AIRPORT EXECUTIVES",
+        "committee_type": "Q",
+        "total_receipts": 53330.0,
+        "indiv_contrib": 53330.0,
+        "total_spent": 29436.0,
+        "cash_on_hand": 113226.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NM00058",
+            "cand_name": "LUJAN, BEN RAY",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KS03155",
+            "cand_name": "DAVIDS, SHARICE",
+            "party": "DEM",
+            "state": "KS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA02080",
+            "cand_name": "LARSEN, RICK",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0IL05096",
+            "cand_name": "QUIGLEY, MIKE",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "DAVIDS, SHARICE",
+            "party": null,
+            "state": null,
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MT00183",
+            "cand_name": "SHEEHY, TIM",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TN07076",
+            "cand_name": "GREEN, MARK DR.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL14174",
+            "cand_name": "UNDERWOOD, LAUREN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV02395",
+            "cand_name": "AMODEI, MARK EUGENE",
+            "party": "REP",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA47188",
+            "cand_name": "GARCIA, ROBERT",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA00120",
+            "cand_name": "BROWNLEY, JULIA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY02234",
+            "cand_name": "GARBARINO, ANDREW",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00293704",
+            "pac_name": "WOMACK FOR CONGRESS",
+            "total_amt": 4000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00241349",
+            "pac_name": "MORAN FOR CONGRESS",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00176727"
+}

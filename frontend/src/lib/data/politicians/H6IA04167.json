@@ -1,0 +1,171 @@
+{
+    "politician": {
+        "cand_name": "MCGOWAN, CHRIS",
+        "party": "REP",
+        "state": "IA",
+        "indiv_total": 535013.0,
+        "pac_receipts_summary": 92000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00658831",
+            "pac_name": "SIOUXLAND ETHANOL LLC PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00911099",
+            "pac_name": "IOWA ALWAYS PAC",
+            "total_amt": 8718.0,
+            "direct_amt": 0.0,
+            "ie_amt": 8718.0
+        },
+        {
+            "cmte_id": "C00467431",
+            "pac_name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00540146",
+            "pac_name": "FIRST IN FREEDOM PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00639229",
+            "pac_name": "AMERICAN REVIVAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00693796",
+            "pac_name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00749481",
+            "pac_name": "RAPTOR PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00783167",
+            "pac_name": "WORKING FOR OHIO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00416594",
+            "pac_name": "MCGOWAN FOR IOWA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00082040",
+            "pac_name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00331686",
+            "pac_name": "FASPAC FAREWAY STORES INC PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00607721",
+            "pac_name": "LAND OF OPPORTUNITY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00394957",
+            "pac_name": "MCGOWAN FOR IOWA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545749",
+            "pac_name": "MCGOWAN FOR IOWA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00608695",
+            "pac_name": "MCGOWAN FOR IOWA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00689208",
+            "pac_name": "RVFPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00770255",
+            "pac_name": "SIX PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00918979",
+            "pac_name": "MCGOWAN FOR IOWA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765644",
+            "pac_name": "BIG IDEAS CREATE EXCELLENCE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00823351",
+            "pac_name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 205,
+        "oos_donors": 96,
+        "oos_total": 347676.0
+    },
+    "opposition": []
+}

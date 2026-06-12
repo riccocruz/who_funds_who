@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "MAKE ACCOUNTABILITY GREAT AGAIN PAC",
+        "committee_type": "Q",
+        "total_receipts": 27020.0,
+        "indiv_contrib": 26474.0,
+        "total_spent": 24780.0,
+        "cash_on_hand": 27689.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL01523",
+            "cand_name": "FRANKMAN, JOHN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WY00233",
+            "cand_name": "GIRALT, DAVID",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06324",
+            "cand_name": "BAKER, AARON",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AL02175",
+            "cand_name": "MCKEE, JOSHUA LOGAN",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL01247",
+            "cand_name": "GROSS, KEITH",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00892786"
+}

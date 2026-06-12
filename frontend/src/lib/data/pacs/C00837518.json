@@ -1,0 +1,275 @@
+{
+    "pac": {
+        "name": "NRSC VICTORY",
+        "committee_type": "N",
+        "total_receipts": 12707089.0,
+        "indiv_contrib": 12645922.0,
+        "total_spent": 11421530.0,
+        "cash_on_hand": 1330054.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00044842",
+            "pac_name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
+            "total_amt": 124971.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00031088",
+            "pac_name": "WASHINGTON STATE REPUBLICAN PARTY",
+            "total_amt": 118275.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00034033",
+            "pac_name": "SOUTH CAROLINA REPUBLICAN PARTY",
+            "total_amt": 118113.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00035618",
+            "pac_name": "VERMONT REPUBLICAN FEDERAL ELECTIONS COMMITTEE",
+            "total_amt": 117864.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00078196",
+            "pac_name": "RHODE ISLAND REPUBLICAN STATE CENTRAL COMMITTEE",
+            "total_amt": 117674.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00040220",
+            "pac_name": "TENNESSEE REPUBLICAN PARTY FEDERAL ELECTION ACCOUNT",
+            "total_amt": 116833.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00089482",
+            "pac_name": "UTAH REPUBLICAN PARTY",
+            "total_amt": 116833.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00084368",
+            "pac_name": "MISSISSIPPI REPUBLICAN PARTY",
+            "total_amt": 109511.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00001313",
+            "pac_name": "REPUBLICAN PARTY OF MINNESOTA - FEDERAL",
+            "total_amt": 109242.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00006486",
+            "pac_name": "INDIANA REPUBLICAN STATE COMMITTEE, INC.",
+            "total_amt": 109242.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00120055",
+            "pac_name": "MARYLAND REPUBLICAN STATE CENTRAL COMMITTEE",
+            "total_amt": 109242.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00191288",
+            "pac_name": "DC REPUBLICAN PARTY FEDERAL ACCOUNT",
+            "total_amt": 109242.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00004606",
+            "pac_name": "KANSAS REPUBLICAN PARTY",
+            "total_amt": 109135.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00042622",
+            "pac_name": "MASSACHUSETTS REPUBLICAN PARTY",
+            "total_amt": 109135.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00018929",
+            "pac_name": "NORTH DAKOTA REPUBLICAN PARTY",
+            "total_amt": 108993.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00084954",
+            "pac_name": "REPUBLICAN PARTY OF ARKANSAS",
+            "total_amt": 108993.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00044776",
+            "pac_name": "ALABAMA REPUBLICAN PARTY",
+            "total_amt": 108886.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00156810",
+            "pac_name": "REPUBLICAN PARTY OF KENTUCKY",
+            "total_amt": 108886.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 108324.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00008664",
+            "pac_name": "MISSOURI REPUBLICAN STATE COMMITTEE-FEDERAL",
+            "total_amt": 107962.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00164418",
+            "pac_name": "NEW JERSEY REPUBLICAN STATE COMMITTEE",
+            "total_amt": 107962.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00900985",
+            "pac_name": "CLEVELAND COUNTY (OK) GOP FEDERAL ACCOUNT",
+            "total_amt": 106014.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00901751",
+            "pac_name": "WCRP REPUBLICANS",
+            "total_amt": 106014.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00008227",
+            "pac_name": "REPUBLICAN PARTY OF ARIZONA, LLC",
+            "total_amt": 103985.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00020818",
+            "pac_name": "REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO",
+            "total_amt": 103985.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00082925",
+            "pac_name": "NEVADA REPUBLICAN CENTRAL COMMITTEE",
+            "total_amt": 103879.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00008086",
+            "pac_name": "MONTANA REPUBLICAN STATE CENTRAL COMMITTEE",
+            "total_amt": 102705.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00153031",
+            "pac_name": "OREGON REPUBLICAN PARTY",
+            "total_amt": 102705.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00253260",
+            "pac_name": "ALASKA REPUBLICAN PARTY",
+            "total_amt": 102705.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00014498",
+            "pac_name": "REPUBLICAN PARTY OF IOWA",
+            "total_amt": 100371.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00001305",
+            "pac_name": "REPUBLICAN PARTY OF VIRGINIA INC",
+            "total_amt": 100264.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00005926",
+            "pac_name": "ILLINOIS REPUBLICAN PARTY - FEDERAL",
+            "total_amt": 100264.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00774398",
+            "pac_name": "GEORGIA REPUBLICAN PARTY",
+            "total_amt": 100122.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00038505",
+            "pac_name": "NORTH CAROLINA REPUBLICAN PARTY",
+            "total_amt": 95277.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00136457",
+            "pac_name": "NEW HAMPSHIRE REPUBLICAN STATE COMMITTEE",
+            "total_amt": 95277.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003111",
+            "pac_name": "MAINE REPUBLICAN PARTY",
+            "total_amt": 95008.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00099259",
+            "pac_name": "REPUBLICAN PARTY OF FLORIDA",
+            "total_amt": 95008.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00074450",
+            "pac_name": "REPUBLICAN PARTY OF WISCONSIN",
+            "total_amt": 91393.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00832501",
+            "pac_name": "AMERICAN EXCELLENCE PAC",
+            "total_amt": 85337.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00162339",
+            "pac_name": "OHIO REPUBLICAN PARTY STATE CENTRAL & EXECUTIVE COMMITTEE",
+            "total_amt": 84963.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00041160",
+            "pac_name": "MICHIGAN REPUBLICAN PARTY",
+            "total_amt": 81147.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 73628.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00845099",
+            "pac_name": "SEND IN THE SEAL PAC",
+            "total_amt": 2217.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00837518"
+}

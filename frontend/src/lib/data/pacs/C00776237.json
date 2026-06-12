@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "GUS BILIRAKIS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 162700.0,
+        "indiv_contrib": 162700.0,
+        "total_spent": 162685.0,
+        "cash_on_hand": 1040.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 83368.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00531517",
+            "pac_name": "GIVING US SECURITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 26170.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00776237"
+}

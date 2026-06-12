@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MILLER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 28000.0,
+        "indiv_contrib": 14000.0,
+        "total_spent": 0.0,
+        "cash_on_hand": 60518.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00777326",
+            "pac_name": "ALLIANCE FOR PHYSICAL THERAPY QUALITY AND INNOVATION INC PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00786434",
+            "pac_name": "U.S. PHYSICAL THERAPY, INC. PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00684266"
+}

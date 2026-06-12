@@ -1,0 +1,72 @@
+{
+    "pac": {
+        "name": "TXNM ENERGY, INC. EMPLOYEE POLITICAL ACTION COMMITTEE (TXNM EPAC)",
+        "committee_type": "Q",
+        "total_receipts": 40168.0,
+        "indiv_contrib": 40168.0,
+        "total_spent": 63169.0,
+        "cash_on_hand": 112278.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S2NM00088",
+            "cand_name": "HEINRICH, MARTIN",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM01144",
+            "cand_name": "STANSBURY, MELANIE",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00574970",
+            "pac_name": "FAIR SHOT PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00550970",
+            "pac_name": "EQUALITY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00830919",
+            "pac_name": "GRIT & HEART PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00025395"
+}

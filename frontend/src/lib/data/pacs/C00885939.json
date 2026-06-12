@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "DEREK SCHMIDT VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 95646.0,
+        "indiv_contrib": 70646.0,
+        "total_spent": 74396.0,
+        "cash_on_hand": 22250.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00885731",
+            "pac_name": "STAND TALL FOR KANSAS PAC",
+            "total_amt": 15359.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00450692",
+            "pac_name": "POET PAC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 12075.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00411116",
+            "pac_name": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00885939"
+}

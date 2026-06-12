@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "KENTUCKY SOYBEAN ASSOCIATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 66160.0,
+        "indiv_contrib": 66160.0,
+        "total_spent": 17235.0,
+        "cash_on_hand": 106221.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6KY01110",
+            "cand_name": "COMER, JAMES",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AR00150",
+            "cand_name": "BOOZMAN, SEN. JOHN",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KY05015",
+            "cand_name": "ROGERS, HAROLD DALLAS",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00871152",
+            "pac_name": "GUTHRIE VICTORY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821330",
+            "pac_name": "MCGARVEY VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00563734"
+}

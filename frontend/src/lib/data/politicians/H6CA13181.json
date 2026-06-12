@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "LOPEZ, JAVIER B",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 120125.0,
+        "pac_receipts_summary": 26010.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00818344",
+            "pac_name": "FARMER PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010421",
+            "pac_name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00808279",
+            "pac_name": "LOPEZ FOR THE VALLEY",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00461137",
+            "pac_name": "TAKING OUR MAJORITY PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00576249",
+            "pac_name": "NORCAL WATER JOBS LIBERTY PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00653220",
+            "pac_name": "LOPEZ FOR THE VALLEY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00394452",
+            "pac_name": "EXCHANGE CONTRACTORS FEDERAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00902866",
+            "pac_name": "UPON THIS ROCK PAC (MULTI-CANDIDATE)",
+            "total_amt": 10.0,
+            "direct_amt": 10.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 87,
+        "oos_donors": 16,
+        "oos_total": 17040.0
+    },
+    "opposition": []
+}

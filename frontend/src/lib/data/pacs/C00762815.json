@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "HUNTER NATION ACTION INC.",
+        "committee_type": "O",
+        "total_receipts": 108595.0,
+        "indiv_contrib": 108595.0,
+        "total_spent": 86843.0,
+        "cash_on_hand": 24145.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 49671.0,
+            "direct_amt": 0.0,
+            "ie_amt": 49671.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "BALLOTBRAIN",
+            "total_amt": 49671.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00762815"
+}

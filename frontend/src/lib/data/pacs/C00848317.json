@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "GALLEGO VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 742828.0,
+        "indiv_contrib": 718796.0,
+        "total_spent": 639172.0,
+        "cash_on_hand": 209501.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": "S4AZ00139",
+            "cand_name": "GALLEGO, RUBEN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 5000.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00892752",
+            "pac_name": "JUNTOS PAC",
+            "total_amt": 235000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00166710",
+            "pac_name": "ARIZONA DEMOCRATIC PARTY",
+            "total_amt": 61278.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00629063",
+            "pac_name": "THE MAJORITY RULES",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00780304",
+            "pac_name": "ROBINHOOD MARKETS, INC. PAC",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00576975",
+            "pac_name": "LATINO LEADERS FOR EQUALITY, GROWTH, OPPORTUNITY, PROGRESSIVE ACTION & CHANGE (LLEGO-PAC)",
+            "total_amt": 2951.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00243675",
+            "pac_name": "RIO TINTO AMERICA INC. PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00695254",
+            "pac_name": "BALLARD SPAHR LLP PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00803676",
+            "pac_name": "PIM BRANDS INC. EMPLOYEE PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859520",
+            "pac_name": "TRANSMISSION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00848317"
+}

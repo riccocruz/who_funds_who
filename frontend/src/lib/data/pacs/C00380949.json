@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "AMERICAN COATINGS ASSOCIATION INC.POLITICAL ACTION COMMITTEE (PAINT-PAC)",
+        "committee_type": "Q",
+        "total_receipts": 12250.0,
+        "indiv_contrib": 12250.0,
+        "total_spent": 17000.0,
+        "cash_on_hand": 14358.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4AK00214",
+            "cand_name": "SULLIVAN, DAN",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00433060",
+            "pac_name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654186",
+            "pac_name": "SOCK IT TO 'EM PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00380949"
+}

@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "CONSERVATIVE CORNHUSKERS PAC",
+        "committee_type": "N",
+        "total_receipts": 162314.0,
+        "indiv_contrib": 1000.0,
+        "total_spent": 84074.0,
+        "cash_on_hand": 78240.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NE01118",
+            "cand_name": "FLOOD, MIKE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00910182",
+            "pac_name": "TEAM LINDSTROM",
+            "total_amt": 38333.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00910174"
+}

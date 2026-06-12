@@ -1,0 +1,914 @@
+{
+    "pac": {
+        "name": "DEMOCRACY ENGINE, INC., PAC",
+        "committee_type": "N",
+        "total_receipts": 1459882.0,
+        "indiv_contrib": 1422362.0,
+        "total_spent": 1235998.0,
+        "cash_on_hand": 266526.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 623418.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 623418.0
+        },
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 348250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 348250.0
+        },
+        {
+            "cand_id": "H6CA24113",
+            "cand_name": "SHERMAN, BRAD",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 332896.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 332896.0
+        },
+        {
+            "cand_id": "H8IA02043",
+            "cand_name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 201785.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 201785.0
+        },
+        {
+            "cand_id": "H2MO02102",
+            "cand_name": "WAGNER, ANN L.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 186200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 186200.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 157628.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 157628.0
+        },
+        {
+            "cand_id": "H8SD01055",
+            "cand_name": "JOHNSON, DUSTY",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 119435.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 119435.0
+        },
+        {
+            "cand_id": "H6OH04082",
+            "cand_name": "JORDAN, JAMES D.",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 103200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 103200.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 92020.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 92020.0
+        },
+        {
+            "cand_id": "H0NJ07261",
+            "cand_name": "KEAN, THOMAS H. JR.",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 72800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 72800.0
+        },
+        {
+            "cand_id": "H6IL08147",
+            "cand_name": "KRISHNAMOORTHI, S. RAJA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 57000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 57000.0
+        },
+        {
+            "cand_id": "S4MA00028",
+            "cand_name": "MARKEY, EDWARD SEN.",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 53800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 53800.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 52821.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 52821.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 50500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 50500.0
+        },
+        {
+            "cand_id": "H8PA10147",
+            "cand_name": "MEUSER, DANIEL",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 48535.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 48535.0
+        },
+        {
+            "cand_id": "H6NJ12268",
+            "cand_name": "COHEN, BRAD",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 47930.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 47930.0
+        },
+        {
+            "cand_id": "H0GA07273",
+            "cand_name": "MCCORMICK, RICHARD DEAN DR.",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 39470.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 39470.0
+        },
+        {
+            "cand_id": "H0NM03102",
+            "cand_name": "LEGER FERNANDEZ, TERESA",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 27000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 27000.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 25052.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 25052.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 23750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 23750.0
+        },
+        {
+            "cand_id": "H2NY01190",
+            "cand_name": "NICK, LALOTA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 23750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 23750.0
+        },
+        {
+            "cand_id": "H6TN05397",
+            "cand_name": "MOLDER, CHAZ",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 23000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 23000.0
+        },
+        {
+            "cand_id": "H8GA06393",
+            "cand_name": "MCBATH, LUCIA KAY MS.",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 22000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 22000.0
+        },
+        {
+            "cand_id": "H2TX00064",
+            "cand_name": "SELF, KEITH ALAN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 21300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 21300.0
+        },
+        {
+            "cand_id": "S4NE00207",
+            "cand_name": "OSBORN, DAN",
+            "party": "IND",
+            "state": "NE",
+            "total_amt": 21000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 21000.0
+        },
+        {
+            "cand_id": "H0TN03254",
+            "cand_name": "FLEISCHMANN, CHARLES J",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 21000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 21000.0
+        },
+        {
+            "cand_id": "S6ME00373",
+            "cand_name": "PLATNER, GRAHAM",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 18410.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 18410.0
+        },
+        {
+            "cand_id": "H4MI12079",
+            "cand_name": "DINGELL, DEBBIE",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 17000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 17000.0
+        },
+        {
+            "cand_id": "H6NY12214",
+            "cand_name": "BORES, ALEXANDER",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 14000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 14000.0
+        },
+        {
+            "cand_id": "H2CA15094",
+            "cand_name": "SWALWELL, ERIC MICHAEL",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 13750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 13750.0
+        },
+        {
+            "cand_id": "H4CA16049",
+            "cand_name": "LOFGREN, ZOE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 11000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 11000.0
+        },
+        {
+            "cand_id": "S6FL00855",
+            "cand_name": "VINDMAN, ALEXANDER",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 10271.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 10271.0
+        },
+        {
+            "cand_id": "S2MA00170",
+            "cand_name": "WARREN, ELIZABETH",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 9750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 9750.0
+        },
+        {
+            "cand_id": "S0AZ00350",
+            "cand_name": "KELLY, MARK",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 8600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 8600.0
+        },
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 8600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 8600.0
+        },
+        {
+            "cand_id": "S6MA00296",
+            "cand_name": "MOULTON, SETH",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 8528.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 8528.0
+        },
+        {
+            "cand_id": "H4AL02170",
+            "cand_name": "FIGURES, SHOMARI C.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 7500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 7500.0
+        },
+        {
+            "cand_id": "S2CT00132",
+            "cand_name": "MURPHY, CHRISTOPHER S",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 7300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 7300.0
+        },
+        {
+            "cand_id": "H6IL08246",
+            "cand_name": "DUNUNG, SANJYOT",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 7250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 7250.0
+        },
+        {
+            "cand_id": "H8PA18199",
+            "cand_name": "RESCHENTHALER, GUY MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 7000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 7000.0
+        },
+        {
+            "cand_id": "H6MI04204",
+            "cand_name": "MCCANN, SEAN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 7000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 7000.0
+        },
+        {
+            "cand_id": "H4OH06165",
+            "cand_name": "RULLI, MICHAEL",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 6668.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 6668.0
+        },
+        {
+            "cand_id": "S2CA00955",
+            "cand_name": "PADILLA, ALEX",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 6515.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 6515.0
+        },
+        {
+            "cand_id": "S6PA00274",
+            "cand_name": "FETTERMAN, JOHN KARL",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 6500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 6500.0
+        },
+        {
+            "cand_id": "H4NJ10176",
+            "cand_name": "MCIVER, LAMONICA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 4750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 4750.0
+        },
+        {
+            "cand_id": "H4AZ03109",
+            "cand_name": "ANSARI, YASSAMIN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 4450.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 4450.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 3500.0
+        },
+        {
+            "cand_id": "S4VT00033",
+            "cand_name": "SANDERS, BERNARD",
+            "party": "IND",
+            "state": "VT",
+            "total_amt": 2750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2750.0
+        },
+        {
+            "cand_id": "S6RI00221",
+            "cand_name": "WHITEHOUSE, SHELDON",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 2500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2500.0
+        },
+        {
+            "cand_id": "H2NY13096",
+            "cand_name": "ESPAILLAT, ADRIANO",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2500.0
+        },
+        {
+            "cand_id": "H8MA03106",
+            "cand_name": "TRAHAN, LORI",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 2263.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2263.0
+        },
+        {
+            "cand_id": "S6IL00292",
+            "cand_name": "DUCKWORTH, L. TAMMY",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2000.0
+        },
+        {
+            "cand_id": "H8ID02064",
+            "cand_name": "SIMPSON, MICHAEL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2000.0
+        },
+        {
+            "cand_id": "S6IA00256",
+            "cand_name": "SAGE, NATHAN",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 1300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1300.0
+        },
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S6GA00390",
+            "cand_name": "COLLINS, MICHAEL A JR",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S2WI00219",
+            "cand_name": "BALDWIN, TAMMY",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S0NY00410",
+            "cand_name": "GILLIBRAND, KIRSTEN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H8IL04134",
+            "cand_name": "GARCIA, JESUS",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H8CT04172",
+            "cand_name": "HIMES, JIM",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H8CT01046",
+            "cand_name": "LARSON, JOHN B",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H2PA18200",
+            "cand_name": "LEE, SUMMER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H0MA10082",
+            "cand_name": "KEATING, WILLIAM R",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 550.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 300.0
+        },
+        {
+            "cand_id": "S2VT00235",
+            "cand_name": "WELCH, PETER",
+            "party": "DEM",
+            "state": "VT",
+            "total_amt": 535.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 535.0
+        },
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "S8MN00578",
+            "cand_name": "SMITH, TINA",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H6FL04105",
+            "cand_name": "RUTHERFORD, JOHN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H4SC01313",
+            "cand_name": "BIGGS, SHERI",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H4MA03022",
+            "cand_name": "MCGOVERN, JAMES P",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H4AZ01194",
+            "cand_name": "SHAH, AMISH DR.",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H0TN01118",
+            "cand_name": "HARSHBARGER, DIANA",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H0IA04145",
+            "cand_name": "FEENSTRA, RANDALL",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H0CA32101",
+            "cand_name": "CHU, JUDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H2FL10259",
+            "cand_name": "FROST, MAXWELL ALEJANDRO",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 400.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 400.0
+        },
+        {
+            "cand_id": "S8NY00082",
+            "cand_name": "SCHUMER, CHARLES E.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        },
+        {
+            "cand_id": "H4UT03260",
+            "cand_name": "KENNEDY, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        },
+        {
+            "cand_id": "H6FL11126",
+            "cand_name": "CASTOR, KATHY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 200.0
+        },
+        {
+            "cand_id": "H4DE00045",
+            "cand_name": "MCBRIDE, SARAH ELIZABETH",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 71.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 71.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 20.0,
+            "direct_amt": 20.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 20.0,
+            "direct_amt": 20.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 15.0,
+            "direct_amt": 15.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY21199",
+            "cand_name": "GENDEBIEN, BLAKE",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -101.0,
+            "direct_amt": -101.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA02148",
+            "cand_name": "KANGAS FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": -191.0,
+            "direct_amt": -191.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": -1.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00468314"
+}

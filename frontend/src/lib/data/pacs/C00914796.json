@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "GETS IT DONE PAC",
+        "committee_type": "O",
+        "total_receipts": 689273.0,
+        "indiv_contrib": 679000.0,
+        "total_spent": 414267.0,
+        "cash_on_hand": 275006.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6GA10175",
+            "cand_name": "GAINES, HOUSTON",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 138386.0,
+            "direct_amt": 0.0,
+            "ie_amt": 138386.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6GA10175",
+            "pac_name": "HI-TECH SIGNS",
+            "total_amt": 138386.0,
+            "tx_count": 14
+        }
+    ],
+    "cmte_id": "C00914796"
+}

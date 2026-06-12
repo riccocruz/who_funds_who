@@ -1,0 +1,254 @@
+{
+    "pac": {
+        "name": "PLANNED PARENTHOOD VOTES",
+        "committee_type": "O",
+        "total_receipts": 4416931.0,
+        "indiv_contrib": 4263415.0,
+        "total_spent": 2046828.0,
+        "cash_on_hand": 3389105.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "WESTERLEIGH PRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 112636.0,
+            "direct_amt": 0.0,
+            "ie_amt": 112636.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00009423",
+            "cand_name": "PLANNED PARENTHOOD PENNSYLVANIA ADVOCATES",
+            "party": null,
+            "state": null,
+            "total_amt": 23765.0,
+            "direct_amt": 0.0,
+            "ie_amt": 23765.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2908.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2908.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY04244",
+            "cand_name": "GILLEN, LAURA",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2908.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2908.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AZ00139",
+            "cand_name": "GALLEGO, RUBEN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2482.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2482.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P80000722",
+            "cand_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "party": null,
+            "state": null,
+            "total_amt": 206.0,
+            "direct_amt": 0.0,
+            "ie_amt": 206.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ03117",
+            "cand_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "party": null,
+            "state": null,
+            "total_amt": 206.0,
+            "direct_amt": 0.0,
+            "ie_amt": 206.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY19223",
+            "cand_name": "RYAN, PATRICK",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 30.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 30.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22085",
+            "cand_name": "MANNION, JOHN W",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 30.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY17174",
+            "cand_name": "JONES, MONDAIRE",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 30.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "TENNESSEE ADVOCATES FOR PLANNED PARENTHOOD",
+            "total_amt": 112636.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "M+R STRATEGIC SERVICES",
+            "total_amt": 23765.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "P80001571",
+            "pac_name": "M+R STRATEGIC SERVICES",
+            "total_amt": 23162.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "TENNESSEE ADVOCATES FOR PLANNED PARENTHOOD",
+            "total_amt": 22338.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2NY04244",
+            "pac_name": "PLANNED PARENTHOOD EMPIRE STATE ACTS",
+            "total_amt": 2908.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2NY04277",
+            "pac_name": "PLANNED PARENTHOOD EMPIRE STATE ACTS",
+            "total_amt": 2908.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2NY19127",
+            "pac_name": "PLANNED PARENTHOOD EMPIRE STATE ACTS",
+            "total_amt": 2908.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H8NY22177",
+            "pac_name": "PLANNED PARENTHOOD EMPIRE STATE ACTS",
+            "total_amt": 2908.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S4AZ00139",
+            "pac_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "total_amt": 2482.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S4AZ00220",
+            "pac_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "total_amt": 2482.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6ME00159",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND, INC.",
+            "total_amt": 342.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4AZ03117",
+            "pac_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "total_amt": 206.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "P80000722",
+            "pac_name": "PLANNED PARENTHOOD ADVOCATES OF ARIZONA",
+            "total_amt": 206.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0NY02267",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0NY17174",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NY17162",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NY22212",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4NY18117",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4NY22085",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NY03247",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8NY19223",
+            "pac_name": "PLANNED PARENTHOOD GREATER NY ACTION FUND",
+            "total_amt": 30.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00489799"
+}

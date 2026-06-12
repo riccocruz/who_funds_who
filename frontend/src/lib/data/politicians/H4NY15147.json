@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "VEGA, JOSE DAVID",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 204462.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00916379",
+            "pac_name": "ANTI-ZIONIST AMERICA PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00751826",
+            "pac_name": "VEGA FOR CONGRESS",
+            "total_amt": 400.0,
+            "direct_amt": 400.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 186,
+        "oos_donors": 124,
+        "oos_total": 124813.0
+    },
+    "opposition": []
+}

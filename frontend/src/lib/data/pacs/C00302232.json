@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "COMMUNITY BANKERS ASSOCIATION OF OHIO FEDERAL PAC (CBAO FED PAC)",
+        "committee_type": "Q",
+        "total_receipts": 78901.0,
+        "indiv_contrib": 78901.0,
+        "total_spent": 77631.0,
+        "cash_on_hand": 199696.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH05036",
+            "cand_name": "LATTA, ROBERT EDWARD",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 7500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00633792",
+            "pac_name": "FRIENDS OF ANDY BARR COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00572271",
+            "pac_name": "BUILDING AMERICA'S REPUBLICAN REPRESENTATION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00302232"
+}

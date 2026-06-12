@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "TRUMP-GRAHAM MAJORITY FUND",
+        "committee_type": "N",
+        "total_receipts": 1434100.0,
+        "indiv_contrib": 1304100.0,
+        "total_spent": 1434100.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 997004.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00023580",
+            "pac_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "total_amt": 130000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00573733",
+            "pac_name": "SECURITY IS STRENGTH PAC",
+            "total_amt": 68105.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00388934",
+            "pac_name": "FUND FOR AMERICA'S FUTURE",
+            "total_amt": 63240.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00923730"
+}

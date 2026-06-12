@@ -1,0 +1,124 @@
+{
+    "pac": {
+        "name": "NORTH CAROLINA REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 2394527.0,
+        "indiv_contrib": 1267806.0,
+        "total_spent": 2530166.0,
+        "cash_on_hand": 264589.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 51120.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 416222.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 210385.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 95277.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4NC14015",
+            "pac_name": "MAJORITY STRATEGIES",
+            "total_amt": 51120.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00091009",
+            "pac_name": "NATIONAL REPUBLICAN SENATORIAL COMMITTEE",
+            "total_amt": 47000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 25722.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00869719",
+            "pac_name": "TED BUDD MAJORITY COMMITTEE 2028",
+            "total_amt": 11442.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00914028",
+            "pac_name": "NORTH CAROLINA FIRST",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832816",
+            "pac_name": "BUDD NC VICTORY FUND 2028",
+            "total_amt": 8445.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720920",
+            "pac_name": "EMPLOYEES OF QUANTA SERVICES, INC.",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00914176",
+            "pac_name": "WHATLEY VICTORY COMMITTEE",
+            "total_amt": 2200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00726828",
+            "pac_name": "HUDSON VICTORY FUND",
+            "total_amt": 1543.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00682492",
+            "pac_name": "ONEMAIN HOLDINGS, INC. PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00489336",
+            "pac_name": "WILD AND WONDERFUL PAC",
+            "total_amt": 303.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00817155",
+            "pac_name": "EDWARDS VICTORY FUND",
+            "total_amt": 279.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00038505"
+}

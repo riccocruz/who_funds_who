@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "LCV VICTORY FUND",
+        "committee_type": "O",
+        "total_receipts": 19436496.0,
+        "indiv_contrib": 19035425.0,
+        "total_spent": 941505.0,
+        "cash_on_hand": 19088440.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 60026.0,
+            "direct_amt": 0.0,
+            "ie_amt": 60026.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6AZ07121",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 60026.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00802389",
+            "pac_name": "GIVEGREEN UNITED ACTION",
+            "total_amt": 799.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00486845"
+}

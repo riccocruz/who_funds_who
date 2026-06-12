@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "AIR CONDITIONING CONTRACTORS OF AMERICA PAC",
+        "committee_type": "Q",
+        "total_receipts": 61456.0,
+        "indiv_contrib": 61408.0,
+        "total_spent": 21500.0,
+        "cash_on_hand": 193446.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TX14149",
+            "cand_name": "WEBER, RANDY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA16320",
+            "cand_name": "SMUCKER, LLOYD K.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI06048",
+            "cand_name": "GROTHMAN, GLENN S.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IN08249",
+            "cand_name": "MESSMER, MARK MR.",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00567545",
+            "pac_name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00100974"
+}

@@ -1,0 +1,104 @@
+{
+    "pac": {
+        "name": "THE PETROLEUM ALLIANCE OF OKLAHOMA, INC. PAC (PETROLEUM ALLIANCE PAC)",
+        "committee_type": "Q",
+        "total_receipts": 228460.0,
+        "indiv_contrib": 215450.0,
+        "total_spent": 124560.0,
+        "cash_on_hand": 255533.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6OK01250",
+            "cand_name": "DAVID, KIM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OK06056",
+            "cand_name": "LUCAS, FRANK D.",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX23082",
+            "cand_name": "CUELLAR, HENRY R.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00035691",
+            "pac_name": "HALLIBURTON COMPANY PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00246306",
+            "pac_name": "IPAA WILDCATTERS FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00706507",
+            "pac_name": "WESTERMAN VICTORY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00438754",
+            "pac_name": "ENERGY TRANSFER EMPLOYEE MANAGEMENT COMPANY PAC (ENERGY TRANSFER PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00884296",
+            "pac_name": "TEAM ROGERS",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00444430"
+}

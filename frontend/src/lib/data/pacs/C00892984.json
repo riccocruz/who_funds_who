@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "NATIONAL GROUND GAME PAC",
+        "committee_type": "O",
+        "total_receipts": 872299.0,
+        "indiv_contrib": 64589.0,
+        "total_spent": 873898.0,
+        "cash_on_hand": 15603.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4FL01197",
+            "cand_name": "VALIMONT, JENNIFER GAY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 38711.0,
+            "direct_amt": 0.0,
+            "ie_amt": 38711.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6OH07143",
+            "cand_name": "FITZGERALD, EDWARD O'DONNELL",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 224.0,
+            "direct_amt": 224.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4FL01197",
+            "pac_name": "JOY ROCKWELL ENTERPRISES INC",
+            "total_amt": 38711.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 1.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00892984"
+}

@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC JEWISH OUTREACH PA",
+        "committee_type": "V",
+        "total_receipts": 173456.0,
+        "indiv_contrib": 167763.0,
+        "total_spent": 155750.0,
+        "cash_on_hand": 84842.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H2PA17103",
+            "cand_name": "DELUZIO, CHRISTOPHER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA06087",
+            "cand_name": "HOULAHAN, CHRISSY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NJ00185",
+            "cand_name": "BOOKER, CORY A.",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0CO00575",
+            "cand_name": "HICKENLOOPER, JOHN W.",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00563254"
+}

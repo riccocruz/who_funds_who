@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "AMERICAN HARDWOOD LUMBER PAC",
+        "committee_type": "N",
+        "total_receipts": 12100.0,
+        "indiv_contrib": 12100.0,
+        "total_spent": 11833.0,
+        "cash_on_hand": 467.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S2MT00096",
+            "cand_name": "DAINES, STEVE",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "MIKE KELLY FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00779827",
+            "pac_name": "MAX MILLER VICTORY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00900316"
+}

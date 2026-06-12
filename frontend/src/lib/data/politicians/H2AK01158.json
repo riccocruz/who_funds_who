@@ -1,0 +1,94 @@
+{
+    "politician": {
+        "cand_name": "PELTOLA, MARY",
+        "party": "DEM",
+        "state": "AK",
+        "indiv_total": 63252.0,
+        "pac_receipts_summary": 13500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007542",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00024521",
+            "pac_name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00305318",
+            "pac_name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00757419",
+            "pac_name": "SD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00831545",
+            "pac_name": "CACHE PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00895607",
+            "pac_name": "NO SURRENDER FUND",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010322",
+            "pac_name": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00555888",
+            "pac_name": "MARY PELTOLA FOR ALASKA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00839407",
+            "pac_name": "GET OUT THE VOTE PAC",
+            "total_amt": -100.0,
+            "direct_amt": -100.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00206672",
+            "pac_name": "NEWMONT CORPORATION PAC (NEWPAC)",
+            "total_amt": -1500.0,
+            "direct_amt": -1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 32,
+        "oos_donors": 29,
+        "oos_total": 66047.0
+    },
+    "opposition": []
+}

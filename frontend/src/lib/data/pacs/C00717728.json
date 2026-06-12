@@ -1,0 +1,86 @@
+{
+    "pac": {
+        "name": "FREE AND FAIR DEMOCRACY PAC",
+        "committee_type": "Q",
+        "total_receipts": 137143.0,
+        "indiv_contrib": 137143.0,
+        "total_spent": 145205.0,
+        "cash_on_hand": 13890.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6ME02171",
+            "cand_name": "DUNLAP, MATT",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA11074",
+            "cand_name": "PEKARSKY, STELLA",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MO05247",
+            "cand_name": "GRAY, HARTZELL",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09285",
+            "cand_name": "HUYNH, KHAI-HOAN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H8IA02043",
+            "pac_name": "PANTOGRAPH LABS, LLC",
+            "total_amt": 7633.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00155952",
+            "pac_name": "DEMOCRATIC PARTY OF VIRGINIA",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0NY11078",
+            "pac_name": "PANTOGRAPH LABS, LLC",
+            "total_amt": 3450.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00717728"
+}

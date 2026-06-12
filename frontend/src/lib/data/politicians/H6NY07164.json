@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "REYNOSO, ANTONIO",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 614618.0,
+        "pac_receipts_summary": 15450.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00922617",
+            "pac_name": "TORCHLIGHT PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00119008",
+            "pac_name": "WASTE MANAGEMENT EMPLOYEES BETTER GOVERNMENT FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 490,
+        "oos_donors": 87,
+        "oos_total": 109110.0
+    },
+    "opposition": []
+}

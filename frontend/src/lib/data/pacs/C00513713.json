@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "PROTECT SENIORS NOW",
+        "committee_type": "Q",
+        "total_receipts": 25286.0,
+        "indiv_contrib": 25286.0,
+        "total_spent": 25186.0,
+        "cash_on_hand": 14779.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6KY06192",
+            "cand_name": "ALVARADO, RALPH A",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IN08249",
+            "cand_name": "MESSMER, MARK MR.",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00513713"
+}

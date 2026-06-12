@@ -1,0 +1,164 @@
+{
+    "pac": {
+        "name": "USANA HEALTH SCIENCES, INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 44357.0,
+        "indiv_contrib": 43125.0,
+        "total_spent": 34568.0,
+        "cash_on_hand": 62924.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI07103",
+            "cand_name": "WALBERG, TIMOTHY L REP",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT04076",
+            "cand_name": "OWENS, BURGESS",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09179",
+            "cand_name": "SOTO, DARREN",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09070",
+            "cand_name": "BILIRAKIS, GUS M",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4UT00282",
+            "cand_name": "CURTIS, JOHN",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8ID01124",
+            "cand_name": "FULCHER, RUSSELL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4UT02296",
+            "cand_name": "MALOY, CELESTE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00654186",
+            "pac_name": "SOCK IT TO 'EM PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00410308",
+            "pac_name": "SHORE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00676395",
+            "pac_name": "BLACKBURN TENNESSEE VICTORY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00078535",
+            "pac_name": "DIRECT SELLING ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00567545",
+            "pac_name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00871152",
+            "pac_name": "GUTHRIE VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00709295"
+}

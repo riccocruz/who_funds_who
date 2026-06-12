@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "GRASSROOTS DEMOCRATS HQ",
+        "committee_type": "V",
+        "total_receipts": 831120.0,
+        "indiv_contrib": 705878.0,
+        "total_spent": 1010580.0,
+        "cash_on_hand": 177085.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00887471",
+            "pac_name": "2026 VOTER MOBILIZATION FUND",
+            "total_amt": 13400.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00344234",
+            "pac_name": "PAC TO THE FUTURE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00748228",
+            "pac_name": "MARCH ON PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00589309",
+            "pac_name": "BLUE MOMENTUM PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00785311",
+            "pac_name": "FUTURE DEMOCRATS PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00707091"
+}

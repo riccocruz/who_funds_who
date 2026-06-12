@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "SAVE AMERICA FUND",
+        "committee_type": "O",
+        "total_receipts": 394500.0,
+        "indiv_contrib": 374500.0,
+        "total_spent": 212474.0,
+        "cash_on_hand": 242502.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07105",
+            "cand_name": "HERNANDEZ, DANIEL",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 47789.0,
+            "direct_amt": 0.0,
+            "ie_amt": 47789.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6AZ07105",
+            "pac_name": "AMS COMMUNICATIONS",
+            "total_amt": 47789.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00908160",
+            "pac_name": "TUCSON FAMILIES FED UP PAC",
+            "total_amt": 35000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00732172"
+}

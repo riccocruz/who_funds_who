@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "ALAMO FREEDOM FIGHTERS PAC",
+        "committee_type": "O",
+        "total_receipts": 995000.0,
+        "indiv_contrib": 795000.0,
+        "total_spent": 994080.0,
+        "cash_on_hand": 920.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX08175",
+            "cand_name": "TOTH, STEVE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 445200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 445200.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX08175",
+            "pac_name": "ARMADA STRATEGIES",
+            "total_amt": 445200.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H8TX02166",
+            "pac_name": "CATAMARAN CONSULTING",
+            "total_amt": 408612.0,
+            "tx_count": 13
+        }
+    ],
+    "cmte_id": "C00924951"
+}

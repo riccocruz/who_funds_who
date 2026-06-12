@@ -1,0 +1,170 @@
+{
+    "pac": {
+        "name": "NATIONAL MUSIC PUBLISHERS' ASSOCIATION, INC. POLITICAL ACTION COMMITTEE (NMPAC)",
+        "committee_type": "Q",
+        "total_receipts": 29700.0,
+        "indiv_contrib": 29700.0,
+        "total_spent": 26054.0,
+        "cash_on_hand": 143693.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "H0CA48024",
+            "cand_name": "ISSA, DARRELL",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA06104",
+            "cand_name": "CLINE, BENJAMIN LEE",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL15241",
+            "cand_name": "LEE, LAUREL",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4CA00555",
+            "cand_name": "SCHIFF, ADAM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX05144",
+            "cand_name": "GOODEN, LANCE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA07200",
+            "cand_name": "SCANLON, MARY GAY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MD08457",
+            "cand_name": "RASKIN, JAMIE",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC13116",
+            "cand_name": "KNOTT, BRAD",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37304",
+            "cand_name": "KAMLAGER-DOVE, SYDNEY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC02125",
+            "cand_name": "ROSS, DEBORAH",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VT01076",
+            "cand_name": "BALINT, REBECCA 'BECCA'",
+            "party": "DEM",
+            "state": "VT",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00857615",
+            "pac_name": "TEAM JORDAN",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00542621",
+            "pac_name": "MAPLE PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00412619"
+}

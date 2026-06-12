@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BLAHA, DYLAN THOMAS",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 92531.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00908053",
+            "pac_name": "RISING DEMS",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00889469",
+            "pac_name": "THE JUSTICE COALITION ACTION PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 52,
+        "oos_donors": 20,
+        "oos_total": 15428.0
+    },
+    "opposition": []
+}

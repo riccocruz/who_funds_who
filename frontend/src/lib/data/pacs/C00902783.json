@@ -1,0 +1,106 @@
+{
+    "pac": {
+        "name": "FLIGHTSAFETY INTERNATIONAL INC. PAC",
+        "committee_type": "N",
+        "total_receipts": 28949.0,
+        "indiv_contrib": 28824.0,
+        "total_spent": 19125.0,
+        "cash_on_hand": 9824.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H0AR03055",
+            "cand_name": "WOMACK, STEPHEN A THE HON",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CT03072",
+            "cand_name": "DELAURO, ROSA L",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0DE00092",
+            "cand_name": "COONS, CHRISTOPHER A.",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA02080",
+            "cand_name": "LARSEN, RICK",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6LA00664",
+            "cand_name": "LETLOW, JULIA",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00399196",
+            "pac_name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00567545",
+            "pac_name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00391797",
+            "pac_name": "DIRIGO PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00902783"
+}

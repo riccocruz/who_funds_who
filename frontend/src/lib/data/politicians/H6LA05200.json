@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CORDELL, MISTI SMITH",
+        "party": "REP",
+        "state": "LA",
+        "indiv_total": 285665.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00327189",
+            "pac_name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

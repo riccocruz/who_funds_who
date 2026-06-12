@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BRATTIN, RICHARD RAY JR.",
+        "party": "REP",
+        "state": "MO",
+        "indiv_total": 104972.0,
+        "pac_receipts_summary": 9000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00823914",
+            "pac_name": "EVER RELENTLESS IN CONSERVATISM",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00888255",
+            "pac_name": "TIGER PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 64,
+        "oos_donors": 5,
+        "oos_total": 7000.0
+    },
+    "opposition": []
+}

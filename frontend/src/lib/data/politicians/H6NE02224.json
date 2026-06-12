@@ -1,0 +1,122 @@
+{
+    "politician": {
+        "cand_name": "ASKINS, KISHLA",
+        "party": "DEM",
+        "state": "NE",
+        "indiv_total": 368267.0,
+        "pac_receipts_summary": 51885.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00492082",
+            "pac_name": "HOOSIERS FIRST PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00711549",
+            "pac_name": "HONOR BOUND PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00785899",
+            "pac_name": "EQUALITY PROJECT PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00393652",
+            "pac_name": "KISHLA ASKINS FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00498667",
+            "pac_name": "KISHLA ASKINS FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00772848",
+            "pac_name": "NO VOTE LEFT BEHIND PAC",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829895",
+            "pac_name": "TAKE BACK THE HOUSE PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00122499",
+            "pac_name": "AMERICAN ACADEMY OF PHYSICIAN ASSOCIATES POLITICAL ACTION COMMITTEE (PA PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892216",
+            "pac_name": "RESISTANCE PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00547356",
+            "pac_name": "INLAND EMPIRE STRIKES PAC; THE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00677591",
+            "pac_name": "TAKING THE HILL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00003988",
+            "pac_name": "NEBRASKA DEMOCRATIC PARTY",
+            "total_amt": 385.0,
+            "direct_amt": 385.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 159,
+        "oos_donors": 149,
+        "oos_total": 214456.0
+    },
+    "opposition": []
+}

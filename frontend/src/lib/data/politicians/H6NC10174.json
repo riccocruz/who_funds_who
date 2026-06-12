@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BELL, ASHLEY",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 16200.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C90020058",
+            "pac_name": "RED WINE AND BLUE",
+            "total_amt": 56.0,
+            "direct_amt": 0.0,
+            "ie_amt": 56.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 14,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

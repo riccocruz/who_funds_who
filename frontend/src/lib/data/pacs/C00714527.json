@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "MORELLE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 246200.0,
+        "indiv_contrib": 232700.0,
+        "total_spent": 242184.0,
+        "cash_on_hand": 7831.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00714501",
+            "pac_name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+            "total_amt": 31800.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00139071",
+            "pac_name": "ARCHIPAC - THE AMERICAN INSTITUTE OF ARCHITECTS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00174011",
+            "pac_name": "RETAIL, WHOLESALE & DEPARTMENT STORE UNION COMMITTEE ON POLITICAL EDUCATION (RWDSU COPE)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00348938",
+            "pac_name": "CHUBB GROUP HOLDINGS INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00806513",
+            "pac_name": "THE REAL ESTATE BOARD OF NEW YORK, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00033423",
+            "pac_name": "HSBC TECHNOLOGY AND SERVICES USA INC. FEDERAL, STATE, AND LOCAL PAC (HSBC COMBINED PAC)",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00266585",
+            "pac_name": "GREENBERG TRAURIG, P.A. PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00364174",
+            "pac_name": "TOGETHER FOR OUR MAJORITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00714527"
+}

@@ -1,0 +1,114 @@
+{
+    "pac": {
+        "name": "THE BLUE RESISTANCE",
+        "committee_type": "N",
+        "total_receipts": 452948.0,
+        "indiv_contrib": 452948.0,
+        "total_spent": 530991.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA07234",
+            "cand_name": "VINDMAN, YEVGENY 'EUGENE'",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 2467.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00892463"
+}

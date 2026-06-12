@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "TRULIANT FCU PAC",
+        "committee_type": "Q",
+        "total_receipts": 19996.0,
+        "indiv_contrib": 19987.0,
+        "total_spent": 6715.0,
+        "cash_on_hand": 20423.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC13243",
+            "cand_name": "HARRIGAN, PAT",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1750.0,
+            "direct_amt": 1750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00326132"
+}

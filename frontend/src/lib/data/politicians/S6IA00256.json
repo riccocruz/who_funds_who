@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "SAGE, NATHAN",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 1397235.0,
+        "pac_receipts_summary": 7800.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00771113",
+            "pac_name": "COUNTRY FIRST",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "SAGE FOR SENATE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629063",
+            "pac_name": "THE MAJORITY RULES",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829655",
+            "pac_name": "FUELING INDIVIDUAL RIGHTS EVERYWHERE (FIRE) PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 826,
+        "oos_donors": 709,
+        "oos_total": 396667.0
+    },
+    "opposition": []
+}

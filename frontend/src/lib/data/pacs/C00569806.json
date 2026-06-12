@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "QUALITY PUBLIC SCHOOLS PAC",
+        "committee_type": "N",
+        "total_receipts": 30060.0,
+        "indiv_contrib": 30060.0,
+        "total_spent": 9365.0,
+        "cash_on_hand": 49204.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY13096",
+            "cand_name": "ESPAILLAT, ADRIANO",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY15160",
+            "cand_name": "TORRES, RITCHIE JOHN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY10308",
+            "cand_name": "GOLDMAN, DANIEL",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00569806"
+}

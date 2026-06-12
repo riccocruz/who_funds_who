@@ -1,0 +1,68 @@
+{
+    "pac": {
+        "name": "SUPPORTING EFFECTIVE THOUGHTFUL LEADERSHIP PAC",
+        "committee_type": "N",
+        "total_receipts": 25493.0,
+        "indiv_contrib": 74.0,
+        "total_spent": 24759.0,
+        "cash_on_hand": 3952.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NJ10176",
+            "cand_name": "MCIVER, LAMONICA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003632",
+            "pac_name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00007542",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00007922",
+            "pac_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00078451",
+            "pac_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00839886"
+}

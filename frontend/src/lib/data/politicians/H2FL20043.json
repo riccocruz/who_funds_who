@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KAUFMAN, JOE",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 482037.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00401786",
+            "pac_name": "FREEDOM'S DEFENSE FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 357,
+        "oos_donors": 271,
+        "oos_total": 141768.0
+    },
+    "opposition": []
+}

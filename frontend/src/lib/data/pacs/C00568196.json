@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "LAKE CHARLES PILOTS INC FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 26600.0,
+        "indiv_contrib": 26600.0,
+        "total_spent": 18600.0,
+        "cash_on_hand": 31596.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00065",
+            "cand_name": "KENNEDY, JOHN NEELY",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA05126",
+            "cand_name": "LETLOW, JULIA",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00776708",
+            "pac_name": "HIGGINS VICTORY COMMITTEE",
+            "total_amt": 7000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00816058",
+            "pac_name": "LETLOW VICTORY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00568196"
+}

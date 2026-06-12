@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "CONTINENTAL STRATEGY PAC",
+        "committee_type": "N",
+        "total_receipts": 52500.0,
+        "indiv_contrib": 52500.0,
+        "total_spent": 30000.0,
+        "cash_on_hand": 22500.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00919340"
+}

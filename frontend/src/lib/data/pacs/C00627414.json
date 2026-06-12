@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "POLICY OVER PARTY",
+        "committee_type": "O",
+        "total_receipts": 362500.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 50675.0,
+        "cash_on_hand": 331442.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00624817",
+            "pac_name": "EARN INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "total_amt": 312500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00093989",
+            "pac_name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 324 NATIONAL POLITICAL ACTIVITIES COMM.",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00627414"
+}

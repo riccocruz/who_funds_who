@@ -1,0 +1,90 @@
+{
+    "pac": {
+        "name": "AMERICAN HONEY PRODUCERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 27225.0,
+        "indiv_contrib": 27225.0,
+        "total_spent": 12000.0,
+        "cash_on_hand": 42731.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0ND00093",
+            "cand_name": "HOEVEN, JOHN",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8FL17053",
+            "cand_name": "STEUBE, GREG",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00893768"
+}

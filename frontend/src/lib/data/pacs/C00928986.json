@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "AFFORDABILITY AND PROGRESS PAC",
+        "committee_type": "O",
+        "total_receipts": 222000.0,
+        "indiv_contrib": 212500.0,
+        "total_spent": 196620.0,
+        "cash_on_hand": 25380.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11237",
+            "cand_name": "GILL, BRENDAN W",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 63878.0,
+            "direct_amt": 0.0,
+            "ie_amt": 63878.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NJ11245",
+            "pac_name": "FLASHPOINT STRATEGIES, LLC",
+            "total_amt": 189328.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H6NJ11237",
+            "pac_name": "FLASHPOINT STRATEGIES, LLC",
+            "total_amt": 63878.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00928986"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM ROGERS",
+        "committee_type": "N",
+        "total_receipts": 2421790.0,
+        "indiv_contrib": 2412289.0,
+        "total_spent": 2870826.0,
+        "cash_on_hand": 25486.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00853861",
+            "pac_name": "GLCF, INC.",
+            "total_amt": 214214.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00850610",
+            "pac_name": "MR PAC",
+            "total_amt": 70125.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00884296"
+}

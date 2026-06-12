@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DRAFT STEVE STOCKMAN FOR CONGRESS COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 38750.0,
+        "indiv_contrib": 38750.0,
+        "total_spent": 39691.0,
+        "cash_on_hand": -941.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX09077",
+            "cand_name": "STOCKMAN, STEVE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3449.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3449.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0TX09077",
+            "pac_name": "RIVERSIDE CONSULTANTS LLC",
+            "total_amt": 3449.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00922484"
+}

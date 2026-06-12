@@ -1,0 +1,52 @@
+{
+    "pac": {
+        "name": "BRIDGING THE GAP",
+        "committee_type": "Q",
+        "total_receipts": 17000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 9905.0,
+        "cash_on_hand": 8836.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NE02208",
+            "cand_name": "HARDING, BRINKER",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00186288",
+            "pac_name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00458158",
+            "pac_name": "LKQ CORPORATION EMPLOYEE GOOD GOVERNMENT FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00340075",
+            "pac_name": "BASF CORPORATION EMPLOYEES POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00568709"
+}

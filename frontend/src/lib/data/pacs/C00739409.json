@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "GIMENEZ VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 309000.0,
+        "indiv_contrib": 309000.0,
+        "total_spent": 308959.0,
+        "cash_on_hand": 1541.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 141702.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00737270",
+            "pac_name": "LIBERTAD",
+            "total_amt": 38775.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00739409"
+}

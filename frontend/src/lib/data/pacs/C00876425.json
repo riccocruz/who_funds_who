@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "LAURA GILLEN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 140893.0,
+        "indiv_contrib": 138893.0,
+        "total_spent": 108543.0,
+        "cash_on_hand": 35345.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY04244",
+            "cand_name": "GILLEN, LAURA",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00143230",
+            "pac_name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+            "total_amt": 66284.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 2000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00876425"
+}

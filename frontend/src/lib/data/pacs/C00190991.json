@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "PIPEFITTERS LOCAL UNION NO 274 POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 213076.0,
+        "indiv_contrib": 209105.0,
+        "total_spent": 203066.0,
+        "cash_on_hand": 160218.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NJ10135",
+            "cand_name": "BUCCO, CARMEN",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": -700.0,
+            "direct_amt": -700.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00012476",
+            "pac_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+            "total_amt": 32087.0,
+            "tx_count": 10
+        }
+    ],
+    "cmte_id": "C00190991"
+}

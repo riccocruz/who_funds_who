@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "DALLAS SAFARI CLUB PAC",
+        "committee_type": "N",
+        "total_receipts": 19574.0,
+        "indiv_contrib": 18600.0,
+        "total_spent": 9664.0,
+        "cash_on_hand": 111983.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX06266",
+            "cand_name": "ELLZEY, JOHN KEVIN SR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8ID02064",
+            "cand_name": "SIMPSON, MICHAEL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL18097",
+            "cand_name": "MAST, BRIAN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX11230",
+            "cand_name": "PFLUGER, AUGUST LEE II",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00356477"
+}

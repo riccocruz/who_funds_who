@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "COMMON DEFENSE ACTION FUND",
+        "committee_type": "V",
+        "total_receipts": 618780.0,
+        "indiv_contrib": 34826.0,
+        "total_spent": 689710.0,
+        "cash_on_hand": 118812.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00418",
+            "cand_name": "EL-SAYED, ABDUL",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00373",
+            "cand_name": "PLATNER, GRAHAM",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11286",
+            "cand_name": "MEJIA, ANALILIA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00620021"
+}

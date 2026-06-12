@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MARTER, JAMES THOMAS",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 98948.0,
+        "pac_receipts_summary": 100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00345132",
+            "pac_name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00794222",
+            "pac_name": "UNITED FOR LIBERTY PAC",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 103,
+        "oos_donors": 43,
+        "oos_total": 46875.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "CF INDUSTRIES, INC. EMPLOYEES' GOOD GOVERNMENT FUND",
+        "committee_type": "Q",
+        "total_receipts": 16306.0,
+        "indiv_contrib": 16306.0,
+        "total_spent": 10258.0,
+        "cash_on_hand": 17649.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MN02131",
+            "cand_name": "CRAIG, ANGELA DAWN",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 2200.0,
+            "direct_amt": 2200.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 1100.0,
+            "direct_amt": 1100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA02149",
+            "cand_name": "CARTER, TROY A. SR.",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00076588"
+}

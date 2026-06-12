@@ -1,0 +1,72 @@
+{
+    "pac": {
+        "name": "JOBS AND DEMOCRACY PAC",
+        "committee_type": "O",
+        "total_receipts": 4544408.0,
+        "indiv_contrib": 175000.0,
+        "total_spent": 3538637.0,
+        "cash_on_hand": 1005771.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06114",
+            "cand_name": "FOUSHEE, VALERIE",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1612658.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1612658.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY12214",
+            "cand_name": "BORES, ALEXANDER",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 467985.0,
+            "direct_amt": 0.0,
+            "ie_amt": 467985.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX33082",
+            "cand_name": "BRYSON GILLETTE, LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 149926.0,
+            "direct_amt": 0.0,
+            "ie_amt": 149926.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NC06114",
+            "pac_name": "BRYSON GILLETTE, LLC",
+            "total_amt": 1612658.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6NY12214",
+            "pac_name": "BRYSON GILLETTE, LLC",
+            "total_amt": 467985.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TX33082",
+            "pac_name": "BRYSON GILLETTE, LLC",
+            "total_amt": 149926.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6IL02124",
+            "pac_name": "BRYSON GILLETTE, LLC",
+            "total_amt": 0.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00928374"
+}

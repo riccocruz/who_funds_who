@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MACKENZIE FOR AMERICA",
+        "committee_type": "N",
+        "total_receipts": 233209.0,
+        "indiv_contrib": 228709.0,
+        "total_spent": 232209.0,
+        "cash_on_hand": 1000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00877621",
+            "pac_name": "MAINTAINING AMERICAN COMPETITIVENESS PAC",
+            "total_amt": 18602.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00044842",
+            "pac_name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
+            "total_amt": 1259.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00878017"
+}

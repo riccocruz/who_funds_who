@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "JOIN THE UNION",
+        "committee_type": "V",
+        "total_receipts": 534808.0,
+        "indiv_contrib": 29694.0,
+        "total_spent": 651002.0,
+        "cash_on_hand": 19642.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4FL07137",
+            "cand_name": "ADAMS, JENNIFER",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2705.0,
+            "direct_amt": 2705.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL15092",
+            "cand_name": "TODD, JENNIFER ANN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 494.0,
+            "direct_amt": 494.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00883017"
+}

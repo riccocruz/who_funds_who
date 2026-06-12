@@ -1,0 +1,106 @@
+{
+    "pac": {
+        "name": "EQT CORPORATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 144437.0,
+        "indiv_contrib": 91671.0,
+        "total_spent": 112932.0,
+        "cash_on_hand": 49238.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA18199",
+            "cand_name": "RESCHENTHALER, GUY MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX23082",
+            "cand_name": "CUELLAR, HENRY R.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX29052",
+            "cand_name": "GARCIA, SYLVIA R",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA11207",
+            "cand_name": "PRIDEMORE, TRICIA",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00688606",
+            "pac_name": "EQUITRANS MIDSTREAM CORPORATION PAC",
+            "total_amt": 47765.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00908640",
+            "pac_name": "BLUE DOG VICTORY FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00151175"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "NORTH CAROLINA CONSERVATIVE FUND",
+        "committee_type": "O",
+        "total_receipts": 25000.0,
+        "indiv_contrib": 25000.0,
+        "total_spent": 25000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NC01140",
+            "cand_name": "RUSSELL, ASHLEY NICOLE",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 17338.0,
+            "direct_amt": 0.0,
+            "ie_amt": 17338.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NC01140",
+            "pac_name": "1892 LLC",
+            "total_amt": 17338.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00931055"
+}

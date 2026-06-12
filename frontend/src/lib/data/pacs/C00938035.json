@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "HANCOCK WHITNEY BANK PAC",
+        "committee_type": "N",
+        "total_receipts": 21000.0,
+        "indiv_contrib": 21000.0,
+        "total_spent": 1000.0,
+        "cash_on_hand": 20000.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00938035"
+}

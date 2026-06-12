@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GREENE-SCOTT, MARQUETTE",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 36012.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00886036",
+            "pac_name": "ALPHA KAPPA ALPHA SORORITY PAC, INC. (AKA AKA 1908 PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 31,
+        "oos_donors": 7,
+        "oos_total": 5600.0
+    },
+    "opposition": []
+}

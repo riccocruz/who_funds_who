@@ -1,0 +1,146 @@
+{
+    "pac": {
+        "name": "THE NEXT 50 PAC",
+        "committee_type": "W",
+        "total_receipts": 908496.0,
+        "indiv_contrib": 501507.0,
+        "total_spent": 666332.0,
+        "cash_on_hand": 322173.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MI00392",
+            "cand_name": "MCMORROW, MALLORY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00272",
+            "cand_name": "WAHLS, ZACH P",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA08293",
+            "cand_name": "COGNETTI, PAIGE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY17171",
+            "cand_name": "CONLEY, CAIT",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ07201",
+            "cand_name": "BENNETT, REBECCA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI10276",
+            "cand_name": "HINES, CHRISTINA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IA03268",
+            "cand_name": "TRONE GARRIOTT, SARAH",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NH00141",
+            "cand_name": "PAPPAS, CHRIS",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY19223",
+            "cand_name": "RYAN, PATRICK",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4DE00045",
+            "cand_name": "MCBRIDE, SARAH ELIZABETH",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00832147",
+            "pac_name": "MITTEN PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00892752",
+            "pac_name": "JUNTOS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896225",
+            "pac_name": "MGP VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00716423"
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "SUNRISE PAC",
+        "committee_type": "W",
+        "total_receipts": 364385.0,
+        "indiv_contrib": 37220.0,
+        "total_spent": 84199.0,
+        "cash_on_hand": 805294.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09178",
+            "cand_name": "ABUGHAZALEH, KATHERINE M.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 616.0,
+            "direct_amt": 616.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI07298",
+            "cand_name": "LAWRENCE, WILLIAM",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL02298",
+            "cand_name": "PETERS, ROBERT JAMES",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL08146",
+            "cand_name": "AHMED, JUNAID",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 58.0,
+            "direct_amt": 58.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 199.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00674697"
+}

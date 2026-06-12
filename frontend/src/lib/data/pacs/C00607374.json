@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "ELBERT GUILLORY'S AMERICA",
+        "committee_type": "W",
+        "total_receipts": 621765.0,
+        "indiv_contrib": 586224.0,
+        "total_spent": 653168.0,
+        "cash_on_hand": 49600.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6LA00318",
+            "cand_name": "FLEMING, JOHN C. JR.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN09061",
+            "cand_name": "BERGMANN, CHARLOTTE",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00511",
+            "cand_name": "HUNT, WESLEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6OH09131",
+            "cand_name": "WILLIAMS, JOSH",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00607374"
+}

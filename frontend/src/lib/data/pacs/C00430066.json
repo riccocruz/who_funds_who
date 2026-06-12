@@ -1,0 +1,114 @@
+{
+    "pac": {
+        "name": "KINECTA FEDERAL CREDIT UNION FEDERAL PAC",
+        "committee_type": "Q",
+        "total_receipts": 26034.0,
+        "indiv_contrib": 26034.0,
+        "total_spent": 23500.0,
+        "cash_on_hand": 39208.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA23011",
+            "cand_name": "WATERS, MAXINE MS",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA24113",
+            "cand_name": "SHERMAN, BRAD",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA44103",
+            "cand_name": "BARRAGAN, NANETTE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37304",
+            "cand_name": "KAMLAGER-DOVE, SYDNEY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA31125",
+            "cand_name": "AGUILAR, PETE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA00120",
+            "cand_name": "BROWNLEY, JULIA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00771238",
+            "pac_name": "DEFEND THE DREAM",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00430066"
+}

@@ -1,0 +1,164 @@
+{
+    "politician": {
+        "cand_name": "BLUMENTHAL, RICHARD",
+        "party": "DEM",
+        "state": "CT",
+        "indiv_total": 175323.0,
+        "pac_receipts_summary": 41000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00219642",
+            "pac_name": "ENTERPRISE HOLDINGS, INC. / ENTERPRISE MOBILITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00004036",
+            "pac_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00402669",
+            "pac_name": "SERCO INC. POLITICAL ACTION COMMITTEE (SERCO PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00431858",
+            "pac_name": "STEPTOE LLP POLITICAL ACTION COMMITTEE",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007922",
+            "pac_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00012245",
+            "pac_name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00466094",
+            "pac_name": "FGS GLOBAL (US) LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00186288",
+            "pac_name": "VERIZON COMMUNICATIONS, INC. POLITICAL ACTION COMMITTEE (VERIZON PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00301929",
+            "pac_name": "KELLEY DRYE & WARREN POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00377952",
+            "pac_name": "CUMMINS INC. POLITICAL ACTION COMMITTEE (CIPAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00683334",
+            "pac_name": "DOCUMENT STORAGE SYSTEMS, INC. (DSS PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00278895",
+            "pac_name": "NELSON MULLINS RILEY & SCARBOROUGH, LLP FEDERAL POLITICAL COMMITTEE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00521328",
+            "pac_name": "THE NIELSEN COMPANY (US), LLC FEDERAL POLITICAL ACTION COMMITTEE (NIELSEN PAC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00262295",
+            "pac_name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00392464",
+            "pac_name": "UNIVERSAL MUSIC GROUP EMPLOYEE ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00395947",
+            "pac_name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00420398",
+            "pac_name": "BOEHRINGER INGELHEIM USA CORPORATION POLITICAL ACTION COMMITTEE (BOEHRINGER PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00562546",
+            "pac_name": "NOVOCURE INC. PAC (A.K.A. NOVOCURE PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00590315",
+            "pac_name": "SAMSUNG ELECTRONICS AMERICA INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00349373",
+            "pac_name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 137,
+        "oos_donors": 59,
+        "oos_total": 71408.0
+    },
+    "opposition": []
+}

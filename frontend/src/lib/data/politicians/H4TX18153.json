@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MARTIN, ISAIAH MR.",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 1221987.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00652859",
+            "pac_name": "NEW DEMOCRACY FUND",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00872879",
+            "pac_name": "STAND UP PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 472,
+        "oos_donors": 393,
+        "oos_total": 303874.0
+    },
+    "opposition": []
+}

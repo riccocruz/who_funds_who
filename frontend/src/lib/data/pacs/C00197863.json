@@ -1,0 +1,114 @@
+{
+    "pac": {
+        "name": "OPTIMUM COMMUNICATIONS, INC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 114568.0,
+        "indiv_contrib": 114568.0,
+        "total_spent": 24228.0,
+        "cash_on_hand": 126567.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 2500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771246",
+            "pac_name": "JOHNSON LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00649574",
+            "pac_name": "CRAPO VICTORY COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00525600",
+            "pac_name": "OFF THE SIDELINES PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720565",
+            "pac_name": "LUJAN VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00197863"
+}

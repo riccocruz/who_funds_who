@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "K2 SPACE CORPORATION POLITICAL ACTION COMMITTEE (K2 SPACE PAC)",
+        "committee_type": "N",
+        "total_receipts": 85659.0,
+        "indiv_contrib": 83367.0,
+        "total_spent": 12405.0,
+        "cash_on_hand": 73254.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL03032",
+            "cand_name": "ROGERS, MICHAEL",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00651554",
+            "pac_name": "MOULTON LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00913756"
+}

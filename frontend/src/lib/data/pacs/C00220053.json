@@ -1,0 +1,96 @@
+{
+    "pac": {
+        "name": "RICELAND FOODS, INC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 27875.0,
+        "indiv_contrib": 27875.0,
+        "total_spent": 22000.0,
+        "cash_on_hand": 37990.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "THOMPSON, GLENN E.",
+            "party": null,
+            "state": null,
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00267",
+            "cand_name": "KLOBUCHAR, AMY",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6LA03148",
+            "cand_name": "HIGGINS, CLAY CAPTAIN",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00002238",
+            "pac_name": "NATIONAL COUNCIL OF FARMER COOPERATIVES CO-OP/PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00308478",
+            "pac_name": "USA RICE FEDERATION PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00862177",
+            "pac_name": "ADAM GRAY VICTORY FUND 2026",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00220053"
+}

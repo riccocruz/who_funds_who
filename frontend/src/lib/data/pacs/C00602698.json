@@ -1,0 +1,308 @@
+{
+    "pac": {
+        "name": "AMERICAN WOOD COUNCIL POLITICAL ACTION COMMITTEE (WOOD-PAC)",
+        "committee_type": "N",
+        "total_receipts": 66954.0,
+        "indiv_contrib": 41454.0,
+        "total_spent": 58955.0,
+        "cash_on_hand": 34352.0
+    },
+    "stats": {
+        "candidates_funded": 23
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0OR02127",
+            "cand_name": "BENTZ, CLIFF",
+            "party": "REP",
+            "state": "OR",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8ID02064",
+            "cand_name": "SIMPSON, MICHAEL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL06098",
+            "cand_name": "PALMER, GARY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WA08189",
+            "cand_name": "SCHRIER, KIM DR.",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MS02068",
+            "cand_name": "THOMPSON, BENNIE G.",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR01133",
+            "cand_name": "BONAMICI, SUZANNE MS.",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI01226",
+            "cand_name": "BERGMAN, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL04105",
+            "cand_name": "RUTHERFORD, JOHN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL02170",
+            "cand_name": "FIGURES, SHOMARI C.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VI00082",
+            "cand_name": "PLASKETT, STACEY",
+            "party": "DEM",
+            "state": "VI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC02287",
+            "cand_name": "DAVIS, DON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA05126",
+            "cand_name": "LETLOW, JULIA",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL04211",
+            "cand_name": "BEAN, AARON P.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA10034",
+            "cand_name": "STRICKLAND, MARILYN",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0VA07133",
+            "cand_name": "MCGUIRE, JOHN",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00007948",
+            "pac_name": "WEYERHAEUSER COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00041608",
+            "pac_name": "POTLATCHDELTIC CORPORATION POLITICAL ACTION COMMITTEE (POTLATCHDELTIC PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00109165",
+            "pac_name": "LOUISIANA-PACIFIC CORP FEDERAL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00589044",
+            "pac_name": "THE WESTERVELT COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00827519",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC - FEDERAL",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00706507",
+            "pac_name": "WESTERMAN VICTORY FUND",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773903",
+            "pac_name": "TEAM HILL",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00350884",
+            "pac_name": "RESOLUTE FOREST PRODUCTS INC. POLITICAL ACTION COMMITTEE AKA DOMTAR PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00602698"
+}

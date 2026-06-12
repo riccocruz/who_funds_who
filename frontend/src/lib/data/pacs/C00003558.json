@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "NATIONAL COMMITTEE FOR AN EFFECTIVE CONGRESS",
+        "committee_type": "Q",
+        "total_receipts": 26051.0,
+        "indiv_contrib": 26051.0,
+        "total_spent": 31049.0,
+        "cash_on_hand": 9095.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S0NM00058",
+            "cand_name": "LUJAN, BEN RAY",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00003558"
+}

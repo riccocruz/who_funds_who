@@ -1,0 +1,120 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION OF DISABILITY REPRESENTATIVES PAC (NADR PAC)",
+        "committee_type": "Q",
+        "total_receipts": 58133.0,
+        "indiv_contrib": 58133.0,
+        "total_spent": 23128.0,
+        "cash_on_hand": 66776.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AZ06045",
+            "cand_name": "SCHWEIKERT, DAVID S.",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT01046",
+            "cand_name": "LARSON, JOHN B",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KS04112",
+            "cand_name": "ESTES, RON",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ03080",
+            "cand_name": "CONAWAY, HERB MD",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IN02295",
+            "cand_name": "YAKYM, RUDY C. III",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00605477",
+            "pac_name": "CLARKE FOR CONGRESS",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00895219",
+            "pac_name": "MARK WARNER VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00432757"
+}

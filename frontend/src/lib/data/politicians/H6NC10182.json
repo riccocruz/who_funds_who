@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "CAUDLE, WEST",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 13286.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 11,
+        "oos_donors": 1,
+        "oos_total": 1000.0
+    },
+    "opposition": []
+}

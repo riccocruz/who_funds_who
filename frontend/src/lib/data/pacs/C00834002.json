@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "CLECO FEDERAL PAC, CLECO CORPORATION",
+        "committee_type": "N",
+        "total_receipts": 19440.0,
+        "indiv_contrib": 19440.0,
+        "total_spent": 14800.0,
+        "cash_on_hand": 20915.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "ERIC SKRMETTA FOR U.S. SENATE CAMPAIGN",
+            "party": null,
+            "state": null,
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00816058",
+            "pac_name": "LETLOW VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00771543",
+            "pac_name": "CASSIDY LEADERSHIP FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00834002"
+}

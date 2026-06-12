@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "THE EQUITY ALLIANCE FUND ACTION PAC",
+        "committee_type": "O",
+        "total_receipts": 171000.0,
+        "indiv_contrib": 62000.0,
+        "total_spent": 172353.0,
+        "cash_on_hand": 325.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "THE OUTREACH TEAM, INC.",
+            "party": null,
+            "state": null,
+            "total_amt": 168386.0,
+            "direct_amt": 0.0,
+            "ie_amt": 168386.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "DIRECT FX",
+            "total_amt": 168386.0,
+            "tx_count": 23
+        }
+    ],
+    "cmte_id": "C00827618"
+}

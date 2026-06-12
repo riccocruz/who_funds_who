@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "DAVIS, JENNIFER",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 186039.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00308460",
+            "pac_name": "A BRTHD AIMED TOWARD EDUC OF IL FED ELEC DEVICE FOR POLITICALLY ACTIVE MOTORCYCLISTS...",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 116,
+        "oos_donors": 48,
+        "oos_total": 94593.0
+    },
+    "opposition": []
+}

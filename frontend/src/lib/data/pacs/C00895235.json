@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "SOLSTICE ADVANCED MATERIALS INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 230397.0,
+        "indiv_contrib": 115397.0,
+        "total_spent": 32777.0,
+        "cash_on_hand": 197620.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2LA02149",
+            "cand_name": "CARTER, TROY A. SR.",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL07156",
+            "cand_name": "MILLS, CORY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0DE00092",
+            "cand_name": "COONS, CHRISTOPHER A.",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00096156",
+            "pac_name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 115391.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00669929",
+            "pac_name": "COMMON GOOD PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00895235"
+}

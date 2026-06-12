@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BARRINGER, PAUL",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 345610.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 220,
+        "oos_donors": 137,
+        "oos_total": 151478.0
+    },
+    "opposition": []
+}

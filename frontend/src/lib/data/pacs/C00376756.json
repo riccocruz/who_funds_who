@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "SPEAK UP AMERICA POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 23488.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 10643.0,
+        "cash_on_hand": 19083.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA01109",
+            "cand_name": "KINGSTON, JAMES MORRIS",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 6000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00619775",
+            "pac_name": "WILSON LEADERSHIP FUND",
+            "total_amt": 5988.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00142711",
+            "pac_name": "THE BOEING COMPANY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00406850",
+            "pac_name": "BLUE CROSS BLUE SHIELD OF SOUTH CAROLINA FEDERAL GOVERNMENT PROGRAMS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00088591",
+            "pac_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00376756"
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "TEAM MOORE JOINT FUNDRAISING COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 104586.0,
+        "indiv_contrib": 102386.0,
+        "total_spent": 66062.0,
+        "cash_on_hand": 41524.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00757922",
+            "pac_name": "EXPECT MORE LEADERSHIP PAC",
+            "total_amt": 11851.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00709295",
+            "pac_name": "USANA HEALTH SCIENCES, INC PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00018945",
+            "pac_name": "DORSEY NATIONAL FUND",
+            "total_amt": 700.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00757930"
+}

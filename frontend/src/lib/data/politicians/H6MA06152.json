@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BECCIA, JOHN",
+        "party": "DEM",
+        "state": "MA",
+        "indiv_total": 395749.0,
+        "pac_receipts_summary": 12500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00845651",
+            "pac_name": "PAYWARD INTERACTIVE, INC. PAC (PAYWARD PAC)",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 275,
+        "oos_donors": 223,
+        "oos_total": 373275.0
+    },
+    "opposition": []
+}

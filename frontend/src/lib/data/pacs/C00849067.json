@@ -1,0 +1,160 @@
+{
+    "pac": {
+        "name": "CHESAPEAKE UTILITIES CORPORATION POLITICAL ACTION COMMITTEE (CUC PAC)",
+        "committee_type": "N",
+        "total_receipts": 50644.0,
+        "indiv_contrib": 41050.0,
+        "total_spent": 44679.0,
+        "cash_on_hand": 25049.0
+    },
+    "stats": {
+        "candidates_funded": 13
+    },
+    "recipients": [
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL04211",
+            "cand_name": "BEAN, AARON P.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MD00327",
+            "cand_name": "ALSOBROOKS, ANGELA",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4DE00060",
+            "cand_name": "BLUNT ROCHESTER, LISA",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0DE00092",
+            "cand_name": "COONS, CHRISTOPHER A.",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH05036",
+            "cand_name": "LATTA, ROBERT EDWARD",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VA02064",
+            "cand_name": "KIGGANS, JENNIFER",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL04105",
+            "cand_name": "RUTHERFORD, JOHN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD03156",
+            "cand_name": "ELFRETH, SARAH KELLY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL08168",
+            "cand_name": "HARIDOPOLOS, MIKE",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0FL03175",
+            "cand_name": "CAMMACK, KAT",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00007450",
+            "pac_name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00894360",
+            "pac_name": "TEAM FINE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00849067"
+}

@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "RESTORE TRUST PAC",
+        "committee_type": "N",
+        "total_receipts": 99660.0,
+        "indiv_contrib": 99660.0,
+        "total_spent": 58845.0,
+        "cash_on_hand": 45946.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00415",
+            "cand_name": "WHATLEY, MICHAEL",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX19099",
+            "cand_name": "ARRINGTON, JODEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00885038"
+}

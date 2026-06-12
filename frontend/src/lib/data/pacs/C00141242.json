@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "AGRI-MARK INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 10159.0,
+        "indiv_contrib": 10159.0,
+        "total_spent": 3500.0,
+        "cash_on_hand": 65124.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY23228",
+            "cand_name": "LANGWORTHY, NICK",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2VT00235",
+            "cand_name": "WELCH, PETER",
+            "party": "DEM",
+            "state": "VT",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA20094",
+            "cand_name": "VALADAO, DAVID",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00325324",
+            "pac_name": "NATIONAL MILK PRODUCERS FEDERATION PAC (NMPF PAC)",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00141242"
+}

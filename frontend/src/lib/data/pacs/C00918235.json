@@ -1,0 +1,170 @@
+{
+    "pac": {
+        "name": "CHIME FINANCIAL, INC. PAC (CHIME PAC)",
+        "committee_type": "N",
+        "total_receipts": 55292.0,
+        "indiv_contrib": 55292.0,
+        "total_spent": 40048.0,
+        "cash_on_hand": 15244.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2PA00661",
+            "cand_name": "MCCORMICK, DAVE",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WI01156",
+            "cand_name": "STEIL, BRYAN GEORGE",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA23011",
+            "cand_name": "WATERS, MAXINE MS",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6VA00093",
+            "cand_name": "WARNER, MARK ROBERT",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA16197",
+            "cand_name": "LICCARDO, SAM T.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MA09072",
+            "cand_name": "LYNCH, STEPHEN",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AZ00139",
+            "cand_name": "GALLEGO, RUBEN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA05301",
+            "cand_name": "WILLIAMS, NIKEMA N.",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY06048",
+            "cand_name": "MEEKS, GREGORY W.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL14067",
+            "cand_name": "FOSTER, G. WILLIAM (BILL)",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA24113",
+            "cand_name": "SHERMAN, BRAD",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OK06056",
+            "cand_name": "LUCAS, FRANK D.",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MN06087",
+            "cand_name": "EMMER, THOMAS EARL JR.",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773903",
+            "pac_name": "TEAM HILL",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00918235"
+}

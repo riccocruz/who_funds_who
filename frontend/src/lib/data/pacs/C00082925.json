@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "NEVADA REPUBLICAN CENTRAL COMMITTEE",
+        "committee_type": "Y",
+        "total_receipts": 1017703.0,
+        "indiv_contrib": 136050.0,
+        "total_spent": 1002519.0,
+        "cash_on_hand": 333627.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 208876.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 103879.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 75220.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 34720.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00872044",
+            "pac_name": "MARTY FOR CONGRESS",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00023838",
+            "pac_name": "CONNECTICUT REPUBLICAN STATE CENTRAL COMMITTEE, INC.",
+            "total_amt": 16000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00082925"
+}

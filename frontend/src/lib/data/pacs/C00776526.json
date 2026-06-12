@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "TIM SCOTT VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 799557.0,
+        "indiv_contrib": 786057.0,
+        "total_spent": 1103739.0,
+        "cash_on_hand": 101622.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00827519",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC - FEDERAL",
+            "total_amt": 408399.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00457234",
+            "pac_name": "MARSH & MCLENNAN COMPANIES, INC. POLITICAL ACTION COMMITTEE (MARSH PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00174227",
+            "pac_name": "BAKER & HOSTETLER POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00350884",
+            "pac_name": "RESOLUTE FOREST PRODUCTS INC. POLITICAL ACTION COMMITTEE AKA DOMTAR PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00868885",
+            "pac_name": "ARDELYX, INC. POLITICAL ACTION COMMITTEE (ARDX PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00776526"
+}

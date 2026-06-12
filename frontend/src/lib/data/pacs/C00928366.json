@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "LEOLABS, INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 18375.0,
+        "indiv_contrib": 18375.0,
+        "total_spent": 2500.0,
+        "cash_on_hand": 15875.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00928366"
+}

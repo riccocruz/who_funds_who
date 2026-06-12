@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "AGPAC OF THE ARIZONA FARM BUREAU FEDERATION",
+        "committee_type": "Q",
+        "total_receipts": 17075.0,
+        "indiv_contrib": 17049.0,
+        "total_spent": 5700.0,
+        "cash_on_hand": 32787.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0AZ01259",
+            "cand_name": "GOSAR, PAUL DR.",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00136838"
+}

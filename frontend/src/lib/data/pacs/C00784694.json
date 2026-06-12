@@ -1,0 +1,146 @@
+{
+    "pac": {
+        "name": "TKJ PAC",
+        "committee_type": "Q",
+        "total_receipts": 111695.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 100596.0,
+        "cash_on_hand": 14579.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IA02043",
+            "cand_name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA08124",
+            "cand_name": "BRESNAHAN, ROB",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11211",
+            "cand_name": "HATHAWAY, JOE",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00786772",
+            "pac_name": "KEAN VICTORY FUND",
+            "total_amt": 55544.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00040998",
+            "pac_name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00380527",
+            "pac_name": "PERNOD RICARD USA, LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00238725",
+            "pac_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00024968",
+            "pac_name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00444885",
+            "pac_name": "ASTELLAS US LLC PAC (ASTELLAS PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00784694"
+}

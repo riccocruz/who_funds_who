@@ -1,0 +1,512 @@
+{
+    "pac": {
+        "name": "VITORIA PAC",
+        "committee_type": "Q",
+        "total_receipts": 197267.0,
+        "indiv_contrib": 36001.0,
+        "total_spent": 186843.0,
+        "cash_on_hand": 12494.0
+    },
+    "stats": {
+        "candidates_funded": 35
+    },
+    "recipients": [
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IA02043",
+            "cand_name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI02094",
+            "cand_name": "HUIZENGA, WILLIAM P",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8FL27185",
+            "cand_name": "SALAZAR, MARIA ELVIRA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY01190",
+            "cand_name": "NICK, LALOTA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA01147",
+            "cand_name": "WITTMAN, ROBERT J. MR.",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX05144",
+            "cand_name": "GOODEN, LANCE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA08277",
+            "cand_name": "FITZPATRICK, BRIAN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX31044",
+            "cand_name": "CARTER, JOHN R REP.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL15241",
+            "cand_name": "LEE, LAUREL",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA03157",
+            "cand_name": "KILEY, KEVIN",
+            "party": "OTH",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA02142",
+            "cand_name": "LAMALFA, DOUG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX35015",
+            "cand_name": "GONZALES, ERNEST ANTHONY TONY II",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NJ07261",
+            "cand_name": "KEAN, THOMAS H. JR.",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4KS02164",
+            "cand_name": "SCHMIDT, DEREK",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA19154",
+            "cand_name": "VERBICA, PETER COE",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4UT02296",
+            "cand_name": "MALOY, CELESTE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA08124",
+            "cand_name": "BRESNAHAN, ROB",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OH02248",
+            "cand_name": "TAYLOR, DAVID",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI10150",
+            "cand_name": "JAMES, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX15124",
+            "cand_name": "DE LA CRUZ, MONICA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL01055",
+            "cand_name": "CARL, JERRY LEE, JR",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00715102",
+            "pac_name": "THE VALADAO VICTORY FUND",
+            "total_amt": 39766.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00035451",
+            "pac_name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00078451",
+            "pac_name": "GENERAL DYNAMICS CORPORATION POLITICAL ACTION COMMITTEE (GENERAL DYNAMICS EMPLOYEE PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00088591",
+            "pac_name": "EMPLOYEES OF NORTHROP GRUMMAN CORPORATION PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00809970",
+            "pac_name": "HISPANIC LEADERSHIP TRUST",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00023580",
+            "pac_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075341",
+            "pac_name": "MOTOROLA SOLUTIONS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00097568",
+            "pac_name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00130773",
+            "pac_name": "NATIONAL MULTIFAMILY HOUSING COUNCIL AND REAL ESTATE TECHNOLOGY AND TRANSFORMATION CENTER POLITICAL ACTION COMMITTEE (NMHC PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00177469",
+            "pac_name": "PG&E CORPORATION EMPLOYEES ENERGYPAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00215285",
+            "pac_name": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00433060",
+            "pac_name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00546234",
+            "pac_name": "LEIDOS INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00557793",
+            "pac_name": "BLUE ORIGIN LLC POLITICAL ACTION COMMITTEE (BLUE ORIGIN PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00693127",
+            "pac_name": "BUILDING BRIDGES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00797530",
+            "pac_name": "AEROVIRONMENT, INC PAC",
+            "total_amt": 5000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00325092",
+            "pac_name": "HUNTINGTON INGALLS INDUSTRIES, INC. EMPLOYEES POLITICAL ACTION COMMITTEE (HIIPAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00349746",
+            "pac_name": "CALIFORNIA DAIRIES, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00774588",
+            "pac_name": "MISSION FIRST PEOPLE ALWAYS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00096156",
+            "pac_name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00103549",
+            "pac_name": "PARSONS CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00712695"
+}

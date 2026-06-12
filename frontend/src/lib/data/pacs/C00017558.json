@@ -1,0 +1,250 @@
+{
+    "pac": {
+        "name": "BIPARTISAN POLITICAL ACTION COMMITTEE/THE BANK OF NEW YORK MELLON CORPORATION BIPAC/BNYMC",
+        "committee_type": "Q",
+        "total_receipts": 388438.0,
+        "indiv_contrib": 385438.0,
+        "total_spent": 293500.0,
+        "cash_on_hand": 211934.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CO07045",
+            "cand_name": "PETTERSEN, BRITTANY LOUISE",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MA05084",
+            "cand_name": "CLARK, KATHERINE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0IL05096",
+            "cand_name": "QUIGLEY, MIKE",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00412791",
+            "pac_name": "FORWARD TOGETHER PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00426809",
+            "pac_name": "MADISON PAC; THE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571976",
+            "pac_name": "THE PETER NORBECK LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00574970",
+            "pac_name": "FAIR SHOT PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00623512",
+            "pac_name": "IN THE ARENA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00717686",
+            "pac_name": "FINANCIAL SERVICES FORUM POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00851998",
+            "pac_name": "PENNSYLVANIA HONOR",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859538",
+            "pac_name": "ALSOPAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00892752",
+            "pac_name": "JUNTOS PAC",
+            "total_amt": 3000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00436022",
+            "pac_name": "MODERATE DEMOCRATS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00517235",
+            "pac_name": "TURQUOISE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00525600",
+            "pac_name": "OFF THE SIDELINES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00543207",
+            "pac_name": "BADLANDS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00550970",
+            "pac_name": "EQUALITY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00617803",
+            "pac_name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00629311",
+            "pac_name": "GRANITE VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633156",
+            "pac_name": "I GOT YOUR BACK PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00650267",
+            "pac_name": "BUILDING A NATIONAL KNOWLEDGEABLE SECURITY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00688549",
+            "pac_name": "DAKOTA LEADERSHIP PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00762682",
+            "pac_name": "STEER PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00863373",
+            "pac_name": "BEST AT BRINGING ENTREPRENEURIAL RESULTS NEVER IMAGINED OR ENVISIONED PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00714501",
+            "pac_name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00017558"
+}

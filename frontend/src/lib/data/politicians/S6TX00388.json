@@ -1,0 +1,77 @@
+{
+    "politician": {
+        "cand_name": "PAXTON, WARREN KENNETH JR.",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 7573427.0,
+        "pac_receipts_summary": 25500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00574103",
+            "pac_name": "U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00481200",
+            "pac_name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00787135",
+            "pac_name": "KEN PAXTON FOR SENATE",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00842898",
+            "pac_name": "HOUSTON PILOTS PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00311142",
+            "pac_name": "TROUTMAN PEPPER LOCKE LLP POLITICAL ACTION COMMITTEE, INC.",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00939793",
+            "pac_name": "MONTGOMERY COUNTY FIRST PAC",
+            "total_amt": 720.0,
+            "direct_amt": 0.0,
+            "ie_amt": 720.0
+        },
+        {
+            "cmte_id": "C00488403",
+            "pac_name": "TEXAS PATRIOTS PAC",
+            "total_amt": 672.0,
+            "direct_amt": 0.0,
+            "ie_amt": 672.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 3322,
+        "oos_donors": 796,
+        "oos_total": 1339633.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00542217",
+            "pac_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+            "total_amt": 14031890.0
+        },
+        {
+            "cmte_id": "C00940502",
+            "pac_name": "LONE STAR VOICES",
+            "total_amt": 1243.0
+        }
+    ]
+}

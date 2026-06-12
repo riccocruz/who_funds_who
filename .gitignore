@@ -1,0 +1,28 @@
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# FEC datasets (large raw data files)
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Frontend (handled by frontend/.gitignore, but mirror key entries)
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/

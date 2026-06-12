@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "NORTHERN TRUST CORPORATION POLITICAL ACTION COMMITTEE (NORTHERN TRUST PAC)",
+        "committee_type": "Q",
+        "total_receipts": 10940.0,
+        "indiv_contrib": 10940.0,
+        "total_spent": 17750.0,
+        "cash_on_hand": 6865.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY10092",
+            "cand_name": "JEFFRIES, HAKEEM",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL09067",
+            "cand_name": "SCHAKOWSKY, JANICE D",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI04183",
+            "cand_name": "MOORE, GWEN S",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH03125",
+            "cand_name": "BEATTY, JOYCE",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00024935"
+}

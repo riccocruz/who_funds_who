@@ -1,0 +1,87 @@
+{
+    "pac": {
+        "name": "OUTRAGE THEN ACTION",
+        "committee_type": "V",
+        "total_receipts": 337139.0,
+        "indiv_contrib": 331525.0,
+        "total_spent": 354424.0,
+        "cash_on_hand": 26605.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00831974"
+}

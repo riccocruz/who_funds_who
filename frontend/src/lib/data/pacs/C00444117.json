@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC CLUB OF WEST ORANGE COUNTY",
+        "committee_type": "N",
+        "total_receipts": 11909.0,
+        "indiv_contrib": 11859.0,
+        "total_spent": 10441.0,
+        "cash_on_hand": 9136.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00444117"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "WINNING RIGHT PAC",
+        "committee_type": "O",
+        "total_receipts": 353627.0,
+        "indiv_contrib": 8615.0,
+        "total_spent": 136519.0,
+        "cash_on_hand": 44602.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S0TN00169",
+            "cand_name": "HAGERTY, BILL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 130000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 130000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00760124",
+            "pac_name": "NATIONAL VICTORY ACTION FUND",
+            "total_amt": 172506.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S0TN00169",
+            "pac_name": "DIGITAL MARKETING SOLUTIONS GROUP LLC",
+            "total_amt": 130000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00930495"
+}

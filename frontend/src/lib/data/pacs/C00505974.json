@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "CALIFORNIA NATIONS INDIAN GAMING ASSOCIATION FEDERAL PAC (CNIGA FED PAC)",
+        "committee_type": "N",
+        "total_receipts": 10000.0,
+        "indiv_contrib": 10000.0,
+        "total_spent": 10000.0,
+        "cash_on_hand": 67650.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S4CA00555",
+            "cand_name": "SCHIFF, ADAM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2CA00955",
+            "cand_name": "PADILLA, ALEX",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AR00150",
+            "cand_name": "BOOZMAN, SEN. JOHN",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00629212",
+            "pac_name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00505974"
+}

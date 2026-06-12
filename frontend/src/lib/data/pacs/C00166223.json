@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "ASSOCIATION OF PROGRESSIVE RENTAL ORGANIZATIONS POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 50471.0,
+        "indiv_contrib": 50350.0,
+        "total_spent": 19738.0,
+        "cash_on_hand": 80611.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4GA11061",
+            "cand_name": "LOUDERMILK, BARRY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KY06104",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00329375",
+            "pac_name": "MEEKS FOR CONGRESS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00779223",
+            "pac_name": "JOSH HAWLEY VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00166223"
+}

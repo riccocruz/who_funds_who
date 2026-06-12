@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "FUTURES PAC",
+        "committee_type": "N",
+        "total_receipts": 70890.0,
+        "indiv_contrib": 70890.0,
+        "total_spent": 66639.0,
+        "cash_on_hand": 14360.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MN01190",
+            "cand_name": "JOHNSON, JACOB",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00830745"
+}

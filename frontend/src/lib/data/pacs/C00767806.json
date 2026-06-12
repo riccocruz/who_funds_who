@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FEENSTRA VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 129294.0,
+        "indiv_contrib": 122400.0,
+        "total_spent": 130254.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00756825",
+            "pac_name": "DELIVERS PAC",
+            "total_amt": 33832.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 13788.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00767806"
+}

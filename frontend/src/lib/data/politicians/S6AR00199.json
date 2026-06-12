@@ -1,0 +1,35 @@
+{
+    "politician": {
+        "cand_name": "SHOFFNER, HALLIE",
+        "party": "DEM",
+        "state": "AR",
+        "indiv_total": 1584211.0,
+        "pac_receipts_summary": 3510.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1495,
+        "oos_donors": 301,
+        "oos_total": 158388.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00728667",
+            "pac_name": "AMERICA ONE",
+            "total_amt": 1167662.0
+        },
+        {
+            "cmte_id": "C00930966",
+            "pac_name": "ARKANSANS FOR DEMOCRACY AND JUSTICE",
+            "total_amt": 111500.0
+        }
+    ]
+}

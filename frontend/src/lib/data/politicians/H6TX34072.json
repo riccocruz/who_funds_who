@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CORTEZ, JOSHUA",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 251963.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00347955",
+            "pac_name": "LIFEPOINT HEALTH PAC - THE PAC OF LIFEPOINT CORPORATE SERVICES, GENERAL PARTNERSHIP (LCSGP) AND FACILITIES WHICH ARE SUBSIDIARIES OF LIFEPOINT HEALTH (COLLECTIVELY LIFEPOINT)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 121,
+        "oos_donors": 21,
+        "oos_total": 40347.0
+    },
+    "opposition": []
+}

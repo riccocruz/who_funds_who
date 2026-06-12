@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "MUNICH AMERICAN REASSURANCE COMPANY",
+        "committee_type": "N",
+        "total_receipts": 15850.0,
+        "indiv_contrib": 15850.0,
+        "total_spent": 12628.0,
+        "cash_on_hand": 4183.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL10068",
+            "cand_name": "SCHNEIDER, BRADLEY S.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00504316"
+}

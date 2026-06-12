@@ -1,0 +1,94 @@
+{
+    "politician": {
+        "cand_name": "MCMORROW, MALLORY",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 8475065.0,
+        "pac_receipts_summary": 58719.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00459925",
+            "pac_name": "AMERICAN MOBILIZATION PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00716423",
+            "pac_name": "THE NEXT 50 PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00497073",
+            "pac_name": "LOBO PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00877183",
+            "pac_name": "THE JUNO FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00500843",
+            "pac_name": "MCMORROW FOR MICHIGAN",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00585687",
+            "pac_name": "ELECTING WOMEN BAY AREA PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00692137",
+            "pac_name": "VOTE MAMA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00872879",
+            "pac_name": "STAND UP PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00776419",
+            "pac_name": "THE PEOPLE UNITED PAC",
+            "total_amt": 50.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 5509,
+        "oos_donors": 3269,
+        "oos_total": 2588460.0
+    },
+    "opposition": []
+}

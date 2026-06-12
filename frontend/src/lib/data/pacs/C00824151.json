@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "COLLINS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 1828182.0,
+        "indiv_contrib": 1820209.0,
+        "total_spent": 1811150.0,
+        "cash_on_hand": 18533.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00802595",
+            "pac_name": "OVERHAUL PAC",
+            "total_amt": 143269.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 10214.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00100289",
+            "pac_name": "GEORGIA MINING ASSOCIATION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00824151"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "LALLY, JAMES DR.",
+        "party": "DEM",
+        "state": "NV",
+        "indiv_total": 231888.0,
+        "pac_receipts_summary": 7383.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00879080",
+            "pac_name": "CITIZENS AGAINST AIPAC CORRUPTION",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 196,
+        "oos_donors": 132,
+        "oos_total": 64287.0
+    },
+    "opposition": []
+}

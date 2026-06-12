@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "SCHWARZE, ADAM",
+        "party": "REP",
+        "state": "MN",
+        "indiv_total": 1018870.0,
+        "pac_receipts_summary": 30309.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00921924",
+            "pac_name": "MC-KEE PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00387274",
+            "pac_name": "NEW MAJORITY FEDERAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00683508",
+            "pac_name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00914366",
+            "pac_name": "NO FAIL MISSION PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00753194",
+            "pac_name": "MINNESOTA YOUNG REPUBLICANS VICTORY FUND",
+            "total_amt": 1809.0,
+            "direct_amt": 1809.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00741355",
+            "pac_name": "MAJORITY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 445,
+        "oos_donors": 216,
+        "oos_total": 374197.0
+    },
+    "opposition": []
+}

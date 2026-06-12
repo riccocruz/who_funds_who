@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "AQUI ESTAMOS PAC",
+        "committee_type": "N",
+        "total_receipts": 10938.0,
+        "indiv_contrib": 2750.0,
+        "total_spent": 69935.0,
+        "cash_on_hand": 909.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ06099",
+            "cand_name": "MENDOZA, JOANNA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ01280",
+            "cand_name": "GALAN-WOODS, MARLENE",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1832.0,
+            "direct_amt": 1832.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00562777",
+            "pac_name": "LATINO VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00836890"
+}

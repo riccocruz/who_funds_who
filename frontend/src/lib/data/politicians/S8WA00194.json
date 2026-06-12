@@ -1,0 +1,66 @@
+{
+    "politician": {
+        "cand_name": "CANTWELL, MARIA",
+        "party": "DEM",
+        "state": "WA",
+        "indiv_total": 670915.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00009985",
+            "pac_name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00364471",
+            "pac_name": "INGRAM BARGE COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00255752",
+            "pac_name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00400705",
+            "pac_name": "PUBLIX SUPER MARKETS, INC. ASSOCIATES POLITICAL ACTION COMMITTEE",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00708636",
+            "pac_name": "HOULAPAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00023580",
+            "pac_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": -10000.0,
+            "direct_amt": -10000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 621,
+        "oos_donors": 140,
+        "oos_total": 110247.0
+    },
+    "opposition": []
+}

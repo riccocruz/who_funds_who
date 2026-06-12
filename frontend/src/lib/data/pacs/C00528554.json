@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "RJC VICTORY FUND",
+        "committee_type": "O",
+        "total_receipts": 6600220.0,
+        "indiv_contrib": 6225220.0,
+        "total_spent": 4689020.0,
+        "cash_on_hand": 2262056.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6KY04171",
+            "cand_name": "GALLREIN, ED",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2519620.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2519620.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P80001571",
+            "cand_name": "MEDIA AD VENTURES INC",
+            "party": null,
+            "state": null,
+            "total_amt": -62727.0,
+            "direct_amt": 0.0,
+            "ie_amt": -62727.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6KY04171",
+            "pac_name": "AARU INC",
+            "total_amt": 2519620.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00893198",
+            "pac_name": "CONSERVATIVE FIGHTER PAC",
+            "total_amt": 650000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2KY04121",
+            "pac_name": "GRAPESEED MEDIA LLC",
+            "total_amt": 362843.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00504530",
+            "pac_name": "CLF",
+            "total_amt": 125000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00894709",
+            "pac_name": "PINE TREE RESULTS PAC",
+            "total_amt": 30000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "P80001571",
+            "pac_name": "MEDIA AD VENTURES INC",
+            "total_amt": -62727.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00528554"
+}

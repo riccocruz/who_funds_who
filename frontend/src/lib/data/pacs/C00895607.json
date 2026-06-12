@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "NO SURRENDER FUND",
+        "committee_type": "W",
+        "total_receipts": 2960324.0,
+        "indiv_contrib": 2959324.0,
+        "total_spent": 2524628.0,
+        "cash_on_hand": 435696.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6SD01117",
+            "cand_name": "BENGS, BRIAN",
+            "party": "IND",
+            "state": "SD",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00379",
+            "cand_name": "FRIENDS OF SHERROD BROWN",
+            "party": null,
+            "state": null,
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA10126",
+            "cand_name": "HARDER, JOSH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01158",
+            "cand_name": "PELTOLA, MARY",
+            "party": "DEM",
+            "state": "AK",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00913574",
+            "pac_name": "COOPER VICTORY FUND",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00895607"
+}

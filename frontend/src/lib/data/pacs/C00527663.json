@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "MONTPAC-MONTANA MEDICAL ASSOCIATION (MMA)",
+        "committee_type": "Q",
+        "total_receipts": 13255.0,
+        "indiv_contrib": 12755.0,
+        "total_spent": 9220.0,
+        "cash_on_hand": 7421.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S8MT00218",
+            "cand_name": "DOWNING, TROY",
+            "party": null,
+            "state": null,
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MT00183",
+            "cand_name": "SHEEHY, TIM",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2MT00096",
+            "cand_name": "DAINES, STEVE",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MT00234",
+            "cand_name": "ROSENDALE, MATT MR.",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": -500.0,
+            "direct_amt": -500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00527663"
+}

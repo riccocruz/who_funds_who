@@ -1,0 +1,166 @@
+{
+    "pac": {
+        "name": "SES SPACE AND DEFENSE, INC. PAC",
+        "committee_type": "N",
+        "total_receipts": 40020.0,
+        "indiv_contrib": 40020.0,
+        "total_spent": 42000.0,
+        "cash_on_hand": 29764.0
+    },
+    "stats": {
+        "candidates_funded": 13
+    },
+    "recipients": [
+        {
+            "cand_id": "H2HI02128",
+            "cand_name": "CASE, EDWARD",
+            "party": "DEM",
+            "state": "HI",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL11126",
+            "cand_name": "CASTOR, KATHY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0FL15104",
+            "cand_name": "FRANKLIN, SCOTT MR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA01147",
+            "cand_name": "WITTMAN, ROBERT J. MR.",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA08224",
+            "cand_name": "BEYER, DONALD STERNOFF JR.",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VA02064",
+            "cand_name": "KIGGANS, JENNIFER",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0FL26036",
+            "cand_name": "GIMENEZ, CARLOS",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6RI00163",
+            "cand_name": "REED, JOHN F.",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL18097",
+            "cand_name": "MAST, BRIAN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA10279",
+            "cand_name": "SUBRAMANYAM, SUHAS",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00567693",
+            "pac_name": "HAWAII PAC",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00524314",
+            "pac_name": "AMERICA'S FIRST PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00895219",
+            "pac_name": "MARK WARNER VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00828053"
+}

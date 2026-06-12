@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "WYOMING VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 281600.0,
+        "indiv_contrib": 254000.0,
+        "total_spent": 281600.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00387464",
+            "pac_name": "ALAMO PAC",
+            "total_amt": 15861.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00442368",
+            "pac_name": "COMMON VALUES PAC",
+            "total_amt": 6858.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00762682",
+            "pac_name": "STEER PAC",
+            "total_amt": 6658.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00901983"
+}

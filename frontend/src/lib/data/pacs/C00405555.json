@@ -1,0 +1,152 @@
+{
+    "pac": {
+        "name": "NATIONAL COUNCIL OF TEXTILE ORGANIZATIONS INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 151534.0,
+        "indiv_contrib": 121499.0,
+        "total_spent": 23000.0,
+        "cash_on_hand": 557048.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC08185",
+            "cand_name": "HUDSON, RICHARD L. JR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC05146",
+            "cand_name": "FOXX, VIRGINIA ANN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CT03072",
+            "cand_name": "DELAURO, ROSA L",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00013607",
+            "cand_name": "JASON SMITH FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC13116",
+            "cand_name": "KNOTT, BRAD",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC08066",
+            "cand_name": "HARRIS, MARK E",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC06177",
+            "cand_name": "MCDOWELL, ADDISON",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC07280",
+            "cand_name": "FRY, RUSSELL",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC13243",
+            "cand_name": "HARRIGAN, PAT",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC07096",
+            "cand_name": "ROUZER, DAVID",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00040238",
+            "pac_name": "ELEVATE TEXTILES POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00697375",
+            "pac_name": "MILLIKEN & COMPANY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00502351",
+            "pac_name": "UNIFI, INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00142893",
+            "pac_name": "INMAN MILLS GOOD GOVERNMENT FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00405555"
+}

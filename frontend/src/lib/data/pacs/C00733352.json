@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "AMERICANS 4 SECURITY PAC",
+        "committee_type": "O",
+        "total_receipts": 1698008.0,
+        "indiv_contrib": 1688008.0,
+        "total_spent": 1670051.0,
+        "cash_on_hand": 31652.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 250000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 250000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H8CA39240",
+            "pac_name": "ART & COPY PARTNERS",
+            "total_amt": 1416470.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H2OK04055",
+            "pac_name": "REVOLUTION MEDIA GROUP",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00733352"
+}

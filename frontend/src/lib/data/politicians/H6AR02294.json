@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HUFFMAN, ZACKARY BLAKE",
+        "party": "DEM",
+        "state": "AR",
+        "indiv_total": 6190.0,
+        "pac_receipts_summary": 1250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 10,
+        "oos_donors": 4,
+        "oos_total": 1673.0
+    },
+    "opposition": []
+}

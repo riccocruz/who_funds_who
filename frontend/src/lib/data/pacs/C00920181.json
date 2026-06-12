@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "JERRY CARL VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 275432.0,
+        "indiv_contrib": 261932.0,
+        "total_spent": 235883.0,
+        "cash_on_hand": 39549.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00765644",
+            "pac_name": "BIG IDEAS CREATE EXCELLENCE PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00487942",
+            "pac_name": "REACHING FOR A BRIGHTER AMERICA PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00752287",
+            "pac_name": "CONSERVATIVE AMERICAN REPUBLICAN LEADERSHIP PAC",
+            "total_amt": 2237.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00400424",
+            "pac_name": "TORCH TECHNOLOGIES, INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00439521",
+            "pac_name": "AMERICAN SECURITY PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00920181"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "FORGING INDUSTRY ASSOCIATION POLITICAL ACTION COMMITTEE-FORGING FORGINGPAC",
+        "committee_type": "N",
+        "total_receipts": 11240.0,
+        "indiv_contrib": 8540.0,
+        "total_spent": 9328.0,
+        "cash_on_hand": 29882.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0PA03271",
+            "cand_name": "KELLY, GEORGE J JR",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00807644"
+}

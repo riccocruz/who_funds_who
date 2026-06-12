@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "BASIN ELECTRIC POWER COOPERATIVE POLITICAL ACTION COMMITTEE (BASIN ELECTRIC PAC)",
+        "committee_type": "Q",
+        "total_receipts": 41590.0,
+        "indiv_contrib": 41590.0,
+        "total_spent": 17830.0,
+        "cash_on_hand": 54374.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MN01223",
+            "cand_name": "FINSTAD, BRAD",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MN07091",
+            "cand_name": "FISCHBACH, MICHELLE",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MN03118",
+            "cand_name": "MORRISON, KELLY LOUISE",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00493072",
+            "pac_name": "DAKOTA PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00543207",
+            "pac_name": "BADLANDS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00220269"
+}

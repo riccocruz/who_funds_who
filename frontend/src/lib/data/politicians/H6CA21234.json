@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "RIOS, LORENZO",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 355589.0,
+        "pac_receipts_summary": 4998.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00808279",
+            "pac_name": "LORENZO RIOS FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00394452",
+            "pac_name": "EXCHANGE CONTRACTORS FEDERAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00720649",
+            "pac_name": "REFORM LEADERS PAC",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 240,
+        "oos_donors": 64,
+        "oos_total": 37525.0
+    },
+    "opposition": []
+}

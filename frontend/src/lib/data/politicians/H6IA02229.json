@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MCCLINTOCK, CHARLIE",
+        "party": "REP",
+        "state": "IA",
+        "indiv_total": 8944.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00363945",
+            "pac_name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 12,
+        "oos_donors": 1,
+        "oos_total": 520.0
+    },
+    "opposition": []
+}

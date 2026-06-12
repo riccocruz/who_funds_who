@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "NATE TOWER PAC OF THE NATIONAL ASSOCIATION OF TOWER ERECTORS",
+        "committee_type": "N",
+        "total_receipts": 35550.0,
+        "indiv_contrib": 35550.0,
+        "total_spent": 10345.0,
+        "cash_on_hand": 25205.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2SD00068",
+            "cand_name": "THUNE, JOHN R.",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC08185",
+            "cand_name": "HUDSON, RICHARD L. JR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00723189",
+            "pac_name": "CANTWELL VICTORY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00898494"
+}

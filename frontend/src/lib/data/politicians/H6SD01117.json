@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "CRABTREE, CASEY",
+        "party": "REP",
+        "state": "SD",
+        "indiv_total": 244289.0,
+        "pac_receipts_summary": 9500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00024968",
+            "pac_name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00161570",
+            "pac_name": "AMERICAN PUBLIC POWER ASSOCIATION, PUBLIC OWNERSHIP OF ELECTRIC RESOURCES PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00173153",
+            "pac_name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00841775",
+            "pac_name": "AMERICAN CARBON ALLIANCE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00849307",
+            "pac_name": "GEVO, INC. POLITICAL ACTION COMMITTEE (GEVO PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 249,
+        "oos_donors": 18,
+        "oos_total": 22835.0
+    },
+    "opposition": []
+}

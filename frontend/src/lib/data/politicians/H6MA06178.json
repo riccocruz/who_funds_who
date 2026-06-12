@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JAKIOUS, RICK",
+        "party": "DEM",
+        "state": "MA",
+        "indiv_total": 300334.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00004879",
+            "pac_name": "AMERICAN BUS ASSOCIATION POLITICAL ACTION COMMITTEE - BUSPAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 140,
+        "oos_donors": 37,
+        "oos_total": 50975.0
+    },
+    "opposition": []
+}

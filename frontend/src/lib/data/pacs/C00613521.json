@@ -1,0 +1,120 @@
+{
+    "pac": {
+        "name": "SEMICONDUCTOR INDUSTRY ASSOCIATION PAC (SIA PAC)",
+        "committee_type": "N",
+        "total_receipts": 47418.0,
+        "indiv_contrib": 47418.0,
+        "total_spent": 18500.0,
+        "cash_on_hand": 38598.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "S6VA00093",
+            "cand_name": "WARNER, MARK ROBERT",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IN00191",
+            "cand_name": "YOUNG, TODD CHRISTOPHER",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL18097",
+            "cand_name": "MAST, BRIAN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA20152",
+            "cand_name": "PANETTA, JIMMY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA16197",
+            "cand_name": "LICCARDO, SAM T.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00770180",
+            "pac_name": "CORNYN VICTORY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00895219",
+            "pac_name": "MARK WARNER VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00613521"
+}

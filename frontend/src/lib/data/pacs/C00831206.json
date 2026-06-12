@@ -1,0 +1,176 @@
+{
+    "pac": {
+        "name": "SPIRE INC. FEDERAL POLITICAL ACTION COMMITTEE (SPIRE FEDERAL PAC)",
+        "committee_type": "Q",
+        "total_receipts": 35556.0,
+        "indiv_contrib": 35556.0,
+        "total_spent": 52000.0,
+        "cash_on_hand": 36270.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "S2AL00145",
+            "cand_name": "BRITT, KATIE BOYD",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0WY00137",
+            "cand_name": "LUMMIS, CYNTHIA MARIE MRS.",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2MO00544",
+            "cand_name": "SCHMITT, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL06098",
+            "cand_name": "PALMER, GARY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL02170",
+            "cand_name": "FIGURES, SHOMARI C.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL03032",
+            "cand_name": "ROGERS, MICHAEL",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MO07143",
+            "cand_name": "BURLISON, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MO02102",
+            "cand_name": "WAGNER, ANN L.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 750.0,
+            "direct_amt": 750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MO04207",
+            "cand_name": "ALFORD, MARK",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO05234",
+            "cand_name": "CLEAVER, EMANUEL II",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO03221",
+            "cand_name": "ONDER, ROBERT FOR JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AL04098",
+            "cand_name": "ADERHOLT, ROBERT B. REP.",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": -1500.0,
+            "direct_amt": -1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00007450",
+            "pac_name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00442368",
+            "pac_name": "COMMON VALUES PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00116145",
+            "pac_name": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00831206"
+}

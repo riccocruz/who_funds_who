@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "MISSION IOWA",
+        "committee_type": "O",
+        "total_receipts": 306051.0,
+        "indiv_contrib": 281051.0,
+        "total_spent": 441328.0,
+        "cash_on_hand": 214042.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IA00314",
+            "cand_name": "ARENHOLZ, ASHLEY HINSON",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10676.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10676.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6IA00314",
+            "pac_name": "CREATIVE STRATEGIC SOLUTIONS LLC",
+            "total_amt": 10676.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00874370"
+}

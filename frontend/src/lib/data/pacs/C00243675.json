@@ -1,0 +1,130 @@
+{
+    "pac": {
+        "name": "RIO TINTO AMERICA INC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 16545.0,
+        "indiv_contrib": 16545.0,
+        "total_spent": 22000.0,
+        "cash_on_hand": 14047.0
+    },
+    "stats": {
+        "candidates_funded": 10
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NV00200",
+            "cand_name": "CORTEZ MASTO, CATHERINE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4UT00282",
+            "cand_name": "CURTIS, JOHN",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4UT02296",
+            "cand_name": "MALOY, CELESTE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI12079",
+            "cand_name": "DINGELL, DEBBIE",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA20181",
+            "cand_name": "FONG, VINCE",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00494302",
+            "pac_name": "LEAD ENCOURAGE ELECT PAC",
+            "total_amt": 4000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00848317",
+            "pac_name": "GALLEGO VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00243675"
+}

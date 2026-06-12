@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "HARRY S. TRUMAN CLUB- FEDERAL",
+        "committee_type": "Q",
+        "total_receipts": 76099.0,
+        "indiv_contrib": 43234.0,
+        "total_spent": 53848.0,
+        "cash_on_hand": 38918.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00320218",
+            "pac_name": "UNITED ASSOCIATION OF JOURNEYMEN & APPRENTICES OF THE U.S. & CANADA LOCAL 447 FEDERAL PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00491365"
+}

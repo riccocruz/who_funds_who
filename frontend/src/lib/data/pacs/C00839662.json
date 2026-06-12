@@ -1,0 +1,122 @@
+{
+    "pac": {
+        "name": "COYOTE PAC",
+        "committee_type": "Q",
+        "total_receipts": 12500.0,
+        "indiv_contrib": 7500.0,
+        "total_spent": 58223.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY10308",
+            "cand_name": "GOLDMAN, DANIEL",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA07234",
+            "cand_name": "VINDMAN, YEVGENY 'EUGENE'",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC02287",
+            "cand_name": "DAVIS, DON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY04158",
+            "cand_name": "GILLEN FOR NY",
+            "party": null,
+            "state": null,
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NC07196",
+            "cand_name": "HARDY, KIMBERLY DR.",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 211.0,
+            "direct_amt": 211.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AZ00139",
+            "cand_name": "GALLEGO, RUBEN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00012245",
+            "pac_name": "UBS AMERICAS INC. POLITICAL ACTION COMMITTEE (UBS PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896951",
+            "pac_name": "AMERICAN MUCKRAKERS II",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00747840",
+            "pac_name": "AGUILAR LEADERSHIP FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00903112",
+            "pac_name": "EVOLVE POLITICAL ACTION COMMITTEE",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00839662"
+}

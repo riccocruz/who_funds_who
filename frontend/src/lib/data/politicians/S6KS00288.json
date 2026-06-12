@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SCHMIDT, PATRICK",
+        "party": "DEM",
+        "state": "KS",
+        "indiv_total": 164924.0,
+        "pac_receipts_summary": 12250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

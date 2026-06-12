@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "KANSAS BANKERS ASSOCIATION BANKPAC",
+        "committee_type": "Q",
+        "total_receipts": 48201.0,
+        "indiv_contrib": 48180.0,
+        "total_spent": 80520.0,
+        "cash_on_hand": 21714.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 70500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00517276",
+            "pac_name": "FRIENDS OF TRADITIONAL BANKING INC",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00086611"
+}

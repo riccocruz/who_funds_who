@@ -1,0 +1,76 @@
+{
+    "pac": {
+        "name": "DLGA",
+        "committee_type": "W",
+        "total_receipts": 5475795.0,
+        "indiv_contrib": 102723.0,
+        "total_spent": 5392264.0,
+        "cash_on_hand": 1150628.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11310",
+            "cand_name": "WAY, TAHESHA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1720974.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1720974.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IL00458",
+            "cand_name": "STRATTON, JULIANA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 231734.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 221734.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NJ11310",
+            "pac_name": "ROYAL PRINTING SERVICES",
+            "total_amt": 1720974.0,
+            "tx_count": 29
+        },
+        {
+            "cmte_id": "S6IL00458",
+            "pac_name": "FOREST PRINTING COMPANY",
+            "total_amt": 221734.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00355677",
+            "pac_name": "BIOTECHNOLOGY INNOVATION ORGANIZATION PAC (BIO PAC)",
+            "total_amt": 697.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00685719"
+}

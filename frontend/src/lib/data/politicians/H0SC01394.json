@@ -1,0 +1,87 @@
+{
+    "politician": {
+        "cand_name": "MACE, NANCY",
+        "party": "REP",
+        "state": "SC",
+        "indiv_total": 171233.0,
+        "pac_receipts_summary": 11500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00432260",
+            "pac_name": "CLUB FOR GROWTH PAC",
+            "total_amt": 3639.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3639.0
+        },
+        {
+            "cmte_id": "C00416594",
+            "pac_name": "NANCY MACE FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00679860",
+            "pac_name": "ANIMAL WELLNESS ACTION PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00850099",
+            "pac_name": "COMPETITIVE MARKETS PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00123612",
+            "pac_name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00392670",
+            "pac_name": "JUSTICE FREEDOM & LIBERTY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00401786",
+            "pac_name": "FREEDOM'S DEFENSE FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00437566",
+            "pac_name": "ELBIT SYSTEMS OF AMERICA LLC POLITICAL ACTION COMMITTEE (ELBIT AMERICA PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010421",
+            "pac_name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00064766",
+            "pac_name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 144,
+        "oos_donors": 117,
+        "oos_total": 52684.0
+    },
+    "opposition": []
+}

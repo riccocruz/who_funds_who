@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "LINDE INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 20855.0,
+        "indiv_contrib": 20855.0,
+        "total_spent": 28146.0,
+        "cash_on_hand": 380768.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NY26078",
+            "cand_name": "KENNEDY, TIMOTHY",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0VA09055",
+            "cand_name": "GRIFFITH, H MORGAN",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0SC00149",
+            "cand_name": "GRAHAM, LINDSEY O.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00551853",
+            "pac_name": "OORAH! POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00283440"
+}

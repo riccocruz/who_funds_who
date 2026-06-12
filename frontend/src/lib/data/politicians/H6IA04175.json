@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WINDSCHITL, MATT",
+        "party": "REP",
+        "state": "IA",
+        "indiv_total": 60881.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00007880",
+            "pac_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 45,
+        "oos_donors": 4,
+        "oos_total": 5546.0
+    },
+    "opposition": []
+}

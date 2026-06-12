@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FIGHT FOR THE PEOPLE PAC",
+        "committee_type": "N",
+        "total_receipts": 16077473.0,
+        "indiv_contrib": 1652119.0,
+        "total_spent": 17552492.0,
+        "cash_on_hand": 287038.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 43922.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00745976",
+            "pac_name": "HARRIS VICTORY FUND",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00703975"
+}

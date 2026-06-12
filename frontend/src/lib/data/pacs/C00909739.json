@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "PEACE DEMOCRATS",
+        "committee_type": "N",
+        "total_receipts": 15687.0,
+        "indiv_contrib": 15687.0,
+        "total_spent": 10310.0,
+        "cash_on_hand": 5377.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CA22190",
+            "cand_name": "VILLEGAS, RANDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA07175",
+            "cand_name": "VANG, MAI",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00909739"
+}

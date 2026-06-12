@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+        "committee_type": "O",
+        "total_receipts": 41648.0,
+        "indiv_contrib": 10360.0,
+        "total_spent": 162104.0,
+        "cash_on_hand": 47466.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "P00009423",
+            "cand_name": "UPLIFT",
+            "party": null,
+            "state": null,
+            "total_amt": 388.0,
+            "direct_amt": 0.0,
+            "ie_amt": 388.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA42205",
+            "cand_name": "ROLLINS, WILL",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 213.0,
+            "direct_amt": 0.0,
+            "ie_amt": 213.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "UPLIFT",
+            "total_amt": 388.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2CA42205",
+            "pac_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
+            "total_amt": 213.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00556860"
+}

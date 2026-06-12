@@ -1,0 +1,110 @@
+{
+    "pac": {
+        "name": "RENAL PHYSICIANS ASSOCIATION PAC RPA PAC",
+        "committee_type": "Q",
+        "total_receipts": 57429.0,
+        "indiv_contrib": 57429.0,
+        "total_spent": 43030.0,
+        "cash_on_hand": 148187.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR03192",
+            "cand_name": "DEXTER, MAXINE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD03156",
+            "cand_name": "ELFRETH, SARAH KELLY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY11138",
+            "cand_name": "CLARKE, YVETTE D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00431924",
+            "pac_name": "KIDNEY CARE PARTNERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409276",
+            "pac_name": "MAKING A RESPONSIBLE STAND FOR HOUSEHOLDS IN AMERICA PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00409391"
+}

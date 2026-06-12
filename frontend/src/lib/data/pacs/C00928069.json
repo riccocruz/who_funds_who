@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DREAM NYC",
+        "committee_type": "O",
+        "total_receipts": 402510.0,
+        "indiv_contrib": 402510.0,
+        "total_spent": 175174.0,
+        "cash_on_hand": 227336.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NY12214",
+            "cand_name": "BORES, ALEXANDER",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 118112.0,
+            "direct_amt": 0.0,
+            "ie_amt": 118112.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NY12214",
+            "pac_name": "CHISM STRATEGIES",
+            "total_amt": 118112.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00928069"
+}

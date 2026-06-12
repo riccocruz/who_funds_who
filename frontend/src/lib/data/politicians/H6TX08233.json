@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JENSEN, BRETT",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 11294.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00488403",
+            "pac_name": "TEXAS PATRIOTS PAC",
+            "total_amt": 672.0,
+            "direct_amt": 0.0,
+            "ie_amt": 672.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 10,
+        "oos_donors": 5,
+        "oos_total": 1905.0
+    },
+    "opposition": []
+}

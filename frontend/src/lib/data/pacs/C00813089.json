@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "FIGHT TO WIN AMERICA, INC.",
+        "committee_type": "O",
+        "total_receipts": 3547000.0,
+        "indiv_contrib": 2772000.0,
+        "total_spent": 3391341.0,
+        "cash_on_hand": 171766.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX02166",
+            "cand_name": "CRENSHAW, DANIEL",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 824510.0,
+            "direct_amt": 0.0,
+            "ie_amt": 824510.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX08175",
+            "pac_name": "ART AND COPY PARTNERS LLC",
+            "total_amt": 1842765.0,
+            "tx_count": 26
+        },
+        {
+            "cmte_id": "H8TX02166",
+            "pac_name": "ASCENT MEDIA LLC",
+            "total_amt": 824510.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H2TX08232",
+            "pac_name": "ASCENT MEDIA LLC",
+            "total_amt": 3157.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00813089"
+}

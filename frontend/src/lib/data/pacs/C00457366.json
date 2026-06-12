@@ -1,0 +1,138 @@
+{
+    "pac": {
+        "name": "SELF-INSURANCE INSTITUTE OF AMERICA, INC. PAC (SELF-INSURANCE PAC)",
+        "committee_type": "Q",
+        "total_receipts": 37450.0,
+        "indiv_contrib": 17450.0,
+        "total_spent": 39370.0,
+        "cash_on_hand": 120697.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MA04192",
+            "cand_name": "AUCHINCLOSS, JAKE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8GA06393",
+            "cand_name": "MCBATH, LUCIA KAY MS.",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09070",
+            "cand_name": "BILIRAKIS, GUS M",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6DE00206",
+            "cand_name": "BLUNT ROCHESTER, LISA",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00184028",
+            "pac_name": "VOYA FINANCIAL, INC., POLITICAL ACTION COMMITTEE (VOYA FINANCIAL PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00426809",
+            "pac_name": "MADISON PAC; THE",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00156166",
+            "pac_name": "TRUSTMARK INSURANCE COMPANY POLITICAL ACTION COMMITTEE (TRUSTPAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00442368",
+            "pac_name": "COMMON VALUES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00677146",
+            "pac_name": "SUN LIFE FINANCIAL (U.S.) SERVICES COMPANY INC PAC SUN LIFE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00764373",
+            "pac_name": "BARRASSO VICTORY",
+            "total_amt": 4000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00852012",
+            "pac_name": "TEAM MCCORMICK",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00779827",
+            "pac_name": "MAX MILLER VICTORY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859058",
+            "pac_name": "EMMER MAJORITY BUILDERS",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00286294",
+            "pac_name": "NEAL FOR CONGRESS",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00457366"
+}

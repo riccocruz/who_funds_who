@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ARMADA SYSTEMS, INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 31000.0,
+        "indiv_contrib": 31000.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 24000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00931576"
+}

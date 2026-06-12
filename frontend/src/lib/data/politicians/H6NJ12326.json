@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MAPP, ADRIAN O MR",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 344065.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00017194",
+            "pac_name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LO 825 POLITICAL ACTION AND EDUCATION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 48,
+        "oos_donors": 5,
+        "oos_total": 5400.0
+    },
+    "opposition": []
+}

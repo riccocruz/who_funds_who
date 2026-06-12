@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "DESTROY THE DEMOCRAT PARTY",
+        "committee_type": "N",
+        "total_receipts": 17966.0,
+        "indiv_contrib": 17966.0,
+        "total_spent": 17966.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "P40019218",
+            "cand_name": "TERRY, RANDAL ALLAN MR.",
+            "party": "UN",
+            "state": "00",
+            "total_amt": 5208.0,
+            "direct_amt": 5208.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06290",
+            "cand_name": "TERRY, RANDALL",
+            "party": "IND",
+            "state": "FL",
+            "total_amt": 4591.0,
+            "direct_amt": 4591.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01457",
+            "cand_name": "BRODEN, STEPHEN",
+            "party": "IND",
+            "state": "FL",
+            "total_amt": 4391.0,
+            "direct_amt": 4391.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00895813"
+}

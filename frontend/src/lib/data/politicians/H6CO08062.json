@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BACA-OEHLERT, AMIE",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 124248.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00003251",
+            "pac_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 117,
+        "oos_donors": 43,
+        "oos_total": 17190.0
+    },
+    "opposition": []
+}

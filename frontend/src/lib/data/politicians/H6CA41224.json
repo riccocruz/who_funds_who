@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CHAVEZ, ABEL",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 199940.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 84,
+        "oos_donors": 14,
+        "oos_total": 7825.0
+    },
+    "opposition": []
+}

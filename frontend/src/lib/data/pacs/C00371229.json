@@ -1,0 +1,62 @@
+{
+    "pac": {
+        "name": "UNAKA COMPANY POLITICAL ACTION COMMITTEE, INC.",
+        "committee_type": "N",
+        "total_receipts": 35000.0,
+        "indiv_contrib": 35000.0,
+        "total_spent": 53077.0,
+        "cash_on_hand": 74612.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2SC07280",
+            "cand_name": "FRY, RUSSELL",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4IN00196",
+            "cand_name": "BANKS, JAMES E. HON.",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00838250",
+            "pac_name": "TEAM FRY",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00690891",
+            "pac_name": "GRAHAM MAJORITY FUND",
+            "total_amt": 12000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00820209",
+            "pac_name": "FIGHTIN' RIGHT Y'ALL",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832469",
+            "pac_name": "BUILDING A NATIONAL KNOWLEDGEABLE SECURITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00371229"
+}

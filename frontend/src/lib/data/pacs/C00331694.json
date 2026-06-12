@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "AMERICA WORKS FEDERAL PAC",
+        "committee_type": "Q",
+        "total_receipts": 350902.0,
+        "indiv_contrib": 145986.0,
+        "total_spent": 381659.0,
+        "cash_on_hand": 29159.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH11169",
+            "cand_name": "BROWN, M SHONTEL",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00916296",
+            "pac_name": "OHIO GRASSROOTS VICTORY FUND",
+            "total_amt": 161500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00690073",
+            "pac_name": "AMERICA WORKS STATE & LOCAL PAC",
+            "total_amt": 24338.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00904763",
+            "pac_name": "BLUE WARRIORS",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00331694"
+}

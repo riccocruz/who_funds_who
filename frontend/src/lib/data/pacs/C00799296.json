@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "IEC CORPORATION PAC",
+        "committee_type": "N",
+        "total_receipts": 50820.0,
+        "indiv_contrib": 50820.0,
+        "total_spent": 1000.0,
+        "cash_on_hand": 83377.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H0CA15213",
+            "cand_name": "DR. AISHA WAHAB FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49074",
+            "cand_name": "JACOBS, SARA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00799296"
+}

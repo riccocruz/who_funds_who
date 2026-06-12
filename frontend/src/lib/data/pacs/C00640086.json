@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "EVERYTOWN FOR GUN SAFETY ACTION FUND, INC. PAC (EVERYTOWN PAC)",
+        "committee_type": "Q",
+        "total_receipts": 30357.0,
+        "indiv_contrib": 26771.0,
+        "total_spent": 70546.0,
+        "cash_on_hand": 68141.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 318.0,
+            "direct_amt": 318.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00768200",
+            "pac_name": "JEFFRIES VICTORY FUND",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00617381",
+            "pac_name": "THE COLLECTIVE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00640086"
+}

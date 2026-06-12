@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "SHERRILL, MIKIE",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 500.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00007542",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "total_amt": 5800.0,
+            "direct_amt": 5800.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00034256",
+            "pac_name": "NATIONAL WOMEN'S POLITICAL CAUCUS PARITY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00450056",
+            "pac_name": "INDEPENDENCE BLUE CROSS LLC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00539866",
+            "pac_name": "MIKIE SHERRILL FOR CONGRESS",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00127779",
+            "pac_name": "PRUDENTIAL FINANCIAL INC. FEDERAL POLITICAL ACTION COMMITTEE (AKA - PRUDENTIAL FEDERAL PAC)",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00546119",
+            "pac_name": "SELECT MEDICAL CORPORATION PAC",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 2,
+        "oos_donors": 1,
+        "oos_total": 3300.0
+    },
+    "opposition": []
+}

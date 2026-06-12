@@ -1,0 +1,162 @@
+{
+    "pac": {
+        "name": "BLUE DEMOCRACY NETWORK",
+        "committee_type": "O",
+        "total_receipts": 20000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 20000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 2281.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2281.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 2281.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2281.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00298",
+            "cand_name": "TUREK, JOSHUA",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 1881.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1881.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00407",
+            "cand_name": "MILLS, JANET TRAFTON",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 1131.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1131.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02174",
+            "cand_name": "POWELL, DENISE",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 1012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA41265",
+            "cand_name": "RIKER, BRANDON",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD03263",
+            "cand_name": "DUNN, HARRY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 600.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6MI00426",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 2281.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6MN00499",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 2281.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6IA00298",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1881.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6ME00407",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1131.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA41265",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1012.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NE02174",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1012.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6PA07188",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1012.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1012.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4MD03263",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00933796"
+}

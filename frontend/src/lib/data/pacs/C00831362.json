@@ -1,0 +1,126 @@
+{
+    "pac": {
+        "name": "THE MPIRE STRIKES PAC",
+        "committee_type": "N",
+        "total_receipts": 118350.0,
+        "indiv_contrib": 5000.0,
+        "total_spent": 17048.0,
+        "cash_on_hand": 109847.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00340",
+            "cand_name": "NICKEL, WILEY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00831693",
+            "pac_name": "MOSKOWITZ VICTORY FUND",
+            "total_amt": 88850.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00161141",
+            "pac_name": "GUIDEWELL MUTUAL HOLDING CORPORATION POLITICAL ACTION COMMITTEE (GUIDEWELL PAC)",
+            "total_amt": 8500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00095869",
+            "pac_name": "POWERPAC OF THE EDISON ELECTRIC INSTITUTE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00284885",
+            "pac_name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832592",
+            "pac_name": "DAN GOLDMAN VICTORY FUND",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00302844",
+            "pac_name": "HIGHMARK PAC OF HIGHMARK INC.",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00831362"
+}

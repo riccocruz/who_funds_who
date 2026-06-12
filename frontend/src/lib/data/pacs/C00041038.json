@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "AVISTA EMPLOYEES FOR EFFECTIVE GOVERNMENT",
+        "committee_type": "Q",
+        "total_receipts": 20351.0,
+        "indiv_contrib": 20351.0,
+        "total_spent": 6100.0,
+        "cash_on_hand": 81983.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8ID01124",
+            "cand_name": "FULCHER, RUSSELL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WA05234",
+            "cand_name": "BAUMGARTNER, MICHAEL JAMES",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00041038"
+}

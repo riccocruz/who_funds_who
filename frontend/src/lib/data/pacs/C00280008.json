@@ -1,0 +1,107 @@
+{
+    "pac": {
+        "name": "AKERMAN LLP PAC",
+        "committee_type": "Q",
+        "total_receipts": 35483.0,
+        "indiv_contrib": 35483.0,
+        "total_spent": 30000.0,
+        "cash_on_hand": 82949.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09179",
+            "cand_name": "SOTO, DARREN",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37304",
+            "cand_name": "KAMLAGER-DOVE, SYDNEY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL11126",
+            "cand_name": "CASTOR, KATHY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY06048",
+            "cand_name": "MEEKS, GREGORY W.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY15160",
+            "cand_name": "TORRES, RITCHIE JOHN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00280008"
+}

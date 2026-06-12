@@ -1,0 +1,108 @@
+{
+    "pac": {
+        "name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+        "committee_type": "Y",
+        "total_receipts": 6256670.0,
+        "indiv_contrib": 3636536.0,
+        "total_spent": 6113136.0,
+        "cash_on_hand": 1072657.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA20094",
+            "cand_name": "VALADAO, DAVID",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 207763.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 193263.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 133869.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 108324.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00699553",
+            "pac_name": "CALVERT VICTORY FUND",
+            "total_amt": 24507.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00390641",
+            "pac_name": "TULARE COUNTY REPUBLICAN CENTRAL COMMITTEE (FEDERAL)",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00254490",
+            "pac_name": "REPUBLICAN PARTY OF SACRAMENTO COUNTY (FED. ACCT.)",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00225342",
+            "pac_name": "MCGUIREWOODS FEDERAL PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00783423",
+            "pac_name": "CACI INTERNATIONAL INC POLITICAL ACTION COMMITTEE (CACI PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00140590"
+}

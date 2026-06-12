@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "NORTHWOODS FUTURE PAC",
+        "committee_type": "O",
+        "total_receipts": 2025000.0,
+        "indiv_contrib": 1025000.0,
+        "total_spent": 1785927.0,
+        "cash_on_hand": 239073.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6WI07223",
+            "cand_name": "ALFONSO, MICHAEL",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 1582584.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1582584.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6WI07223",
+            "pac_name": "STRATEGIC MEDIA PLACEMENT INC.",
+            "total_amt": 1582584.0,
+            "tx_count": 15
+        }
+    ],
+    "cmte_id": "C00922955"
+}

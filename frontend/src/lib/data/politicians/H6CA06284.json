@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "HO, THIEN",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 624101.0,
+        "pac_receipts_summary": 20499.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001016",
+            "pac_name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00320218",
+            "pac_name": "UNITED ASSOCIATION OF JOURNEYMEN & APPRENTICES OF THE U.S. & CANADA LOCAL 447 FEDERAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00725184",
+            "pac_name": "EAST WEST BANCORP, INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00245910",
+            "pac_name": "PACIFIC COAST PRODUCERS POLITICAL ACTION COMMITTEE FEDERAL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 149,
+        "oos_donors": 4,
+        "oos_total": 4750.0
+    },
+    "opposition": []
+}

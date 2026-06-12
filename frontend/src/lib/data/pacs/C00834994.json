@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "DUSTY JOHNSON VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 1304005.0,
+        "indiv_contrib": 1283005.0,
+        "total_spent": 1321524.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00688549",
+            "pac_name": "DAKOTA LEADERSHIP PAC",
+            "total_amt": 218535.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00428052",
+            "pac_name": "MAJORITY COMMITTEE PAC--MC PAC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00824896",
+            "pac_name": "BLOCKCHAIN ASSOCIATION POLITICAL ACTION COMMITTEE (BA PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00834994"
+}

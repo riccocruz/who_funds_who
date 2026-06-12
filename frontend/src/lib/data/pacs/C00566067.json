@@ -1,0 +1,87 @@
+{
+    "pac": {
+        "name": "HIGHER HEIGHTS FOR AMERICA PAC",
+        "committee_type": "Q",
+        "total_receipts": 39881.0,
+        "indiv_contrib": 39881.0,
+        "total_spent": 45621.0,
+        "cash_on_hand": 13191.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX18138",
+            "cand_name": "EDWARDS, AMANDA",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 8112.0,
+            "direct_amt": 8112.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00552",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 4700.0,
+            "direct_amt": 4700.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11310",
+            "cand_name": "WAY, TAHESHA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL08253",
+            "cand_name": "BANKOLE, YASMEEN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ10176",
+            "cand_name": "MCIVER, LAMONICA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06114",
+            "cand_name": "FOUSHEE, VALERIE",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6KY00211",
+            "cand_name": "STEVENSON, PAMELA",
+            "party": "DEM",
+            "state": "KY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00566067"
+}

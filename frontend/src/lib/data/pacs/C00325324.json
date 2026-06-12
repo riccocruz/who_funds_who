@@ -1,0 +1,368 @@
+{
+    "pac": {
+        "name": "NATIONAL MILK PRODUCERS FEDERATION PAC (NMPF PAC)",
+        "committee_type": "Q",
+        "total_receipts": 82495.0,
+        "indiv_contrib": 47495.0,
+        "total_spent": 63256.0,
+        "cash_on_hand": 27373.0
+    },
+    "stats": {
+        "candidates_funded": 26
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA20094",
+            "cand_name": "VALADAO, DAVID",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KS01179",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA20082",
+            "cand_name": "COSTA, JIM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY23228",
+            "cand_name": "LANGWORTHY, NICK",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22085",
+            "cand_name": "MANNION, JOHN W",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0ND00093",
+            "cand_name": "HOEVEN, JOHN",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT05245",
+            "cand_name": "HAYES, JAHANA",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA10126",
+            "cand_name": "HARDER, JOSH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4KS02164",
+            "cand_name": "SCHMIDT, DEREK",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA20181",
+            "cand_name": "FONG, VINCE",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MN01223",
+            "cand_name": "FINSTAD, BRAD",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KS01123",
+            "cand_name": "MANN, TRACEY ROBERT",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA08099",
+            "cand_name": "SCOTT, JAMES AUSTIN",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KS03155",
+            "cand_name": "DAVIDS, SHARICE",
+            "party": "DEM",
+            "state": "KS",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MO07143",
+            "cand_name": "BURLISON, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00001388",
+            "pac_name": "DAIRY FARMERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE; AKA DFA-PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00616268",
+            "pac_name": "MORAN VICTORY COMMITTEE",
+            "total_amt": 6500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00009423",
+            "pac_name": "BY FARMERS, FOR FARMERS PAC LAND O'LAKES, INC. PAC (BY FARMERS, FOR FARMERS PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00085019",
+            "pac_name": "ARIZONA DAIRYMEN POLITICAL ACTION COMMITTEE (UNITED DAIRYMEN OF ARIZONA)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00349746",
+            "pac_name": "CALIFORNIA DAIRIES, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00744987",
+            "pac_name": "THE KLOBUCHAR VICTORY COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00096594",
+            "pac_name": "MICHIGAN MILK PRODUCERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00359984",
+            "pac_name": "SOUTHEAST MILK INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00363069",
+            "pac_name": "MARYLAND & VIRGINIA MILK PRODUCERS COOPERATIVE ASSOCIATION INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00542621",
+            "pac_name": "MAPLE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00762369",
+            "pac_name": "SUMMITT PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00141242",
+            "pac_name": "AGRI-MARK INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00868091",
+            "pac_name": "LISA MCCLAIN LEADERSHIP FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00325324"
+}

@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "AMERICAN PHARMACIES, INC. FEDERAL PAC",
+        "committee_type": "N",
+        "total_receipts": 35254.0,
+        "indiv_contrib": 35100.0,
+        "total_spent": 7355.0,
+        "cash_on_hand": 27899.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TN01118",
+            "cand_name": "HARSHBARGER, DIANA",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 4250.0,
+            "direct_amt": 4250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00887315"
+}

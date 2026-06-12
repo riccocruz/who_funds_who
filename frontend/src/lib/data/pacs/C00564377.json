@@ -1,0 +1,246 @@
+{
+    "pac": {
+        "name": "CHUGACH ALASKA CORPORATION PAC (CAC PAC)",
+        "committee_type": "Q",
+        "total_receipts": 128718.0,
+        "indiv_contrib": 128718.0,
+        "total_spent": 202500.0,
+        "cash_on_hand": 50582.0
+    },
+    "stats": {
+        "candidates_funded": 15
+    },
+    "recipients": [
+        {
+            "cand_id": "S4AK00214",
+            "cand_name": "SULLIVAN, DAN",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA01147",
+            "cand_name": "WITTMAN, ROBERT J. MR.",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN08043",
+            "cand_name": "STAUBER, PETER ALLEN",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2VA02064",
+            "cand_name": "KIGGANS, JENNIFER",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2HI02128",
+            "cand_name": "CASE, EDWARD",
+            "party": "DEM",
+            "state": "HI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL05102",
+            "cand_name": "STRONG, DALE WHITNEY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6RI00163",
+            "cand_name": "REED, JOHN F.",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD03156",
+            "cand_name": "ELFRETH, SARAH KELLY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD02232",
+            "cand_name": "OLSZEWSKI, JOHN ANTHONY JR.",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO03357",
+            "cand_name": "HURD, JEFFREY",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NM03102",
+            "cand_name": "LEGER FERNANDEZ, TERESA",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4IA00129",
+            "cand_name": "ERNST, JONI K",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00368696",
+            "pac_name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00438291",
+            "pac_name": "DENALI LEADERSHIP PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00567693",
+            "pac_name": "HAWAII PAC",
+            "total_amt": 8000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00889386",
+            "pac_name": "NB3 PAC",
+            "total_amt": 7000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00439521",
+            "pac_name": "AMERICAN SECURITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00524314",
+            "pac_name": "AMERICA'S FIRST PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00539601",
+            "pac_name": "PINEAPPLE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00629212",
+            "pac_name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00698092",
+            "pac_name": "LET'S ALL KEEP ELECTING REPUBLICANS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00506907",
+            "pac_name": "ASPIRE PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00564377"
+}

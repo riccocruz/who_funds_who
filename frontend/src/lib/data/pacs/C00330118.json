@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "TACO POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 13619.0,
+        "indiv_contrib": 12000.0,
+        "total_spent": 16266.0,
+        "cash_on_hand": 319426.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00330118"
+}

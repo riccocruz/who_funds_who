@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "WEST VIRGINIANS FOR COAL",
+        "committee_type": "N",
+        "total_receipts": 10225.0,
+        "indiv_contrib": 10225.0,
+        "total_spent": 7150.0,
+        "cash_on_hand": 4086.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00848374",
+            "pac_name": "TEAM RILEY",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00745513"
+}

@@ -1,0 +1,30 @@
+{
+    "politician": {
+        "cand_name": "THORP, JONATHAN",
+        "party": "IND",
+        "state": "TN",
+        "indiv_total": 17012.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00886614",
+            "pac_name": "YOUR COMMUNITY PAC",
+            "total_amt": 28156.0,
+            "direct_amt": 0.0,
+            "ie_amt": 28156.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 6,
+        "oos_total": 27700.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00886614",
+            "pac_name": "YOUR COMMUNITY PAC",
+            "total_amt": 32321.0
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "NICK BEGICH VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 77250.0,
+        "indiv_contrib": 76000.0,
+        "total_spent": 76220.0,
+        "cash_on_hand": 1030.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 42550.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00889386",
+            "pac_name": "NB3 PAC",
+            "total_amt": 7878.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00137729",
+            "pac_name": "HOLLAND & HART LLP FEDERAL PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00894998"
+}

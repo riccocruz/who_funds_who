@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "80-20 ASIAN AMERICAN EMPOWERMENT PAC",
+        "committee_type": "V",
+        "total_receipts": 91415.0,
+        "indiv_contrib": 81415.0,
+        "total_spent": 28672.0,
+        "cash_on_hand": 252039.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00292",
+            "cand_name": "DUCKWORTH, L. TAMMY",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 882.0,
+            "direct_amt": 882.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 80.0,
+            "direct_amt": 80.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY15148",
+            "cand_name": "OCASIO-CORTEZ, ALEXANDRIA",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00761767",
+            "pac_name": "DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 802.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00706689"
+}

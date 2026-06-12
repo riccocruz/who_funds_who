@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "CITIZENS AGAINST AIPAC CORRUPTION",
+        "committee_type": "V",
+        "total_receipts": 994451.0,
+        "indiv_contrib": 493248.0,
+        "total_spent": 753862.0,
+        "cash_on_hand": 264119.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11286",
+            "cand_name": "MEJIA, ANALILIA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 35000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY12230",
+            "cand_name": "KASKY, CAMERON",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NV03246",
+            "cand_name": "LALLY, JAMES DR.",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NJ11286",
+            "pac_name": "ADSULTANS LLC",
+            "total_amt": 35000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2NC06114",
+            "pac_name": "ADSULTANS LLC",
+            "total_amt": 13500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00933291",
+            "pac_name": "TRACKER PAC",
+            "total_amt": 50.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00879080"
+}

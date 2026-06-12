@@ -1,0 +1,95 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF WISCONSIN",
+        "committee_type": "Y",
+        "total_receipts": 2946071.0,
+        "indiv_contrib": 1089011.0,
+        "total_spent": 2466605.0,
+        "cash_on_hand": 737833.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 211443.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00686980",
+            "pac_name": "STEIL VICTORY FUND",
+            "total_amt": 204398.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 154215.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 91393.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 48715.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00816017",
+            "pac_name": "VAN ORDEN VICTORY FUND",
+            "total_amt": 40132.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00409516",
+            "pac_name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00029447",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00876821",
+            "pac_name": "NLD PAC",
+            "total_amt": 75.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00074450"
+}

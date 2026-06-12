@@ -1,0 +1,116 @@
+{
+    "pac": {
+        "name": "OVERSIGHT ACTION FUND",
+        "committee_type": "W",
+        "total_receipts": 1951607.0,
+        "indiv_contrib": 140637.0,
+        "total_spent": 1895882.0,
+        "cash_on_hand": 55725.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1726435.0,
+            "direct_amt": 8000.0,
+            "ie_amt": 1718435.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA10279",
+            "cand_name": "SUBRAMANYAM, SUHAS",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA02111",
+            "cand_name": "LURIA, ELAINE",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA01299",
+            "cand_name": "TAYLOR, SHANNON LEIGH",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY17171",
+            "cand_name": "CONLEY, CAIT",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IA03268",
+            "cand_name": "TRONE GARRIOTT, SARAH",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL10259",
+            "cand_name": "FROST, MAXWELL ALEJANDRO",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6VA11066",
+            "pac_name": "THE SEXTON GROUP",
+            "total_amt": 1718435.0,
+            "tx_count": 36
+        },
+        {
+            "cmte_id": "H6VA11074",
+            "pac_name": "THE SEXTON GROUP",
+            "total_amt": 5830.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00498931",
+            "pac_name": "COMMONWEALTH PAC",
+            "total_amt": 4770.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00904623"
+}

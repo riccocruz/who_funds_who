@@ -1,0 +1,136 @@
+{
+    "pac": {
+        "name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS LEGISLATIVE IMPROVEMENT CMTE UNITED BROTHERHOOD OF CARPENTERS & JOINERS OF AMERICA",
+        "committee_type": "Q",
+        "total_receipts": 660582.0,
+        "indiv_contrib": 659717.0,
+        "total_spent": 320440.0,
+        "cash_on_hand": 1049919.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 6062.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6062.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 5083.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5083.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03200",
+            "cand_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "party": null,
+            "state": null,
+            "total_amt": 4792.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4792.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ01194",
+            "cand_name": "SHAH, AMISH DR.",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3833.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3833.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ02184",
+            "cand_name": "NEZ, JONATHAN MICHAEL",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3708.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3708.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ03109",
+            "cand_name": "ANSARI, YASSAMIN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3375.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3375.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02311",
+            "cand_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "party": null,
+            "state": null,
+            "total_amt": 2541.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2541.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NV04011",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 6062.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8NV03036",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 5083.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00768887",
+            "pac_name": "PAC FOR GOOD",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8NV03200",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 4792.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4AZ01194",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 3833.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4AZ02184",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 3708.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4AZ03109",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 3375.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2AZ02311",
+            "pac_name": "WESTERN STATES REGIONAL COUNCIL OF CARPENTERS",
+            "total_amt": 2541.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00285593"
+}

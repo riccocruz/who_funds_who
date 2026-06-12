@@ -1,0 +1,58 @@
+{
+    "pac": {
+        "name": "PECKHAM INDUSTRIES, INC. FEDERAL PAC",
+        "committee_type": "Q",
+        "total_receipts": 66559.0,
+        "indiv_contrib": 66559.0,
+        "total_spent": 21000.0,
+        "cash_on_hand": 177780.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00082917",
+            "pac_name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00089458",
+            "pac_name": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00118208",
+            "pac_name": "AMERICAN ROAD & TRANSPORTATION BUILDERS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00444539",
+            "pac_name": "NATIONAL ASPHALT PAVEMENT ASSOCIATION POLITICAL ACTION COMMITTEE (NAPA-PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00838367",
+            "pac_name": "WOMENLEAD",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00343681"
+}

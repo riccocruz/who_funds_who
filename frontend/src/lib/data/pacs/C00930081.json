@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SHERMAN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 122600.0,
+        "indiv_contrib": 122600.0,
+        "total_spent": 92952.0,
+        "cash_on_hand": 29648.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 71090.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00361410",
+            "pac_name": "SOUTHERN CALIFORNIA FUND",
+            "total_amt": 9672.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00930081"
+}

@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "PEOPLE POWER PENNSYLVANIA",
+        "committee_type": "O",
+        "total_receipts": 863000.0,
+        "indiv_contrib": 50000.0,
+        "total_spent": 970820.0,
+        "cash_on_hand": 16146.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "P00009423",
+            "cand_name": "COMMONWEALTH COMMUNICATIONS",
+            "party": null,
+            "state": null,
+            "total_amt": 3798.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3798.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P80001571",
+            "cand_name": "COMMONWEALTH COMMUNICATIONS",
+            "party": null,
+            "state": null,
+            "total_amt": 976.0,
+            "direct_amt": 0.0,
+            "ie_amt": 976.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA17103",
+            "cand_name": "DELUZIO, CHRISTOPHER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 494.0,
+            "direct_amt": 0.0,
+            "ie_amt": 494.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "COMMONWEALTH COMMUNICATIONS",
+            "total_amt": 4648.0,
+            "tx_count": 23
+        },
+        {
+            "cmte_id": "P80001571",
+            "pac_name": "COMMONWEALTH COMMUNICATIONS",
+            "total_amt": 3075.0,
+            "tx_count": 26
+        },
+        {
+            "cmte_id": "H2PA17103",
+            "pac_name": "COMMONWEALTH COMMUNICATIONS",
+            "total_amt": 494.0,
+            "tx_count": 19
+        }
+    ],
+    "cmte_id": "C00882381"
+}

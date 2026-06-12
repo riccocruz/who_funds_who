@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "NEBRASKA REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 554815.0,
+        "indiv_contrib": 330177.0,
+        "total_spent": 626166.0,
+        "cash_on_hand": 15503.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 89602.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 48702.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00210286",
+            "pac_name": "LANCASTER COUNTY REPUBLICAN PARTY",
+            "total_amt": 601.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00032334"
+}

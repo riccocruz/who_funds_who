@@ -1,0 +1,128 @@
+{
+    "pac": {
+        "name": "NATIONAL PEST MANAGEMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 51663.0,
+        "indiv_contrib": 51663.0,
+        "total_spent": 29098.0,
+        "cash_on_hand": 204629.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA20082",
+            "cand_name": "COSTA, JIM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AL00230",
+            "cand_name": "TUBERVILLE, THOMAS H",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MN02131",
+            "cand_name": "CRAIG, ANGELA DAWN",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC02287",
+            "cand_name": "DAVIS, DON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KS01123",
+            "cand_name": "MANN, TRACEY ROBERT",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00720565",
+            "pac_name": "LUJAN VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00767871",
+            "pac_name": "REV UP PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00751784",
+            "pac_name": "BETH VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00818559",
+            "pac_name": "FINSTAD VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00083915"
+}

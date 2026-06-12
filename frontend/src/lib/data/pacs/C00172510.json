@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "REPUBLICAN STATE COMMITTEE OF DELAWARE",
+        "committee_type": "Y",
+        "total_receipts": 326732.0,
+        "indiv_contrib": 175379.0,
+        "total_spent": 342306.0,
+        "cash_on_hand": 15988.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 71913.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 62238.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00150672",
+            "pac_name": "GEORGIA REPUBLICAN PARTY INC.",
+            "total_amt": 11000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00172510"
+}

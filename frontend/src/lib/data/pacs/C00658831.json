@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "SIOUXLAND ETHANOL LLC PAC",
+        "committee_type": "Q",
+        "total_receipts": 27390.0,
+        "indiv_contrib": 27390.0,
+        "total_spent": 26145.0,
+        "cash_on_hand": 101789.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IA04167",
+            "cand_name": "MCGOWAN, CHRIS",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00832949",
+            "pac_name": "PETE RICKETTS VICTORY FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00658831"
+}

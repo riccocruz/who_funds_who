@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ENERGIZED FOR CHANGE VA",
+        "committee_type": "V",
+        "total_receipts": 200000.0,
+        "indiv_contrib": 200000.0,
+        "total_spent": 200000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00102152",
+            "pac_name": "WASHINGTON GAS LIGHT COMPANY/SEMCO ENERGY EMPLOYEE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00040279",
+            "pac_name": "ABBOTT LABORATORIES EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00917831"
+}

@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "ELECT CHICAGO WOMEN AKA ECW",
+        "committee_type": "O",
+        "total_receipts": 11193361.0,
+        "indiv_contrib": 7125000.0,
+        "total_spent": 10831562.0,
+        "cash_on_hand": 361799.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL08329",
+            "cand_name": "BEAN, MELISSA LUBURICH",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2893774.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2893774.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09194",
+            "cand_name": "FINE, LAURA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2845683.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2845683.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL08329",
+            "pac_name": "BAKER GROVE PARTNERS LLC",
+            "total_amt": 2893774.0,
+            "tx_count": 17
+        },
+        {
+            "cmte_id": "H6IL09194",
+            "pac_name": "BAKER GROVE PARTNERS LLC",
+            "total_amt": 2845683.0,
+            "tx_count": 19
+        },
+        {
+            "cmte_id": "H6IL09228",
+            "pac_name": "BAKER GROVE PARTNERS LLC",
+            "total_amt": 1314737.0,
+            "tx_count": 8
+        }
+    ],
+    "cmte_id": "C00936724"
+}

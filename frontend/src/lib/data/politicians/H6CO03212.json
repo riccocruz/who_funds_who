@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KELLOFF, ALEXANDER GEORGE",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 592267.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00538835",
+            "pac_name": "COMMON GROUND PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 347,
+        "oos_donors": 235,
+        "oos_total": 350377.0
+    },
+    "opposition": []
+}

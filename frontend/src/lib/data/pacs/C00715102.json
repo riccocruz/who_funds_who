@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "THE VALADAO VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 104900.0,
+        "indiv_contrib": 104900.0,
+        "total_spent": 104900.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 43576.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00712695",
+            "pac_name": "VITORIA PAC",
+            "total_amt": 39766.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00715102"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JOHNSON, CLIFF",
+        "party": "DEM",
+        "state": "MS",
+        "indiv_total": 358885.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00543504",
+            "pac_name": "GROUNDWORK PROJECT PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 251,
+        "oos_donors": 80,
+        "oos_total": 74240.0
+    },
+    "opposition": []
+}

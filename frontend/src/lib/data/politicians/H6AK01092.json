@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "HILL, BILL",
+        "party": "IND",
+        "state": "AK",
+        "indiv_total": 757994.0,
+        "pac_receipts_summary": 25050.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00824342",
+            "pac_name": "WAY BACK PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00764233",
+            "pac_name": "DEFEND THE VOTE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892653",
+            "pac_name": "WORKING CLASS HEROES FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 496,
+        "oos_donors": 308,
+        "oos_total": 551902.0
+    },
+    "opposition": []
+}

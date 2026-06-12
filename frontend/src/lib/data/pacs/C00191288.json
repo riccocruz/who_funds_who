@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "DC REPUBLICAN PARTY FEDERAL ACCOUNT",
+        "committee_type": "Y",
+        "total_receipts": 178228.0,
+        "indiv_contrib": 47984.0,
+        "total_spent": 187596.0,
+        "cash_on_hand": 138626.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 211242.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 21000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00044776",
+            "pac_name": "ALABAMA REPUBLICAN PARTY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00191288"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "JOSH HARDER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 146112.0,
+        "indiv_contrib": 146112.0,
+        "total_spent": 176533.0,
+        "cash_on_hand": 1853.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 79200.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00705368",
+            "pac_name": "BLUE DISTRICT PROJECT",
+            "total_amt": 29721.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00766816"
+}

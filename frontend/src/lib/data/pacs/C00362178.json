@@ -1,0 +1,86 @@
+{
+    "pac": {
+        "name": "FAMILY-PAC FEDERAL",
+        "committee_type": "Q",
+        "total_receipts": 24875.0,
+        "indiv_contrib": 24875.0,
+        "total_spent": 21615.0,
+        "cash_on_hand": 4787.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00615",
+            "cand_name": "TRACY, DON",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX21307",
+            "cand_name": "ROY, CHIP",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL14086",
+            "cand_name": "PIERCE, MICHAEL DAVID LTC (RET.)",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL06090",
+            "cand_name": "CONFORTI, NIKI",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00696872",
+            "pac_name": "OBERWEIS FOR CONGRESS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00436642",
+            "pac_name": "OBERWEIS FOR CONGRESS",
+            "total_amt": 2250.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00005926",
+            "pac_name": "ILLINOIS REPUBLICAN PARTY - FEDERAL",
+            "total_amt": 600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00362178"
+}

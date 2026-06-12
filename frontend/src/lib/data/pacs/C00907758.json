@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "RISE UP PAC",
+        "committee_type": "V",
+        "total_receipts": 73080.0,
+        "indiv_contrib": 73080.0,
+        "total_spent": 69494.0,
+        "cash_on_hand": 3586.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00776575",
+            "pac_name": "BLUE STATES PAC",
+            "total_amt": 16000.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00907758"
+}

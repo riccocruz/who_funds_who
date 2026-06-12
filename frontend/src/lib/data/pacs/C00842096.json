@@ -1,0 +1,106 @@
+{
+    "pac": {
+        "name": "VOYAGER SPACE PAC (VOYAGER PAC)",
+        "committee_type": "N",
+        "total_receipts": 52142.0,
+        "indiv_contrib": 52142.0,
+        "total_spent": 18667.0,
+        "cash_on_hand": 34777.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NV02395",
+            "cand_name": "AMODEI, MARK EUGENE",
+            "party": "REP",
+            "state": "NV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA27111",
+            "cand_name": "WHITESIDES, GEORGE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX02079",
+            "cand_name": "BABIN, BRIAN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX06266",
+            "cand_name": "ELLZEY, JOHN KEVIN SR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL07215",
+            "cand_name": "DALTON, BALE",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 400.0,
+            "direct_amt": 400.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00536540",
+            "pac_name": "JOBS, FREEDOM, AND SECURITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00849778",
+            "pac_name": "TED CRUZ VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00842096"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "THE SQUAD VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 1612430.0,
+        "indiv_contrib": 1612430.0,
+        "total_spent": 1602756.0,
+        "cash_on_hand": 68142.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00688846",
+            "pac_name": "INSPIRING LEADERSHIP HAS A NAME PAC",
+            "total_amt": 76000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00692202",
+            "pac_name": "COURAGE TO CHANGE",
+            "total_amt": 76000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00706630",
+            "pac_name": "POWER OF US PAC",
+            "total_amt": 76000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00741371",
+            "pac_name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+            "total_amt": 76000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00827295",
+            "pac_name": "BUILT TO WIN PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00750166"
+}

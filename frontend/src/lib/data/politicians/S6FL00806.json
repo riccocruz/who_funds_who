@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MUJICA, HECTOR DANIEL",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 644003.0,
+        "pac_receipts_summary": 500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00872879",
+            "pac_name": "STAND UP PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 341,
+        "oos_donors": 261,
+        "oos_total": 306864.0
+    },
+    "opposition": []
+}

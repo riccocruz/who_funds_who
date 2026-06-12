@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "CARAVEO, YADIRA",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 193858.0,
+        "pac_receipts_summary": 6500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00249342",
+            "pac_name": "AMERICAN SOCIETY OF PLASTIC SURGEONS PLASTYPAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00255752",
+            "pac_name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00423228",
+            "pac_name": "AMERICAN GASTROENTEROLOGICAL ASSOCIATION INC. PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00834515",
+            "pac_name": "PAC A PUNCH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00846071",
+            "pac_name": "STORM PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00848556",
+            "pac_name": "MCKENZIE RIVER PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00308742",
+            "pac_name": "CARAVEO FOR CONGRESS",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00543116",
+            "pac_name": "GOOD FRIENDS PAC",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 158,
+        "oos_donors": 77,
+        "oos_total": 85657.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,86 @@
+{
+    "pac": {
+        "name": "PAYWARD INTERACTIVE, INC. PAC (PAYWARD PAC)",
+        "committee_type": "N",
+        "total_receipts": 38401.0,
+        "indiv_contrib": 35725.0,
+        "total_spent": 27543.0,
+        "cash_on_hand": 22114.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WI01156",
+            "cand_name": "STEIL, BRYAN GEORGE",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT04172",
+            "cand_name": "HIMES, JIM",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL10068",
+            "cand_name": "SCHNEIDER, BRADLEY S.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MA06152",
+            "cand_name": "BECCIA, JOHN",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00859553",
+            "pac_name": "ALSOBROOKS VICTORY FUND",
+            "total_amt": 12000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633792",
+            "pac_name": "FRIENDS OF ANDY BARR COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00686980",
+            "pac_name": "STEIL VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00845651"
+}

@@ -1,0 +1,164 @@
+{
+    "pac": {
+        "name": "CONSUMER BRANDS POLITICAL ACTION COMMITTEE ('CONSUMER BRANDS ASSOCIATION PAC')",
+        "committee_type": "Q",
+        "total_receipts": 45848.0,
+        "indiv_contrib": 36848.0,
+        "total_spent": 38000.0,
+        "cash_on_hand": 66172.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "S2SD00068",
+            "cand_name": "THUNE, JOHN R.",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6LA04138",
+            "cand_name": "JOHNSON, JAMES MICHAEL",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0VA09055",
+            "cand_name": "GRIFFITH, H MORGAN",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN01118",
+            "cand_name": "HARSHBARGER, DIANA",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MN06087",
+            "cand_name": "EMMER, THOMAS EARL JR.",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AR00103",
+            "cand_name": "COTTON, THOMAS",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX14149",
+            "cand_name": "WEBER, RANDY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH16051",
+            "cand_name": "MILLER, MAX",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL15241",
+            "cand_name": "LEE, LAUREL",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2GA13012",
+            "cand_name": "SCOTT, DAVID ALBERT",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484451",
+            "pac_name": "KEURIG DR PEPPER INC. PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00250068"
+}

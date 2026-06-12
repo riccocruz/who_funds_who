@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION OF GOVERNMENT GUARANTEED LENDERS INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 36913.0,
+        "indiv_contrib": 36620.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 65712.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S8ID00092",
+            "cand_name": "RISCH, JAMES E MR.",
+            "party": "UNK",
+            "state": "ID",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2KY03206",
+            "cand_name": "MCGARVEY, MORGAN",
+            "party": "DEM",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00241000"
+}

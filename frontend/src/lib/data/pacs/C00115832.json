@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "INDIANA BANKERS ASSOCIATION INDIANA BANKPAC - FEDERAL",
+        "committee_type": "Q",
+        "total_receipts": 92632.0,
+        "indiv_contrib": 92632.0,
+        "total_spent": 100526.0,
+        "cash_on_hand": 20472.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00032698",
+            "pac_name": "INDEPENDENT COMMUNITY BANKERS OF AMERICA POLITICAL ACTION COMMITTEE (ICBA PAC)",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00115832"
+}

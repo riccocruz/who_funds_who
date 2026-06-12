@@ -1,0 +1,110 @@
+{
+    "pac": {
+        "name": "SOUTH CAROLINA FARM BUREAU FEDERATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 27770.0,
+        "indiv_contrib": 27770.0,
+        "total_spent": 27425.0,
+        "cash_on_hand": 40811.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H6SC05202",
+            "cand_name": "CLIMER, WES",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AR00150",
+            "cand_name": "BOOZMAN, SEN. JOHN",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC02059",
+            "cand_name": "WILSON, JOE THE HON.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MS01131",
+            "cand_name": "KELLY, JOHN TRENT",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC07280",
+            "cand_name": "FRY, RUSSELL",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00690891",
+            "pac_name": "GRAHAM MAJORITY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00754044",
+            "pac_name": "TEAM RONNY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00629766"
+}

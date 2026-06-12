@@ -1,0 +1,112 @@
+{
+    "pac": {
+        "name": "HEAL AMERICA",
+        "committee_type": "N",
+        "total_receipts": 29100.0,
+        "indiv_contrib": 2600.0,
+        "total_spent": 20440.0,
+        "cash_on_hand": 9860.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL08168",
+            "cand_name": "HARIDOPOLOS, MIKE",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MT02175",
+            "cand_name": "AUSTIN, KYLE",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00878348",
+            "pac_name": "MIKE KENNEDY VICTORY FUND",
+            "total_amt": 9000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00343459",
+            "pac_name": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00612010",
+            "pac_name": "AMERICAN CAR RENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00878389"
+}

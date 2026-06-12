@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "GREEN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 118800.0,
+        "indiv_contrib": 100800.0,
+        "total_spent": 124800.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00687525",
+            "pac_name": "NEVER SURRENDER PAC",
+            "total_amt": 32592.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00437491",
+            "pac_name": "IDEMIA IDENTITY & SECURITY USA, LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 6083.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00457754",
+            "pac_name": "U.S. TRAVEL ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00023028",
+            "pac_name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00381459",
+            "pac_name": "SOCIETY FOR VASCULAR SURGERY POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00164939",
+            "pac_name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00503680",
+            "pac_name": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00687574"
+}

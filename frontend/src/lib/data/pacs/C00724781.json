@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "STAND UP FOR WORKERS PAC",
+        "committee_type": "Q",
+        "total_receipts": 91058.0,
+        "indiv_contrib": 88058.0,
+        "total_spent": 27438.0,
+        "cash_on_hand": 64057.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00756",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4TX00722",
+            "cand_name": "ALLRED, COLIN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR01133",
+            "cand_name": "BONAMICI, SUZANNE MS.",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00724781"
+}

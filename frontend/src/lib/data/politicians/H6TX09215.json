@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "IVEY, R. TODD DR.",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 171903.0,
+        "pac_receipts_summary": 16000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00364158",
+            "pac_name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+            "total_amt": 60000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 50000.0
+        },
+        {
+            "cmte_id": "C00000422",
+            "pac_name": "AMERICAN MEDICAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00411553",
+            "pac_name": "AMERICAN ACADEMY OF FAMILY PHYSICIANS POLITICAL ACTION COMMITTEE (FAMMEDPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 124,
+        "oos_donors": 10,
+        "oos_total": 7250.0
+    },
+    "opposition": []
+}

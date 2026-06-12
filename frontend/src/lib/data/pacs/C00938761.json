@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "LIBERTY AND ORDER COMMITTEE",
+        "committee_type": "O",
+        "total_receipts": 100000.0,
+        "indiv_contrib": 100000.0,
+        "total_spent": 100000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX09124",
+            "cand_name": "CAIN, BRISCOE ROWELL III",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5861.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5861.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX09124",
+            "pac_name": "RIVERSIDE CONSULTANTS LLC",
+            "total_amt": 99998.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00938761"
+}

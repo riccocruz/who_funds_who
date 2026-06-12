@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "NEEL-SCHAFFER, INC. POLITICAL ACTION COMMITTEE (NEEL-SCHAFFER PAC)",
+        "committee_type": "N",
+        "total_receipts": 46260.0,
+        "indiv_contrib": 46260.0,
+        "total_spent": 9772.0,
+        "cash_on_hand": 41638.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MS04258",
+            "cand_name": "EZELL, WALTER MICHAEL",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00864660"
+}

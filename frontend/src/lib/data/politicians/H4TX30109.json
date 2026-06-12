@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "DANIELS, SHOLDON",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 350200.0,
+        "pac_receipts_summary": 691.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00401786",
+            "pac_name": "FREEDOM'S DEFENSE FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 154,
+        "oos_donors": 87,
+        "oos_total": 52547.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "EVANS VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 528263.0,
+        "indiv_contrib": 525763.0,
+        "total_spent": 489324.0,
+        "cash_on_hand": 38939.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00882134",
+            "pac_name": "THIN BLUE LINE PAC",
+            "total_amt": 40742.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 29836.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00809970",
+            "pac_name": "HISPANIC LEADERSHIP TRUST",
+            "total_amt": 12681.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00006080",
+            "pac_name": "AMERICAN HEALTH CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00884213"
+}

@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "HALL, HEIDI",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 437082.0,
+        "pac_receipts_summary": 14456.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00806893",
+            "pac_name": "JANE FONDA CLIMATE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00650408",
+            "pac_name": "HEIDI HALL FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00909291",
+            "pac_name": "HEIDI HALL FOR CONGRESS",
+            "total_amt": 2456.0,
+            "direct_amt": 2456.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 352,
+        "oos_donors": 24,
+        "oos_total": 16480.0
+    },
+    "opposition": []
+}

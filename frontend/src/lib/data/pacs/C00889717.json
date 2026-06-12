@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "PROTECT OUR DEMOCRACY FUND",
+        "committee_type": "V",
+        "total_receipts": 72357.0,
+        "indiv_contrib": 17357.0,
+        "total_spent": 17249.0,
+        "cash_on_hand": 55473.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00638320",
+            "pac_name": "DAGA PAC",
+            "total_amt": 2000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00155952",
+            "pac_name": "DEMOCRATIC PARTY OF VIRGINIA",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00889717"
+}

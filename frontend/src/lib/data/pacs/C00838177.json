@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "CE4A ACTION",
+        "committee_type": "V",
+        "total_receipts": 20866.0,
+        "indiv_contrib": 18302.0,
+        "total_spent": 34676.0,
+        "cash_on_hand": 28966.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00581785",
+            "pac_name": "SUSTAINABLE ENERGY AND ENVIRONMENT COALITION PAC (SEEC PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773416",
+            "pac_name": "GARBARINO VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00838177"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "NEW SOUTHERN MAJORITY IE PAC",
+        "committee_type": "O",
+        "total_receipts": 1016756.0,
+        "indiv_contrib": 959869.0,
+        "total_spent": 446557.0,
+        "cash_on_hand": 898303.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MS00133",
+            "cand_name": "COLOM, SCOTT",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 11804.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11804.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S8MS00261",
+            "pac_name": "LAMAR COMPANIES",
+            "total_amt": 75919.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "S6MS00133",
+            "pac_name": "LAMAR COMPANIES",
+            "total_amt": 11804.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00814202"
+}

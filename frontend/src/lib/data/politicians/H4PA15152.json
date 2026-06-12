@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "WOMER, ZACHERAY MR.",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 12189.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00761064",
+            "pac_name": "API PA VOTES",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0
+        },
+        {
+            "cmte_id": "C00630012",
+            "pac_name": "EVERY STATE BLUE",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 8,
+        "oos_total": 1650.0
+    },
+    "opposition": []
+}

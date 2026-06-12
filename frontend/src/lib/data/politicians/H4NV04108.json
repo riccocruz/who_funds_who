@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "FLIPPO, DAVID",
+        "party": "REP",
+        "state": "NV",
+        "indiv_total": 397907.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00830463",
+            "pac_name": "AMERICAN HONOR PAC",
+            "total_amt": 57800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 57800.0
+        },
+        {
+            "cmte_id": "C00516724",
+            "pac_name": "JOBS, ENERGY AND OUR FOUNDING FATHERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 97,
+        "oos_donors": 35,
+        "oos_total": 315300.0
+    },
+    "opposition": []
+}

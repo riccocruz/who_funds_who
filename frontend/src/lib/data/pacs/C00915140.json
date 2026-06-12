@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "ROUNDS VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 193900.0,
+        "indiv_contrib": 190900.0,
+        "total_spent": 179278.0,
+        "cash_on_hand": 14622.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00571976",
+            "pac_name": "THE PETER NORBECK LEADERSHIP PAC",
+            "total_amt": 70000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00525055",
+            "pac_name": "TRANSCANADA USA SERVICES, INC. PAC (TC PAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00332296",
+            "pac_name": "SUSAN B. ANTHONY LIST. INC. CANDIDATE FUND (DBA SUSAN B. ANTHONY PRO-LIFE AMERICA CANDIDATE FUND)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00915140"
+}

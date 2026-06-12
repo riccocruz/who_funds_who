@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ELLER, RON",
+        "party": "REP",
+        "state": "MS",
+        "indiv_total": 28923.0,
+        "pac_receipts_summary": 150.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00794222",
+            "pac_name": "UNITED FOR LIBERTY PAC",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 22,
+        "oos_donors": 15,
+        "oos_total": 15650.0
+    },
+    "opposition": []
+}

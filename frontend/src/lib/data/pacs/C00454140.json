@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "TURKISH AMERICAN HERITAGE POLITICAL ACTION COMMITTEE - TURKISHPAC",
+        "committee_type": "Q",
+        "total_receipts": 31451.0,
+        "indiv_contrib": 31451.0,
+        "total_spent": 28186.0,
+        "cash_on_hand": 3979.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX32089",
+            "cand_name": "JOHNSON, JULIE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN09068",
+            "cand_name": "COHEN, STEVE I MR.",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 20000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00530865",
+            "pac_name": "TURKISH AMERICAN COALITION PAC- TAC-PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00454140"
+}

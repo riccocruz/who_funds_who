@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "LAUBACHER, EILEEN",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 8568337.0,
+        "pac_receipts_summary": 9510.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00448001",
+            "pac_name": "DEMOCRATS UNITED TO CHANGE AND HOPE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00467837",
+            "pac_name": "EDPAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 6350,
+        "oos_donors": 4958,
+        "oos_total": 1529017.0
+    },
+    "opposition": []
+}

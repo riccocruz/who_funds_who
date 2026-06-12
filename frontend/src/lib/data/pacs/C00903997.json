@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "THE SCOULAR COMPANY PAC (SCOULAR PAC)",
+        "committee_type": "N",
+        "total_receipts": 32457.0,
+        "indiv_contrib": 32457.0,
+        "total_spent": 25827.0,
+        "cash_on_hand": 6630.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KS01123",
+            "cand_name": "MANN, TRACEY ROBERT",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00900043",
+            "pac_name": "FISCHER VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832501",
+            "pac_name": "AMERICAN EXCELLENCE PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00903997"
+}

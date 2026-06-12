@@ -1,0 +1,124 @@
+{
+    "pac": {
+        "name": "CORE NATURAL RESOURCES, INC. (CORE PAC)",
+        "committee_type": "Q",
+        "total_receipts": 138101.0,
+        "indiv_contrib": 81497.0,
+        "total_spent": 92825.0,
+        "cash_on_hand": 107810.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6WY00068",
+            "cand_name": "BARRASSO, JOHN A",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WY00166",
+            "cand_name": "HAGEMAN, HARRIET",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA18199",
+            "cand_name": "RESCHENTHALER, GUY MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0WY00137",
+            "cand_name": "LUMMIS, CYNTHIA MARIE MRS.",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00167668",
+            "pac_name": "ARCH RESOURCES INC. POLITICAL ACTION COMMITTEE (ARCHPAC)",
+            "total_amt": 46603.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 10000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00109819",
+            "pac_name": "COALPAC, A POLITICAL ACTION COMMITTEE OF THE NATIONAL MINING ASSOCIATION",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00848374",
+            "pac_name": "TEAM RILEY",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859058",
+            "pac_name": "EMMER MAJORITY BUILDERS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00790691",
+            "pac_name": "CAREY VICTORY FUND",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00279331"
+}

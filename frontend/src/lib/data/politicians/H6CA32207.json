@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "LEVINE, JAKE",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 1551333.0,
+        "pac_receipts_summary": 11600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00754069",
+            "pac_name": "PAF",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00831289",
+            "pac_name": "JAKE LEVINE FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1360,
+        "oos_donors": 563,
+        "oos_total": 607709.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "VINDMAN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 174552.0,
+        "indiv_contrib": 174552.0,
+        "total_spent": 177233.0,
+        "cash_on_hand": 1979.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00155952",
+            "pac_name": "DEMOCRATIC PARTY OF VIRGINIA",
+            "total_amt": 99650.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00882290",
+            "pac_name": "CALL TO SERVE",
+            "total_amt": 17326.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00883504"
+}

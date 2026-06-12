@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "LUMMIS VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 232372.0,
+        "indiv_contrib": 224072.0,
+        "total_spent": 238342.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00762682",
+            "pac_name": "STEER PAC",
+            "total_amt": 54805.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894428",
+            "pac_name": "FIRST PRINCIPLES DIGITAL",
+            "total_amt": 4569.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00879452",
+            "pac_name": "GALAXY DIGITAL SERVICES II LLC POLITICAL ACTION COMMITTEE (GALAXY DIGITAL PAC)",
+            "total_amt": 3300.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00549865",
+            "pac_name": "CHENEGA CORPORATION PAC (CHENEGA PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00567412",
+            "pac_name": "CHAMBER OF DIGITAL COMMERCE POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00812941"
+}

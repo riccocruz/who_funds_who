@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BAILEY, HUY-YEN CAM MS.",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 124710.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00351031",
+            "pac_name": "ASIAN AMERICAN ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00847137",
+            "pac_name": "ENGAGE Y'ALL PAC",
+            "total_amt": 200.0,
+            "direct_amt": 200.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 103,
+        "oos_donors": 22,
+        "oos_total": 7467.0
+    },
+    "opposition": []
+}

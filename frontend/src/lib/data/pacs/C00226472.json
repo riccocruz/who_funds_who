@@ -1,0 +1,198 @@
+{
+    "pac": {
+        "name": "ARPAC",
+        "committee_type": "Q",
+        "total_receipts": 200000.0,
+        "indiv_contrib": 200000.0,
+        "total_spent": 102500.0,
+        "cash_on_hand": 158750.0
+    },
+    "stats": {
+        "candidates_funded": 15
+    },
+    "recipients": [
+        {
+            "cand_id": "H8AL02171",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6LA04138",
+            "cand_name": "JOHNSON, JAMES MICHAEL",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA02149",
+            "cand_name": "CARTER, TROY A. SR.",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MS01131",
+            "cand_name": "KELLY, JOHN TRENT",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 8000.0,
+            "direct_amt": 8000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2AL00145",
+            "cand_name": "BRITT, KATIE BOYD",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AL02170",
+            "cand_name": "FIGURES, SHOMARI C.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2LA05126",
+            "cand_name": "LETLOW, JULIA",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL03032",
+            "cand_name": "ROGERS, MICHAEL",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0LA01087",
+            "cand_name": "SCALISE, STEVE MR",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AK00214",
+            "cand_name": "SULLIVAN, DAN",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8ID02064",
+            "cand_name": "SIMPSON, MICHAEL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MN06087",
+            "cand_name": "EMMER, THOMAS EARL JR.",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX31044",
+            "cand_name": "CARTER, JOHN R REP.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC07280",
+            "cand_name": "FRY, RUSSELL",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00467431",
+            "pac_name": "THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00634774",
+            "pac_name": "COMMON SENSE FOR AMERICA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00639229",
+            "pac_name": "AMERICAN REVIVAL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00002931",
+            "pac_name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE CONTRIBUTIONS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00226472"
+}

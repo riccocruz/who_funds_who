@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GRAY, HARTZELL",
+        "party": "DEM",
+        "state": "MO",
+        "indiv_total": 166959.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00717728",
+            "pac_name": "FREE AND FAIR DEMOCRACY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 48,
+        "oos_donors": 35,
+        "oos_total": 25822.0
+    },
+    "opposition": []
+}

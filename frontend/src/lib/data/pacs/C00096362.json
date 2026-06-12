@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "MICHIGAN FARM BUREAU POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 135483.0,
+        "indiv_contrib": 135483.0,
+        "total_spent": 39341.0,
+        "cash_on_hand": 229703.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MN02131",
+            "cand_name": "CRAIG, ANGELA DAWN",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00267",
+            "cand_name": "KLOBUCHAR, AMY",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00096362"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "AMERICAN FOREIGN SERVICE ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 21362.0,
+        "indiv_contrib": 21294.0,
+        "total_spent": 4084.0,
+        "cash_on_hand": 20760.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL14053",
+            "cand_name": "FRANKEL, LOIS J.",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00374363"
+}

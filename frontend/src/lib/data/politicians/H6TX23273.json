@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "STOUT, KATY PADILLA",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 211271.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 22,
+        "oos_donors": 1,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

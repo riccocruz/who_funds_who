@@ -1,0 +1,136 @@
+{
+    "politician": {
+        "cand_name": "JASLOW, ALLISON",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 236231.0,
+        "pac_receipts_summary": 37500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00894063",
+            "pac_name": "PRO-CHOICE MAJORITY 2026",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00498568",
+            "pac_name": "ALLISON JASLOW FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00651042",
+            "pac_name": "MOMS FED UP",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00711549",
+            "pac_name": "HONOR BOUND PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00488387",
+            "pac_name": "TRI-STATE MAXED-OUT WOMEN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00886978",
+            "pac_name": "FREEDOM DEMOCRATS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00312017",
+            "pac_name": "ALLISON JASLOW FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00462861",
+            "pac_name": "ALLISON JASLOW FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00467837",
+            "pac_name": "EDPAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00484402",
+            "pac_name": "COUNTRY ROADS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545137",
+            "pac_name": "LEADERSHIP OPPORTUNITY INNOVATION SERVICE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00840462",
+            "pac_name": "SILICORN VALLEY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00163048",
+            "pac_name": "CAP-PAC SEPARATE SEGREGATED FUND OF THE NATIONAL COMMUNITY ACTION FOUNDATION INC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00473116",
+            "pac_name": "THREE RIVERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 263,
+        "oos_donors": 238,
+        "oos_total": 184916.0
+    },
+    "opposition": []
+}

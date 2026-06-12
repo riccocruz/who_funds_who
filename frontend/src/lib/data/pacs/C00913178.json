@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "LEAGUE OF LABOR VOTERS",
+        "committee_type": "V",
+        "total_receipts": 280000.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 260798.0,
+        "cash_on_hand": 19202.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6OH07168",
+            "cand_name": "POINDEXTER, BRIAN",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY11273",
+            "cand_name": "ZIOGAS, ALLISON",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MT01137",
+            "cand_name": "FORSTAG, SAMUEL KELLEY",
+            "party": "DEM",
+            "state": "MT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA22190",
+            "cand_name": "VILLEGAS, RANDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00373",
+            "cand_name": "PLATNER, GRAHAM",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00913178"
+}

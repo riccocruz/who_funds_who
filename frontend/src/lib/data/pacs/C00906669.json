@@ -1,0 +1,144 @@
+{
+    "pac": {
+        "name": "NESTPOINT PAC",
+        "committee_type": "N",
+        "total_receipts": 94590.0,
+        "indiv_contrib": 93710.0,
+        "total_spent": 94090.0,
+        "cash_on_hand": 500.0
+    },
+    "stats": {
+        "candidates_funded": 12
+    },
+    "recipients": [
+        {
+            "cand_id": "S2PA00661",
+            "cand_name": "MCCORMICK, DAVE",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX03126",
+            "cand_name": "SESSIONS, PETE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8ID00092",
+            "cand_name": "RISCH, JAMES E MR.",
+            "party": "UNK",
+            "state": "ID",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA06104",
+            "cand_name": "CLINE, BENJAMIN LEE",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL18097",
+            "cand_name": "MAST, BRIAN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TN05446",
+            "cand_name": "OGLES, ANDY",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6SC01268",
+            "cand_name": "PELBATH, ALEX",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MT02098",
+            "cand_name": "DOWNING, TROY",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00375170",
+            "pac_name": "OGLES FOR CONGRESS",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00906669"
+}

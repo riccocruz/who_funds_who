@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC ACTION CLUB OF CHICO",
+        "committee_type": "N",
+        "total_receipts": 15374.0,
+        "indiv_contrib": 12886.0,
+        "total_spent": 20453.0,
+        "cash_on_hand": 4269.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00565929",
+            "pac_name": "BUTTE COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00820316",
+            "pac_name": "FIGHT FIRE WITH FIRE PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00407866"
+}

@@ -1,0 +1,58 @@
+{
+    "politician": {
+        "cand_name": "LANDER, BRAD MR.",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 1359758.0,
+        "pac_receipts_summary": 15000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00406553",
+            "pac_name": "PROGRESSIVE VOTERS OF AMERICA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 3209.0,
+            "direct_amt": 3209.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C90017492",
+            "pac_name": "INDIVISIBLE PROJECT INC.",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1048.0
+        },
+        {
+            "cmte_id": "C00776419",
+            "pac_name": "THE PEOPLE UNITED PAC",
+            "total_amt": 300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 993,
+        "oos_donors": 258,
+        "oos_total": 284249.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00851584",
+            "pac_name": "NEW ENGAGEMENT PAC",
+            "total_amt": 30000.0
+        }
+    ]
+}

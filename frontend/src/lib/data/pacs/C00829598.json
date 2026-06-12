@@ -1,0 +1,122 @@
+{
+    "pac": {
+        "name": "AMERICAN DISTRIBUTED POWER PAC",
+        "committee_type": "V",
+        "total_receipts": 755435.0,
+        "indiv_contrib": 34435.0,
+        "total_spent": 335039.0,
+        "cash_on_hand": 474453.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "S4UT00282",
+            "cand_name": "CURTIS, JOHN",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AK00099",
+            "cand_name": "MURKOWSKI, LISA",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8TN00337",
+            "cand_name": "BLACKBURN, MARSHA MRS.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IN00191",
+            "cand_name": "YOUNG, TODD CHRISTOPHER",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00898502",
+            "pac_name": "CAREY LAHOOD FITZPATRICK MALLIOTAKIS (CLFM) VICTORY FUND",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773416",
+            "pac_name": "GARBARINO VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692897",
+            "pac_name": "COLLINS VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00770180",
+            "pac_name": "CORNYN VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00829598"
+}

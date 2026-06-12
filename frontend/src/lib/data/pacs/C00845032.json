@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "AMERICAN HORIZON PAC",
+        "committee_type": "N",
+        "total_receipts": 256505.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 117922.0,
+        "cash_on_hand": 402180.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00850321",
+            "pac_name": "SAM BROWN VICTORY FUND",
+            "total_amt": 125619.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00819888",
+            "pac_name": "DUTY FIRST PAC",
+            "total_amt": 92659.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00831222",
+            "pac_name": "MAJORITY MAKERS FUND",
+            "total_amt": 3924.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00845396",
+            "pac_name": "SAM BROWN VICTORY COMMITTEE",
+            "total_amt": 1992.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00816124",
+            "pac_name": "PATRIOT FREEDOM PAC INC",
+            "total_amt": -1700.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00845032"
+}

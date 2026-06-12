@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "AMERICAN PRIORITIES (AP)",
+        "committee_type": "O",
+        "total_receipts": 3850000.0,
+        "indiv_contrib": 3800000.0,
+        "total_spent": 1275596.0,
+        "cash_on_hand": 2574404.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1153227.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1153227.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX30245",
+            "cand_name": "HAYNES, FREDERICK III",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 100000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 100000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NC06098",
+            "pac_name": "LC MEDIA",
+            "total_amt": 1153227.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H6TX30245",
+            "pac_name": "MIDDLE SEAT",
+            "total_amt": 100000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00932723"
+}

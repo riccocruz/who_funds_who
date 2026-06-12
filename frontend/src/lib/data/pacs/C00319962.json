@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "NEW YORK BUILDING CONGRESS INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 22500.0,
+        "indiv_contrib": 13000.0,
+        "total_spent": 20509.0,
+        "cash_on_hand": 10443.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "SUOZZI FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY02234",
+            "cand_name": "GARBARINO, ANDREW",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI02094",
+            "cand_name": "HUIZENGA, WILLIAM P",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 9.0,
+            "direct_amt": 9.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00287003",
+            "pac_name": "WSP USA INC. PAC",
+            "total_amt": 5500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00833319",
+            "pac_name": "MEEKS VICTORY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00319962"
+}

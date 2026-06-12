@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "ELECTRIC COOPERATIVES OF MISSISSIPPI ACTION COMMITTEE FOR RURAL ELECTRIFICATION",
+        "committee_type": "Q",
+        "total_receipts": 70363.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 19371.0,
+        "cash_on_hand": 454959.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H8MS03125",
+            "cand_name": "GUEST, MICHAEL PATRICK",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MS01131",
+            "cand_name": "KELLY, JOHN TRENT",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MS02068",
+            "cand_name": "THOMPSON, BENNIE G.",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MS00261",
+            "cand_name": "HYDE-SMITH, CINDY",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MS04258",
+            "cand_name": "EZELL, WALTER MICHAEL",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00002972",
+            "pac_name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "total_amt": 70361.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00004952"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "SHELTER MUTUAL INSURANCE COMPANY FEDERAL PAC",
+        "committee_type": "N",
+        "total_receipts": 14775.0,
+        "indiv_contrib": 14768.0,
+        "total_spent": 10500.0,
+        "cash_on_hand": 8639.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00066472",
+            "pac_name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00170258",
+            "pac_name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00140384"
+}

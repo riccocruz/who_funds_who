@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "TRELLIX SKYHIGH PAC",
+        "committee_type": "Q",
+        "total_receipts": 21109.0,
+        "indiv_contrib": 15367.0,
+        "total_spent": 18074.0,
+        "cash_on_hand": 78643.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S2VA00142",
+            "cand_name": "KAINE, TIMOTHY MICHAEL",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI01226",
+            "cand_name": "BERGMAN, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4SD00049",
+            "cand_name": "ROUNDS, MIKE",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00695940",
+            "pac_name": "KAINE FOR COMMON GROUND PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00826362",
+            "pac_name": "WINNING FOR AMERICA PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00679985"
+}

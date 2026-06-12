@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "I.B.E.W. LOCAL 103 FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 160069.0,
+        "indiv_contrib": 160069.0,
+        "total_spent": 22500.0,
+        "cash_on_hand": 398478.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MA00296",
+            "cand_name": "MOULTON, SETH",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MA07032",
+            "cand_name": "PRESSLEY, AYANNA",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MA03106",
+            "cand_name": "TRAHAN, LORI",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MA06090",
+            "cand_name": "MOULTON, SETH",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MA05084",
+            "cand_name": "CLARK, KATHERINE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MA09072",
+            "cand_name": "LYNCH, STEPHEN",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MA04192",
+            "cand_name": "AUCHINCLOSS, JAKE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00787317",
+            "pac_name": "SPIKE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00702043"
+}

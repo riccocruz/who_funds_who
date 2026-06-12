@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "FIGHT FOR A DEMOCRATIC MAJORITY PAC",
+        "committee_type": "Q",
+        "total_receipts": 114064.0,
+        "indiv_contrib": 89064.0,
+        "total_spent": 83108.0,
+        "cash_on_hand": 30956.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MA05084",
+            "cand_name": "CLARK, KATHERINE",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1188.0,
+            "direct_amt": 1188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00574970",
+            "pac_name": "FAIR SHOT PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00914424"
+}

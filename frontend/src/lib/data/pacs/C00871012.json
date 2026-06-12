@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "MAKE MONTANA GREAT",
+        "committee_type": "O",
+        "total_receipts": 77500.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 66500.0,
+        "cash_on_hand": 22225.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MT01152",
+            "cand_name": "FLINT, AARON",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 60250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 60250.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6MT01152",
+            "pac_name": "S2R, LLC",
+            "total_amt": 60250.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00871012"
+}

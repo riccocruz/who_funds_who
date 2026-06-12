@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BRIGHT IDEAS JOINT FUNDRAISING COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 54563.0,
+        "indiv_contrib": 54563.0,
+        "total_spent": 54563.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00835587",
+            "pac_name": "VOTE SAVE AMERICA",
+            "total_amt": 15500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00897801",
+            "pac_name": "CONNECT FORWARD",
+            "total_amt": 11625.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00910083"
+}

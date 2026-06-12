@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DAN CRENSHAW VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 971624.0,
+        "indiv_contrib": 966500.0,
+        "total_spent": 1021484.0,
+        "cash_on_hand": 7800.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 87242.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "C00686816",
+            "pac_name": "AMERICA RELOADED",
+            "total_amt": 80366.0,
+            "tx_count": 7
+        }
+    ],
+    "cmte_id": "C00694810"
+}

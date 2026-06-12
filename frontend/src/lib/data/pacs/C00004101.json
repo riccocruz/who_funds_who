@@ -1,0 +1,120 @@
+{
+    "pac": {
+        "name": "NATIONAL UTILITY CONTRACTORS ASSOCIATION LEGISLATIVE INFORMATION AND ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 23331.0,
+        "indiv_contrib": 20901.0,
+        "total_spent": 34057.0,
+        "cash_on_hand": 30321.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H0WA02080",
+            "cand_name": "LARSEN, RICK",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MO07143",
+            "cand_name": "BURLISON, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL23147",
+            "cand_name": "MORAITIS, GEORGE R",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8SD01055",
+            "cand_name": "JOHNSON, DUSTY",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA31125",
+            "cand_name": "AGUILAR, PETE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00834739",
+            "pac_name": "TRANSPORTATION TRUST FUND",
+            "total_amt": 6000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00632711",
+            "pac_name": "TEAM ESTES",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00004101"
+}

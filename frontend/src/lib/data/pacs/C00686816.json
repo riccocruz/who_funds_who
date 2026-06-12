@@ -1,0 +1,204 @@
+{
+    "pac": {
+        "name": "AMERICA RELOADED",
+        "committee_type": "Q",
+        "total_receipts": 136084.0,
+        "indiv_contrib": 20345.0,
+        "total_spent": 98322.0,
+        "cash_on_hand": 51181.0
+    },
+    "stats": {
+        "candidates_funded": 12
+    },
+    "recipients": [
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX05144",
+            "cand_name": "GOODEN, LANCE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX02166",
+            "cand_name": "CRENSHAW, DANIEL",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA08277",
+            "cand_name": "FITZPATRICK, BRIAN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX12065",
+            "cand_name": "GOLDMAN, CRAIG",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX15124",
+            "cand_name": "DE LA CRUZ, MONICA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX13228",
+            "cand_name": "JACKSON, RONNY LYNN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC03172",
+            "cand_name": "MURPHY, GREGORY FRANCIS DR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0IA02180",
+            "cand_name": "MILLER-MEEKS FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2602.0,
+            "direct_amt": 2602.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX02079",
+            "cand_name": "BABIN, BRIAN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00694810",
+            "pac_name": "DAN CRENSHAW VICTORY COMMITTEE",
+            "total_amt": 74988.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 6000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00077321",
+            "pac_name": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00326835",
+            "pac_name": "HARRIS COUNTY REPUBLICAN PARTY FEDERAL COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00332833",
+            "pac_name": "CARDINAL HEALTH INC. PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00339655",
+            "pac_name": "US ONCOLOGY INC. NETWORK POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00934406",
+            "pac_name": "REPUBLICAN VOTERS OF TEXAS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00757922",
+            "pac_name": "EXPECT MORE LEADERSHIP PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00096156",
+            "pac_name": "HONEYWELL INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00686816"
+}

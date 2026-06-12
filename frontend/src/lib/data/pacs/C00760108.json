@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "BYRON DONALDS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 54152.0,
+        "indiv_contrib": 53892.0,
+        "total_spent": 182011.0,
+        "cash_on_hand": 13518.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00755728",
+            "pac_name": "PROVEN CONSERVATIVES PAC",
+            "total_amt": 21000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00894147",
+            "pac_name": "PROVEN CONSERVATIVES PAC - FEDERAL",
+            "total_amt": 12784.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00099259",
+            "pac_name": "REPUBLICAN PARTY OF FLORIDA",
+            "total_amt": 10768.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 7628.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00760108"
+}

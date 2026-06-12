@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "SARA JACOBS HOUSE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 437014.0,
+        "indiv_contrib": 437014.0,
+        "total_spent": 435872.0,
+        "cash_on_hand": 6652.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 282000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00660837",
+            "pac_name": "SARA JACOBS FOR CONGRESS",
+            "total_amt": 83500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00768887",
+            "pac_name": "PAC FOR GOOD",
+            "total_amt": 46500.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00831479"
+}

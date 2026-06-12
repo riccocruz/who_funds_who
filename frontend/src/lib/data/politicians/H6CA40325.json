@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GAGNIER, CHRISTINA",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 534262.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 579,
+        "oos_donors": 364,
+        "oos_total": 230805.0
+    },
+    "opposition": []
+}

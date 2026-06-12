@@ -1,0 +1,118 @@
+{
+    "pac": {
+        "name": "WORKERS FIRST PAC",
+        "committee_type": "N",
+        "total_receipts": 78474.0,
+        "indiv_contrib": 14500.0,
+        "total_spent": 101435.0,
+        "cash_on_hand": -22197.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6SC04270",
+            "cand_name": "BROWN, BRANDON",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL02124",
+            "cand_name": "JACKSON, JESSE L. JR",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA39078",
+            "cand_name": "SANCHEZ, LINDA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH01194",
+            "cand_name": "LANDSMAN, GREG",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6OH07168",
+            "cand_name": "POINDEXTER, BRIAN",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL08329",
+            "cand_name": "BEAN, MELISSA LUBURICH",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00924894",
+            "pac_name": "BLUE OHIO PAC, INC.",
+            "total_amt": 7000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00003251",
+            "pac_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00410753",
+            "pac_name": "SIRES FOR CONGRESS",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00417584",
+            "pac_name": "AMERICA 2.0 PAC",
+            "total_amt": 706.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00777771"
+}

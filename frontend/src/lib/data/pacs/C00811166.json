@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "THE SENTINEL ACTION FUND",
+        "committee_type": "O",
+        "total_receipts": 9051932.0,
+        "indiv_contrib": 8871163.0,
+        "total_spent": 3446966.0,
+        "cash_on_hand": 7581830.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4MI00595",
+            "cand_name": "ROGERS, MICHAEL J",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 251258.0,
+            "direct_amt": 0.0,
+            "ie_amt": 251258.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S4MI00595",
+            "pac_name": "INVICTUS ADVERTISING LLC",
+            "total_amt": 251258.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00878520",
+            "pac_name": "MOMS FOR SAFE NEIGHBORHOODS, INC.",
+            "total_amt": 24000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00811166"
+}

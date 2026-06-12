@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HEINRICH, MARTIN",
+        "party": "DEM",
+        "state": "NM",
+        "indiv_total": 857365.0,
+        "pac_receipts_summary": 341421.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00369058",
+            "pac_name": "VAN SCOYOC ASSOCIATES, INC. PAC",
+            "total_amt": 2313.0,
+            "direct_amt": 2313.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

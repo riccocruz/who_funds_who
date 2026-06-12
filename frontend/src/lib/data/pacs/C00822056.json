@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "ERIC SORENSEN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 102550.0,
+        "indiv_contrib": 102550.0,
+        "total_spent": 99582.0,
+        "cash_on_hand": 9574.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00167015",
+            "pac_name": "DEMOCRATIC PARTY OF ILLINOIS",
+            "total_amt": 20900.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00846071",
+            "pac_name": "STORM PAC",
+            "total_amt": 10400.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 4500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00822056"
+}

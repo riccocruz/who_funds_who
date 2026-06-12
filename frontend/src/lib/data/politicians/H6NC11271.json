@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MADDOX, PAUL",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 91609.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 91,
+        "oos_donors": 43,
+        "oos_total": 25743.0
+    },
+    "opposition": []
+}

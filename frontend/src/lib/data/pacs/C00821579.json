@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM MAYRA",
+        "committee_type": "N",
+        "total_receipts": 307996.0,
+        "indiv_contrib": 303306.0,
+        "total_spent": 433573.0,
+        "cash_on_hand": 2405.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00819854",
+            "pac_name": "EL SUENO AMERICANO",
+            "total_amt": 112355.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00694323",
+            "pac_name": "WINRED",
+            "total_amt": 4690.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00821579"
+}

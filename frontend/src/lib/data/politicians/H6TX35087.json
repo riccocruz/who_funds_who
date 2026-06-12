@@ -1,0 +1,164 @@
+{
+    "politician": {
+        "cand_name": "DE LA CRUZ, CARLOS JR.",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 504348.0,
+        "pac_receipts_summary": 108000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00928390",
+            "pac_name": "DEFENDING OUR VALUES PAC",
+            "total_amt": 479728.0,
+            "direct_amt": 0.0,
+            "ie_amt": 479728.0
+        },
+        {
+            "cmte_id": "C00937094",
+            "pac_name": "STRONG PAC",
+            "total_amt": 243076.0,
+            "direct_amt": 0.0,
+            "ie_amt": 243076.0
+        },
+        {
+            "cmte_id": "C00808717",
+            "pac_name": "KEEP TEXAS TEXAS PAC",
+            "total_amt": 15000.0,
+            "direct_amt": 15000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765719",
+            "pac_name": "CARLOS FOR CONGRESS",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00639229",
+            "pac_name": "AMERICAN REVIVAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00749481",
+            "pac_name": "RAPTOR PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00863217",
+            "pac_name": "TEXAS VALUES PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545749",
+            "pac_name": "CARLOS FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00608695",
+            "pac_name": "CARLOS FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00823351",
+            "pac_name": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00493221",
+            "pac_name": "THE GUARDIAN FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00502229",
+            "pac_name": "CARLOS FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00689208",
+            "pac_name": "RVFPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00525071",
+            "pac_name": "COMMERCIAL METALS COMPANY PAC (CMC PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00588657",
+            "pac_name": "CARLOS FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00755173",
+            "pac_name": "HONOR COURAGE COMMITMENT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765644",
+            "pac_name": "BIG IDEAS CREATE EXCELLENCE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00809012",
+            "pac_name": "FROGMAN PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00856849",
+            "pac_name": "SEAL TEAM PT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 190,
+        "oos_donors": 81,
+        "oos_total": 32152.0
+    },
+    "opposition": []
+}

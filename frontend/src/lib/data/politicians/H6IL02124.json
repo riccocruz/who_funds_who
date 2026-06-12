@@ -1,0 +1,58 @@
+{
+    "politician": {
+        "cand_name": "JACKSON, JESSE L. JR",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 306954.0,
+        "pac_receipts_summary": 28850.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00923417",
+            "pac_name": "THINK BIG",
+            "total_amt": 1117335.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1117335.0
+        },
+        {
+            "cmte_id": "C00777771",
+            "pac_name": "WORKERS FIRST PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00399196",
+            "pac_name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00542365",
+            "pac_name": "TOYOTA MOTOR NORTH AMERICA, INC POLITICAL ACTION COMMITTEE (TOYOTA/LEXUS PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545236",
+            "pac_name": "NEW VOICE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 165,
+        "oos_donors": 68,
+        "oos_total": 82700.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00928374",
+            "pac_name": "JOBS AND DEMOCRACY PAC",
+            "total_amt": 0.0
+        }
+    ]
+}

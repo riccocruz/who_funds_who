@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "VOTING RIGHTS FUND",
+        "committee_type": "N",
+        "total_receipts": 24641.0,
+        "indiv_contrib": 22641.0,
+        "total_spent": 15491.0,
+        "cash_on_hand": 11963.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ01314",
+            "cand_name": "GORDON, MARK ROBERT",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00755801"
+}

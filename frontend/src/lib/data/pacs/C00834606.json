@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "GREATER MINNESOTA VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 94800.0,
+        "indiv_contrib": 81750.0,
+        "total_spent": 69344.0,
+        "cash_on_hand": 25456.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00116145",
+            "pac_name": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00340356",
+            "pac_name": "ADVANCED MEDICAL TECHNOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00498105",
+            "pac_name": "PRIME THERAPEUTICS LLC EMPLOYEE PAC (PRIMEPAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00079681",
+            "pac_name": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00681338",
+            "pac_name": "EDGE DAIRY FARMER COOPERATIVE PAC (EDGE PAC)",
+            "total_amt": 50.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00834606"
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "KING, JOHN",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 551345.0,
+        "pac_receipts_summary": 11500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00040253",
+            "pac_name": "ALLSTATE INSURANCE COMPANY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00094573",
+            "pac_name": "ELECT - THE PAC OF THE ALABAMA FARMERS FEDERATION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 184,
+        "oos_donors": 53,
+        "oos_total": 611410.0
+    },
+    "opposition": []
+}

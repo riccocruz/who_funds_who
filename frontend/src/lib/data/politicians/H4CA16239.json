@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "LOW, EVAN",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 0.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00490375",
+            "pac_name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+            "total_amt": 10917.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10917.0
+        },
+        {
+            "cmte_id": "C00002469",
+            "pac_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "KNOTT VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 240650.0,
+        "indiv_contrib": 239150.0,
+        "total_spent": 225676.0,
+        "cash_on_hand": 14974.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 45395.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00892711",
+            "pac_name": "BUILDING A REPUBLIC AMERICA DESERVES",
+            "total_amt": 31860.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00491506",
+            "pac_name": "WARD AND SMITH. P.A. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00898957"
+}

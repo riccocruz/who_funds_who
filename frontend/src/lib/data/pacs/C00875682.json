@@ -1,0 +1,52 @@
+{
+    "pac": {
+        "name": "LINCOLN NATIONAL CORPORATION STATE AND FEDERAL POLITICAL ACTION COMMITTEE (AKA LINCOLN FINANCIAL STATE AND FEDERAL POLITICAL ACTION COMMITTEE)",
+        "committee_type": "N",
+        "total_receipts": 38232.0,
+        "indiv_contrib": 35732.0,
+        "total_spent": 24500.0,
+        "cash_on_hand": 19252.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NC06177",
+            "cand_name": "MCDOWELL, ADDISON",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00525030",
+            "pac_name": "TOGETHER EVERYONE REALIZES REAL IMPACT",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00647354",
+            "pac_name": "TEAM AMERICA - BRINGING AMERICA TOGETHER PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00834507",
+            "pac_name": "BUILDING UP DEMOCRACY'S DREAM",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633156",
+            "pac_name": "I GOT YOUR BACK PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00875682"
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "FUND FOR A WORKING CONGRESS",
+        "committee_type": "O",
+        "total_receipts": 80000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 110003.0,
+        "cash_on_hand": 508.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00933689",
+            "pac_name": "GUILFORD-ROCKINGHAM ALLIANCE",
+            "total_amt": 60000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00634261",
+            "pac_name": "DEFEND US PAC",
+            "total_amt": 35000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654764",
+            "pac_name": "AMERICAN VALUES FIRST",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00637041"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "MOVING OUR NATION FORWARD PAC",
+        "committee_type": "N",
+        "total_receipts": 17145.0,
+        "indiv_contrib": 1145.0,
+        "total_spent": 7041.0,
+        "cash_on_hand": 27239.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 8500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00194746",
+            "pac_name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00238725",
+            "pac_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495556",
+            "pac_name": "TRINET GROUP INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00456764",
+            "pac_name": "DEMOCRATIC PARTY OF CONTRA COSTA COUNTY",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00589606"
+}

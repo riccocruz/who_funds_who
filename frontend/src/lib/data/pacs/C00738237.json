@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "PEOPLE'S ACTION POWER",
+        "committee_type": "V",
+        "total_receipts": 64861.0,
+        "indiv_contrib": 5100.0,
+        "total_spent": 263569.0,
+        "cash_on_hand": 29297.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL02298",
+            "cand_name": "PETERS, ROBERT JAMES",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 30000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL02298",
+            "pac_name": "MOVEMENT LABS LLC",
+            "total_amt": 30000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00738815",
+            "pac_name": "TAKEACTION MN FEDERAL FUND",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00738237"
+}

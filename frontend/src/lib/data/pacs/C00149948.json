@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "SMALL BUSINESS COUNCIL OF AMERICA-PAC, INC.",
+        "committee_type": "Q",
+        "total_receipts": 18201.0,
+        "indiv_contrib": 13200.0,
+        "total_spent": 21773.0,
+        "cash_on_hand": 15514.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL10068",
+            "cand_name": "SCHNEIDER, BRADLEY S.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI04204",
+            "cand_name": "MCCANN, SEAN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00034157",
+            "pac_name": "AFLAC POLITICAL ACTION COMMITTEE (AFLAC PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00895219",
+            "pac_name": "MARK WARNER VICTORY FUND",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00149948"
+}

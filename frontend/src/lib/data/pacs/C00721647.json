@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "NEXTDECADE CORPORATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 85484.0,
+        "indiv_contrib": 85484.0,
+        "total_spent": 34000.0,
+        "cash_on_hand": 64484.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00849778",
+            "pac_name": "TED CRUZ VICTORY FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00494302",
+            "pac_name": "LEAD ENCOURAGE ELECT PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00721647"
+}

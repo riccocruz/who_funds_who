@@ -1,0 +1,63 @@
+{
+    "politician": {
+        "cand_name": "PEKARSKY, STELLA",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 128866.0,
+        "pac_receipts_summary": 19000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00757419",
+            "pac_name": "SD PAC",
+            "total_amt": 166495.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 161495.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00032995",
+            "pac_name": "AMALGAMATED TRANSIT UNION - COPE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00717728",
+            "pac_name": "FREE AND FAIR DEMOCRACY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000885",
+            "pac_name": "INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES POLITICAL ACTION TOGETHER POLITICAL COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 73,
+        "oos_donors": 22,
+        "oos_total": 16066.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00848440",
+            "pac_name": "PROTECT PROGRESS",
+            "total_amt": 20482.0
+        },
+        {
+            "cmte_id": "C00904623",
+            "pac_name": "OVERSIGHT ACTION FUND",
+            "total_amt": 5830.0
+        }
+    ]
+}

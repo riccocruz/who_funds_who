@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "GRONLI, NICOLE",
+        "party": "DEM",
+        "state": "SD",
+        "indiv_total": 175996.0,
+        "pac_receipts_summary": 4750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00701748",
+            "pac_name": "NIKKI G FOR SD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00777086",
+            "pac_name": "ACTION CAN'T WAIT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 143,
+        "oos_donors": 24,
+        "oos_total": 9400.0
+    },
+    "opposition": []
+}

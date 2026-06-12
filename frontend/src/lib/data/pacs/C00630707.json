@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "NATIONAL DEMOCRATIC REDISTRICTING PAC",
+        "committee_type": "N",
+        "total_receipts": 1993666.0,
+        "indiv_contrib": 1990224.0,
+        "total_spent": 1901372.0,
+        "cash_on_hand": 249633.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00019331",
+            "pac_name": "DEMOCRATIC PARTY OF WISCONSIN FEDERAL",
+            "total_amt": 2879.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 351.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00630707"
+}

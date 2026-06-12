@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "VOTAR ES PODER PAC",
+        "committee_type": "O",
+        "total_receipts": 177128.0,
+        "indiv_contrib": 143.0,
+        "total_spent": 208022.0,
+        "cash_on_hand": 282600.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 6015.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6015.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6AZ07121",
+            "pac_name": "ARIZONA LOTUS CORP",
+            "total_amt": 6015.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00758011"
+}

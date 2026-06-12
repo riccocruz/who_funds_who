@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "AMERICA'S ELECTRIC COOPERATIVE PAC - OKLAHOMA",
+        "committee_type": "Q",
+        "total_receipts": 41102.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 15500.0,
+        "cash_on_hand": 232606.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OK06056",
+            "cand_name": "LUCAS, FRANK D.",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00002972",
+            "pac_name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "total_amt": 14926.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00133561"
+}

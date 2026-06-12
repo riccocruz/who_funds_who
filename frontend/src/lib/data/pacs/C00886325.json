@@ -1,0 +1,164 @@
+{
+    "pac": {
+        "name": "HAMPTON LUMBER MILLS, INC. POLITICAL ACTION COMMITTEE (HAMPTON LUMBER PAC)",
+        "committee_type": "N",
+        "total_receipts": 54297.0,
+        "indiv_contrib": 54297.0,
+        "total_spent": 19000.0,
+        "cash_on_hand": 35297.0
+    },
+    "stats": {
+        "candidates_funded": 14
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4SC00240",
+            "cand_name": "SCOTT, TIMOTHY E.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0SC00149",
+            "cand_name": "GRAHAM, LINDSEY O.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WA08189",
+            "cand_name": "SCHRIER, KIM DR.",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8SC04250",
+            "cand_name": "TIMMONS, WILLIAM R IV",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4SC01313",
+            "cand_name": "BIGGS, SHERI",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC07280",
+            "cand_name": "FRY, RUSSELL",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC02059",
+            "cand_name": "WILSON, JOE THE HON.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC02042",
+            "cand_name": "CLYBURN, JAMES E",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR04095",
+            "cand_name": "HOYLE, VALERIE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA02080",
+            "cand_name": "LARSEN, RICK",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0OR02127",
+            "cand_name": "BENTZ, CLIFF",
+            "party": "REP",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00371336",
+            "pac_name": "AMERICAN FOREST RESOURCE COUNCIL PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00886325"
+}

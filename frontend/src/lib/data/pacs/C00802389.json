@@ -1,0 +1,944 @@
+{
+    "pac": {
+        "name": "GIVEGREEN UNITED ACTION",
+        "committee_type": "O",
+        "total_receipts": 1492321.0,
+        "indiv_contrib": 1474353.0,
+        "total_spent": 2063737.0,
+        "cash_on_hand": 466347.0
+    },
+    "stats": {
+        "candidates_funded": 56
+    },
+    "recipients": [
+        {
+            "cand_id": "H4VA08224",
+            "cand_name": "BEYER, DONALD STERNOFF JR.",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 60500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 60500.0
+        },
+        {
+            "cand_id": "H4VA07234",
+            "cand_name": "VINDMAN, YEVGENY 'EUGENE'",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 43462.0,
+            "direct_amt": 0.0,
+            "ie_amt": 212.0,
+            "bundled_amt": 43250.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1020.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1020.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH15050",
+            "cand_name": "MILLER, ADAM CLAY",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "H4OH15083",
+            "cand_name": "MILLER, ADAM CLAY",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 651.0,
+            "direct_amt": 0.0,
+            "ie_amt": 651.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH01194",
+            "cand_name": "LANDSMAN, GREG",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 590.0,
+            "direct_amt": 0.0,
+            "ie_amt": 90.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 427.0,
+            "direct_amt": 0.0,
+            "ie_amt": 427.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00163",
+            "cand_name": "BROWN, SHERROD",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 385.0,
+            "direct_amt": 0.0,
+            "ie_amt": 385.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NM00058",
+            "cand_name": "LUJAN, BEN RAY",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 309.0,
+            "direct_amt": 0.0,
+            "ie_amt": 309.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 297.0,
+            "direct_amt": 0.0,
+            "ie_amt": 297.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA10126",
+            "cand_name": "HARDER, JOSH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 292.0,
+            "direct_amt": 0.0,
+            "ie_amt": 292.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NH01210",
+            "cand_name": "PAPPAS, CHRIS",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 265.0,
+            "direct_amt": 0.0,
+            "ie_amt": 265.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 261.0,
+            "direct_amt": 0.0,
+            "ie_amt": 261.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NH00141",
+            "cand_name": "PAPPAS, CHRIS",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 250.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 242.0,
+            "direct_amt": 0.0,
+            "ie_amt": 242.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 240.0,
+            "direct_amt": 0.0,
+            "ie_amt": 240.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03200",
+            "cand_name": "NEW BLUE INTERACTIVE",
+            "party": null,
+            "state": null,
+            "total_amt": 212.0,
+            "direct_amt": 0.0,
+            "ie_amt": 212.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 205.0,
+            "direct_amt": 0.0,
+            "ie_amt": 205.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA27111",
+            "cand_name": "WHITESIDES, GEORGE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 199.0,
+            "direct_amt": 0.0,
+            "ie_amt": 199.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0CO00575",
+            "cand_name": "HICKENLOOPER, JOHN W.",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 192.0,
+            "direct_amt": 0.0,
+            "ie_amt": 192.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00379",
+            "cand_name": "NEW BLUE INTERACTIVE",
+            "party": null,
+            "state": null,
+            "total_amt": 186.0,
+            "direct_amt": 0.0,
+            "ie_amt": 186.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 179.0,
+            "direct_amt": 0.0,
+            "ie_amt": 179.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 158.0,
+            "direct_amt": 0.0,
+            "ie_amt": 158.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL17147",
+            "cand_name": "SORENSEN, ERIC",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 156.0,
+            "direct_amt": 0.0,
+            "ie_amt": 156.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI03316",
+            "cand_name": "SCHOLTEN, HILLARY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 133.0,
+            "direct_amt": 0.0,
+            "ie_amt": 133.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT05245",
+            "cand_name": "HAYES, JAHANA",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 130.0,
+            "direct_amt": 0.0,
+            "ie_amt": 130.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NJ00185",
+            "cand_name": "BOOKER, CORY A.",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 125.0,
+            "direct_amt": 0.0,
+            "ie_amt": 125.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 125.0,
+            "direct_amt": 0.0,
+            "ie_amt": 125.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 123.0,
+            "direct_amt": 0.0,
+            "ie_amt": 123.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8OR00207",
+            "cand_name": "MERKLEY, JEFFREY ALAN",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 120.0,
+            "direct_amt": 0.0,
+            "ie_amt": 120.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ09194",
+            "cand_name": "POU, NELIDA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 109.0,
+            "direct_amt": 0.0,
+            "ie_amt": 109.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WA08189",
+            "cand_name": "SCHRIER, KIM DR.",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 106.0,
+            "direct_amt": 0.0,
+            "ie_amt": 106.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 106.0,
+            "direct_amt": 0.0,
+            "ie_amt": 106.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA17103",
+            "cand_name": "DELUZIO, CHRISTOPHER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 106.0,
+            "direct_amt": 0.0,
+            "ie_amt": 106.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI03169",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 104.0,
+            "direct_amt": 0.0,
+            "ie_amt": 104.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA02111",
+            "cand_name": "BOHANNAN, CHRISTINA",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 104.0,
+            "direct_amt": 0.0,
+            "ie_amt": 104.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MI00355",
+            "cand_name": "PETERS, GARY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 100.0,
+            "direct_amt": 0.0,
+            "ie_amt": 100.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY04158",
+            "cand_name": "NEW BLUE INTERACTIVE",
+            "party": null,
+            "state": null,
+            "total_amt": 99.0,
+            "direct_amt": 0.0,
+            "ie_amt": 99.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6AK00276",
+            "cand_name": "PELTOLA, MARY",
+            "party": "DEM",
+            "state": "AK",
+            "total_amt": 93.0,
+            "direct_amt": 0.0,
+            "ie_amt": 93.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8AZ09040",
+            "cand_name": "STANTON, GREG",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 90.0,
+            "direct_amt": 0.0,
+            "ie_amt": 90.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA08293",
+            "cand_name": "COGNETTI, PAIGE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 90.0,
+            "direct_amt": 0.0,
+            "ie_amt": 90.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ06099",
+            "cand_name": "MENDOZA, JOANNA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 90.0,
+            "direct_amt": 0.0,
+            "ie_amt": 90.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 90.0,
+            "direct_amt": 0.0,
+            "ie_amt": 90.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 86.0,
+            "direct_amt": 0.0,
+            "ie_amt": 86.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6VA00093",
+            "cand_name": "WARNER, MARK ROBERT",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 80.0,
+            "direct_amt": 0.0,
+            "ie_amt": 80.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NO00407",
+            "cand_name": "NEW BLUE INTERACTIVE",
+            "party": null,
+            "state": null,
+            "total_amt": 80.0,
+            "direct_amt": 0.0,
+            "ie_amt": 80.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MA00028",
+            "cand_name": "MARKEY, EDWARD SEN.",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 80.0,
+            "direct_amt": 0.0,
+            "ie_amt": 80.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 79.0,
+            "direct_amt": 0.0,
+            "ie_amt": 79.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY04244",
+            "cand_name": "GILLEN, LAURA",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 71.0,
+            "direct_amt": 0.0,
+            "ie_amt": 71.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 53.0,
+            "direct_amt": 0.0,
+            "ie_amt": 53.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR04095",
+            "cand_name": "HOYLE, VALERIE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 53.0,
+            "direct_amt": 0.0,
+            "ie_amt": 53.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM01144",
+            "cand_name": "STANSBURY, MELANIE",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 53.0,
+            "direct_amt": 0.0,
+            "ie_amt": 53.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI08218",
+            "cand_name": "NEW BLUE INTERACTIVE",
+            "party": null,
+            "state": null,
+            "total_amt": 53.0,
+            "direct_amt": 0.0,
+            "ie_amt": 53.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0IN01150",
+            "cand_name": "MRVAN, FRANK J.",
+            "party": "DEM",
+            "state": "IN",
+            "total_amt": 53.0,
+            "direct_amt": 0.0,
+            "ie_amt": 53.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL14174",
+            "cand_name": "UNDERWOOD, LAUREN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 25.0,
+            "direct_amt": 0.0,
+            "ie_amt": 25.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA10279",
+            "cand_name": "SUBRAMANYAM, SUHAS",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 13.0,
+            "direct_amt": 0.0,
+            "ie_amt": 13.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WA06117",
+            "cand_name": "RANDALL, EMILY",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 10.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4DE00045",
+            "cand_name": "MCBRIDE, SARAH ELIZABETH",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 10.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 1020.0,
+            "tx_count": 17
+        },
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 651.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H4CA45170",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 427.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "S6OH00163",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 385.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S0NM00058",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 309.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H4CA47085",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 297.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H8CA10126",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 292.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H8NH01210",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 265.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2OH13264",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 261.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "S6NH00141",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 250.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2OR06066",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 242.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H6AZ07121",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 240.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H4VA07234",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 212.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H8NV03200",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 212.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2OH09031",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 205.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CA27111",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 199.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S0CO00575",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 192.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S6OH00379",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 186.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H4MI08218",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 179.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H8NY22177",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 158.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2IL17147",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 156.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H0MI03316",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 133.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8CT05245",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 130.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H4OR05304",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 125.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S4NJ00185",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 125.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2NM02191",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 123.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "S8OR00207",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 120.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4NJ09194",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 109.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2PA17103",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 106.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8NV03036",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 106.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8WA08189",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 106.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2IA02111",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 104.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4WI03169",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 104.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S4MI00355",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 100.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4NY04158",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 99.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6AK00276",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 93.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2OH01194",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 90.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4PA10104",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 90.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6AZ06099",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 90.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6PA08293",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 90.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H8AZ09040",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 90.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8CA49058",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 86.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S4MA00028",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 80.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6NO00407",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 80.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6VA00093",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 80.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NV04011",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 79.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2NY04244",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 71.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0IN01150",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 53.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2MI08218",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 53.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NM01144",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 53.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2OR04095",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 53.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NY03247",
+            "pac_name": "NEW BLUE INTERACTIVE",
+            "total_amt": 53.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8IL14174",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 25.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4VA10279",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 13.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4DE00045",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 10.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4WA06117",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+            "total_amt": 10.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00802389"
+}

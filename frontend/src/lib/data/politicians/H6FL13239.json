@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "FORD, EARLE",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 577936.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00364158",
+            "pac_name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 197,
+        "oos_donors": 112,
+        "oos_total": 56350.0
+    },
+    "opposition": []
+}

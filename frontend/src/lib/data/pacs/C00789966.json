@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "FORWARD PARTY",
+        "committee_type": "W",
+        "total_receipts": 2444945.0,
+        "indiv_contrib": 316097.0,
+        "total_spent": 2441187.0,
+        "cash_on_hand": 55771.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07105",
+            "cand_name": "HERNANDEZ, DANIEL",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00851204",
+            "pac_name": "FORWARD PARTY - RESTRICTED",
+            "total_amt": 159019.0,
+            "tx_count": 21
+        }
+    ],
+    "cmte_id": "C00789966"
+}

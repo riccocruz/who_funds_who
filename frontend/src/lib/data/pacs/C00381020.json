@@ -1,0 +1,104 @@
+{
+    "pac": {
+        "name": "PORTLAND GENERAL ELECTRIC CO. BI-PARTISAN COMM. FOR EFFECTIVE GOVT",
+        "committee_type": "Q",
+        "total_receipts": 28833.0,
+        "indiv_contrib": 28833.0,
+        "total_spent": 14733.0,
+        "cash_on_hand": 61352.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OR01133",
+            "cand_name": "BONAMICI, SUZANNE MS.",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0OR02127",
+            "cand_name": "BENTZ, CLIFF",
+            "party": "REP",
+            "state": "OR",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR04095",
+            "cand_name": "HOYLE, VALERIE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NM00088",
+            "cand_name": "HEINRICH, MARTIN",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR03192",
+            "cand_name": "DEXTER, MAXINE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": -3500.0,
+            "direct_amt": -3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00381020"
+}

@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "DEMOCRATS OF NORTH ORANGE COUNTY",
+        "committee_type": "N",
+        "total_receipts": 33808.0,
+        "indiv_contrib": 29968.0,
+        "total_spent": 12110.0,
+        "cash_on_hand": 24137.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00321943",
+            "pac_name": "DEMOCRATIC PARTY OF ORANGE COUNTY FED PAC",
+            "total_amt": 575.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00461418",
+            "pac_name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00701961",
+            "pac_name": "LAVENDER DEMOCRATS",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00835330",
+            "pac_name": "CENTRAL ORANGE COUNTY DEMOCRATIC CLUB",
+            "total_amt": 200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00408484"
+}

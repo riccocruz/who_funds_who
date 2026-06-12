@@ -1,0 +1,80 @@
+{
+    "politician": {
+        "cand_name": "VANG, MAI",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 561034.0,
+        "pac_receipts_summary": 30600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00002840",
+            "pac_name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00461418",
+            "pac_name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00758219",
+            "pac_name": "NO DEM LEFT BEHIND PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00516500",
+            "pac_name": "POWERPACPLUS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00691790",
+            "pac_name": "THE SIX PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00909739",
+            "pac_name": "PEACE DEMOCRATS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 538,
+        "oos_donors": 33,
+        "oos_total": 30125.0
+    },
+    "opposition": []
+}

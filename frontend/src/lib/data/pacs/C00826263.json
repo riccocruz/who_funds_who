@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "HISPANIC LEADERSHIP ACTION",
+        "committee_type": "O",
+        "total_receipts": 366000.0,
+        "indiv_contrib": 351000.0,
+        "total_spent": 542303.0,
+        "cash_on_hand": 76066.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX35015",
+            "cand_name": "GONZALES, ERNEST ANTHONY TONY II",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 79491.0,
+            "direct_amt": 0.0,
+            "ie_amt": 79491.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0TX35015",
+            "pac_name": "BREAKPOINT MEDIA LLC",
+            "total_amt": 79491.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H4TX23120",
+            "pac_name": "BREAKPOINT MEDIA LLC",
+            "total_amt": 72917.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00826263"
+}

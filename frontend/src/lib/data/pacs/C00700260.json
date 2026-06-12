@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "DUNN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 214400.0,
+        "indiv_contrib": 211400.0,
+        "total_spent": 260112.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00680405",
+            "pac_name": "DEFEND & UPHOLD OUR NATION NOW",
+            "total_amt": 14542.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 11305.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00799494",
+            "pac_name": "RADIOLOGY PARTNERS, INC. PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00700260"
+}

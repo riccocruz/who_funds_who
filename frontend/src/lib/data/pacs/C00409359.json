@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SAN MATEO COUNTY DEMOCRATIC CENTRAL COMMITTEE-FEDERAL",
+        "committee_type": "Y",
+        "total_receipts": 57518.0,
+        "indiv_contrib": 28916.0,
+        "total_spent": 48511.0,
+        "cash_on_hand": 53934.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00788190",
+            "pac_name": "KINGS COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00468314",
+            "pac_name": "DEMOCRACY ENGINE, INC., PAC",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00409359"
+}

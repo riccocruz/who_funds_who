@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "PELBATH, ALEX",
+        "party": "REP",
+        "state": "SC",
+        "indiv_total": 322544.0,
+        "pac_receipts_summary": 19000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00035451",
+            "pac_name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00543207",
+            "pac_name": "BADLANDS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786202",
+            "pac_name": "CROSSPARTISAN PAC II",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00906669",
+            "pac_name": "NESTPOINT PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00930404",
+            "pac_name": "AMERICA FIRST PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 158,
+        "oos_donors": 77,
+        "oos_total": 174170.0
+    },
+    "opposition": []
+}

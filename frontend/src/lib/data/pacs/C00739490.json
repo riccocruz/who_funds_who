@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SOUTH JERSEY FIRST",
+        "committee_type": "N",
+        "total_receipts": 57500.0,
+        "indiv_contrib": 57500.0,
+        "total_spent": 90439.0,
+        "cash_on_hand": 6078.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00726729",
+            "pac_name": "BOOTS ON THE GROUND - FEDERAL",
+            "total_amt": 43527.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 20273.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00739490"
+}

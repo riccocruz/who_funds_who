@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION FEDERAL PAC",
+        "committee_type": "Q",
+        "total_receipts": 21205.0,
+        "indiv_contrib": 21205.0,
+        "total_spent": 9943.0,
+        "cash_on_hand": 12997.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CA46116",
+            "cand_name": "CORREA, LOU",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA01285",
+            "cand_name": "GALLAGHER, JAMES",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA04152",
+            "cand_name": "MCCLINTOCK, THOMAS",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA08135",
+            "cand_name": "OBERNOLTE, JAY",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA20181",
+            "cand_name": "FONG, VINCE",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00318766"
+}

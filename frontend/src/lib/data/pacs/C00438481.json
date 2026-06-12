@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "COLE COMBINED COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 293000.0,
+        "indiv_contrib": 274500.0,
+        "total_spent": 394589.0,
+        "cash_on_hand": 40381.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 105983.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00404392",
+            "pac_name": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC",
+            "total_amt": 76323.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00566042",
+            "pac_name": "FRIENDS OF MEDICAL RESEARCH POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00925420",
+            "pac_name": "TURBINEONE, INC. POLITICAL ACTION COMMITTEE (T1PAC)",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00686709",
+            "pac_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC. POLITICAL ACTION COMMITTEE (KRATOS PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00853606",
+            "pac_name": "PARRY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00438481"
+}

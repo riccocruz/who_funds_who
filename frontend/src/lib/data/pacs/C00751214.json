@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "CALIFORNIA CREDIT UNION EMPLOYEES FEDERAL PAC",
+        "committee_type": "N",
+        "total_receipts": 13262.0,
+        "indiv_contrib": 13262.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 11807.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA23011",
+            "cand_name": "WATERS, MAXINE MS",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49074",
+            "cand_name": "JACOBS, SARA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KY06104",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00771238",
+            "pac_name": "DEFEND THE DREAM",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00751214"
+}

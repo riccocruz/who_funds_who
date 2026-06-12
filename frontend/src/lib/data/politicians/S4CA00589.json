@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "LEE, BARBARA",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 27345.0,
+        "pac_receipts_summary": 27500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00029447",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00003251",
+            "pac_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00857680",
+            "pac_name": "DEMINGS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00458976",
+            "pac_name": "BARBARA LEE FOR US SENATE",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00723676",
+            "pac_name": "WE BELONG HERE PAC",
+            "total_amt": 650.0,
+            "direct_amt": 650.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00452763",
+            "pac_name": "NEW SOUTH LEADERSHIP PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 12,
+        "oos_donors": 6,
+        "oos_total": 5214.0
+    },
+    "opposition": []
+}

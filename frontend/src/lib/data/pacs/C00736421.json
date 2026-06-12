@@ -1,0 +1,84 @@
+{
+    "pac": {
+        "name": "DELEK US HOLDINGS LLC PAC  (AKA DK PAC)",
+        "committee_type": "N",
+        "total_receipts": 41095.0,
+        "indiv_contrib": 41095.0,
+        "total_spent": 47034.0,
+        "cash_on_hand": 34225.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S4AR00103",
+            "cand_name": "COTTON, THOMAS",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6LA04138",
+            "cand_name": "JOHNSON, JAMES MICHAEL",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4LA06211",
+            "cand_name": "FIELDS, CLEO",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR04048",
+            "cand_name": "WESTERMAN, BRUCE",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX01112",
+            "cand_name": "MORAN, NATHANIEL QUENTIN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00736421"
+}

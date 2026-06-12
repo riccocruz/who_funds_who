@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "DEMOCRATS UNITED",
+        "committee_type": "N",
+        "total_receipts": 10000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 29375.0,
+        "cash_on_hand": 3381.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00827253",
+            "pac_name": "DEMOCRATIC POWER, INC.",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00819631"
+}

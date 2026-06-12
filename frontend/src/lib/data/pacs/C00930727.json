@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "Y COMBINATOR MANAGEMENT, LLC POLITICAL COMMITTEE (LITTLE TECH PAC)",
+        "committee_type": "N",
+        "total_receipts": 203921.0,
+        "indiv_contrib": 200000.0,
+        "total_spent": 6147.0,
+        "cash_on_hand": 197774.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00930727"
+}

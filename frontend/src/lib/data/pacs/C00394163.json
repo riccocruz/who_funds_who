@@ -1,0 +1,140 @@
+{
+    "pac": {
+        "name": "PHYSICIAN-LED HEALTHCARE FOR AMERICA POLITICAL ACTION COMMITTEE (PHA PAC)",
+        "committee_type": "Q",
+        "total_receipts": 34740.0,
+        "indiv_contrib": 34740.0,
+        "total_spent": 42584.0,
+        "cash_on_hand": 39344.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "H0IN05326",
+            "cand_name": "SPARTZ, VICTORIA",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0PA03271",
+            "cand_name": "KELLY, GEORGE J JR",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0VA09055",
+            "cand_name": "GRIFFITH, H MORGAN",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL02208",
+            "cand_name": "DUNN, NEAL PATRICK MD, FACS",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA36439",
+            "cand_name": "RUIZ, RAUL DR.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX24209",
+            "cand_name": "VAN DUYNE, ELIZABETH ANN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA03078",
+            "cand_name": "BERA, AMERISH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX03126",
+            "cand_name": "SESSIONS, PETE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00755074",
+            "pac_name": "TEAM MARSHALL II",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00394163"
+}

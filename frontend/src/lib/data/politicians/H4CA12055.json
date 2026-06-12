@@ -1,0 +1,87 @@
+{
+    "politician": {
+        "cand_name": "KHANNA, ROHIT",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 10898703.0,
+        "pac_receipts_summary": 750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00441949",
+            "pac_name": "JSTREETPAC",
+            "total_amt": 4860.0,
+            "direct_amt": 4860.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00656132",
+            "pac_name": "SERVING OUR COUNTRY (SOC) PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00483693",
+            "pac_name": "SIERRA CLUB INDEPENDENT ACTION",
+            "total_amt": 10.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10.0
+        },
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00780437",
+            "pac_name": "COURAGE TO ACT",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002972",
+            "pac_name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00022368",
+            "pac_name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": -1500.0,
+            "direct_amt": -1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00235853",
+            "pac_name": "HUMAN RIGHTS CAMPAIGN PAC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00451153",
+            "pac_name": "GRIDIRON-PAC",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 3298,
+        "oos_donors": 1492,
+        "oos_total": 3944117.0
+    },
+    "opposition": []
+}

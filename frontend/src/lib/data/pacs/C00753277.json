@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "BLACK VOTERS MATTER ACTION PAC",
+        "committee_type": "O",
+        "total_receipts": 292368.0,
+        "indiv_contrib": 282368.0,
+        "total_spent": 640661.0,
+        "cash_on_hand": 146225.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "P80000722",
+            "cand_name": "TARGETSMART COMMUNICATIONS, LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 291128.0,
+            "direct_amt": 0.0,
+            "ie_amt": 291128.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX30178",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 270000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 270000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P80000722",
+            "pac_name": "TARGETSMART COMMUNICATIONS, LLC",
+            "total_amt": 291128.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2TX30178",
+            "pac_name": "TECHNICOLOR POLITICAL",
+            "total_amt": 270000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00753277"
+}

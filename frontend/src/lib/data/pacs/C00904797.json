@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "SOUTH DAKOTA CONSERVATIVE PAC",
+        "committee_type": "O",
+        "total_receipts": 575223.0,
+        "indiv_contrib": 575100.0,
+        "total_spent": 260506.0,
+        "cash_on_hand": 314717.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4SD00049",
+            "cand_name": "ROUNDS, MIKE",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 93600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 93600.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S4SD00049",
+            "pac_name": "BARREL PLACEMENTS",
+            "total_amt": 93600.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00904797"
+}

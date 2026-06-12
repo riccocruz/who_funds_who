@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "ALLEGIANT TRAVEL COMPANY POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 43218.0,
+        "indiv_contrib": 37654.0,
+        "total_spent": 19000.0,
+        "cash_on_hand": 57488.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX22302",
+            "cand_name": "NEHLS, TROY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 9000.0,
+            "direct_amt": 9000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4GA01039",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA02080",
+            "cand_name": "LARSEN, RICK",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8AZ09040",
+            "cand_name": "STANTON, GREG",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00516039"
+}

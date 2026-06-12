@@ -1,0 +1,110 @@
+{
+    "pac": {
+        "name": "NEBRASKA DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 1164755.0,
+        "indiv_contrib": 376922.0,
+        "total_spent": 1324892.0,
+        "cash_on_hand": 111279.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NE02240",
+            "cand_name": "LEUSCHEN, JAMES",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 385.0,
+            "direct_amt": 385.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02224",
+            "cand_name": "ASKINS, KISHLA",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 385.0,
+            "direct_amt": 385.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02190",
+            "cand_name": "CAVANAUGH, JOHN",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 385.0,
+            "direct_amt": 385.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02174",
+            "cand_name": "POWELL, DENISE",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 385.0,
+            "direct_amt": 385.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02257",
+            "cand_name": "RHOADES, CRYSTAL",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 310.0,
+            "direct_amt": 310.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 304555.0,
+            "tx_count": 36
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 58800.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00876466",
+            "pac_name": "VARGAS VICTORY FUND 2024",
+            "total_amt": 39718.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00099234",
+            "pac_name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00003988"
+}

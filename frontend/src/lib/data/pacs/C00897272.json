@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "NORTHEAST SENATE VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 497448.0,
+        "indiv_contrib": 496948.0,
+        "total_spent": 497448.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00391797",
+            "pac_name": "DIRIGO PAC",
+            "total_amt": 8744.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00542027",
+            "pac_name": "BIG SKY OPPORTUNITY PAC",
+            "total_amt": 8744.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00566851",
+            "pac_name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+            "total_amt": 8744.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00567545",
+            "pac_name": "BOOTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 8744.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 8744.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571323",
+            "pac_name": "TOGETHER HOLDING OUR MAJORITY PAC",
+            "total_amt": 8744.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00296640",
+            "pac_name": "REPUBLICAN MAJORITY FUND",
+            "total_amt": 4372.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00520973",
+            "pac_name": "ICE MILLER PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00897272"
+}

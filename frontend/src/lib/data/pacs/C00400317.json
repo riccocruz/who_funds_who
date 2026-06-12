@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "FULTON FINANCIAL CORPORATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 65171.0,
+        "indiv_contrib": 65171.0,
+        "total_spent": 57300.0,
+        "cash_on_hand": 27790.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00127910",
+            "pac_name": "DELAWARE BANKERS ASSOCIATION DELBANKPAC - F FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00658484",
+            "pac_name": "SMUCKER VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00400317"
+}

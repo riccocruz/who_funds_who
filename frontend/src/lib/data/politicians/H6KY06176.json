@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GORDON, DEANNA",
+        "party": "REP",
+        "state": "KY",
+        "indiv_total": 96674.0,
+        "pac_receipts_summary": 7500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00024968",
+            "pac_name": "AMERICAN OPTOMETRIC ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 119,
+        "oos_donors": 29,
+        "oos_total": 16716.0
+    },
+    "opposition": []
+}

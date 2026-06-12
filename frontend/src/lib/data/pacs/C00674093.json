@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "BRADY PAC",
+        "committee_type": "W",
+        "total_receipts": 261412.0,
+        "indiv_contrib": 209267.0,
+        "total_spent": 302668.0,
+        "cash_on_hand": 28043.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MI10107",
+            "cand_name": "BUSCH, EMILY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": -250.0,
+            "direct_amt": -250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00670216",
+            "pac_name": "YOUTH PROGRESSIVE ACTION CATALYST",
+            "total_amt": 8000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00921189",
+            "pac_name": "KELLY-BRADY FUND FOR A SAFER ILLINOIS",
+            "total_amt": 741.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00674093"
+}

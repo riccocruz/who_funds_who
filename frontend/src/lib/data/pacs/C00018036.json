@@ -1,0 +1,250 @@
+{
+    "pac": {
+        "name": "U.S. BANCORP POLITICAL PARTICIPATION PROGRAM",
+        "committee_type": "Q",
+        "total_receipts": 337455.0,
+        "indiv_contrib": 329955.0,
+        "total_spent": 364249.0,
+        "cash_on_hand": 72890.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8MO09153",
+            "cand_name": "LUETKEMEYER, W BLAINE",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00426809",
+            "pac_name": "MADISON PAC; THE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00572271",
+            "pac_name": "BUILDING AMERICA'S REPUBLICAN REPRESENTATION PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00436022",
+            "pac_name": "MODERATE DEMOCRATS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00488882",
+            "pac_name": "U.S. BANCORP FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00550970",
+            "pac_name": "EQUALITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571323",
+            "pac_name": "TOGETHER HOLDING OUR MAJORITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571976",
+            "pac_name": "THE PETER NORBECK LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00573709",
+            "pac_name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00617803",
+            "pac_name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00623512",
+            "pac_name": "IN THE ARENA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633156",
+            "pac_name": "I GOT YOUR BACK PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00639229",
+            "pac_name": "AMERICAN REVIVAL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692111",
+            "pac_name": "VELVET HAMMER PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00719971",
+            "pac_name": "SENATE EAGLE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00892752",
+            "pac_name": "JUNTOS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00147512",
+            "pac_name": "CONGRESSIONAL BLACK CAUCUS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00305318",
+            "pac_name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00365536",
+            "pac_name": "CHC BOLD PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00399196",
+            "pac_name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00517235",
+            "pac_name": "TURQUOISE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00543207",
+            "pac_name": "BADLANDS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00697326",
+            "pac_name": "ON WISCONSIN PAC, INC.",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832501",
+            "pac_name": "AMERICAN EXCELLENCE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00380352",
+            "pac_name": "MINNESOTA DFL SENATE CAUCUS",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00503151",
+            "pac_name": "UPPER HAND FUND",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00506410",
+            "pac_name": "SENATE VICTORY PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00487678",
+            "pac_name": "HOUSE REPUBLICAN CAMPAIGN COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00634774",
+            "pac_name": "COMMON SENSE FOR AMERICA PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00683508",
+            "pac_name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00249995",
+            "pac_name": "NORTH CAROLINA BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00361139",
+            "pac_name": "MINNESOTA HOUSE DFL CAUCUS",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00018036"
+}

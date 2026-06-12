@@ -1,0 +1,76 @@
+{
+    "pac": {
+        "name": "THE SYENSQO GROUP PAC OF SYENSQO USA LLC",
+        "committee_type": "Q",
+        "total_receipts": 25000.0,
+        "indiv_contrib": 25000.0,
+        "total_spent": 5361.0,
+        "cash_on_hand": 41340.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8SC04250",
+            "cand_name": "TIMMONS, WILLIAM R IV",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MN01223",
+            "cand_name": "FINSTAD, BRAD",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2GA12121",
+            "cand_name": "ALLEN, RICHARD W",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00690891",
+            "pac_name": "GRAHAM MAJORITY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00753913",
+            "pac_name": "PFLUGER VICTORY COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00577189",
+            "pac_name": "DUCKWORTH VICTORY FUND",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00520254"
+}

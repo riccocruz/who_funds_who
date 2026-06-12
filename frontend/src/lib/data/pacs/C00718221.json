@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "ASHLEY HINSON VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 2291332.0,
+        "indiv_contrib": 2283832.0,
+        "total_spent": 2163008.0,
+        "cash_on_hand": 162594.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00762328",
+            "pac_name": "FIGHT ON PAC",
+            "total_amt": 122588.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 5835.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00718221"
+}

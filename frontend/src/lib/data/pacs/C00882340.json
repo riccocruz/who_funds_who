@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WEBER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 201585.0,
+        "indiv_contrib": 199085.0,
+        "total_spent": 235787.0,
+        "cash_on_hand": 25279.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00553883",
+            "pac_name": "BUILDING AMERICAN CONSERVATISM PAC",
+            "total_amt": 16627.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00660175",
+            "pac_name": "MYRIAD GENETICS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00882340"
+}

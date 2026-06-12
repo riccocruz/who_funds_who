@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "MAKE THE ROAD ACTION POLITICAL COMMITTEE",
+        "committee_type": "O",
+        "total_receipts": 338680.0,
+        "indiv_contrib": 80917.0,
+        "total_spent": 448624.0,
+        "cash_on_hand": 60594.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11286",
+            "cand_name": "MEJIA, ANALILIA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 27549.0,
+            "direct_amt": 0.0,
+            "ie_amt": 27549.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NJ11286",
+            "pac_name": "MAKE THE ROAD ACTION INC.",
+            "total_amt": 27549.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 1050.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00689745"
+}

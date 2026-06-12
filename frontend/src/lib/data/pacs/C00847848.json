@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "BRIGHTSPEED PAC OF CONNECT HOLDING II LLC (BRIGHTSPEED PAC)",
+        "committee_type": "N",
+        "total_receipts": 60135.0,
+        "indiv_contrib": 59759.0,
+        "total_spent": 109165.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NC00505",
+            "cand_name": "BUDD, THEODORE P",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC08185",
+            "cand_name": "HUDSON, RICHARD L. JR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2MO00544",
+            "cand_name": "SCHMITT, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000984",
+            "pac_name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00847848"
+}

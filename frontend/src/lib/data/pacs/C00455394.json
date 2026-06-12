@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "WRITERS GUILD OF AMERICA WEST, INC. PAC (WGAW PAC)",
+        "committee_type": "Q",
+        "total_receipts": 96359.0,
+        "indiv_contrib": 96359.0,
+        "total_spent": 41192.0,
+        "cash_on_hand": 188077.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6GA04129",
+            "cand_name": "JOHNSON, HENRY C. 'HANK'",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4CA00555",
+            "cand_name": "SCHIFF, ADAM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00455394"
+}

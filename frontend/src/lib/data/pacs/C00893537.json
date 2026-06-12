@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FIRST PRINCIPLES PAC",
+        "committee_type": "V",
+        "total_receipts": 6692520.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 3821548.0,
+        "cash_on_hand": 2870973.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00906610",
+            "pac_name": "ALABAMA STRONG PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00764209",
+            "pac_name": "LEADERSHIP IN ACTION",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00893537"
+}

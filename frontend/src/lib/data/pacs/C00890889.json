@@ -1,0 +1,130 @@
+{
+    "pac": {
+        "name": "CONGRESS MAJORITY PAC",
+        "committee_type": "V",
+        "total_receipts": 1350308.0,
+        "indiv_contrib": 719270.0,
+        "total_spent": 1327882.0,
+        "cash_on_hand": 127636.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 62705.0,
+            "direct_amt": 0.0,
+            "ie_amt": 62705.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL01197",
+            "cand_name": "VALIMONT, JENNIFER GAY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 42295.0,
+            "direct_amt": 0.0,
+            "ie_amt": 42295.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8OR00207",
+            "cand_name": "MERKLEY, JEFFREY ALAN",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00552",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0GA00559",
+            "cand_name": "WARNOCK, RAPHAEL",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ06099",
+            "cand_name": "MENDOZA, JOANNA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 200.0,
+            "direct_amt": 200.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "TAILWIND PARTNERS",
+            "total_amt": 62705.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H4FL01197",
+            "pac_name": "TAILWIND PARTNERS",
+            "total_amt": 42295.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 5190.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00910091",
+            "pac_name": "OSSOFF SCHIFF VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00706861",
+            "pac_name": "MARK KELLY VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720565",
+            "pac_name": "LUJAN VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00750919",
+            "pac_name": "OSSOFF VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00890889"
+}

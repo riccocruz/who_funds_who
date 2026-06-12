@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "J STREET ACTION FUND",
+        "committee_type": "O",
+        "total_receipts": 3082226.0,
+        "indiv_contrib": 832112.0,
+        "total_spent": 2249991.0,
+        "cash_on_hand": 864359.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TX28077",
+            "cand_name": "CISNEROS, JESSICA",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 39386.0,
+            "direct_amt": 0.0,
+            "ie_amt": 39386.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NJ00466",
+            "cand_name": "KIM, ANDY",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 1000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H0TX28077",
+            "pac_name": "J STREET",
+            "total_amt": 39386.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00815753"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "FLEMING, JOHN C. JR.",
+        "party": "REP",
+        "state": "LA",
+        "indiv_total": 616854.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00607374",
+            "pac_name": "ELBERT GUILLORY'S AMERICA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 315,
+        "oos_donors": 41,
+        "oos_total": 64510.0
+    },
+    "opposition": []
+}

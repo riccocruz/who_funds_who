@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "CENTER AISLE PAC",
+        "committee_type": "Q",
+        "total_receipts": 17655.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 511186.0,
+        "cash_on_hand": 279319.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8UT04053",
+            "cand_name": "MCADAMS, BEN",
+            "party": "DEM",
+            "state": "UT",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02240",
+            "cand_name": "LEUSCHEN, JAMES",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00410068",
+            "pac_name": "FRATERNITY & SORORITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00620443"
+}

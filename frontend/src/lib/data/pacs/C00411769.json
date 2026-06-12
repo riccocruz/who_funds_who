@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "QC HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 25000.0,
+        "indiv_contrib": 25000.0,
+        "total_spent": 21344.0,
+        "cash_on_hand": 8958.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL22171",
+            "cand_name": "MOSKOWITZ, JARED",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6OH04082",
+            "cand_name": "JORDAN, JAMES D.",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA24113",
+            "cand_name": "SHERMAN, BRAD",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL20023",
+            "cand_name": "WASSERMAN SCHULTZ, DEBBIE",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773903",
+            "pac_name": "TEAM HILL",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00411769"
+}

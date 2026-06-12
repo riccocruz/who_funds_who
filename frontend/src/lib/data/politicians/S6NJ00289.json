@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "MENENDEZ, ROBERT",
+        "party": "IND",
+        "state": "NJ",
+        "indiv_total": 0.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00368993",
+            "pac_name": "WINNING STRATEGIES WASHINGTON PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00579359",
+            "pac_name": "TELADOC HEALTH, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00063164",
+            "pac_name": "MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

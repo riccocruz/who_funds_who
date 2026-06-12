@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM PERRY VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 216674.0,
+        "indiv_contrib": 216674.0,
+        "total_spent": 208174.0,
+        "cash_on_hand": 8500.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00044842",
+            "pac_name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
+            "total_amt": 66385.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00528075",
+            "pac_name": "FIRST CAPITAL PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00825877"
+}

@@ -1,0 +1,76 @@
+{
+    "pac": {
+        "name": "FEDERAL OHIO CHAMBER OF COMMERCE POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 18335.0,
+        "indiv_contrib": 13828.0,
+        "total_spent": 9600.0,
+        "cash_on_hand": 24005.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4OH00192",
+            "cand_name": "MORENO, BERNIE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OH06165",
+            "cand_name": "RULLI, MICHAEL",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OH02248",
+            "cand_name": "TAYLOR, DAVID",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00104299",
+            "pac_name": "JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00437244",
+            "pac_name": "INVENERGY LLC PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00873281",
+            "pac_name": "ATOMIC CREDIT UNION POLITICAL ACTION COMMITTEE (ACU PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00822916"
+}

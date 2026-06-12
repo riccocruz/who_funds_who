@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "FEDERAL AGRICULTURAL MORTGAGE CORPORATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 83451.0,
+        "indiv_contrib": 83451.0,
+        "total_spent": -2500.0,
+        "cash_on_hand": 261950.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA02142",
+            "cand_name": "LAMALFA, DOUG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00253468"
+}

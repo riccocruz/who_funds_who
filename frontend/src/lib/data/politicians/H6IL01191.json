@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MAXWELL, CHRISTIAN",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 32135.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00920637",
+            "pac_name": "MONEY GAME POLITICAL ACTION COMMITTEE",
+            "total_amt": 10.0,
+            "direct_amt": 10.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 25,
+        "oos_donors": 10,
+        "oos_total": 4691.0
+    },
+    "opposition": []
+}

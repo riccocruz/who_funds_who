@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "LASHER, MICAH CHARLES",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 2063492.0,
+        "pac_receipts_summary": 8500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00936591",
+            "pac_name": "STAND FOR NEW YORK PAC",
+            "total_amt": 2815523.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2815523.0
+        },
+        {
+            "cmte_id": "C00363317",
+            "pac_name": "MANHATTAN POLITICAL ACTION COMMITTEE (MANHATTAN PAC)",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00290825",
+            "pac_name": "LASHER FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00913871",
+            "pac_name": "LASHER FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00217877",
+            "pac_name": "SOUTHERN GLAZER'S WINE AND SPIRITS PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00877183",
+            "pac_name": "THE JUNO FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1130,
+        "oos_donors": 130,
+        "oos_total": 224909.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WIN FOR AMERICA",
+        "committee_type": "O",
+        "total_receipts": 43000000.0,
+        "indiv_contrib": 43000000.0,
+        "total_spent": 35473956.0,
+        "cash_on_hand": 7526044.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00927186",
+            "pac_name": "AMERICAN CONSERVATIVE FUND",
+            "total_amt": 26600000.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00926204",
+            "pac_name": "AMERICAN FUTURE",
+            "total_amt": 7700000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00925586"
+}

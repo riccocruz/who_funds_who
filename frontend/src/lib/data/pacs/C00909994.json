@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "FIELD TEAM 6, INC.",
+        "committee_type": "O",
+        "total_receipts": 1032620.0,
+        "indiv_contrib": 177604.0,
+        "total_spent": 570329.0,
+        "cash_on_hand": 462291.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 8727.0,
+            "direct_amt": 0.0,
+            "ie_amt": 8727.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 8727.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H8PA15195",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 1954.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2MI07123",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 1880.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0WI03175",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 1390.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6ME00159",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 1270.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NE02208",
+            "pac_name": "MOMENTOUS OUTREACH INC",
+            "total_amt": 448.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00909994"
+}

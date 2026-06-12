@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "CAIN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 275457.0,
+        "indiv_contrib": 272957.0,
+        "total_spent": 275457.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00918763",
+            "pac_name": "FOREVER TEXAS PAC",
+            "total_amt": 17143.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00510016",
+            "pac_name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00919167"
+}

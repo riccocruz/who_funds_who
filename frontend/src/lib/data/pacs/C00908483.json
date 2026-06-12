@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "NORTH STAR PAC",
+        "committee_type": "V",
+        "total_receipts": 100073.0,
+        "indiv_contrib": 53960.0,
+        "total_spent": 92418.0,
+        "cash_on_hand": 7655.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2PA17103",
+            "cand_name": "DELUZIO, CHRISTOPHER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00908483"
+}

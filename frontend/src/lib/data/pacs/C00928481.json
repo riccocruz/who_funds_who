@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "VANTEO, LLC POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 75772.0,
+        "indiv_contrib": 75772.0,
+        "total_spent": 6114.0,
+        "cash_on_hand": 69658.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8FL27185",
+            "cand_name": "SALAZAR, MARIA ELVIRA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00928481"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KENNEDY, ROBERT F JR",
+        "party": "IND",
+        "state": "00",
+        "indiv_total": 1085506.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00255695",
+            "pac_name": "LIBERTARIAN NATIONAL COMMITTEE, INC.",
+            "total_amt": 3249160.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1619,
+        "oos_donors": 1618,
+        "oos_total": 384668.0
+    },
+    "opposition": []
+}

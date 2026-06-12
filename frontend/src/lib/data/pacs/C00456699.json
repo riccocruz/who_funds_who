@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "BOND DEALERS OF AMERICA POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 14250.0,
+        "indiv_contrib": 4250.0,
+        "total_spent": 4500.0,
+        "cash_on_hand": 15208.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TN07103",
+            "cand_name": "KUSTOFF, DAVID",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00410407",
+            "pac_name": "EDJ HOLDING COMPANY, INC. POLITICAL ACTION COMMITTEE (EDWARD JONES PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00456699"
+}

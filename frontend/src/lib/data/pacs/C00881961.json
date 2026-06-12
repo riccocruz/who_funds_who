@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WEBSTER LEADERSHIP FUND",
+        "committee_type": "N",
+        "total_receipts": 27500.0,
+        "indiv_contrib": 27500.0,
+        "total_spent": 32025.0,
+        "cash_on_hand": 5528.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00525592",
+            "pac_name": "COOL PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881961"
+}

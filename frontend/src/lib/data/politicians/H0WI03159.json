@@ -1,0 +1,94 @@
+{
+    "politician": {
+        "cand_name": "EBBEN, JESSI",
+        "party": "REP",
+        "state": "WI",
+        "indiv_total": 331819.0,
+        "pac_receipts_summary": 23798.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00432260",
+            "pac_name": "CLUB FOR GROWTH PAC",
+            "total_amt": 49302.0,
+            "direct_amt": 27222.0,
+            "ie_amt": 22080.0
+        },
+        {
+            "cmte_id": "C00327189",
+            "pac_name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00758813",
+            "pac_name": "MNM PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00653220",
+            "pac_name": "EBBEN FOR WI",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00788414",
+            "pac_name": "EBBEN FOR WISCONSIN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00816389",
+            "pac_name": "ELECTING REPUBLICANS INDIANA PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00769695",
+            "pac_name": "FREEDOM FORCE PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00635367",
+            "pac_name": "TENACIOUS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765578",
+            "pac_name": "TENNESSEE TOUGH PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00834507",
+            "pac_name": "BUILDING UP DEMOCRACY'S DREAM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00860064",
+            "pac_name": "EBBEN FOR WISCONSIN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 145,
+        "oos_donors": 83,
+        "oos_total": 157895.0
+    },
+    "opposition": []
+}

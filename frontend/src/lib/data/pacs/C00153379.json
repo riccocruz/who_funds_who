@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "NV ENERGY POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 48916.0,
+        "indiv_contrib": 48916.0,
+        "total_spent": 45000.0,
+        "cash_on_hand": 129774.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV04011",
+            "cand_name": "HORSFORD, STEVEN ALEXZANDER",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV02395",
+            "cand_name": "AMODEI, MARK EUGENE",
+            "party": "REP",
+            "state": "NV",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00581892",
+            "pac_name": "PONDEROSA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00629212",
+            "pac_name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00707232",
+            "pac_name": "BLUE NEVADA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00721233",
+            "pac_name": "BEAT THE ODDS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00450577",
+            "pac_name": "DEMOCRATS TIME IN NEVADA",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00153379"
+}

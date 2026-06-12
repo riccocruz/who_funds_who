@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "AMERICA'S RENEWAL PAC, INC.",
+        "committee_type": "O",
+        "total_receipts": 560548.0,
+        "indiv_contrib": 560548.0,
+        "total_spent": 528759.0,
+        "cash_on_hand": 31789.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL25035",
+            "cand_name": "CARBONARA, MICHAEL",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 6668.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6668.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4FL20023",
+            "pac_name": "MODERN MAILBOX",
+            "total_amt": 66500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6FL25035",
+            "pac_name": "SHOP SAVVY BROWARD INC.",
+            "total_amt": 6668.0,
+            "tx_count": 9
+        }
+    ],
+    "cmte_id": "C00902106"
+}

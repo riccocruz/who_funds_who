@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SWOBODA, GINA",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 213455.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00681643",
+            "pac_name": "DELIVER. EXCEL. BELIEVE. PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00497594",
+            "pac_name": "DEFENDING AMERICA'S VALUES EVERYWHERE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 81,
+        "oos_donors": 13,
+        "oos_total": 65450.0
+    },
+    "opposition": []
+}

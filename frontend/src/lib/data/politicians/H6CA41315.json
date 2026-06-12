@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "ALEMAN, KATHERINE",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 191468.0,
+        "pac_receipts_summary": 12000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00757419",
+            "pac_name": "SD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00740126",
+            "pac_name": "UNITEDEMOCRATS PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 406.0,
+            "direct_amt": 406.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 220,
+        "oos_donors": 53,
+        "oos_total": 28435.0
+    },
+    "opposition": []
+}

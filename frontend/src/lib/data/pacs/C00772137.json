@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "FRANKLIN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 136830.0,
+        "indiv_contrib": 131230.0,
+        "total_spent": 130271.0,
+        "cash_on_hand": 6559.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 96160.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00770701",
+            "pac_name": "CEILING AND VISIBILITY UNLIMITED (CAVU PAC)",
+            "total_amt": 14109.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00100321",
+            "pac_name": "L3HARRIS TECHNOLOGIES, INC. PAC",
+            "total_amt": 5600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00772137"
+}

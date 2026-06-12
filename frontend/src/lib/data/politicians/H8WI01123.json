@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BRYCE, RANDY",
+        "party": "DEM",
+        "state": "WI",
+        "indiv_total": 45619.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00487827",
+            "pac_name": "BLUE AMERICA PAC INDEPENDENT EXPENDITURE COMMITTEE",
+            "total_amt": 1039.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1039.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 22,
+        "oos_donors": 15,
+        "oos_total": 12908.0
+    },
+    "opposition": []
+}

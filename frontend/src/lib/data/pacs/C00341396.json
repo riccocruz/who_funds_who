@@ -1,0 +1,72 @@
+{
+    "pac": {
+        "name": "MOVEON.ORG POLITICAL ACTION",
+        "committee_type": "W",
+        "total_receipts": 19663298.0,
+        "indiv_contrib": 19206045.0,
+        "total_spent": 17878636.0,
+        "cash_on_hand": 6549190.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 15960.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 10960.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA18200",
+            "cand_name": "LEE, SUMMER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NC06098",
+            "pac_name": "202 CONSULTING SOLUTIONS LLC",
+            "total_amt": 10960.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 4760.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00341396"
+}

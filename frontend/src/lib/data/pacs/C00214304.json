@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "AHOLD DELHAIZE USA, INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 45190.0,
+        "indiv_contrib": 45190.0,
+        "total_spent": 44225.0,
+        "cash_on_hand": 244797.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NC12100",
+            "cand_name": "ADAMS, ALMA SHEALEY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00214304"
+}

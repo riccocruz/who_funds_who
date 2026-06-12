@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "ALFORD VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 371312.0,
+        "indiv_contrib": 369812.0,
+        "total_spent": 437332.0,
+        "cash_on_hand": 60562.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 114839.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00825398",
+            "pac_name": "MISSOURI TRUTH PAC",
+            "total_amt": 10103.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00806976",
+            "pac_name": "MISSOURIANS FOR TRUTH PAC",
+            "total_amt": 2416.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00833681"
+}

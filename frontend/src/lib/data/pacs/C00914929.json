@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "CHAOS INDUSTRIES INC POLITICAL ACTION COMMITTEE (CHAOS PAC)",
+        "committee_type": "N",
+        "total_receipts": 50000.0,
+        "indiv_contrib": 50000.0,
+        "total_spent": 17500.0,
+        "cash_on_hand": 32500.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00774703",
+            "pac_name": "COTTON MAJORITY COMMITTEE",
+            "total_amt": 7000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00914929"
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "ROATH, PATRICK THOMAS",
+        "party": "DEM",
+        "state": "MA",
+        "indiv_total": 858904.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00843110",
+            "pac_name": "LEADERS WE DESERVE",
+            "total_amt": 5075.0,
+            "direct_amt": 5075.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00831289",
+            "pac_name": "FRIENDS OF PATRICK ROATH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 645,
+        "oos_donors": 198,
+        "oos_total": 222615.0
+    },
+    "opposition": []
+}

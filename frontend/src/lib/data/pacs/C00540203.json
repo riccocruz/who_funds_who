@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DEFENDING MAIN STREET SUPERPAC INC.",
+        "committee_type": "O",
+        "total_receipts": 1727263.0,
+        "indiv_contrib": 1250000.0,
+        "total_spent": 1412806.0,
+        "cash_on_hand": 572596.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX34080",
+            "cand_name": "FLORES, ERIC",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 135000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 135000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX34080",
+            "pac_name": "STRATEGIC MEDIA PLACEMENT INC.",
+            "total_amt": 135000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00540203"
+}

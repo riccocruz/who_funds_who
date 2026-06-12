@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "EIGHTH CONGRESSIONAL DISTRICT REPUBLICAN PARTY OF MINNESOTA",
+        "committee_type": "Y",
+        "total_receipts": 43890.0,
+        "indiv_contrib": 39390.0,
+        "total_spent": 26642.0,
+        "cash_on_hand": 19201.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00487678",
+            "pac_name": "HOUSE REPUBLICAN CAMPAIGN COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00020453",
+            "pac_name": "CASS COUNTY REPUBLICAN CENTRAL COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00360248",
+            "pac_name": "ITASCA COUNTY REPUBLICAN COMMITTEE",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00361485"
+}

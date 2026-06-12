@@ -1,0 +1,106 @@
+{
+    "pac": {
+        "name": "ATN INTERNATIONAL, INC. POLITICAL ACTION COMMITTEE (ATN PAC)",
+        "committee_type": "Q",
+        "total_receipts": 26570.0,
+        "indiv_contrib": 26570.0,
+        "total_spent": 17893.0,
+        "cash_on_hand": 24363.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S0NM00058",
+            "cand_name": "LUJAN, BEN RAY",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV02395",
+            "cand_name": "AMODEI, MARK EUGENE",
+            "party": "REP",
+            "state": "NV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NM00088",
+            "cand_name": "HEINRICH, MARTIN",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NE00094",
+            "cand_name": "FISCHER, DEBRA S.",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MA03106",
+            "cand_name": "TRAHAN, LORI",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA05195",
+            "cand_name": "MATSUI, DORIS",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00161810",
+            "pac_name": "DEMOCRATIC PARTY OF NEW MEXICO - FEDERAL",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00490698",
+            "pac_name": "COMPETITIVE CARRIERS ASSOCIATION PAC (CCA PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00161786",
+            "pac_name": "FEDERAL: COLORADO DEMOCRATIC PARTY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00494526"
+}

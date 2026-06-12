@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "BUTZEL LONG FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 16303.0,
+        "indiv_contrib": 16303.0,
+        "total_spent": 1000.0,
+        "cash_on_hand": 43729.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MI07103",
+            "cand_name": "WALBERG, TIMOTHY L REP",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00375915"
+}

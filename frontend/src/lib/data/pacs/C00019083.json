@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "CALIFORNIA CANNING PEACH ASSOCIATION POLITICAL ACTION COMMITTEE (AKA PEACH -PAC)",
+        "committee_type": "Q",
+        "total_receipts": 16048.0,
+        "indiv_contrib": 16043.0,
+        "total_spent": 22540.0,
+        "cash_on_hand": 38526.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "VALADAO FOR CONGRESS, DAVID",
+            "party": null,
+            "state": null,
+            "total_amt": 8200.0,
+            "direct_amt": 8200.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA20094",
+            "cand_name": "VALADAO, DAVID",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00002238",
+            "pac_name": "NATIONAL COUNCIL OF FARMER COOPERATIVES CO-OP/PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00019083"
+}

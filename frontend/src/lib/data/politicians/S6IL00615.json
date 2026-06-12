@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "TRACY, DON",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 289688.0,
+        "pac_receipts_summary": 2075.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00383521",
+            "pac_name": "INTERNATIONAL FOODSERVICE DISTRIBUTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00362178",
+            "pac_name": "FAMILY-PAC FEDERAL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 198,
+        "oos_donors": 23,
+        "oos_total": 65409.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "MUNSING, EVAN",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 587868.0,
+        "pac_receipts_summary": 13000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00571174",
+            "pac_name": "SERVE AMERICA PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00770362",
+            "pac_name": "THE CRAZY EIGHT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 447,
+        "oos_donors": 370,
+        "oos_total": 375627.0
+    },
+    "opposition": []
+}

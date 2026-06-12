@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "STEVENSON, PAMELA",
+        "party": "DEM",
+        "state": "KY",
+        "indiv_total": 303715.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00566067",
+            "pac_name": "HIGHER HEIGHTS FOR AMERICA PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00617381",
+            "pac_name": "THE COLLECTIVE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 192,
+        "oos_donors": 109,
+        "oos_total": 53101.0
+    },
+    "opposition": []
+}

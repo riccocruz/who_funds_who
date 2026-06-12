@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION OF PROFESSIONAL INSURANCE AGENTS POLITICAL ACTION COMMITTEE (PIAPAC)",
+        "committee_type": "Q",
+        "total_receipts": 29434.0,
+        "indiv_contrib": 29404.0,
+        "total_spent": 17678.0,
+        "cash_on_hand": 238859.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H0WI05113",
+            "cand_name": "FITZGERALD, SCOTT",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KY02031",
+            "cand_name": "GUTHRIE, S. BRETT BRETT HON.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MT02098",
+            "cand_name": "DOWNING, TROY",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NE01118",
+            "cand_name": "FLOOD, MIKE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA08099",
+            "cand_name": "SCOTT, JAMES AUSTIN",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832188",
+            "pac_name": "LANGWORTHY CONGRESSIONAL VICTORY COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00004994"
+}

@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "CHAMPION AMERICAN VALUES",
+        "committee_type": "W",
+        "total_receipts": 3142450.0,
+        "indiv_contrib": 3093245.0,
+        "total_spent": 3734986.0,
+        "cash_on_hand": 690903.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NH00166",
+            "cand_name": "BROWN, SCOTT P.",
+            "party": "REP",
+            "state": "NH",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4KS02164",
+            "cand_name": "SCHMIDT, DEREK",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00619486",
+            "pac_name": "TEAM LAHOOD",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00770214"
+}

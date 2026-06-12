@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "UPNORTH PAC",
+        "committee_type": "N",
+        "total_receipts": 20099.0,
+        "indiv_contrib": 12950.0,
+        "total_spent": 19962.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA39078",
+            "cand_name": "SANCHEZ, LINDA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": -3700.0,
+            "direct_amt": -3700.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00505552"
+}

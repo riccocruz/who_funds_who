@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "TEAM ESTES",
+        "committee_type": "N",
+        "total_receipts": 580408.0,
+        "indiv_contrib": 575908.0,
+        "total_spent": 579093.0,
+        "cash_on_hand": 7160.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00649525",
+            "pac_name": "RESTORING OUR NATION PAC",
+            "total_amt": 96759.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 48908.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00264770",
+            "pac_name": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00004101",
+            "pac_name": "NATIONAL UTILITY CONTRACTORS ASSOCIATION LEGISLATIVE INFORMATION AND ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00659060",
+            "pac_name": "PCG (PERFORMANCE CONTACTING GROUP) EMPLOYEE OWNERS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00004606",
+            "pac_name": "KANSAS REPUBLICAN PARTY",
+            "total_amt": 945.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00632711"
+}

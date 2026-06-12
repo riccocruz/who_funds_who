@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "RYDER SYSTEM INC. EMPLOYEES POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 64000.0,
+        "indiv_contrib": 64000.0,
+        "total_spent": 45150.0,
+        "cash_on_hand": 133961.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00002881",
+            "pac_name": "TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00499400",
+            "pac_name": "TRALAPAC (TRUCK RENTING AND LEASING ASSOCIATION PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00088435"
+}

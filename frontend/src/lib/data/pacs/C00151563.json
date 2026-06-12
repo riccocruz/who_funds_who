@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "DOLLAR SAVINGS BANK POLITICAL ACTION COMMITTEE (DOLPAC)",
+        "committee_type": "Q",
+        "total_receipts": 21542.0,
+        "indiv_contrib": 21542.0,
+        "total_spent": 23000.0,
+        "cash_on_hand": 18783.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA18199",
+            "cand_name": "RESCHENTHALER, GUY MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00859058",
+            "pac_name": "EMMER MAJORITY BUILDERS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00151563"
+}

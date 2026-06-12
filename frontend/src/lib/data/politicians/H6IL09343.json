@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "POLAN, SAM",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 95292.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00771113",
+            "pac_name": "COUNTRY FIRST",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 86,
+        "oos_donors": 47,
+        "oos_total": 44930.0
+    },
+    "opposition": []
+}

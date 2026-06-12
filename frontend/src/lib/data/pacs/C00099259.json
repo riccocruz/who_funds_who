@@ -1,0 +1,122 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF FLORIDA",
+        "committee_type": "Y",
+        "total_receipts": 9837903.0,
+        "indiv_contrib": 2700180.0,
+        "total_spent": 9875108.0,
+        "cash_on_hand": 2240128.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 54126.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 11264.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 447918.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 226392.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 95008.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "HIGH GROUND CONSULTING",
+            "total_amt": 54126.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 38168.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00813212",
+            "pac_name": "STATE REPUBLICAN VICTORY FUND",
+            "total_amt": 15162.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "HIGH GROUND CONSULTING",
+            "total_amt": 6264.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00758532",
+            "pac_name": "AMERICAN VICTORY FUND",
+            "total_amt": 6076.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00469023",
+            "pac_name": "MAGGIE'S LIST",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00876821",
+            "pac_name": "NLD PAC",
+            "total_amt": 75.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00099259"
+}

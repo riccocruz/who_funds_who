@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "NORTH DAKOTA PETROLEUM COUNCIL, INC. FEDERAL PAC",
+        "committee_type": "Q",
+        "total_receipts": 33800.0,
+        "indiv_contrib": 33800.0,
+        "total_spent": 5900.0,
+        "cash_on_hand": 89556.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0ND00093",
+            "cand_name": "HOEVEN, JOHN",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 900.0,
+            "direct_amt": 900.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00746529"
+}

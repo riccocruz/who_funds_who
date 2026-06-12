@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "THE STATE CHAMBER OF OKLAHOMA PAC, INC.",
+        "committee_type": "N",
+        "total_receipts": 72371.0,
+        "indiv_contrib": 62871.0,
+        "total_spent": 62341.0,
+        "cash_on_hand": 47500.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00199711",
+            "pac_name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00337808",
+            "pac_name": "OGE ENERGY CORP EMPLOYEES POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00142711",
+            "pac_name": "THE BOEING COMPANY PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00210526",
+            "pac_name": "AMERICAN FIDELITY CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00438754",
+            "pac_name": "ENERGY TRANSFER EMPLOYEE MANAGEMENT COMPANY PAC (ENERGY TRANSFER PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00850883"
+}

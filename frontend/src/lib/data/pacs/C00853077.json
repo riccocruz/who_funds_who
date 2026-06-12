@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ONE COUNTRY ONE DESTINY PAC",
+        "committee_type": "H",
+        "total_receipts": 561363.0,
+        "indiv_contrib": 395532.0,
+        "total_spent": 332626.0,
+        "cash_on_hand": 280751.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00907907",
+            "pac_name": "TEAM COUGHLIN",
+            "total_amt": 46175.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00749481",
+            "pac_name": "RAPTOR PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00853077"
+}

@@ -1,0 +1,95 @@
+{
+    "pac": {
+        "name": "TEAM HUDSON",
+        "committee_type": "N",
+        "total_receipts": 1574474.0,
+        "indiv_contrib": 1530974.0,
+        "total_spent": 1448555.0,
+        "cash_on_hand": 130169.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 343364.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00540146",
+            "pac_name": "FIRST IN FREEDOM PAC",
+            "total_amt": 199229.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00038505",
+            "pac_name": "NORTH CAROLINA REPUBLICAN PARTY",
+            "total_amt": 36875.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00009985",
+            "pac_name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00329185",
+            "pac_name": "QUEST DIAGNOSTICS INCORPORATED POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00480863",
+            "pac_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720920",
+            "pac_name": "EMPLOYEES OF QUANTA SERVICES, INC.",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00232843",
+            "pac_name": "INFIN, A FINANCIAL SERVICES ALLIANCE, INC. PAC ('INFIN PAC')",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00450189",
+            "pac_name": "PLS FINANCIAL SVCS INC GOOD NEIGHBOR  POLITICAL ACTION COMMITTE (PLS GOOD NEIGHBOR PAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00574921",
+            "pac_name": "RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00097568",
+            "pac_name": "EMPLOYEES OF RTX CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00392290",
+            "pac_name": "POPULUS FINANCIAL GROUP, INC. PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00411769",
+            "pac_name": "QC HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00548818"
+}

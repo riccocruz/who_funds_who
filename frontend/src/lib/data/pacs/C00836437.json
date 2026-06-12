@@ -1,0 +1,124 @@
+{
+    "pac": {
+        "name": "VIASAT, INC. POLITICAL ACTION COMMITTEE ('VIASAT PAC')",
+        "committee_type": "N",
+        "total_receipts": 17500.0,
+        "indiv_contrib": 17500.0,
+        "total_spent": 16750.0,
+        "cash_on_hand": 12650.0
+    },
+    "stats": {
+        "candidates_funded": 10
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA52089",
+            "cand_name": "PETERS, SCOTT",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8AZ09040",
+            "cand_name": "STANTON, GREG",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37023",
+            "cand_name": "CALVERT, KEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA07273",
+            "cand_name": "MCCORMICK, RICHARD DEAN DR.",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX31044",
+            "cand_name": "CARTER, JOHN R REP.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX02079",
+            "cand_name": "BABIN, BRIAN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AZ02360",
+            "cand_name": "CISCOMANI, JUAN",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA27111",
+            "cand_name": "WHITESIDES, GEORGE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00350520",
+            "pac_name": "ISSA FOR CONGRESS",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00836437"
+}

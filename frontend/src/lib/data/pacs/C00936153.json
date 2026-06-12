@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "STRONGER TOGETHER PA",
+        "committee_type": "O",
+        "total_receipts": 1370993.0,
+        "indiv_contrib": 411500.0,
+        "total_spent": 1225413.0,
+        "cash_on_hand": 145580.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 180350.0,
+            "direct_amt": 0.0,
+            "ie_amt": 180350.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6PA07188",
+            "pac_name": "TECHNICOLOR CAMPAIGNS, LLC",
+            "total_amt": 180350.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00936153"
+}

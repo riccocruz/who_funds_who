@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "BULLDOG VICTORY PAC",
+        "committee_type": "N",
+        "total_receipts": 20500.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 2774.0,
+        "cash_on_hand": 42389.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4IA00129",
+            "cand_name": "ERNST, JONI K",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": -500.0,
+            "direct_amt": -500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00729939"
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SMITH, MATTHEW",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 50368.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00244863",
+            "pac_name": "NATIONAL ROOFING CONTRACTORS ASSOCIATION ROOF PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765578",
+            "pac_name": "TENNESSEE TOUGH PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 28,
+        "oos_donors": 2,
+        "oos_total": 1296.0
+    },
+    "opposition": []
+}

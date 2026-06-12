@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "KERR, JOSEPH",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 209018.0,
+        "pac_receipts_summary": 13500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00461418",
+            "pac_name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 149,
+        "oos_donors": 21,
+        "oos_total": 16766.0
+    },
+    "opposition": []
+}

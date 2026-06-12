@@ -1,0 +1,89 @@
+{
+    "pac": {
+        "name": "STEIL VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 1618177.0,
+        "indiv_contrib": 1534677.0,
+        "total_spent": 1529931.0,
+        "cash_on_hand": 135449.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 151861.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00697326",
+            "pac_name": "ON WISCONSIN PAC, INC.",
+            "total_amt": 128726.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00074450",
+            "pac_name": "REPUBLICAN PARTY OF WISCONSIN",
+            "total_amt": 91990.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00409516",
+            "pac_name": "DIRECT SUPPLY, INC. PARTNERS PAC (DSI PARTNERS PAC)",
+            "total_amt": 40000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00845651",
+            "pac_name": "PAYWARD INTERACTIVE, INC. PAC (PAYWARD PAC)",
+            "total_amt": 3500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00894055",
+            "pac_name": "CIRCLE INTERNET GROUP, INC. PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00903955",
+            "pac_name": "EPIC SYSTEMS CORPORATION PAC (EPIC PAC)",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00824896",
+            "pac_name": "BLOCKCHAIN ASSOCIATION POLITICAL ACTION COMMITTEE (BA PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00324673",
+            "pac_name": "MILWAUKEE POLICE ASSOCIATION PAC",
+            "total_amt": 2000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00299750",
+            "pac_name": "TDS TELECOMMUNICATIONS CORPORATION PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00153577",
+            "pac_name": "ERIE INDEMNITY COMPANY PAC - FEDERAL",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00311142",
+            "pac_name": "TROUTMAN PEPPER LOCKE LLP POLITICAL ACTION COMMITTEE, INC.",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00686980"
+}

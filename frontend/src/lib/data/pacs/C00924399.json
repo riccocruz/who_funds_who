@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "VETS RISING",
+        "committee_type": "N",
+        "total_receipts": 82347.0,
+        "indiv_contrib": 79847.0,
+        "total_spent": 44993.0,
+        "cash_on_hand": 37354.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NY17171",
+            "cand_name": "CONLEY, CAIT",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00027359",
+            "pac_name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00924399"
+}

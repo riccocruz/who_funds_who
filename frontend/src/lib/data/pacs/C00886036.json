@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "ALPHA KAPPA ALPHA SORORITY PAC, INC. (AKA AKA 1908 PAC)",
+        "committee_type": "Q",
+        "total_receipts": 56708.0,
+        "indiv_contrib": 56708.0,
+        "total_spent": 28591.0,
+        "cash_on_hand": 271633.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX18364",
+            "cand_name": "JONES, JOLANDA",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL02355",
+            "cand_name": "MILLER, DONNA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX22197",
+            "cand_name": "GREENE-SCOTT, MARQUETTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX18138",
+            "cand_name": "EDWARDS, AMANDA",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00886036"
+}

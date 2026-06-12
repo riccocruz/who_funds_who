@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SAN JOAQUIN COUNTY REPUBLICAN CENTRAL COMMITTEE",
+        "committee_type": "X",
+        "total_receipts": 32597.0,
+        "indiv_contrib": 30604.0,
+        "total_spent": 27539.0,
+        "cash_on_hand": 6301.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00875823",
+            "pac_name": "THE ONE AMERICA PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00041236",
+            "pac_name": "STANISLAUS REPUBLICAN CENTRAL COMMITTEE (FED)",
+            "total_amt": 416.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00388504"
+}

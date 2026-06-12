@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "MCKEE, JOSHUA LOGAN",
+        "party": "REP",
+        "state": "AL",
+        "indiv_total": 245998.0,
+        "pac_receipts_summary": 10500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00634261",
+            "pac_name": "DEFEND US PAC",
+            "total_amt": 275000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 275000.0
+        },
+        {
+            "cmte_id": "C00914366",
+            "pac_name": "NO FAIL MISSION PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00708172",
+            "pac_name": "PA-FIRST PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892786",
+            "pac_name": "MAKE ACCOUNTABILITY GREAT AGAIN PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 45,
+        "oos_donors": 39,
+        "oos_total": 209189.0
+    },
+    "opposition": []
+}

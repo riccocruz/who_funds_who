@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "DORSEY NATIONAL FUND",
+        "committee_type": "Q",
+        "total_receipts": 20000.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 21600.0,
+        "cash_on_hand": 5890.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S8ID00027",
+            "cand_name": "CRAPO, MICHAEL D",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4UT00282",
+            "cand_name": "CURTIS, JOHN",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00757930",
+            "pac_name": "TEAM MOORE JOINT FUNDRAISING COMMITTEE",
+            "total_amt": 700.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00018945"
+}

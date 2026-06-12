@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "THE JOCKEY CLUB PAC",
+        "committee_type": "Q",
+        "total_receipts": 30950.0,
+        "indiv_contrib": 30950.0,
+        "total_spent": 29000.0,
+        "cash_on_hand": 41430.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00369",
+            "cand_name": "ROMANS, DALE",
+            "party": "DEM",
+            "state": "KY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY10092",
+            "cand_name": "JEFFRIES, HAKEEM",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KY06104",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL09067",
+            "cand_name": "SCHAKOWSKY, JANICE D",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY06192",
+            "cand_name": "ALVARADO, RALPH A",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00673715",
+            "pac_name": "THUNE VICTORY COMMITTEE",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633792",
+            "pac_name": "FRIENDS OF ANDY BARR COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00592485"
+}

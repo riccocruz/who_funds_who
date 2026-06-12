@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "HOUSTON WOMEN WIN",
+        "committee_type": "N",
+        "total_receipts": 136509.0,
+        "indiv_contrib": 2283.0,
+        "total_spent": 136509.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MI10276",
+            "cand_name": "HINES, CHRISTINA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 115046.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00929307"
+}

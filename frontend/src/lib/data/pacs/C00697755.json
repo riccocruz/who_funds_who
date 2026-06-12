@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "VIRGINIA PLUS PAC",
+        "committee_type": "O",
+        "total_receipts": 1113250.0,
+        "indiv_contrib": 452750.0,
+        "total_spent": 1037272.0,
+        "cash_on_hand": 131051.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00547349",
+            "pac_name": "NEXTGEN CLIMATE ACTION COMMITTEE",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00589507",
+            "pac_name": "AAPI VICTORY FUND, INC.",
+            "total_amt": 30000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00697755"
+}

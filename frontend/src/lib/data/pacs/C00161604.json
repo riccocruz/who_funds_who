@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "COOPERATIVE OF AMERICAN PHYSICIANS FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 11259.0,
+        "indiv_contrib": 11259.0,
+        "total_spent": 13655.0,
+        "cash_on_hand": 17912.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "DR. RICHARD PAN FOR CONGRESS 2026",
+            "party": null,
+            "state": null,
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00492116",
+            "pac_name": "COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE",
+            "total_amt": 11155.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00161604"
+}

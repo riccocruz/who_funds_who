@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "DOTSON, RYAN",
+        "party": "REP",
+        "state": "KY",
+        "indiv_total": 279277.0,
+        "pac_receipts_summary": 12400.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00113241",
+            "pac_name": "NATIONAL APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00099234",
+            "pac_name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 105,
+        "oos_donors": 12,
+        "oos_total": 7370.0
+    },
+    "opposition": []
+}

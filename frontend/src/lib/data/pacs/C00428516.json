@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "SAN DIEGO DEMOCRATIC CLUB - FEDERAL",
+        "committee_type": "X",
+        "total_receipts": 20951.0,
+        "indiv_contrib": 13451.0,
+        "total_spent": 27962.0,
+        "cash_on_hand": 2197.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00402826",
+            "pac_name": "SAN DIEGO COUNTY DEMOCRATIC PARTY (FED. ACCT.)",
+            "total_amt": 1550.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00695395",
+            "pac_name": "ELECT MORE DEMOCRATS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00768887",
+            "pac_name": "PAC FOR GOOD",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00428516"
+}

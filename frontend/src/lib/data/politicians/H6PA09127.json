@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "WALLACE, RACHEL",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 475978.0,
+        "pac_receipts_summary": 19000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00003160",
+            "pac_name": "NORTH AMERICA'S BUILDING TRADES UNIONS POLITICAL EDUCATIONAL FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00830182",
+            "pac_name": "YINZER PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 440,
+        "oos_donors": 305,
+        "oos_total": 223820.0
+    },
+    "opposition": []
+}

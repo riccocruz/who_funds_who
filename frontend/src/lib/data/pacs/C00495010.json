@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "CONSERVATIVE CAMPAIGN COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 28721.0,
+        "indiv_contrib": 28720.0,
+        "total_spent": 27831.0,
+        "cash_on_hand": 1772.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6VA11215",
+            "cand_name": "WHITSON, STEWART",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 200.0,
+            "direct_amt": 200.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 150.0,
+            "direct_amt": 150.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00495010"
+}

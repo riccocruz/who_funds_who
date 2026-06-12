@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "VICENTE GONZALEZ VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 32970.0,
+        "indiv_contrib": 20595.0,
+        "total_spent": 1505.0,
+        "cash_on_hand": 65080.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00574970",
+            "pac_name": "FAIR SHOT PAC",
+            "total_amt": 9875.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00305318",
+            "pac_name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00825257"
+}

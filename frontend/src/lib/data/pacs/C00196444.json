@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "TEXAS BANKERS ASSOCIATION-BANKERS POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 162019.0,
+        "indiv_contrib": 152945.0,
+        "total_spent": 160841.0,
+        "cash_on_hand": 601810.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX21301",
+            "cand_name": "TEIXEIRA, MARK CHARLES",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX19206",
+            "cand_name": "SELL, TOM",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX10221",
+            "cand_name": "GOBER, CHRIS",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 150000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00196444"
+}

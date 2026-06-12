@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "SQUARE ONE POLITICS",
+        "committee_type": "W",
+        "total_receipts": 121991.0,
+        "indiv_contrib": 120208.0,
+        "total_spent": 130145.0,
+        "cash_on_hand": 12071.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MI10276",
+            "cand_name": "HINES, CHRISTINA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1996.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IA03276",
+            "cand_name": "KONFRST, JENNIFER",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 1088.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ07201",
+            "cand_name": "BENNETT, REBECCA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00641555"
+}

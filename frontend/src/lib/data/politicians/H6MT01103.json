@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CLEVELAND, RUSSELL TYLER",
+        "party": "DEM",
+        "state": "MT",
+        "indiv_total": 325207.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00931006",
+            "pac_name": "BALANCE AND ACCOUNTABILITY PAC (BAC PAC)",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 233,
+        "oos_donors": 65,
+        "oos_total": 45213.0
+    },
+    "opposition": []
+}

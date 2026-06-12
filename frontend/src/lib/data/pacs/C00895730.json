@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "DLP PAC",
+        "committee_type": "W",
+        "total_receipts": 608116.0,
+        "indiv_contrib": 564216.0,
+        "total_spent": 569370.0,
+        "cash_on_hand": 38746.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IL00458",
+            "cand_name": "STRATTON, JULIANA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8HI01234",
+            "cand_name": "CASE FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11310",
+            "cand_name": "WAY, TAHESHA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY06150",
+            "cand_name": "STEVENSON, CHERLYNN",
+            "party": "DEM",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00895730"
+}

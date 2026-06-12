@@ -1,0 +1,72 @@
+{
+    "politician": {
+        "cand_name": "STEEL, MICHELLE",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 93068.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00574921",
+            "pac_name": "RYAN LLC POLITICAL ACTION COMMITTEE (RYANPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00623512",
+            "pac_name": "IN THE ARENA PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00589663",
+            "pac_name": "SYSCO CORPORATION GOOD GOVERNMENT COMMITTEE",
+            "total_amt": -500.0,
+            "direct_amt": -500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00339655",
+            "pac_name": "US ONCOLOGY INC. NETWORK POLITICAL ACTION COMMITTEE",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00774588",
+            "pac_name": "MISSION FIRST PEOPLE ALWAYS PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00647420",
+            "pac_name": "BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00540187",
+            "pac_name": "INNOVATION POLITICAL ACTION COMMITTEE",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 210,
+        "oos_donors": 154,
+        "oos_total": 38017.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00888081",
+            "pac_name": "HEALTH CARE SAVES LIVES",
+            "total_amt": 6199.0
+        }
+    ]
+}

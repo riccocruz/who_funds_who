@@ -1,0 +1,100 @@
+{
+    "pac": {
+        "name": "DEMOCRACY FOR ALL NOW PAC",
+        "committee_type": "W",
+        "total_receipts": 16155.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 153740.0,
+        "cash_on_hand": 280900.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00474",
+            "cand_name": "KELLY, ROBIN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA01109",
+            "cand_name": "THOMPSON, MIKE MR.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6UT02424",
+            "cand_name": "LARSEN, JONATHAN",
+            "party": "DEM",
+            "state": "UT",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI11191",
+            "cand_name": "MOSS, JEREMY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI10284",
+            "cand_name": "GREIMEL, TIM",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA03078",
+            "cand_name": "BERA, AMERISH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00031054",
+            "pac_name": "MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00499947"
+}

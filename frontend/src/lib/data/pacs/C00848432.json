@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "COONS LEADERSHIP FUND",
+        "committee_type": "N",
+        "total_receipts": 127400.0,
+        "indiv_contrib": 119900.0,
+        "total_spent": 125884.0,
+        "cash_on_hand": 3828.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00493700",
+            "pac_name": "BLUE HEN FEDERAL PAC",
+            "total_amt": 17600.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00033779",
+            "pac_name": "THE REAL ESTATE ROUNDTABLE POLITICAL ACTION COMMITTEE (REALPAC)",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00848432"
+}

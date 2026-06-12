@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SESSLER, JERROD",
+        "party": "REP",
+        "state": "WA",
+        "indiv_total": 187032.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00552851",
+            "pac_name": "FREEDOM CAUCUS FUND",
+            "total_amt": 600.0,
+            "direct_amt": 500.0,
+            "ie_amt": 100.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 138,
+        "oos_donors": 113,
+        "oos_total": 38824.0
+    },
+    "opposition": []
+}

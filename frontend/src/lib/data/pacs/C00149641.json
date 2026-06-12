@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "MISSISSIPPI DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 638577.0,
+        "indiv_contrib": 75732.0,
+        "total_spent": 630868.0,
+        "cash_on_hand": 85739.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IL09067",
+            "cand_name": "SCHAKOWSKY, JANICE D",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 400.0,
+            "direct_amt": 400.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN05239",
+            "cand_name": "OMAR, ILHAN",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 366583.0,
+            "tx_count": 41
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 59114.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00693515",
+            "pac_name": "FAIR FIGHT",
+            "total_amt": 11000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 3000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00543504",
+            "pac_name": "GROUNDWORK PROJECT PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00608380",
+            "pac_name": "DLCC PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00363358",
+            "pac_name": "JACKSON COUNTY DEMOCRATIC EXECUTIVE COMMITTEE",
+            "total_amt": 140.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00149641"
+}

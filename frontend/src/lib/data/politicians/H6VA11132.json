@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MARTINEZ NUCETE, LEO",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 177783.0,
+        "pac_receipts_summary": 4150.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00562777",
+            "pac_name": "LATINO VICTORY FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00864983",
+            "pac_name": "JUNTOS",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 158,
+        "oos_donors": 127,
+        "oos_total": 177492.0
+    },
+    "opposition": []
+}

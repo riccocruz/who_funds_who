@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "DIXIT, ANUJ",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 436683.0,
+        "pac_receipts_summary": 21000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00506907",
+            "pac_name": "ASPIRE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00536615",
+            "pac_name": "HINDU AMERICAN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00729574",
+            "pac_name": "AMERICANS4HINDUS PAC (MULTI-CANDIDATE)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876391",
+            "pac_name": "THE IMPACT FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00351031",
+            "pac_name": "ASIAN AMERICAN ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 362,
+        "oos_donors": 142,
+        "oos_total": 168863.0
+    },
+    "opposition": []
+}

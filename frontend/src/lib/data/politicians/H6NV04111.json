@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "WHIPPLE, CODY K",
+        "party": "REP",
+        "state": "NV",
+        "indiv_total": 304853.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00028787",
+            "pac_name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00034272",
+            "pac_name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00264770",
+            "pac_name": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 118,
+        "oos_donors": 25,
+        "oos_total": 49500.0
+    },
+    "opposition": []
+}

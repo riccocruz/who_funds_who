@@ -1,0 +1,154 @@
+{
+    "pac": {
+        "name": "NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC",
+        "committee_type": "Q",
+        "total_receipts": 173833.0,
+        "indiv_contrib": 173833.0,
+        "total_spent": 171364.0,
+        "cash_on_hand": 70008.0
+    },
+    "stats": {
+        "candidates_funded": 13
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NE02190",
+            "cand_name": "CAVANAUGH, JOHN",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 4470.0,
+            "direct_amt": 4470.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT01046",
+            "cand_name": "LARSON, JOHN B",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 3125.0,
+            "direct_amt": 3125.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MA00028",
+            "cand_name": "MARKEY, EDWARD SEN.",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI03169",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC02042",
+            "cand_name": "CLYBURN, JAMES E",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR06066",
+            "cand_name": "SALINAS, ANDREA",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH13264",
+            "cand_name": "SYKES, EMILIA",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MA10082",
+            "cand_name": "KEATING, WILLIAM R",
+            "party": "DEM",
+            "state": "MA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 30000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00172296"
+}

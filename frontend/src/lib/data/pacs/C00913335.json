@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "CORTEZ MASTO SENATE VICTORY",
+        "committee_type": "N",
+        "total_receipts": 50010.0,
+        "indiv_contrib": 50010.0,
+        "total_spent": 45977.0,
+        "cash_on_hand": 4033.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 35000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00629212",
+            "pac_name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+            "total_amt": 4200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00913335"
+}

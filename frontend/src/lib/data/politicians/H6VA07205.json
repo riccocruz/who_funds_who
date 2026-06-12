@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "OLLIVANT, DOUGLAS",
+        "party": "REP",
+        "state": "VA",
+        "indiv_total": 169860.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00296640",
+            "pac_name": "REPUBLICAN MAJORITY FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 102,
+        "oos_donors": 43,
+        "oos_total": 58726.0
+    },
+    "opposition": []
+}

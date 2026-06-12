@@ -1,0 +1,100 @@
+{
+    "pac": {
+        "name": "FIGHT LIKE HELL PAC",
+        "committee_type": "W",
+        "total_receipts": 1274980.0,
+        "indiv_contrib": 964243.0,
+        "total_spent": 1356745.0,
+        "cash_on_hand": 2584773.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6ME00407",
+            "cand_name": "MILLS, JANET TRAFTON",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI11191",
+            "cand_name": "MOSS, JEREMY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI04204",
+            "cand_name": "MCCANN, SEAN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00031054",
+            "pac_name": "MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00155952",
+            "pac_name": "DEMOCRATIC PARTY OF VIRGINIA",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00894139",
+            "pac_name": "UPLIFT PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00450098",
+            "pac_name": "WOMENCOUNT PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00040857",
+            "pac_name": "OAKLAND COUNTY DEMOCRATIC PARTY",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00413484",
+            "pac_name": "CLARK HILL FEDERAL POLITICAL ACTION COMMITTEE, THE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00842104"
+}

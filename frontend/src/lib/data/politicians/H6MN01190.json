@@ -1,0 +1,87 @@
+{
+    "politician": {
+        "cand_name": "JOHNSON, JACOB",
+        "party": "DFL",
+        "state": "MN",
+        "indiv_total": 1147637.0,
+        "pac_receipts_summary": 58500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00003251",
+            "pac_name": "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00416131",
+            "pac_name": "MIDWEST VALUES PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 4999.0,
+            "direct_amt": 4999.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00830745",
+            "pac_name": "FUTURES PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00886879",
+            "pac_name": "10000 LAKES PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00762369",
+            "pac_name": "SUMMITT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00764233",
+            "pac_name": "DEFEND THE VOTE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 960,
+        "oos_donors": 153,
+        "oos_total": 129885.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "CINEMA PAC, THE COMMITTEE OF THE NATIONAL ASSOCIATION OF THEATRE OWNERS, INC.",
+        "committee_type": "N",
+        "total_receipts": 55800.0,
+        "indiv_contrib": 55800.0,
+        "total_spent": 4000.0,
+        "cash_on_hand": 85339.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX19099",
+            "cand_name": "ARRINGTON, JODEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00489591"
+}

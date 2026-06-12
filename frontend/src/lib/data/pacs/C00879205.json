@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "TENNESSEE RISE PAC",
+        "committee_type": "O",
+        "total_receipts": 439682.0,
+        "indiv_contrib": 395682.0,
+        "total_spent": 414579.0,
+        "cash_on_hand": 33916.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "WINNING CONNECTIONS",
+            "party": null,
+            "state": null,
+            "total_amt": 144435.0,
+            "direct_amt": 0.0,
+            "ie_amt": 144435.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 800.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "BATTLEAXE DIGITAL",
+            "total_amt": 144435.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00827618",
+            "pac_name": "THE EQUITY ALLIANCE FUND ACTION PAC",
+            "total_amt": 89000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "BATTLEAXE DIGITAL",
+            "total_amt": 2195.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00879205"
+}

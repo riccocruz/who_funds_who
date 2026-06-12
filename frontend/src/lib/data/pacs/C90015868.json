@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "THE PEOPLE'S LOBBY",
+        "committee_type": "I",
+        "total_receipts": 192310.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 13605.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL02355",
+            "pac_name": "LAMAR ADVERTISING COMPANY OF CHICAGO",
+            "total_amt": 2503.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6IL08329",
+            "pac_name": "LAMAR ADVERTISING COMPANY OF CHICAGO",
+            "total_amt": 2194.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6IL09194",
+            "pac_name": "LAMAR ADVERTISING COMPANY OF CHICAGO",
+            "total_amt": 2101.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4IL07177",
+            "pac_name": "LAMAR ADVERTISING COMPANY OF CHICAGO",
+            "total_amt": 1166.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6IL07339",
+            "pac_name": "LAMAR ADVERTISING COMPANY OF CHICAGO",
+            "total_amt": 1166.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C90015868"
+}

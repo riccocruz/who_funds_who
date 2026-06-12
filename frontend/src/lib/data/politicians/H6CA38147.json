@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SANCHEZ, MONICA DR.",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 129591.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00790790",
+            "pac_name": "WOMEN IN LEADERSHIP PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00173096",
+            "pac_name": "SERVICE CORPORATION INTERNATIONAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 39,
+        "oos_donors": 1,
+        "oos_total": 250.0
+    },
+    "opposition": []
+}

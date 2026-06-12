@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "NGUYEN, TRAM",
+        "party": "DEM",
+        "state": "MA",
+        "indiv_total": 418144.0,
+        "pac_receipts_summary": 12375.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00002840",
+            "pac_name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 381,
+        "oos_donors": 54,
+        "oos_total": 40400.0
+    },
+    "opposition": []
+}

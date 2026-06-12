@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "OKLAHOMA LEADERSHIP COUNCIL",
+        "committee_type": "Y",
+        "total_receipts": 435126.0,
+        "indiv_contrib": 249076.0,
+        "total_spent": 442490.0,
+        "cash_on_hand": 16179.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 86985.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 64485.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00044776",
+            "pac_name": "ALABAMA REPUBLICAN PARTY",
+            "total_amt": 27293.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00167213"
+}

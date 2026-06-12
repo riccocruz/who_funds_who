@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GRAY, THOMAS JONATHAN JACKSON",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 321583.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00386755",
+            "pac_name": "PROJECTHEALTHSOLUTIONS PAC - PHSPAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 127,
+        "oos_donors": 20,
+        "oos_total": 103112.0
+    },
+    "opposition": []
+}

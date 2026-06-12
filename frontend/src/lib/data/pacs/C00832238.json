@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "DEMOCRACY THROUGH VOTING",
+        "committee_type": "O",
+        "total_receipts": 67724.0,
+        "indiv_contrib": 67724.0,
+        "total_spent": 62926.0,
+        "cash_on_hand": 6884.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4GA14057",
+            "cand_name": "HARRIS, SHAWN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 17958.0,
+            "direct_amt": 0.0,
+            "ie_amt": 17958.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA10126",
+            "cand_name": "HARDER, JOSH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 800.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4GA14057",
+            "pac_name": "AMAZON.COM, INC",
+            "total_amt": 17958.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H8CA10126",
+            "pac_name": "CALIFORNIA SECRETARY OF STATE",
+            "total_amt": 800.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00832238"
+}

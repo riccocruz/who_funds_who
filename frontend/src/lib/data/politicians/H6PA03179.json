@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "OXMAN, DAVID",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 334758.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00167130",
+            "pac_name": "PENNSYLVANIA DEMOCRATIC PARTY",
+            "total_amt": 6005.0,
+            "direct_amt": 6005.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 341,
+        "oos_donors": 125,
+        "oos_total": 129960.0
+    },
+    "opposition": []
+}

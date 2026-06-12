@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "LENDINGTREE LLC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 14319.0,
+        "indiv_contrib": 14319.0,
+        "total_spent": 39129.0,
+        "cash_on_hand": 183618.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TN06094",
+            "cand_name": "ROSE, JOHN W.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC14050",
+            "cand_name": "EDWARDS, CHUCK",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "ANDY BARR FOR SENATE, INC.",
+            "party": null,
+            "state": null,
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495887",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571323",
+            "pac_name": "TOGETHER HOLDING OUR MAJORITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654137",
+            "pac_name": "ADAMS, ALMA SHEALEY",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00834507",
+            "pac_name": "BUILDING UP DEMOCRACY'S DREAM",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00467381"
+}

@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "KISTNER, TYLER",
+        "party": "REP",
+        "state": "MN",
+        "indiv_total": 313748.0,
+        "pac_receipts_summary": 20311.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00819425",
+            "pac_name": "OLD BREED PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00940361",
+            "pac_name": "PLUS PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00493221",
+            "pac_name": "THE GUARDIAN FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00753194",
+            "pac_name": "MINNESOTA YOUNG REPUBLICANS VICTORY FUND",
+            "total_amt": 1811.0,
+            "direct_amt": 1811.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 214,
+        "oos_donors": 89,
+        "oos_total": 62297.0
+    },
+    "opposition": []
+}

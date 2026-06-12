@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "POWER, EVAN MR",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 189193.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00817932",
+            "pac_name": "EVAN POWER FOR CONGRESS COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00827881",
+            "pac_name": "CIRCLE THE WAGONS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00565630",
+            "pac_name": "MAINTAINING ALL REPUBLICANS IN OFFICE PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

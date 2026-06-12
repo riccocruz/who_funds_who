@@ -1,0 +1,130 @@
+{
+    "pac": {
+        "name": "BLUE MAJORITY PROJECT",
+        "committee_type": "V",
+        "total_receipts": 394727.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 312745.0,
+        "cash_on_hand": 81982.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CA41265",
+            "cand_name": "RIKER, BRANDON",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 35460.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35460.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 27676.0,
+            "direct_amt": 0.0,
+            "ie_amt": 27676.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 17526.0,
+            "direct_amt": 0.0,
+            "ie_amt": 17526.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 15000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 15000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02174",
+            "cand_name": "POWELL, DENISE",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 8996.0,
+            "direct_amt": 0.0,
+            "ie_amt": 8996.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1066.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1066.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00855",
+            "cand_name": "VINDMAN, ALEXANDER",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6CA41265",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 35460.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S6MN00499",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 27676.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6PA07188",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 17526.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6MI00426",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 15000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6NE02174",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 8996.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1066.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6FL00855",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 1000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00897363"
+}

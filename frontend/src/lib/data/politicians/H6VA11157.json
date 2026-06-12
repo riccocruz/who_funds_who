@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "SHIN, IRENE",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 126935.0,
+        "pac_receipts_summary": 19000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00907188",
+            "pac_name": "PEOPLE OVER MONOPOLIES",
+            "total_amt": 202368.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 198868.0
+        },
+        {
+            "cmte_id": "C00761957",
+            "pac_name": "IN OUR HANDS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00843110",
+            "pac_name": "LEADERS WE DESERVE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00821611",
+            "pac_name": "ASIAN AMERICANS FOR CHANGE FUND",
+            "total_amt": 2640.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2640.0
+        },
+        {
+            "cmte_id": "C00458125",
+            "pac_name": "IRENE SHIN FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 110,
+        "oos_donors": 47,
+        "oos_total": 51579.0
+    },
+    "opposition": []
+}

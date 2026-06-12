@@ -1,0 +1,143 @@
+{
+    "politician": {
+        "cand_name": "FLINT, AARON",
+        "party": "REP",
+        "state": "MT",
+        "indiv_total": 278162.0,
+        "pac_receipts_summary": 144500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00871012",
+            "pac_name": "MAKE MONTANA GREAT",
+            "total_amt": 60250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 60250.0
+        },
+        {
+            "cmte_id": "C00764209",
+            "pac_name": "LEADERSHIP IN ACTION",
+            "total_amt": 53561.0,
+            "direct_amt": 6110.0,
+            "ie_amt": 47451.0
+        },
+        {
+            "cmte_id": "C00845099",
+            "pac_name": "SEND IN THE SEAL PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00769695",
+            "pac_name": "FREEDOM FORCE PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00028787",
+            "pac_name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00693796",
+            "pac_name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00818542",
+            "pac_name": "FIELD OF DREAMS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00653220",
+            "pac_name": "FLINT FOR MONTANA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00778159",
+            "pac_name": "COMMANDER ZINKE LEADERSHIP FUND",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00844159",
+            "pac_name": "FLINT FOR MONTANA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00524314",
+            "pac_name": "AMERICA'S FIRST PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00416594",
+            "pac_name": "FLINT FOR MONTANA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00525592",
+            "pac_name": "COOL PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545749",
+            "pac_name": "FLINT FOR MONTANA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00608695",
+            "pac_name": "FLINT FOR MONTANA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00689208",
+            "pac_name": "RVFPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00698092",
+            "pac_name": "LET'S ALL KEEP ELECTING REPUBLICANS PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

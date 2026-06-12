@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "AKEBIA THERAPEUTICS INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 10000.0,
+        "indiv_contrib": 10000.0,
+        "total_spent": 2500.0,
+        "cash_on_hand": 94525.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00684126"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "CONSERVATION OHIO",
+        "committee_type": "O",
+        "total_receipts": 100742.0,
+        "indiv_contrib": 100742.0,
+        "total_spent": 164850.0,
+        "cash_on_hand": 77700.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH01118",
+            "cand_name": "TKO BUYING LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 10228.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10228.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H8OH01118",
+            "pac_name": "JM2",
+            "total_amt": 10228.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00672139"
+}

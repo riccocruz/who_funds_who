@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "LIBERTARIAN PARTY OF GEORGIA",
+        "committee_type": "X",
+        "total_receipts": 151892.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 171122.0,
+        "cash_on_hand": 1636.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00883751",
+            "pac_name": "KENNEDY VICTORY FUND 2024",
+            "total_amt": 147976.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00255695",
+            "pac_name": "LIBERTARIAN NATIONAL COMMITTEE, INC.",
+            "total_amt": 143889.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00622795"
+}

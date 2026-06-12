@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "ONE VOICE",
+        "committee_type": "Q",
+        "total_receipts": 14836.0,
+        "indiv_contrib": 1751.0,
+        "total_spent": 18358.0,
+        "cash_on_hand": 58921.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00474",
+            "cand_name": "KELLY, ROBIN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00897561",
+            "pac_name": "REPRESENTATION MATTERS:  STAND UP FOR DEMOCRACY",
+            "total_amt": 5836.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00238725",
+            "pac_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00403071"
+}

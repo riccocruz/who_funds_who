@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "SOCIETY FOR RELIEF OF DISTRESSED AND DECAYED PILOTS POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 11550.0,
+        "indiv_contrib": 11550.0,
+        "total_spent": 11295.0,
+        "cash_on_hand": 127113.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA02171",
+            "cand_name": "EVANS, DWIGHT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA13199",
+            "cand_name": "BOYLE, BRENDAN F",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA06087",
+            "cand_name": "HOULAHAN, CHRISSY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00652644",
+            "pac_name": "TEAM FITZ",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00240457"
+}

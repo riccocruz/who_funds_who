@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CRAMER, KEVIN MR.",
+        "party": "REP",
+        "state": "ND",
+        "indiv_total": 814275.0,
+        "pac_receipts_summary": 131500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00408468",
+            "pac_name": "AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

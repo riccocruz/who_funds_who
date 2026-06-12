@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "GRAIN AND FEED PAC",
+        "committee_type": "Q",
+        "total_receipts": 30217.0,
+        "indiv_contrib": 30217.0,
+        "total_spent": 9060.0,
+        "cash_on_hand": 75053.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MN01223",
+            "cand_name": "FINSTAD, BRAD",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00609966"
+}

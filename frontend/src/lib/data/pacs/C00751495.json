@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "ATU ACTION FUND",
+        "committee_type": "O",
+        "total_receipts": 975000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 975000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00032995",
+            "pac_name": "AMALGAMATED TRANSIT UNION - COPE",
+            "total_amt": 825000.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00582841",
+            "pac_name": "COALITION FOR PROGRESS",
+            "total_amt": 300000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 150000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00701888",
+            "pac_name": "UNITE THE COUNTRY",
+            "total_amt": 100000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00751495"
+}

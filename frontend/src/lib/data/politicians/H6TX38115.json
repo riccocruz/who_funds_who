@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "RUBIN, LARRY DAVID",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 102578.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00429001",
+            "pac_name": "PURPOSE FINANCIAL, LLC PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00111880",
+            "pac_name": "CEMEX INC. EMPLOYEES PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 61,
+        "oos_donors": 11,
+        "oos_total": 26007.0
+    },
+    "opposition": []
+}

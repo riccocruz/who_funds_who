@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "GLCF, INC.",
+        "committee_type": "O",
+        "total_receipts": 6684416.0,
+        "indiv_contrib": 6414000.0,
+        "total_spent": 560961.0,
+        "cash_on_hand": 6254986.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4MI00595",
+            "cand_name": "ROGERS, MICHAEL J",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 157500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 157500.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00884296",
+            "pac_name": "TEAM ROGERS",
+            "total_amt": 244574.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S4MI00595",
+            "pac_name": "CRAIG MILLER PRODUCTIONS INC",
+            "total_amt": 157500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00853861"
+}

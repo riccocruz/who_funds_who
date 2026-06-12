@@ -1,0 +1,96 @@
+{
+    "pac": {
+        "name": "CRUISE LINES INTERNATIONAL ASSOCIATION PAC (CLIA PAC)",
+        "committee_type": "Q",
+        "total_receipts": 29500.0,
+        "indiv_contrib": 19500.0,
+        "total_spent": 32180.0,
+        "cash_on_hand": 2158.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "S4AK00214",
+            "cand_name": "SULLIVAN, DAN",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8FL00273",
+            "cand_name": "SCOTT, RICK SEN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL13148",
+            "cand_name": "BUCHANAN, VERNON",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MS02068",
+            "cand_name": "THOMPSON, BENNIE G.",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0FL26036",
+            "cand_name": "GIMENEZ, CARLOS",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00849778",
+            "pac_name": "TED CRUZ VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00869230",
+            "pac_name": "ROYAL CARIBBEAN GROUP USA INC. PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00880351",
+            "pac_name": "NORWEGIAN CRUISE CO. INC. POLITICAL ACTION COMMITTEE  (NCLH CRUISE FORWARD PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00432393"
+}

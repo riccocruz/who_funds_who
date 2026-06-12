@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "OVER THE TARGET PAC",
+        "committee_type": "N",
+        "total_receipts": 95907.0,
+        "indiv_contrib": 10000.0,
+        "total_spent": 13700.0,
+        "cash_on_hand": 82207.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX05144",
+            "cand_name": "GOODEN, LANCE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY19268",
+            "cand_name": "OBERACKER, PETER KARL JR",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00921585",
+            "pac_name": "TEAM MONIQUE",
+            "total_amt": 85906.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00921551"
+}

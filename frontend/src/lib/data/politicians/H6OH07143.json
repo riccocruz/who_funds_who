@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "FITZGERALD, EDWARD O'DONNELL",
+        "party": "DEM",
+        "state": "OH",
+        "indiv_total": 226294.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00920603",
+            "pac_name": "FLIP THE CONGRESS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892984",
+            "pac_name": "NATIONAL GROUND GAME PAC",
+            "total_amt": 224.0,
+            "direct_amt": 224.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 30,
+        "oos_donors": 9,
+        "oos_total": 4050.0
+    },
+    "opposition": []
+}

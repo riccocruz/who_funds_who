@@ -1,0 +1,172 @@
+{
+    "pac": {
+        "name": "NATIONAL ALLIANCE FOR CARE AT HOME PAC (ALLIANCE PAC)",
+        "committee_type": "Q",
+        "total_receipts": 77900.0,
+        "indiv_contrib": 36200.0,
+        "total_spent": 61777.0,
+        "cash_on_hand": 17149.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S8ID00027",
+            "cand_name": "CRAPO, MICHAEL D",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OK01157",
+            "cand_name": "HERN, KEVIN",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OK00186",
+            "cand_name": "MULLIN, MARKWAYNE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00407080",
+            "pac_name": "KAH HOSPICE COMPANY, INC. PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00692897",
+            "pac_name": "COLLINS VICTORY COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00806984",
+            "pac_name": "AXXESS CONSULT INC POLITICAL ACTION COMMITTEE (AXXESS PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00825992",
+            "pac_name": "ENHABIT, INC. PAC (EHAB PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00409276",
+            "pac_name": "MAKING A RESPONSIBLE STAND FOR HOUSEHOLDS IN AMERICA PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00436360",
+            "pac_name": "AMEDISYS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00563726",
+            "pac_name": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00581728",
+            "pac_name": "FC COMPASSUS LLC PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859553",
+            "pac_name": "ALSOBROOKS VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00649574",
+            "pac_name": "CRAPO VICTORY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00799072",
+            "pac_name": "ALLIANCE FOR CARE AT THE END OF LIFE D/B/A HOSPICE ACTION NETWORK PAC (HAN PAC)",
+            "total_amt": 1639.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00831669",
+            "pac_name": "KATHERINE CLARK MAJORITY FUND",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00866947",
+            "pac_name": "CORNYN LONESTAR VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00188987"
+}

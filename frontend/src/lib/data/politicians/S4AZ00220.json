@@ -1,0 +1,30 @@
+{
+    "politician": {
+        "cand_name": "LAKE, KARI",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 217274.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00379479",
+            "pac_name": "THE HAWKEYE PAC",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1053,
+        "oos_donors": 833,
+        "oos_total": 178450.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00489799",
+            "pac_name": "PLANNED PARENTHOOD VOTES",
+            "total_amt": 2482.0
+        }
+    ]
+}

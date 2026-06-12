@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KEENAN, DANIEL",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 26812.0,
+        "pac_receipts_summary": 4000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00788414",
+            "pac_name": "DANIEL KEENAN FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 22,
+        "oos_donors": 1,
+        "oos_total": 250.0
+    },
+    "opposition": []
+}

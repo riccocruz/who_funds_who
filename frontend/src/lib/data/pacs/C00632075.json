@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "GLOBAL BUSINESS ALLIANCE PAC AKA GBA PAC",
+        "committee_type": "N",
+        "total_receipts": 10000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 0.0,
+        "cash_on_hand": 60570.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00235036",
+            "pac_name": "ZURICH HOLDING COMPANY OF AMERICA, INC. COMMITTEE FOR GOOD GOVERNMENT (Z-PAC, ZURICH PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00632075"
+}

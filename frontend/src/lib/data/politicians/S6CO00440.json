@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JOSHI, JANAK",
+        "party": "REP",
+        "state": "CO",
+        "indiv_total": 125303.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00729574",
+            "pac_name": "AMERICANS4HINDUS PAC (MULTI-CANDIDATE)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 84,
+        "oos_donors": 65,
+        "oos_total": 32071.0
+    },
+    "opposition": []
+}

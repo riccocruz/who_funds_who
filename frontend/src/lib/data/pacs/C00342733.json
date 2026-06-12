@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "COASTAL FEDERAL CREDIT UNION PAC",
+        "committee_type": "Q",
+        "total_receipts": 19005.0,
+        "indiv_contrib": 19005.0,
+        "total_spent": 1000.0,
+        "cash_on_hand": 135362.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0NC02125",
+            "cand_name": "ROSS, DEBORAH",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC03172",
+            "cand_name": "MURPHY, GREGORY FRANCIS DR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00342733"
+}

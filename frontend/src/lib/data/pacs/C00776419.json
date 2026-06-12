@@ -1,0 +1,328 @@
+{
+    "pac": {
+        "name": "THE PEOPLE UNITED PAC",
+        "committee_type": "O",
+        "total_receipts": 120329.0,
+        "indiv_contrib": 120329.0,
+        "total_spent": 114695.0,
+        "cash_on_hand": 26561.0
+    },
+    "stats": {
+        "candidates_funded": 19
+    },
+    "recipients": [
+        {
+            "cand_id": "S6ME00373",
+            "cand_name": "PLATNER, GRAHAM",
+            "party": "DEM",
+            "state": "ME",
+            "total_amt": 525.0,
+            "direct_amt": 0.0,
+            "ie_amt": 525.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CT01046",
+            "cand_name": "LARSON, JOHN B",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 450.0,
+            "direct_amt": 0.0,
+            "ie_amt": 450.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY10176",
+            "cand_name": "LANDER, BRAD MR.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL08146",
+            "cand_name": "AHMED, JUNAID",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11286",
+            "cand_name": "MEJIA, ANALILIA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 262.0,
+            "direct_amt": 0.0,
+            "ie_amt": 262.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 225.0,
+            "direct_amt": 0.0,
+            "ie_amt": 225.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "STRATEGY & HUSTLE L.L.C.",
+            "party": null,
+            "state": null,
+            "total_amt": 225.0,
+            "direct_amt": 0.0,
+            "ie_amt": 225.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MO01143",
+            "cand_name": "BUSH, CORI",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 175.0,
+            "direct_amt": 0.0,
+            "ie_amt": 175.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00379",
+            "cand_name": "STRATEGY & HUSTLE L.L.C.",
+            "party": null,
+            "state": null,
+            "total_amt": 150.0,
+            "direct_amt": 0.0,
+            "ie_amt": 150.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NE00207",
+            "cand_name": "OSBORN, DAN",
+            "party": "IND",
+            "state": "NE",
+            "total_amt": 112.0,
+            "direct_amt": 0.0,
+            "ie_amt": 112.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ10176",
+            "cand_name": "MCIVER, LAMONICA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 112.0,
+            "direct_amt": 0.0,
+            "ie_amt": 112.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 112.0,
+            "direct_amt": 0.0,
+            "ie_amt": 112.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI13254",
+            "cand_name": "MCKINNEY, DONAVAN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 100.0,
+            "direct_amt": 0.0,
+            "ie_amt": 100.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WI03130",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 75.0,
+            "direct_amt": 0.0,
+            "ie_amt": 75.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00418",
+            "cand_name": "EL-SAYED, ABDUL",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 50.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00392",
+            "cand_name": "MCMORROW, MALLORY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 50.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MN05239",
+            "cand_name": "OMAR, ILHAN",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 37.0,
+            "direct_amt": 0.0,
+            "ie_amt": 37.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX35144",
+            "cand_name": "CASAR, GREG",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 37.0,
+            "direct_amt": 0.0,
+            "ie_amt": 37.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA18200",
+            "cand_name": "LEE, SUMMER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 37.0,
+            "direct_amt": 0.0,
+            "ie_amt": 37.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 20000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6ME00373",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 525.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H8CT01046",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 450.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2IL08146",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 300.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6NY10176",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 300.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6NJ11286",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 262.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 225.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6MN00440",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 225.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8MO01143",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 175.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6OH00379",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 150.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2OH09031",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 112.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4NJ10176",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 112.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4NE00207",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 112.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6MI13254",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 100.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2WI03130",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 75.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6MI00392",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 50.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6MI00418",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 50.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2PA18200",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 37.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2TX35144",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 37.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8MN05239",
+            "pac_name": "STRATEGY & HUSTLE L.L.C.",
+            "total_amt": 37.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00776419"
+}

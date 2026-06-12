@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "EVERY STATE",
+        "committee_type": "V",
+        "total_receipts": 865465.0,
+        "indiv_contrib": 48661.0,
+        "total_spent": 898229.0,
+        "cash_on_hand": 95753.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 10000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL01197",
+            "cand_name": "VALIMONT, JENNIFER GAY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 5225.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5225.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 4725.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4725.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00479",
+            "pac_name": "EMPACT STRATEGIES",
+            "total_amt": 10000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4FL01197",
+            "pac_name": "IMPACTION",
+            "total_amt": 5225.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "IMPACTION",
+            "total_amt": 4725.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00812792"
+}

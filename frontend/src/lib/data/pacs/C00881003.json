@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "RICKETTS-SCHMITT VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 94500.0,
+        "indiv_contrib": 94500.0,
+        "total_spent": 86191.0,
+        "cash_on_hand": 15000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00826362",
+            "pac_name": "WINNING FOR AMERICA PAC",
+            "total_amt": 5402.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00832501",
+            "pac_name": "AMERICAN EXCELLENCE PAC",
+            "total_amt": 5402.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881003"
+}

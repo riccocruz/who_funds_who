@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "SAFER, CLEANER, GREENER PAC",
+        "committee_type": "N",
+        "total_receipts": 26000.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 25521.0,
+        "cash_on_hand": 6580.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH01194",
+            "cand_name": "LANDSMAN, GREG",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00041939",
+            "pac_name": "ELECTRICAL WORKERS VOLUNTARY, POL, EDU & LEG FUND IBEW LOCAL UNION NO 1",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00889345"
+}

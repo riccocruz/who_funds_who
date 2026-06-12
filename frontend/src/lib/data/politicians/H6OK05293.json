@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "NELSON, JENA",
+        "party": "DEM",
+        "state": "OK",
+        "indiv_total": 342260.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 213,
+        "oos_donors": 29,
+        "oos_total": 25422.0
+    },
+    "opposition": []
+}

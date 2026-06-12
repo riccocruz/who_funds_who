@@ -1,0 +1,150 @@
+{
+    "pac": {
+        "name": "ACTORS' EQUITY ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 110858.0,
+        "indiv_contrib": 110758.0,
+        "total_spent": 59134.0,
+        "cash_on_hand": 111704.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H8ID02064",
+            "cand_name": "SIMPSON, MICHAEL",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA37304",
+            "cand_name": "KAMLAGER-DOVE, SYDNEY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8OR00207",
+            "cand_name": "MERKLEY, JEFFREY ALAN",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NY00410",
+            "cand_name": "GILLIBRAND, KIRSTEN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 585.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO05234",
+            "cand_name": "CLEAVER, EMANUEL II",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA12154",
+            "cand_name": "SIMON, LATEEFAH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY10092",
+            "cand_name": "JEFFRIES, HAKEEM",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 15000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 15000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00433060",
+            "pac_name": "REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00529693",
+            "pac_name": "BLUE MAJORITY PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692590",
+            "pac_name": "SUNSHINE ORGANIZATION FOR TREMENDOUS OPPORTUNITIES PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00920363",
+            "pac_name": "THE PEOPLE FOR KYLE NUDO",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00835868"
+}

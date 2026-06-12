@@ -1,0 +1,101 @@
+{
+    "politician": {
+        "cand_name": "TUREK, JOSHUA",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 2720570.0,
+        "pac_receipts_summary": 87550.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 874308.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 869308.0
+        },
+        {
+            "cmte_id": "C00629212",
+            "pac_name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629311",
+            "pac_name": "GRANITE VALUES PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00757419",
+            "pac_name": "SD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00768887",
+            "pac_name": "PAC FOR GOOD",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00933796",
+            "pac_name": "BLUE DEMOCRACY NETWORK",
+            "total_amt": 1881.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1881.0
+        },
+        {
+            "cmte_id": "C00441949",
+            "pac_name": "JSTREETPAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786392",
+            "pac_name": "BEYOND THOUGHTS AND PRAYERS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00838052",
+            "pac_name": "ABLE DEMS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00934273",
+            "pac_name": "DEMOCRATIC FUTURE PAC",
+            "total_amt": 312.0,
+            "direct_amt": 0.0,
+            "ie_amt": 312.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1328,
+        "oos_donors": 811,
+        "oos_total": 860640.0
+    },
+    "opposition": []
+}

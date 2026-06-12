@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "SILVER SPRING PROGRESSIVE ACTION",
+        "committee_type": "N",
+        "total_receipts": 40618.0,
+        "indiv_contrib": 40618.0,
+        "total_spent": 27423.0,
+        "cash_on_hand": 18817.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MD08457",
+            "cand_name": "RASKIN, JAMIE",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00875500"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "THE AI POLICY NETWORK INC AIPN PAC INC",
+        "committee_type": "N",
+        "total_receipts": 70000.0,
+        "indiv_contrib": 70000.0,
+        "total_spent": 15862.0,
+        "cash_on_hand": 54138.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S4CA00555",
+            "cand_name": "SCHIFF, ADAM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA08135",
+            "cand_name": "OBERNOLTE, JAY",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 950.0,
+            "direct_amt": 950.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00904532"
+}

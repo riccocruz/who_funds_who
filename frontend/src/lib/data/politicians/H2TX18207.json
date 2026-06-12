@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MONTIEL, CARMEN",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 130372.0,
+        "pac_receipts_summary": 500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00173096",
+            "pac_name": "SERVICE CORPORATION INTERNATIONAL PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 92,
+        "oos_donors": 45,
+        "oos_total": 36744.0
+    },
+    "opposition": []
+}

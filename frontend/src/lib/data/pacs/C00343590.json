@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "MECHANICAL CONTRACTORS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE (MCA-PAC)",
+        "committee_type": "Q",
+        "total_receipts": 78750.0,
+        "indiv_contrib": 78750.0,
+        "total_spent": 20500.0,
+        "cash_on_hand": 202247.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8VA11062",
+            "cand_name": "CONNOLLY, GERALD EDWARD",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00491936",
+            "pac_name": "COMMON SENSE COLORADO",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00343590"
+}

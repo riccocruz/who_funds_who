@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "NEVADA SENATE VICTORY",
+        "committee_type": "N",
+        "total_receipts": 75000.0,
+        "indiv_contrib": 75000.0,
+        "total_spent": 74270.0,
+        "cash_on_hand": 730.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 56000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00208991",
+            "pac_name": "NEVADA STATE DEMOCRATIC PARTY",
+            "total_amt": 9900.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00654475",
+            "pac_name": "SMART SOLUTIONS PAC",
+            "total_amt": 4900.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00914184"
+}

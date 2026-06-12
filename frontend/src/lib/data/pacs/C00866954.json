@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "BRANDON GILL VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 946142.0,
+        "indiv_contrib": 934693.0,
+        "total_spent": 664082.0,
+        "cash_on_hand": 294200.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00857631",
+            "pac_name": "RIGHT TEXAS",
+            "total_amt": 32040.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692087",
+            "pac_name": "VICTORY AND NATION PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00574103",
+            "pac_name": "U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00588509",
+            "pac_name": "ASSOCIATION FOR UNMANNED VEHICLE SYSTEMS INTERNATIONAL POLITICAL ACTION COMMITTEE (AUVSI PAC)",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00866954"
+}

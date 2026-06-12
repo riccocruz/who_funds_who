@@ -1,0 +1,116 @@
+{
+    "pac": {
+        "name": "ABLE DEMS PAC",
+        "committee_type": "N",
+        "total_receipts": 117588.0,
+        "indiv_contrib": 117587.0,
+        "total_spent": 98447.0,
+        "cash_on_hand": 31927.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL08238",
+            "cand_name": "MORRISON, KEVIN B.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00298",
+            "cand_name": "TUREK, JOSHUA",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY17197",
+            "cand_name": "SULLIVAN, JOHN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NV02297",
+            "cand_name": "FONKEN, MATTHEW WILLIAM",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NH01370",
+            "cand_name": "HOWARD, HEATH",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ07105",
+            "cand_name": "HERNANDEZ, DANIEL",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ01314",
+            "cand_name": "GORDON, MARK ROBERT",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ03080",
+            "cand_name": "CONAWAY, HERB MD",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00476978",
+            "pac_name": "LGBTQ VICTORY FUND FEDERAL PAC",
+            "total_amt": 6000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4NC00162",
+            "pac_name": "PANTOGRAPH LABS, LLC",
+            "total_amt": 3306.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2VA02064",
+            "pac_name": "PANTOGRAPH LABS",
+            "total_amt": 1750.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00838052"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DEMOCRATS DEFENDING DEMOCRACY",
+        "committee_type": "N",
+        "total_receipts": 1929562.0,
+        "indiv_contrib": 1929562.0,
+        "total_spent": 1921256.0,
+        "cash_on_hand": 63614.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00573261",
+            "pac_name": "END CITIZENS UNITED",
+            "total_amt": 1395000.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "C00842724",
+            "pac_name": "END CITIZENS UNITED",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00872440"
+}

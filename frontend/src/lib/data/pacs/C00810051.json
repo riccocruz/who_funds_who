@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "STAND FOR FREEDOM PAC",
+        "committee_type": "O",
+        "total_receipts": 25002.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 20045.0,
+        "cash_on_hand": 4958.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX21376",
+            "cand_name": "TRAINOR, JAMES E III",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 20000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 20000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX21376",
+            "pac_name": "DOOR DIRECT, LLC",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00810051"
+}

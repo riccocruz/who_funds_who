@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MCGHIE, TROY",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 71347.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00032995",
+            "pac_name": "AMALGAMATED TRANSIT UNION - COPE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 97,
+        "oos_donors": 10,
+        "oos_total": 6650.0
+    },
+    "opposition": []
+}

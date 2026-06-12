@@ -1,0 +1,152 @@
+{
+    "pac": {
+        "name": "DEFEND AMERICAN JOBS",
+        "committee_type": "O",
+        "total_receipts": 10219837.0,
+        "indiv_contrib": 350000.0,
+        "total_spent": 9371383.0,
+        "cash_on_hand": 2150782.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 5017853.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5017853.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1673735.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1673735.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX08209",
+            "cand_name": "STEINMANN, JESSICA HART",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 771657.0,
+            "direct_amt": 0.0,
+            "ie_amt": 771657.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 558813.0,
+            "direct_amt": 0.0,
+            "ie_amt": 558813.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 418055.0,
+            "direct_amt": 0.0,
+            "ie_amt": 418055.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX22283",
+            "cand_name": "NEHLS, TREVER",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 141261.0,
+            "direct_amt": 0.0,
+            "ie_amt": 141261.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX10221",
+            "cand_name": "GOBER, CHRIS",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 91656.0,
+            "direct_amt": 0.0,
+            "ie_amt": 91656.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 80948.0,
+            "direct_amt": 0.0,
+            "ie_amt": 80948.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00835959",
+            "pac_name": "FAIRSHAKE",
+            "total_amt": 9000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6AL00476",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 5017853.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 1673735.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TX08209",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 771657.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 558813.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4AR02141",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 418055.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H6TX22283",
+            "pac_name": "DOCKSIDE STRATEGIES LLC",
+            "total_amt": 141261.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TX10221",
+            "pac_name": "RBC MEDIA LLC",
+            "total_amt": 91656.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4NC14015",
+            "pac_name": "RBC MEDIA LLC",
+            "total_amt": 80948.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00836221"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SNEED, ANDREW RANKIN GUYTON",
+        "party": "DEM",
+        "state": "AL",
+        "indiv_total": 440866.0,
+        "pac_receipts_summary": 2350.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00566059",
+            "pac_name": "REMEDY PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 294,
+        "oos_donors": 25,
+        "oos_total": 42230.0
+    },
+    "opposition": []
+}

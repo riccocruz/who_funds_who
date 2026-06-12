@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "PYRAMID HEALTHCARE INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 46135.0,
+        "indiv_contrib": 46135.0,
+        "total_spent": 4000.0,
+        "cash_on_hand": 98174.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00842906"
+}

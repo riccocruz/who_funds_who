@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PIERCE, MICHAEL DAVID LTC (RET.)",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 3620.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00362178",
+            "pac_name": "FAMILY-PAC FEDERAL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 6,
+        "oos_donors": 1,
+        "oos_total": 1000.0
+    },
+    "opposition": []
+}

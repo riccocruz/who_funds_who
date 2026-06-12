@@ -1,0 +1,84 @@
+{
+    "pac": {
+        "name": "HONOR BOUND PAC",
+        "committee_type": "W",
+        "total_receipts": 160817.0,
+        "indiv_contrib": 4060.0,
+        "total_spent": 259015.0,
+        "cash_on_hand": 180910.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NH01186",
+            "cand_name": "SULLIVAN, MAURA CORBY",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY17171",
+            "cand_name": "CONLEY, CAIT",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ07201",
+            "cand_name": "BENNETT, REBECCA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02224",
+            "cand_name": "ASKINS, KISHLA",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NC03211",
+            "cand_name": "JASLOW, ALLISON",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY04130",
+            "cand_name": "DEAN, MONICA",
+            "party": "DEM",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00842575",
+            "pac_name": "OPERATION SAVING DEMOCRACY",
+            "total_amt": 4894.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00711549"
+}

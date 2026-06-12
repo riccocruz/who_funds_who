@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "VO, CHUONG",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 304894.0,
+        "pac_receipts_summary": 17000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00248658",
+            "pac_name": "LOS ANGELES COUNTY LINCOLN CLUB",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00328401",
+            "pac_name": "THE LINCOLN CLUB OF ORANGE COUNTY FEDERAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00744532",
+            "pac_name": "SUPPORT TAXFIGHTERS & ELECT EFFECTIVE LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 209,
+        "oos_donors": 48,
+        "oos_total": 20308.0
+    },
+    "opposition": []
+}

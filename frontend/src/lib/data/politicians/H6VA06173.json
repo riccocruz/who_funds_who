@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MACY, BETH",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 1083902.0,
+        "pac_receipts_summary": 15000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00685552",
+            "pac_name": "MEDICARE FOR ALL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 846,
+        "oos_donors": 239,
+        "oos_total": 190755.0
+    },
+    "opposition": []
+}

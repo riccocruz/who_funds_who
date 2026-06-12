@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAMSTERS 769 POLITICAL COMMITTEE FUND",
+        "committee_type": "N",
+        "total_receipts": 132958.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 86000.0,
+        "cash_on_hand": 59975.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 82351.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00695734",
+            "pac_name": "SOUTH FLORIDA AFL-CIO",
+            "total_amt": -2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00829424"
+}

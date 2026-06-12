@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "RIVER FINANCIAL CORPORATION (RFC) PAC",
+        "committee_type": "N",
+        "total_receipts": 11475.0,
+        "indiv_contrib": 11475.0,
+        "total_spent": 2000.0,
+        "cash_on_hand": 12753.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6AL00443",
+            "cand_name": "HUDSON, JARED",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00638882"
+}

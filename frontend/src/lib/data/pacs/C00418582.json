@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "EMERGEORTHO P.A. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 171417.0,
+        "indiv_contrib": 171417.0,
+        "total_spent": 112058.0,
+        "cash_on_hand": 142085.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC14050",
+            "cand_name": "EDWARDS, CHUCK",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00418582"
+}

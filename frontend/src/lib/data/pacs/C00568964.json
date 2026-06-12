@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "LIUNA BUILDING AMERICA",
+        "committee_type": "O",
+        "total_receipts": 1311753.0,
+        "indiv_contrib": 1311706.0,
+        "total_spent": 1277611.0,
+        "cash_on_hand": 807783.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00848739",
+            "pac_name": "DEFENDING AMERICA PAC, INC.",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00568964"
+}

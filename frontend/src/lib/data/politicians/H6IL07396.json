@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HOSKINS, RORY E.",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 212719.0,
+        "pac_receipts_summary": 1600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00292367",
+            "pac_name": "MICHIGAN INDEPENDENT POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 194,
+        "oos_donors": 15,
+        "oos_total": 5651.0
+    },
+    "opposition": []
+}

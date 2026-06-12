@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "AMIWALA, BUSHRA",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 1173560.0,
+        "pac_receipts_summary": 1500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00935809",
+            "pac_name": "CHICAGO PROGRESSIVE PARTNERSHIP",
+            "total_amt": 104555.0,
+            "direct_amt": 0.0,
+            "ie_amt": 104555.0
+        },
+        {
+            "cmte_id": "C00920298",
+            "pac_name": "FUTURE THAT WORKS 4 EVERYONE PAC",
+            "total_amt": 7600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7600.0
+        },
+        {
+            "cmte_id": "C00876391",
+            "pac_name": "THE IMPACT FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 690,
+        "oos_donors": 417,
+        "oos_total": 307684.0
+    },
+    "opposition": []
+}

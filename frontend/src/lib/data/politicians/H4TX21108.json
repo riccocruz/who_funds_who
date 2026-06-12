@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "HOOK, KRISTIN A DR.",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 149831.0,
+        "pac_receipts_summary": 200.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00693192",
+            "pac_name": "DEMOCRATIC WOMEN OF COMAL COUNTY",
+            "total_amt": -1750.0,
+            "direct_amt": -1750.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 215,
+        "oos_donors": 42,
+        "oos_total": 17355.0
+    },
+    "opposition": []
+}

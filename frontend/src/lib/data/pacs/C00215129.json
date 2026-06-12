@@ -1,0 +1,84 @@
+{
+    "pac": {
+        "name": "GREYHOUND LINES, INC., FLIX NORTH AMERICA INC. AND FLIXBUS INC.POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 29283.0,
+        "indiv_contrib": 13810.0,
+        "total_spent": 20394.0,
+        "cash_on_hand": 27145.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC07096",
+            "cand_name": "ROUZER, DAVID",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2NE00094",
+            "cand_name": "FISCHER, DEBRA S.",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NV03036",
+            "cand_name": "TITUS, DINA",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX22302",
+            "cand_name": "NEHLS, TROY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MO06073",
+            "cand_name": "GRAVES, SAMUEL B. JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "CITIZENS TO ELECT RICK LARSEN",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004879",
+            "pac_name": "AMERICAN BUS ASSOCIATION POLITICAL ACTION COMMITTEE - BUSPAC",
+            "total_amt": 50.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00215129"
+}

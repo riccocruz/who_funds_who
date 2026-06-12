@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SCHWALBE, NINA",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 321212.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00494112",
+            "pac_name": "BEEPAC (BUILDING ECONOMIC EMPOWERMENT PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

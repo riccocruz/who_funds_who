@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GOLDFARB, MICHAEL",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 198269.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00790089",
+            "pac_name": "THE MODERATE PAC, INC.",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 91,
+        "oos_donors": 39,
+        "oos_total": 69800.0
+    },
+    "opposition": []
+}

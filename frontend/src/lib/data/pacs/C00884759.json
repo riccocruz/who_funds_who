@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BUILDING AND REVITALIZING AMERICAN DEMOCRACY FUND",
+        "committee_type": "N",
+        "total_receipts": 185700.0,
+        "indiv_contrib": 185700.0,
+        "total_spent": 159318.0,
+        "cash_on_hand": 29123.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00655423",
+            "pac_name": "BRIDGE THE GAP PAC",
+            "total_amt": 28700.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": 23300.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00884759"
+}

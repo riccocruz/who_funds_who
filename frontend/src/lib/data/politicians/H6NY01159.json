@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "GALLANT, CHRISTOPHER",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 411883.0,
+        "pac_receipts_summary": 8500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00911347",
+            "pac_name": "GALLANT FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00912261",
+            "pac_name": "GALLANT FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00652859",
+            "pac_name": "NEW DEMOCRACY FUND",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 304,
+        "oos_donors": 106,
+        "oos_total": 94304.0
+    },
+    "opposition": []
+}

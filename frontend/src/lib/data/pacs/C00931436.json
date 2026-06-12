@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "WASHINGTON RISING INC.",
+        "committee_type": "O",
+        "total_receipts": 1350313.0,
+        "indiv_contrib": 1350313.0,
+        "total_spent": 920537.0,
+        "cash_on_hand": 429776.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6WA04216",
+            "cand_name": "MCKINNEY, AMANDA",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 367705.0,
+            "direct_amt": 0.0,
+            "ie_amt": 367705.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6WA04216",
+            "pac_name": "SPOTLIGHT MEDIA GROUP",
+            "total_amt": 367705.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00814152",
+            "pac_name": "TURNING POINT PAC INC.",
+            "total_amt": 150000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00931436"
+}

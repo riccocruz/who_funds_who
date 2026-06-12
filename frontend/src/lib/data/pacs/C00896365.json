@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "KEEP AMERICA GREAT PAC, INC.",
+        "committee_type": "O",
+        "total_receipts": 14481815.0,
+        "indiv_contrib": 13540535.0,
+        "total_spent": 14318791.0,
+        "cash_on_hand": 163023.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2438654.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2438654.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "STORYTELLERS GROUP LLC",
+            "total_amt": 7407293.0,
+            "tx_count": 62
+        },
+        {
+            "cmte_id": "S6KY00286",
+            "pac_name": "BARREL PLACEMENTS",
+            "total_amt": 2438654.0,
+            "tx_count": 18
+        },
+        {
+            "cmte_id": "C00633792",
+            "pac_name": "FRIENDS OF ANDY BARR COMMITTEE",
+            "total_amt": 189560.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00896365"
+}

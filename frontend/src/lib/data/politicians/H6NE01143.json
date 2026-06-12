@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "BACKEMEYER, CHRISTOPHER",
+        "party": "DEM",
+        "state": "NE",
+        "indiv_total": 287489.0,
+        "pac_receipts_summary": 12500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00824342",
+            "pac_name": "WAY BACK PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00009936",
+            "pac_name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00761957",
+            "pac_name": "IN OUR HANDS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00881698",
+            "pac_name": "REBUILD AMERICA PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 140,
+        "oos_donors": 118,
+        "oos_total": 94104.0
+    },
+    "opposition": []
+}

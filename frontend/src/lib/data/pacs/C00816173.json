@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "TENNESSEE IMMIGRANT AND REFUGEE RIGHTS COALITION VOTES ACTION PAC",
+        "committee_type": "O",
+        "total_receipts": 200932.0,
+        "indiv_contrib": 157932.0,
+        "total_spent": 137916.0,
+        "cash_on_hand": 64320.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "WONG, TOM K.",
+            "party": null,
+            "state": null,
+            "total_amt": 88656.0,
+            "direct_amt": 0.0,
+            "ie_amt": 88656.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 38257.0,
+            "direct_amt": 0.0,
+            "ie_amt": 38257.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "APOLLO MESSAGING & MEDIA",
+            "total_amt": 88656.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "DIRECT FX",
+            "total_amt": 38257.0,
+            "tx_count": 7
+        }
+    ],
+    "cmte_id": "C00816173"
+}

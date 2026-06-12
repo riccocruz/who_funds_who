@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "IGNITE FUELING INNOVATION, INC. FEDERAL POLITICAL ACTION COMMITTEE (IGNITE PAC)",
+        "committee_type": "N",
+        "total_receipts": 16336.0,
+        "indiv_contrib": 16336.0,
+        "total_spent": 17500.0,
+        "cash_on_hand": 3252.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00632679",
+            "pac_name": "CONSERVATIVE LOUISIANA",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00699553",
+            "pac_name": "CALVERT VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00830901"
+}

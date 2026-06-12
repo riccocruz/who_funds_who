@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "HERNANDEZ, MELISSA",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 228173.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00111880",
+            "pac_name": "CEMEX INC. EMPLOYEES PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00287003",
+            "pac_name": "WSP USA INC. PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 179,
+        "oos_donors": 12,
+        "oos_total": 11750.0
+    },
+    "opposition": []
+}

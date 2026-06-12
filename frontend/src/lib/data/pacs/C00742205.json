@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "SURJ PAC",
+        "committee_type": "W",
+        "total_receipts": 568686.0,
+        "indiv_contrib": 21018.0,
+        "total_spent": 38344.0,
+        "cash_on_hand": 671708.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11286",
+            "cand_name": "MEJIA, ANALILIA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1606.0,
+            "direct_amt": 1606.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00742205"
+}

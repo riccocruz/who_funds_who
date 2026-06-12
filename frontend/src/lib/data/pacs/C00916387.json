@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WARRIOR PAC",
+        "committee_type": "N",
+        "total_receipts": 417450.0,
+        "indiv_contrib": 407766.0,
+        "total_spent": 409369.0,
+        "cash_on_hand": 8081.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00767640",
+            "pac_name": "RANGER PAC",
+            "total_amt": 4091.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00523241",
+            "pac_name": "SPECIAL OPERATIONS FOR AMERICA",
+            "total_amt": 4090.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00916387"
+}

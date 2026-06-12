@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "MISSISSIPPI REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 761447.0,
+        "indiv_contrib": 483065.0,
+        "total_spent": 689831.0,
+        "cash_on_hand": 158658.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0FL03175",
+            "cand_name": "CAMMACK, KAT",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 109511.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 62473.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 62346.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00368696",
+            "pac_name": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00918748",
+            "pac_name": "WALTERS 4 CONGRESS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00489336",
+            "pac_name": "WILD AND WONDERFUL PAC",
+            "total_amt": 303.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00084368"
+}

@@ -1,0 +1,96 @@
+{
+    "pac": {
+        "name": "MARCH ON PAC",
+        "committee_type": "W",
+        "total_receipts": 3126823.0,
+        "indiv_contrib": 136646.0,
+        "total_spent": 3601610.0,
+        "cash_on_hand": 509760.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 28500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 25000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00552",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX30245",
+            "cand_name": "HAYNES, FREDERICK III",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX03234",
+            "cand_name": "HUNT, EVAN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX31081",
+            "cand_name": "WHITLOW, STUART NORMAN MR.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NJ10176",
+            "cand_name": "MCIVER, LAMONICA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "APOLLO MESSAGING & MEDIA",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00707091",
+            "pac_name": "GRASSROOTS DEMOCRATS HQ",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00617381",
+            "pac_name": "THE COLLECTIVE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00748228"
+}

@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "WHITSON, STEWART",
+        "party": "REP",
+        "state": "VA",
+        "indiv_total": 168268.0,
+        "pac_receipts_summary": 8250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00448373",
+            "pac_name": "HUCK PAC FOR AMERICA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00538975",
+            "pac_name": "11TH CONGRESSIONAL DISTRICT OF VIRGINIA REPUBLICAN COMMITTEE - FEDERAL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C90013525",
+            "pac_name": "HERITAGE ACTION FOR AMERICA",
+            "total_amt": 4090.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4090.0
+        },
+        {
+            "cmte_id": "C00401786",
+            "pac_name": "FREEDOM'S DEFENSE FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00767640",
+            "pac_name": "RANGER PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00495010",
+            "pac_name": "CONSERVATIVE CAMPAIGN COMMITTEE",
+            "total_amt": 200.0,
+            "direct_amt": 200.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 174,
+        "oos_donors": 10,
+        "oos_total": 23000.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "OHIOHEALTH STAR CORPORATION POLITICAL ACTION COMMITTEE DBA OHIOHEALTH PAC",
+        "committee_type": "Q",
+        "total_receipts": 33432.0,
+        "indiv_contrib": 33432.0,
+        "total_spent": 42919.0,
+        "cash_on_hand": 76882.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH03125",
+            "cand_name": "BEATTY, JOYCE",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00908517",
+            "pac_name": "BALDERSON VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00210617"
+}

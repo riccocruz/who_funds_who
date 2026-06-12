@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SMITH, ADAM R.",
+        "party": "REP",
+        "state": "NC",
+        "indiv_total": 57436.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00570416",
+            "pac_name": "GATORPAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00811034",
+            "pac_name": "ROCKET LAB CORPORATION POLITICAL ACTION COMMITTEE (ROCKET LAB PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 39,
+        "oos_donors": 17,
+        "oos_total": 34050.0
+    },
+    "opposition": []
+}

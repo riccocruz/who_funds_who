@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "JAMES, LINDSAY",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 708309.0,
+        "pac_receipts_summary": 33800.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 5108.0,
+            "direct_amt": 5108.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00902676",
+            "pac_name": "LINDSAY FOR IOWA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "LINDSAY FOR IOWA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 395,
+        "oos_donors": 152,
+        "oos_total": 141115.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,90 @@
+{
+    "pac": {
+        "name": "COUNTRY FIRST",
+        "committee_type": "Q",
+        "total_receipts": 32941.0,
+        "indiv_contrib": 500.0,
+        "total_spent": 538488.0,
+        "cash_on_hand": 781270.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX09207",
+            "cand_name": "VIRTS, TERRY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 6278.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6278.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00412",
+            "cand_name": "VIRTS, TERRY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6AL00435",
+            "cand_name": "SWEETSER, KYLE",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ11245",
+            "cand_name": "MALINOWSKI, TOM",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09343",
+            "cand_name": "POLAN, SAM",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00256",
+            "cand_name": "SAGE, NATHAN",
+            "party": "DEM",
+            "state": "IA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00522425",
+            "pac_name": "FUTURE FIRST LEADERSHIP PAC",
+            "total_amt": 24000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX09207",
+            "pac_name": "CIVIC ELEMENT",
+            "total_amt": 6278.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00771113"
+}

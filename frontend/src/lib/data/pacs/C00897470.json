@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "ACADIA HEALTHCARE COMPANY, INC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 310745.0,
+        "indiv_contrib": 120077.0,
+        "total_spent": 168541.0,
+        "cash_on_hand": 142205.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TN07103",
+            "cand_name": "KUSTOFF, DAVID",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN03254",
+            "cand_name": "FLEISCHMANN, CHARLES J",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN01118",
+            "cand_name": "HARSHBARGER, DIANA",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00496919",
+            "pac_name": "ACADIA HEALTHCARE COMPANY INC. FEDPAC",
+            "total_amt": 174047.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00089243",
+            "pac_name": "MASSACHUSETTS DEMOCRATIC STATE COMMITTEE - FED FUND",
+            "total_amt": 4000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00897470"
+}

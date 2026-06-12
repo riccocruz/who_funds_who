@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BARNES, THOMAS GARY",
+        "party": "REP",
+        "state": "AL",
+        "indiv_total": 63832.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00912600",
+            "pac_name": "BARNES, THOMAS GARY MR.",
+            "total_amt": 1135.0,
+            "direct_amt": 1135.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 36,
+        "oos_donors": 1,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

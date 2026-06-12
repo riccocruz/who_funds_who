@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "PROJECT 218",
+        "committee_type": "O",
+        "total_receipts": 2729432.0,
+        "indiv_contrib": 2724522.0,
+        "total_spent": 432646.0,
+        "cash_on_hand": 2335916.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 56218.0,
+            "direct_amt": 0.0,
+            "ie_amt": 56218.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "MAIL MATTERS",
+            "total_amt": 56218.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00871368"
+}

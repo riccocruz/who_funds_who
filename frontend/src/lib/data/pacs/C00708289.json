@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "PUTTING PEOPLE BEFORE POLITICIANS INC",
+        "committee_type": "N",
+        "total_receipts": 2368735.0,
+        "indiv_contrib": 1815764.0,
+        "total_spent": 2573066.0,
+        "cash_on_hand": 651174.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX19099",
+            "cand_name": "ARRINGTON, JODEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00766774",
+            "pac_name": "MARJORIE TAYLOR GREENE'S PEOPLE OVER POLITICIANS COMMITTEE",
+            "total_amt": 534275.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "C00903492",
+            "pac_name": "MTG VICTORY FUND",
+            "total_amt": 34754.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00563429",
+            "pac_name": "MAKING A SENSIBLE SHIFT IN ELECTIONS PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00708289"
+}

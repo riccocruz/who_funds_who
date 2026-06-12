@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "AMERICA PAC",
+        "committee_type": "O",
+        "total_receipts": 49862653.0,
+        "indiv_contrib": 49850796.0,
+        "total_spent": 51759285.0,
+        "cash_on_hand": 326017.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 76888.0,
+            "direct_amt": 0.0,
+            "ie_amt": 76888.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 10244.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10244.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "CONNECTION STRATEGY LLC",
+            "total_amt": 76888.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "IMGE LLC",
+            "total_amt": 10244.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00879510"
+}

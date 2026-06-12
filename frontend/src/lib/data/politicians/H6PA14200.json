@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "BRADSTOCK, DAVID ALAN",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 117049.0,
+        "pac_receipts_summary": 10658.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027359",
+            "pac_name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00115527",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF HEAT AND FROST INSULATORS AND ALLIED WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00647966",
+            "pac_name": "RURAL FREEDOM NETWORK",
+            "total_amt": 481.0,
+            "direct_amt": 0.0,
+            "ie_amt": 481.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 93,
+        "oos_donors": 8,
+        "oos_total": 7825.0
+    },
+    "opposition": []
+}

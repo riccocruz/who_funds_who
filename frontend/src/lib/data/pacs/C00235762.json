@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "NATIONAL AUTOMATIC MERCHANDISING ASSOCIATION POLITICAL ACTION COMMITTEE (NAMA-PAC)",
+        "committee_type": "Q",
+        "total_receipts": 13375.0,
+        "indiv_contrib": 13375.0,
+        "total_spent": 3033.0,
+        "cash_on_hand": 18729.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6OH08315",
+            "cand_name": "DAVIDSON, WARREN",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00235762"
+}

@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "CONGRESSIONAL REPUBLICAN ORGANIZATION OF ILLINOIS PAC",
+        "committee_type": "N",
+        "total_receipts": 61907.0,
+        "indiv_contrib": 60561.0,
+        "total_spent": 49883.0,
+        "cash_on_hand": 12025.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL17247",
+            "cand_name": "VANCIL, DILLAN",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1289.0,
+            "direct_amt": 1289.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00906347"
+}

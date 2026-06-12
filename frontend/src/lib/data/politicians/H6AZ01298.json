@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "TREBLE, JONATHAN",
+        "party": "DEM",
+        "state": "AZ",
+        "indiv_total": 1336617.0,
+        "pac_receipts_summary": 13550.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00793687",
+            "pac_name": "DEMOCRACY ON THE LINE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00878165",
+            "pac_name": "ANIMAL PROTECTION PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00139659",
+            "pac_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "total_amt": 350.0,
+            "direct_amt": 350.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 849,
+        "oos_donors": 624,
+        "oos_total": 954118.0
+    },
+    "opposition": []
+}

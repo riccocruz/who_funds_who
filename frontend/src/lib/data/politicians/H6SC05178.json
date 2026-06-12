@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HARPER, ALEX",
+        "party": "DEM",
+        "state": "SC",
+        "indiv_total": 22561.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00902569",
+            "pac_name": "OHIO ERIE PAC",
+            "total_amt": 920.0,
+            "direct_amt": 0.0,
+            "ie_amt": 920.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 17,
+        "oos_donors": 3,
+        "oos_total": 5400.0
+    },
+    "opposition": []
+}

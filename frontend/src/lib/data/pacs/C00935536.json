@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "NORTH GEORGIANS FOR OUR CONSERVATIVE FUTURE PAC",
+        "committee_type": "O",
+        "total_receipts": 25500.0,
+        "indiv_contrib": 500.0,
+        "total_spent": 25500.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0GA14030",
+            "cand_name": "FULLER, CLAY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 23500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 23500.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0GA14030",
+            "pac_name": "LAKESIDE POLITICAL GROUP LLC",
+            "total_amt": 23500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00935536"
+}

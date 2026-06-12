@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "THE INSTITUTE OF INTERNAL AUDITORS  POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 18233.0,
+        "indiv_contrib": 18233.0,
+        "total_spent": 2000.0,
+        "cash_on_hand": 22968.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4VA08224",
+            "cand_name": "BEYER, DONALD STERNOFF JR.",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09179",
+            "cand_name": "SOTO, DARREN",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL09070",
+            "cand_name": "BILIRAKIS, GUS M",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00823302"
+}

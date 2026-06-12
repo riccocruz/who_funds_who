@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "RENASANT BANK EMPLOYEES' VOLUNTARY POLITICAL COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 31924.0,
+        "indiv_contrib": 31924.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 43779.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00114447",
+            "pac_name": "TENNESSEE BANKERS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00367094",
+            "pac_name": "ALABAMA BANKERS ASSOCIATION, INC. PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00191759"
+}

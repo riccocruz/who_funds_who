@@ -1,0 +1,456 @@
+{
+    "pac": {
+        "name": "CLUB FOR GROWTH PAC",
+        "committee_type": "Q",
+        "total_receipts": 441179.0,
+        "indiv_contrib": 432631.0,
+        "total_spent": 548675.0,
+        "cash_on_hand": 340211.0
+    },
+    "stats": {
+        "candidates_funded": 26
+    },
+    "recipients": [
+        {
+            "cand_id": "H2PA04135",
+            "cand_name": "PERRY, SCOTT",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 103776.0,
+            "direct_amt": 22399.0,
+            "ie_amt": 24737.0,
+            "bundled_amt": 56640.0
+        },
+        {
+            "cand_id": "H0WI03159",
+            "cand_name": "EBBEN, JESSI",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 73152.0,
+            "direct_amt": 27222.0,
+            "ie_amt": 22080.0,
+            "bundled_amt": 23850.0
+        },
+        {
+            "cand_id": "H2AZ01354",
+            "cand_name": "CRANE, ELI",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 66426.0,
+            "direct_amt": 5552.0,
+            "ie_amt": 15784.0,
+            "bundled_amt": 45090.0
+        },
+        {
+            "cand_id": "H0FL13158",
+            "cand_name": "PAULINA LUNA, ANNA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 59223.0,
+            "direct_amt": 5002.0,
+            "ie_amt": 11966.0,
+            "bundled_amt": 42255.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 41614.0,
+            "direct_amt": 8605.0,
+            "ie_amt": 15784.0,
+            "bundled_amt": 17225.0
+        },
+        {
+            "cand_id": "H6TX10221",
+            "cand_name": "GOBER, CHRIS",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 39767.0,
+            "direct_amt": 21459.0,
+            "ie_amt": 7808.0,
+            "bundled_amt": 10500.0
+        },
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 38547.0,
+            "direct_amt": 4970.0,
+            "ie_amt": 8327.0,
+            "bundled_amt": 25250.0
+        },
+        {
+            "cand_id": "H6TX02244",
+            "cand_name": "BONCK, JON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 29911.0,
+            "direct_amt": 21603.0,
+            "ie_amt": 7808.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H6AZ05265",
+            "cand_name": "LAMB, MARK",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 25101.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 5001.0,
+            "bundled_amt": 13100.0
+        },
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 21000.0,
+            "direct_amt": 10500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 10500.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 20073.0,
+            "direct_amt": 9724.0,
+            "ie_amt": 9849.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 12276.0,
+            "direct_amt": 7275.0,
+            "ie_amt": 5001.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TN05446",
+            "cand_name": "OGLES, ANDY",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 11889.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3639.0,
+            "bundled_amt": 8250.0
+        },
+        {
+            "cand_id": "H0GA14030",
+            "cand_name": "FULLER, CLAY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 8795.0,
+            "direct_amt": 8795.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ06045",
+            "cand_name": "SCHWEIKERT, DAVID S.",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 8707.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7457.0,
+            "bundled_amt": 1250.0
+        },
+        {
+            "cand_id": "H0SC01394",
+            "cand_name": "MACE, NANCY",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 8539.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3639.0,
+            "bundled_amt": 4900.0
+        },
+        {
+            "cand_id": "S6WY00209",
+            "cand_name": "HAGEMAN, HARRIET",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 7651.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5001.0,
+            "bundled_amt": 2650.0
+        },
+        {
+            "cand_id": "H8TX21307",
+            "cand_name": "ROY, CHIP",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 7368.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3818.0,
+            "bundled_amt": 3550.0
+        },
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 7245.0,
+            "direct_amt": 6995.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        },
+        {
+            "cand_id": "H6LA05234",
+            "cand_name": "MIGUEZ, BLAKE",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 5250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 5250.0
+        },
+        {
+            "cand_id": "H6TX21301",
+            "cand_name": "TEIXEIRA, MARK CHARLES",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5025.0,
+            "direct_amt": 4775.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        },
+        {
+            "cand_id": "H2FL07156",
+            "cand_name": "MILLS, CORY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 4889.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3639.0,
+            "bundled_amt": 1250.0
+        },
+        {
+            "cand_id": "S6LA00540",
+            "cand_name": "MIGUEZ, BLAKE",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 3500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 3500.0
+        },
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 3500.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WY00166",
+            "cand_name": "HAGEMAN, HARRIET",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 2725.0,
+            "direct_amt": 2725.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2000.0
+        },
+        {
+            "cand_id": "S4AR00103",
+            "cand_name": "COTTON, THOMAS",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S0KY00156",
+            "cand_name": "PAUL, RAND",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        },
+        {
+            "cand_id": "S4IN00196",
+            "cand_name": "BANKS, JAMES E. HON.",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 500.0
+        },
+        {
+            "cand_id": "H8CA04152",
+            "cand_name": "MCCLINTOCK, THOMAS",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 130.0,
+            "direct_amt": 130.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 24737.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H0WI03159",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 22080.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H2AK01083",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 15784.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H2AZ01354",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 15784.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H0FL13158",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 11966.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 9849.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6NE00129",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 8327.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6TX02244",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 7808.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX10221",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 7808.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4AZ06045",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 7457.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H6AZ05265",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 5001.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6AL00476",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 5001.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6WY00209",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 5001.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8TX21307",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 3818.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0SC01394",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 3639.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2FL07156",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 3639.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2TN05446",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 3639.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00838698",
+            "pac_name": "TEAM NUNN",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00432260"
+}

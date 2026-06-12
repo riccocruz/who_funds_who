@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "CROSSWELL, RYAN",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 1691579.0,
+        "pac_receipts_summary": 22250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1093,
+        "oos_donors": 788,
+        "oos_total": 1049127.0
+    },
+    "opposition": []
+}

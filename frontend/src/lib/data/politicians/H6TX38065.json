@@ -1,0 +1,94 @@
+{
+    "politician": {
+        "cand_name": "DEZEVALLOS, SHELLY",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 568654.0,
+        "pac_receipts_summary": 51000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00559740",
+            "pac_name": "GOPAC ELECTION FUND",
+            "total_amt": 114916.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 112416.0
+        },
+        {
+            "cmte_id": "C00327189",
+            "pac_name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00319723",
+            "pac_name": "NATIONAL BUSINESS AVIATION ASSOCIATION INC POLITICAL ACTION COMMITTEE (NBAA-PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00698936",
+            "pac_name": "WFW ACTION FUND INC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00250027",
+            "pac_name": "KIRBY CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00749481",
+            "pac_name": "RAPTOR PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786368",
+            "pac_name": "31 DAYS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00359034",
+            "pac_name": "SHELLY FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00341602",
+            "pac_name": "SOUTHWEST AIRLINES CO. POLITICAL ACTION COMMITTEE (SWAPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00510016",
+            "pac_name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 245,
+        "oos_donors": 32,
+        "oos_total": 54079.0
+    },
+    "opposition": []
+}

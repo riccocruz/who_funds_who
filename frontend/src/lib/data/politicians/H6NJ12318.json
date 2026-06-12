@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "VAINGANKAR, JAY",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 248660.0,
+        "pac_receipts_summary": 5500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00536615",
+            "pac_name": "HINDU AMERICAN POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00798900",
+            "pac_name": "JAY VAINGANKAR FOR CONGRESS",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 149,
+        "oos_donors": 93,
+        "oos_total": 62395.0
+    },
+    "opposition": []
+}

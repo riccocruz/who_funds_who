@@ -1,0 +1,160 @@
+{
+    "pac": {
+        "name": "VOYA FINANCIAL, INC., POLITICAL ACTION COMMITTEE (VOYA FINANCIAL PAC)",
+        "committee_type": "Q",
+        "total_receipts": 49194.0,
+        "indiv_contrib": 49194.0,
+        "total_spent": 96700.0,
+        "cash_on_hand": 257549.0
+    },
+    "stats": {
+        "candidates_funded": 10
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NE00173",
+            "cand_name": "PETE RICKETTS FOR SENATE",
+            "party": null,
+            "state": null,
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4DE00060",
+            "cand_name": "BLUNT ROCHESTER, LISA",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4SC00240",
+            "cand_name": "SCOTT, TIMOTHY E.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2AL00145",
+            "cand_name": "BRITT, KATIE BOYD",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI04183",
+            "cand_name": "MOORE, GWEN S",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NV00200",
+            "cand_name": "CORTEZ MASTO, CATHERINE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA10147",
+            "cand_name": "MEUSER, DANIEL",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY10092",
+            "cand_name": "JEFFRIES, HAKEEM",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00105981",
+            "pac_name": "INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE (ICI PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00147066",
+            "pac_name": "AMERICAN COUNCIL OF LIFE INSURERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00153171",
+            "pac_name": "AMERICAN BENEFITS COUNCIL POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00333104",
+            "pac_name": "THE AMERICAN SOCIETY OF PENSION PROFESSIONALS AND ACTUARIES POLITICAL ACTION COMMITTEE (ASPPA-NAPA PAC) A/K/A AMERICAN RETIREMENT ASSOCIATION POLITICAL ACTION COMMITTEE (ARA PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00431312",
+            "pac_name": "SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00457366",
+            "pac_name": "SELF-INSURANCE INSTITUTE OF AMERICA, INC. PAC (SELF-INSURANCE PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00699140",
+            "pac_name": "LSTA, INC. PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00184028"
+}

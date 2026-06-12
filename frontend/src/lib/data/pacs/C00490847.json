@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "WORKING FOR WORKING AMERICANS - FEDERAL",
+        "committee_type": "O",
+        "total_receipts": 10387607.0,
+        "indiv_contrib": 10387607.0,
+        "total_spent": 2322162.0,
+        "cash_on_hand": 10113363.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 1000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 1000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00923813",
+            "pac_name": "FAMILIES FOR AN AFFORDABLE SAN FRANCISCO",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00751503",
+            "pac_name": "NEW LEADERSHIP PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00918268",
+            "pac_name": "LONE STAR RISING PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00490847"
+}

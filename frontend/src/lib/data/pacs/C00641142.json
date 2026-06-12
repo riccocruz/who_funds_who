@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "AMERICANS FOR LEGISLATING EXCELLENCE PAC",
+        "committee_type": "Q",
+        "total_receipts": 39325.0,
+        "indiv_contrib": 34311.0,
+        "total_spent": 28420.0,
+        "cash_on_hand": 22968.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8VA06104",
+            "cand_name": "CLINE, BENJAMIN LEE",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TN05446",
+            "cand_name": "OGLES, ANDY",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 750.0,
+            "direct_amt": 750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CO03165",
+            "cand_name": "BOEBERT, LAUREN",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 750.0,
+            "direct_amt": 750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 0.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00641142"
+}

@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "GROUNDWORK PROJECT PAC",
+        "committee_type": "W",
+        "total_receipts": 302380.0,
+        "indiv_contrib": 56069.0,
+        "total_spent": 202887.0,
+        "cash_on_hand": 166256.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MS00133",
+            "cand_name": "COLOM, SCOTT",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MS01313",
+            "cand_name": "JOHNSON, CLIFF",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00149641",
+            "pac_name": "MISSISSIPPI DEMOCRATIC PARTY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00543504"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "THE 218 PROJECT",
+        "committee_type": "O",
+        "total_receipts": 814176.0,
+        "indiv_contrib": 524176.0,
+        "total_spent": 808192.0,
+        "cash_on_hand": 5984.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NJ11245",
+            "cand_name": "MALINOWSKI, TOM",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 734274.0,
+            "direct_amt": 0.0,
+            "ie_amt": 734274.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NJ11245",
+            "pac_name": "LCX MEDIA, LLC",
+            "total_amt": 734274.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00915520"
+}

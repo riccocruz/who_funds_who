@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "TEAMSTERS JOINT COUNCIL 53 POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 51294.0,
+        "indiv_contrib": 32222.0,
+        "total_spent": 38100.0,
+        "cash_on_hand": 58378.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4PA13199",
+            "cand_name": "BOYLE, BRENDAN F",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 17771.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00094904",
+            "pac_name": "LOCAL 500 PAC",
+            "total_amt": 1300.0,
+            "tx_count": 15
+        }
+    ],
+    "cmte_id": "C00178541"
+}

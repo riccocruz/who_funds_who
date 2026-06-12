@@ -1,0 +1,101 @@
+{
+    "pac": {
+        "name": "DEMOCRACY PAC",
+        "committee_type": "O",
+        "total_receipts": 102357828.0,
+        "indiv_contrib": 102000000.0,
+        "total_spent": 33244711.0,
+        "cash_on_hand": 72852057.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 9000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00741769",
+            "pac_name": "STRATEGIC VICTORY FUND IE PAC",
+            "total_amt": 5000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00492140",
+            "pac_name": "AB PAC",
+            "total_amt": 4000000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 3000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00815753",
+            "pac_name": "J STREET ACTION FUND",
+            "total_amt": 2250000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 2000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00812495",
+            "pac_name": "STATE + LOCAL ELECTION ALLIANCE",
+            "total_amt": 1050000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00693515",
+            "pac_name": "FAIR FIGHT",
+            "total_amt": 1000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00885491",
+            "pac_name": "DEMOCRACY DEFENDERS PAC",
+            "total_amt": 1000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00651505",
+            "pac_name": "JUSTICE & PUBLIC SAFETY PAC",
+            "total_amt": 529000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00941021",
+            "pac_name": "FULCRUM PAC",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00915520",
+            "pac_name": "THE 218 PROJECT",
+            "total_amt": 275000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00934851",
+            "pac_name": "OUR VIRGINIA",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00516500",
+            "pac_name": "POWERPACPLUS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00693382"
+}

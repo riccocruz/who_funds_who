@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "GRAND TRUNK WESTERN RAILROAD CO- ILLINOIS CENTRAL RAILROAD CO GTW-IC PAC (CN PAC)",
+        "committee_type": "Q",
+        "total_receipts": 38982.0,
+        "indiv_contrib": 38982.0,
+        "total_spent": 20500.0,
+        "cash_on_hand": 22327.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO08162",
+            "cand_name": "SMITH, JASON T",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI06048",
+            "cand_name": "GROTHMAN, GLENN S.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00410621",
+            "pac_name": "SHOW-ME POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00536540",
+            "pac_name": "JOBS, FREEDOM, AND SECURITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00095117"
+}

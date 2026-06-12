@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DEFEND DEMOCRACY NOW PAC",
+        "committee_type": "N",
+        "total_receipts": 1066106.0,
+        "indiv_contrib": 1066106.0,
+        "total_spent": 960500.0,
+        "cash_on_hand": 399576.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00409730",
+            "pac_name": "NEW DEMOCRAT COALITION ACTION FUND",
+            "total_amt": 230000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00901306",
+            "pac_name": "STOP THE CHAOS PAC",
+            "total_amt": 45000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00844795"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "DISRUPT",
+        "committee_type": "N",
+        "total_receipts": 386522.0,
+        "indiv_contrib": 384984.0,
+        "total_spent": 321672.0,
+        "cash_on_hand": 64851.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 9375.0,
+            "direct_amt": 0.0,
+            "ie_amt": 9375.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00479",
+            "pac_name": "NORTH SHORE STRATEGIES",
+            "total_amt": 9375.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00886549",
+            "pac_name": "DISRUPT PROJECT 2025",
+            "total_amt": 538.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00895011"
+}

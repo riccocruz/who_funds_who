@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "JOSH RILEY VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 242784.0,
+        "indiv_contrib": 242770.0,
+        "total_spent": 247287.0,
+        "cash_on_hand": 25107.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00914283",
+            "pac_name": "SQUARE DEAL PAC",
+            "total_amt": 84417.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00143230",
+            "pac_name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+            "total_amt": 68434.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00860270"
+}

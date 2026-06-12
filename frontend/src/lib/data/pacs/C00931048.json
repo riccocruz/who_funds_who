@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "STRONGER ILLINOIS PAC",
+        "committee_type": "O",
+        "total_receipts": 358800.0,
+        "indiv_contrib": 203800.0,
+        "total_spent": 353749.0,
+        "cash_on_hand": 5051.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL07339",
+            "cand_name": "FRIEDMAN, JASON",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 348441.0,
+            "direct_amt": 0.0,
+            "ie_amt": 348441.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL07339",
+            "pac_name": "THEMATIC CAMPAIGNS",
+            "total_amt": 348441.0,
+            "tx_count": 12
+        }
+    ],
+    "cmte_id": "C00931048"
+}

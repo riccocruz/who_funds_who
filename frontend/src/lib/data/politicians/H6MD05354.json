@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WILLIAMS, NICOLE",
+        "party": "DEM",
+        "state": "MD",
+        "indiv_total": 46165.0,
+        "pac_receipts_summary": 5449.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00250753",
+            "pac_name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 74,
+        "oos_donors": 11,
+        "oos_total": 4410.0
+    },
+    "opposition": []
+}

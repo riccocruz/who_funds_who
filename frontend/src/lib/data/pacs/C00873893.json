@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
+        "committee_type": "N",
+        "total_receipts": 87980387.0,
+        "indiv_contrib": 87555049.0,
+        "total_spent": 86012244.0,
+        "cash_on_hand": 22670021.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 24456718.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00783167",
+            "pac_name": "WORKING FOR OHIO",
+            "total_amt": 1405445.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00873893"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "GOODEN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 715000.0,
+        "indiv_contrib": 703000.0,
+        "total_spent": 715000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX05144",
+            "cand_name": "GOODEN, LANCE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 116206.0,
+            "direct_amt": 116206.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00685115",
+            "pac_name": "GROWING OUR OWN DYNAMIC ECONOMY NOW",
+            "total_amt": 215316.0,
+            "tx_count": 15
+        }
+    ],
+    "cmte_id": "C00764126"
+}

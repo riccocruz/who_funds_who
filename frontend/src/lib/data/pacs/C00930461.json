@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "WRANGLER PAC",
+        "committee_type": "N",
+        "total_receipts": 18000.0,
+        "indiv_contrib": 3000.0,
+        "total_spent": 15030.0,
+        "cash_on_hand": 2970.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00930479",
+            "pac_name": "COLTON VICTORY FUND",
+            "total_amt": 15000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00930461"
+}

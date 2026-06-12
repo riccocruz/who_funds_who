@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "WELLMARK, INC. PAC (WELLPAC)",
+        "committee_type": "Q",
+        "total_receipts": 119811.0,
+        "indiv_contrib": 119811.0,
+        "total_spent": 97279.0,
+        "cash_on_hand": 52392.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8SD01055",
+            "cand_name": "JOHNSON, DUSTY",
+            "party": "REP",
+            "state": "SD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00342022"
+}

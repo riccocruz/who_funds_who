@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "HAMAWY, ADAM",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 537915.0,
+        "pac_receipts_summary": 9050.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 4511.0,
+            "direct_amt": 4511.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 430,
+        "oos_donors": 123,
+        "oos_total": 139823.0
+    },
+    "opposition": []
+}

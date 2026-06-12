@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PETREY, ERIN",
+        "party": "DEM",
+        "state": "KY",
+        "indiv_total": 183535.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 169,
+        "oos_donors": 128,
+        "oos_total": 82658.0
+    },
+    "opposition": []
+}

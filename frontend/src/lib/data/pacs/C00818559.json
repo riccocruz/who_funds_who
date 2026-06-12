@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "FINSTAD VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 211145.0,
+        "indiv_contrib": 208145.0,
+        "total_spent": 197270.0,
+        "cash_on_hand": 19000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00818542",
+            "pac_name": "FIELD OF DREAMS PAC",
+            "total_amt": 30938.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00512673",
+            "pac_name": "C.H. ROBINSON WORLDWIDE INC. PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00839340",
+            "pac_name": "HUMANETICS CORPORATION PAC",
+            "total_amt": 1500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00818559"
+}

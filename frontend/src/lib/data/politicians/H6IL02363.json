@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "PRESTON, WILLIE JUNIOR MR",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 134131.0,
+        "pac_receipts_summary": 12000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00576215",
+            "pac_name": "CHARTER SCHOOLS ACTION PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00121368",
+            "pac_name": "EXXON MOBIL CORPORATION POLITICAL ACTION COMMITTEE (EXXONMOBIL PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00760736",
+            "pac_name": "RESIST RECLAIM REBUILD PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00342113",
+            "pac_name": "DYKEMA GOSSETT FEDERAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00308460",
+            "pac_name": "A BRTHD AIMED TOWARD EDUC OF IL FED ELEC DEVICE FOR POLITICALLY ACTIVE MOTORCYCLISTS...",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00376590",
+            "pac_name": "ILLINOIS CORN GROWERS ASSOCIATION POLITICAL INVOLVEMENT FUND-FEDERAL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 106,
+        "oos_donors": 9,
+        "oos_total": 8591.0
+    },
+    "opposition": []
+}

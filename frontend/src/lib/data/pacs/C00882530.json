@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FONG VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 799260.0,
+        "indiv_contrib": 799260.0,
+        "total_spent": 743775.0,
+        "cash_on_hand": 55985.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 529149.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00881490",
+            "pac_name": "FOR OUR NATION'S GREATNESS, RESILIENCE, EXCELLENCE, STRENGTH, AND SECURITY (FONGRESS) PAC",
+            "total_amt": 21082.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00882530"
+}

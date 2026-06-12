@@ -1,0 +1,126 @@
+{
+    "pac": {
+        "name": "CONSERVATIVES FOR AMERICAN EXCELLENCE INC.",
+        "committee_type": "O",
+        "total_receipts": 6763430.0,
+        "indiv_contrib": 2222016.0,
+        "total_spent": 5006470.0,
+        "cash_on_hand": 2749651.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX21301",
+            "cand_name": "TEIXEIRA, MARK CHARLES",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 630056.0,
+            "direct_amt": 0.0,
+            "ie_amt": 630056.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA14030",
+            "cand_name": "FULLER, CLAY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 540704.0,
+            "direct_amt": 0.0,
+            "ie_amt": 540704.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX10221",
+            "cand_name": "GOBER, CHRIS",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 468778.0,
+            "direct_amt": 0.0,
+            "ie_amt": 468778.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 297314.0,
+            "direct_amt": 0.0,
+            "ie_amt": 297314.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX19206",
+            "cand_name": "SELL, TOM",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 206920.0,
+            "direct_amt": 0.0,
+            "ie_amt": 206920.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 59056.0,
+            "direct_amt": 0.0,
+            "ie_amt": 59056.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "MHB MEDIA INC.",
+            "total_amt": 766512.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TX21301",
+            "pac_name": "FLEXPOINT MEDIA",
+            "total_amt": 630056.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H0GA14030",
+            "pac_name": "MHB MEDIA INC.",
+            "total_amt": 540704.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TX10221",
+            "pac_name": "FLEXPOINT MEDIA",
+            "total_amt": 468778.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "H6TN07203",
+            "pac_name": "MHB MEDIA INC.",
+            "total_amt": 312395.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "MHB MEDIA INC.",
+            "total_amt": 297314.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H6TX19206",
+            "pac_name": "ASCENT MEDIA LLC",
+            "total_amt": 206920.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "DTC MESSAGING",
+            "total_amt": 59056.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00835967"
+}

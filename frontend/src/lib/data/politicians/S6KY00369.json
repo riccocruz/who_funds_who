@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ROMANS, DALE",
+        "party": "DEM",
+        "state": "KY",
+        "indiv_total": 598256.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00592485",
+            "pac_name": "THE JOCKEY CLUB PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 239,
+        "oos_donors": 165,
+        "oos_total": 371120.0
+    },
+    "opposition": []
+}

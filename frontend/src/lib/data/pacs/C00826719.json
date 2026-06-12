@@ -1,0 +1,59 @@
+{
+    "pac": {
+        "name": "THE BIPARTISAN NETWORK PAC",
+        "committee_type": "O",
+        "total_receipts": 1515000.0,
+        "indiv_contrib": 1500000.0,
+        "total_spent": 1584157.0,
+        "cash_on_hand": 1493357.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00559740",
+            "pac_name": "GOPAC ELECTION FUND",
+            "total_amt": 70000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00892919",
+            "pac_name": "V-PAC: VICTORS, NOT VICTIMS",
+            "total_amt": 60000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00657866",
+            "pac_name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00864785",
+            "pac_name": "IN THIS TOGETHER PAC",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00907691",
+            "pac_name": "REPUBLICAN FORWARD",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00854059",
+            "pac_name": "ONE GIANT LEAP PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00874370",
+            "pac_name": "MISSION IOWA",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00826719"
+}

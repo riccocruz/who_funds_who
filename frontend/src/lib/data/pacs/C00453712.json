@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "YOLO COUNTY DEMOCRATIC CENTRAL COMMITTEE - FEDERAL ACCOUNT",
+        "committee_type": "X",
+        "total_receipts": 28914.0,
+        "indiv_contrib": 10978.0,
+        "total_spent": 21210.0,
+        "cash_on_hand": 25940.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CA01109",
+            "cand_name": "THOMPSON, MIKE MR.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA01269",
+            "cand_name": "MCGUIRE, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00491050",
+            "pac_name": "DAVIS DEMOCRATIC CLUB",
+            "total_amt": 2703.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00453712"
+}

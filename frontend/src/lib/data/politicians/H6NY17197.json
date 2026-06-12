@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SULLIVAN, JOHN",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 449881.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00838052",
+            "pac_name": "ABLE DEMS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 280,
+        "oos_donors": 202,
+        "oos_total": 208532.0
+    },
+    "opposition": []
+}

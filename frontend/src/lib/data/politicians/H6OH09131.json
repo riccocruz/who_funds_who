@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "WILLIAMS, JOSH",
+        "party": "REP",
+        "state": "OH",
+        "indiv_total": 837466.0,
+        "pac_receipts_summary": 14300.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00924266",
+            "pac_name": "AMERICAN DREAM OHIO PAC",
+            "total_amt": 45000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 45000.0
+        },
+        {
+            "cmte_id": "C00847087",
+            "pac_name": "MOUNTAINEER PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00607374",
+            "pac_name": "ELBERT GUILLORY'S AMERICA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 303,
+        "oos_donors": 171,
+        "oos_total": 123717.0
+    },
+    "opposition": []
+}

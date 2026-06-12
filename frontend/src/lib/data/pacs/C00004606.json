@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "KANSAS REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 443229.0,
+        "indiv_contrib": 313396.0,
+        "total_spent": 418665.0,
+        "cash_on_hand": 36762.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 67781.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 32736.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00758433",
+            "pac_name": "GREAT PLAINS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00040220",
+            "pac_name": "TENNESSEE REPUBLICAN PARTY FEDERAL ELECTION ACCOUNT",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00632711",
+            "pac_name": "TEAM ESTES",
+            "total_amt": 945.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00004606"
+}

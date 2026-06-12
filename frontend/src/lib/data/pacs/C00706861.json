@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "MARK KELLY VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 394184.0,
+        "indiv_contrib": 389934.0,
+        "total_spent": 358453.0,
+        "cash_on_hand": 185903.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00166710",
+            "pac_name": "ARIZONA DEMOCRATIC PARTY",
+            "total_amt": 83187.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00785816",
+            "pac_name": "LIFTOFF PAC",
+            "total_amt": 79454.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00893917",
+            "pac_name": "COMMERCIAL SPACE FEDERATION PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00890889",
+            "pac_name": "CONGRESS MAJORITY PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00706861"
+}

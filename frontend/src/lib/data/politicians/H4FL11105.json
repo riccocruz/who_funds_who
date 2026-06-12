@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HALL, BARBARA BARBIE HARDEN",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 16345.0,
+        "pac_receipts_summary": 200.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00847137",
+            "pac_name": "ENGAGE Y'ALL PAC",
+            "total_amt": 200.0,
+            "direct_amt": 200.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 15,
+        "oos_donors": 1,
+        "oos_total": 250.0
+    },
+    "opposition": []
+}

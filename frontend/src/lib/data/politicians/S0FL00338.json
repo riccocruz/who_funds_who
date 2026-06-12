@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "RUBIO, MARCO",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 11056.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00105338",
+            "pac_name": "FOLEY & LARDNER POLITICAL FUND, INC.",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00498154",
+            "pac_name": "PRIVATE CARE ASSOCIATION POLITICAL ACTION COMMITTEE, THE",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00245548",
+            "pac_name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION AND MARINE RETAILERS ASSOCIATION BOAT PAC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00360008",
+            "pac_name": "NATIONAL THOROUGHBRED RACING ASSOCIATION POLITICAL ACTION COMMITTEE/HORSE PAC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00196089",
+            "pac_name": "THE ESOP ASSOCIATION PAC",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 452,
+        "oos_donors": 325,
+        "oos_total": 36354.0
+    },
+    "opposition": []
+}

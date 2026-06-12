@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA EMPLOYEE POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 209635.0,
+        "indiv_contrib": 207135.0,
+        "total_spent": 122798.0,
+        "cash_on_hand": 155944.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "ROSS, DEBORAH",
+            "party": null,
+            "state": null,
+            "total_amt": 9500.0,
+            "direct_amt": 9500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4NC00162",
+            "cand_name": "TILLIS, THOM R SEN",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00503003",
+            "pac_name": "BLUECROSS BLUESHIELD OF TENNESSEE INC POLITICAL ACTION COMMITTEE (BCBSTN PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00312223"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "CENTER FORWARD COMMITTEE",
+        "committee_type": "O",
+        "total_receipts": 2325600.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 660078.0,
+        "cash_on_hand": 1668314.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 629749.0,
+            "direct_amt": 0.0,
+            "ie_amt": 629749.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6MN00499",
+            "pac_name": "AD BEAT STRATEGIES",
+            "total_amt": 629749.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00568444"
+}

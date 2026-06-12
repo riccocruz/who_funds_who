@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "TURNING POINT PAC INC.",
+        "committee_type": "W",
+        "total_receipts": 4217313.0,
+        "indiv_contrib": 2801891.0,
+        "total_spent": 3263036.0,
+        "cash_on_hand": 1203582.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00302",
+            "cand_name": "MORRIS, NATE",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 16334.0,
+            "direct_amt": 0.0,
+            "ie_amt": 16334.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "1TEN LLC",
+            "total_amt": 16334.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00814152"
+}

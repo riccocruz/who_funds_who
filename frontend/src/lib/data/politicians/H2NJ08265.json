@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "VARELA, BRIAN",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 705297.0,
+        "pac_receipts_summary": 5101.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00250753",
+            "pac_name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00562777",
+            "pac_name": "LATINO VICTORY FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 285,
+        "oos_donors": 129,
+        "oos_total": 248315.0
+    },
+    "opposition": []
+}

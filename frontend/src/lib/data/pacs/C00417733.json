@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "DEMOCRATS FOR EDUCATION REFORM",
+        "committee_type": "Q",
+        "total_receipts": 94696.0,
+        "indiv_contrib": 26300.0,
+        "total_spent": 85490.0,
+        "cash_on_hand": 38216.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY13096",
+            "cand_name": "ESPAILLAT, ADRIANO",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4LA06211",
+            "cand_name": "FIELDS, CLEO",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR01133",
+            "cand_name": "BONAMICI, SUZANNE MS.",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00417733"
+}

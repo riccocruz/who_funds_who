@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MCDOWELL VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 232950.0,
+        "indiv_contrib": 232950.0,
+        "total_spent": 197928.0,
+        "cash_on_hand": 35022.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00874362",
+            "pac_name": "AMERICAN DREAM DELIVERED",
+            "total_amt": 59386.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 50958.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00905497"
+}

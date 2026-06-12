@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BUDD NC VICTORY FUND 2028",
+        "committee_type": "N",
+        "total_receipts": 100542.0,
+        "indiv_contrib": 100542.0,
+        "total_spent": 86248.0,
+        "cash_on_hand": 32707.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00038505",
+            "pac_name": "NORTH CAROLINA REPUBLICAN PARTY",
+            "total_amt": 8445.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00633818",
+            "pac_name": "OLD NORTH STATE PAC",
+            "total_amt": 2264.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00832816"
+}

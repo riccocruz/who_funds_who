@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "DT MIDSTREAM HOLDINGS, LLC PAC",
+        "committee_type": "Q",
+        "total_receipts": 35760.0,
+        "indiv_contrib": 35760.0,
+        "total_spent": 48550.0,
+        "cash_on_hand": 72380.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8WV03097",
+            "cand_name": "MILLER, CAROL DEVINE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00116145",
+            "pac_name": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00007450",
+            "pac_name": "AMERICAN GAS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00771667"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "BOLD AMERICA",
+        "committee_type": "O",
+        "total_receipts": 821497.0,
+        "indiv_contrib": 200005.0,
+        "total_spent": 313446.0,
+        "cash_on_hand": 672121.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX29052",
+            "cand_name": "GARCIA, SYLVIA R",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 270000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 270000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00860163",
+            "pac_name": "DEMOCRATS 2024",
+            "total_amt": 550000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8TX29052",
+            "pac_name": "CT-IMPACT LLC",
+            "total_amt": 270000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00854299"
+}

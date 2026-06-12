@@ -1,0 +1,152 @@
+{
+    "pac": {
+        "name": "ARIZONA DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 1981857.0,
+        "indiv_contrib": 855659.0,
+        "total_spent": 3461232.0,
+        "cash_on_hand": 551065.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AZ02184",
+            "cand_name": "NEZ, JONATHAN MICHAEL",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 4243.0,
+            "direct_amt": 4243.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ05240",
+            "cand_name": "LEE, ELIZABETH",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1061.0,
+            "direct_amt": 1061.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ01314",
+            "cand_name": "GORDON, MARK ROBERT",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1061.0,
+            "direct_amt": 1061.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ01306",
+            "cand_name": "MCCARTNEY, RICK",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1061.0,
+            "direct_amt": 1061.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ05208",
+            "cand_name": "BRACHT, BLAKE",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 353.0,
+            "direct_amt": 353.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00909655",
+            "pac_name": "NAVAJO COUNTY DEMOCRATIC COMMITTEE",
+            "total_amt": 647509.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 324847.0,
+            "tx_count": 43
+        },
+        {
+            "cmte_id": "C00706861",
+            "pac_name": "MARK KELLY VICTORY FUND",
+            "total_amt": 83187.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00848317",
+            "pac_name": "GALLEGO VICTORY FUND",
+            "total_amt": 61378.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 15200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 5061.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00238725",
+            "pac_name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00401299",
+            "pac_name": "FRESENIUS MEDICAL CARE HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00842104",
+            "pac_name": "FIGHT LIKE HELL PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00892752",
+            "pac_name": "JUNTOS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00785816",
+            "pac_name": "LIFTOFF PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00893917",
+            "pac_name": "COMMERCIAL SPACE FEDERATION PAC",
+            "total_amt": 1166.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00166710"
+}

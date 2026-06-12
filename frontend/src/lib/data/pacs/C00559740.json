@@ -1,0 +1,164 @@
+{
+    "pac": {
+        "name": "GOPAC ELECTION FUND",
+        "committee_type": "W",
+        "total_receipts": 11831511.0,
+        "indiv_contrib": 56015.0,
+        "total_spent": 11809988.0,
+        "cash_on_hand": 75249.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX34080",
+            "cand_name": "FLORES, ERIC",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 161890.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 159390.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX38065",
+            "cand_name": "DEZEVALLOS, SHELLY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 114916.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 112416.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX35053",
+            "cand_name": "LUJAN, JOHN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 112916.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 110416.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX21301",
+            "cand_name": "TEIXEIRA, MARK CHARLES",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 40500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 38000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07187",
+            "cand_name": "REEVES, LEE BRIAN MR. JR.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 35786.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 30786.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA10175",
+            "cand_name": "GAINES, HOUSTON",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0OK05205",
+            "cand_name": "BICE, STEPHANIE",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX34080",
+            "pac_name": "BULLHORN COMMUNICATIONS",
+            "total_amt": 159390.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TX38065",
+            "pac_name": "BULLHORN COMMUNICATIONS",
+            "total_amt": 112416.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TX35053",
+            "pac_name": "BULLHORN COMMUNICATIONS",
+            "total_amt": 110416.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TX21301",
+            "pac_name": "BULLHORN COMMUNICATIONS",
+            "total_amt": 38000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TN07187",
+            "pac_name": "RED SURGE STRATEGIES",
+            "total_amt": 30786.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00064766",
+            "pac_name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00219642",
+            "pac_name": "ENTERPRISE HOLDINGS, INC. / ENTERPRISE MOBILITY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00279497",
+            "pac_name": "POLARIS INDUSTRIES POLITICAL PARTICIPATION PROGRAM",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00384818",
+            "pac_name": "CVS HEALTH PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00716704",
+            "pac_name": "PROTECT AND SERVE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00400929",
+            "pac_name": "CENCORA, INC. PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00559740"
+}

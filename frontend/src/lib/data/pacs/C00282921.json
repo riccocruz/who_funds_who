@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "WINSTON & STRAWN LLP POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 12875.0,
+        "indiv_contrib": 12875.0,
+        "total_spent": 16553.0,
+        "cash_on_hand": 199897.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S8ID00027",
+            "cand_name": "CRAPO, MICHAEL D",
+            "party": "REP",
+            "state": "ID",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00415",
+            "cand_name": "WHATLEY, MICHAEL",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1500.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0KS01123",
+            "cand_name": "MANN, TRACEY ROBERT",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00634774",
+            "pac_name": "COMMON SENSE FOR AMERICA PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00282921"
+}

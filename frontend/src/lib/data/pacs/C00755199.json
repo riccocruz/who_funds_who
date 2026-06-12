@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "SAVE AMERICA STOP SOCIALISM PAC",
+        "committee_type": "Q",
+        "total_receipts": 54894.0,
+        "indiv_contrib": 5356.0,
+        "total_spent": 72791.0,
+        "cash_on_hand": 8392.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2KY04121",
+            "cand_name": "MASSIE, THOMAS H.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00766774",
+            "pac_name": "MARJORIE TAYLOR GREENE'S PEOPLE OVER POLITICIANS COMMITTEE",
+            "total_amt": 68644.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00903492",
+            "pac_name": "MTG VICTORY FUND",
+            "total_amt": 7684.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00755199"
+}

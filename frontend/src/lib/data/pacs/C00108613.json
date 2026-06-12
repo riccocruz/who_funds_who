@@ -1,0 +1,100 @@
+{
+    "pac": {
+        "name": "INDIANA DEMOCRATIC CONGRESSIONAL VICTORY COMMITTEE",
+        "committee_type": "Y",
+        "total_receipts": 1372559.0,
+        "indiv_contrib": 286910.0,
+        "total_spent": 1487500.0,
+        "cash_on_hand": 171508.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IN07184",
+            "cand_name": "CARSON, ANDRE",
+            "party": "DEM",
+            "state": "IN",
+            "total_amt": 2860.0,
+            "direct_amt": 1636.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 349750.0,
+            "tx_count": 40
+        },
+        {
+            "cmte_id": "C00167130",
+            "pac_name": "PENNSYLVANIA DEMOCRATIC PARTY",
+            "total_amt": 60000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 59014.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00190934",
+            "pac_name": "OKLAHOMA DEMOCRATIC PARTY",
+            "total_amt": 12000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 6748.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00333534",
+            "pac_name": "CENTERPOINT ENERGY, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00762427",
+            "pac_name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00820969",
+            "pac_name": "MRVAN VICTORY FUND",
+            "total_amt": 4500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00805036",
+            "pac_name": "WIRTH FOR CONGRESS",
+            "total_amt": 200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00108613"
+}

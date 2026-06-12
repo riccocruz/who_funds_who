@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "SCHOLTEN, JAMES",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 199410.0,
+        "pac_receipts_summary": 11005.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "JD SCHOLTEN FOR US SENATE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00555888",
+            "pac_name": "SCHOLTEN FOR IOWA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00566059",
+            "pac_name": "REMEDY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00569871",
+            "pac_name": "DOING RIGHT - RESULTS ACTION UNITY LEADERSHIP PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00669929",
+            "pac_name": "COMMON GOOD PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00791392",
+            "pac_name": "SCHOLTEN FOR IOWA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00880062",
+            "pac_name": "ELECT DEMS NOW PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00363945",
+            "pac_name": "SYNGENTA CORPORATION EMPLOYEE POLITICAL ACTION COMMITTEE",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 158,
+        "oos_donors": 105,
+        "oos_total": 95860.0
+    },
+    "opposition": []
+}

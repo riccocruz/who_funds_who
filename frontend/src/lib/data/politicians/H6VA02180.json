@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "STRICKLER, MATT",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 297587.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00564260",
+            "pac_name": "CLEAN PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 235,
+        "oos_donors": 143,
+        "oos_total": 109424.0
+    },
+    "opposition": []
+}

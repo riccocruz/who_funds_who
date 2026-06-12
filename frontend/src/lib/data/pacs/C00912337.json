@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "RED BRIDGE LEADERSHIP PAC",
+        "committee_type": "O",
+        "total_receipts": 319545.0,
+        "indiv_contrib": 203000.0,
+        "total_spent": 287641.0,
+        "cash_on_hand": 31904.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6OH01138",
+            "cand_name": "CONROY, ERIC",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 187590.0,
+            "direct_amt": 0.0,
+            "ie_amt": 187590.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6OH01138",
+            "pac_name": "TARGETED CREATIVE COMMUNICATIONS INC.",
+            "total_amt": 187590.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "C00912386",
+            "pac_name": "CONROY OHIO VICTORY",
+            "total_amt": 10794.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00912337"
+}

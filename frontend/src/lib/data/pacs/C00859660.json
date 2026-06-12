@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "NEW DEMOCRAT MAJORITY",
+        "committee_type": "O",
+        "total_receipts": 5425034.0,
+        "indiv_contrib": 5425034.0,
+        "total_spent": 4250442.0,
+        "cash_on_hand": 1247387.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL08329",
+            "cand_name": "BEAN, MELISSA LUBURICH",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 935000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 935000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL08329",
+            "pac_name": "OLD TOWN MEDIA LLC",
+            "total_amt": 935000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00859660"
+}

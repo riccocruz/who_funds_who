@@ -1,0 +1,87 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 36955.0,
+        "indiv_contrib": 36955.0,
+        "total_spent": 30792.0,
+        "cash_on_hand": 37508.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00388",
+            "cand_name": "PAXTON, WARREN KENNETH JR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX23120",
+            "cand_name": "HERRERA, BRANDON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX09124",
+            "cand_name": "CAIN, BRISCOE ROWELL III",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2KY04121",
+            "cand_name": "MASSIE, THOMAS H.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA14193",
+            "cand_name": "MOORE, COLTON",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO03238",
+            "cand_name": "SCHEPPELMAN, HOPE G",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX14149",
+            "cand_name": "WEBER, RANDY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00481200"
+}

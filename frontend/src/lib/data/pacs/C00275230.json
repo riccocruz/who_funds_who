@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "ZIONS BANCORPORATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 59639.0,
+        "indiv_contrib": 59639.0,
+        "total_spent": 30250.0,
+        "cash_on_hand": 276319.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AZ06045",
+            "cand_name": "SCHWEIKERT, DAVID S.",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AR02141",
+            "cand_name": "HILL, JAMES FRENCH",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX29052",
+            "cand_name": "GARCIA, SYLVIA R",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX35015",
+            "cand_name": "GONZALES, ERNEST ANTHONY TONY II",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00275230"
+}

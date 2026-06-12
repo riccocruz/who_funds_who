@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "MCKAY, RAYMOND TYLER MR",
+        "party": "REP",
+        "state": "RI",
+        "indiv_total": 137896.0,
+        "pac_receipts_summary": 1600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00794255",
+            "pac_name": "FIGHTING FOR NEW ENGLAND PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00794222",
+            "pac_name": "UNITED FOR LIBERTY PAC",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00345132",
+            "pac_name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "total_amt": 26.0,
+            "direct_amt": 26.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 112,
+        "oos_donors": 96,
+        "oos_total": 50867.0
+    },
+    "opposition": []
+}

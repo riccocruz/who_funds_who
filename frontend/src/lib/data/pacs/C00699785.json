@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "MISES PAC",
+        "committee_type": "V",
+        "total_receipts": 89026.0,
+        "indiv_contrib": 42758.0,
+        "total_spent": 112371.0,
+        "cash_on_hand": 165362.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2KY04121",
+            "cand_name": "MASSIE, THOMAS H.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00255695",
+            "pac_name": "LIBERTARIAN NATIONAL COMMITTEE, INC.",
+            "total_amt": 49237.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00883751",
+            "pac_name": "KENNEDY VICTORY FUND 2024",
+            "total_amt": 45547.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00623397",
+            "pac_name": "LIBERTARIAN PARTY OF COLORADO",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00699785"
+}

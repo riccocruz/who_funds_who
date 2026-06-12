@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "PLANNED PARENTHOOD ADVOCATES PASADENA AND SAN GABRIEL VALLEY PAC",
+        "committee_type": "O",
+        "total_receipts": 115285.0,
+        "indiv_contrib": 114293.0,
+        "total_spent": 29344.0,
+        "cash_on_hand": 128139.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0CA32101",
+            "cand_name": "CHU, JUDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0CA32101",
+            "pac_name": "PLANNED PARENTHOOD ADVOCATES PASADENA AND SAN GABRIEL VALLEY",
+            "total_amt": 5.0,
+            "tx_count": 7
+        }
+    ],
+    "cmte_id": "C00884049"
+}

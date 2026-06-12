@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "BLAC PAC",
+        "committee_type": "O",
+        "total_receipts": 108806.0,
+        "indiv_contrib": 103807.0,
+        "total_spent": 110811.0,
+        "cash_on_hand": 1881.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL19160",
+            "cand_name": "HAWATMEH, OLA NESHESWAT",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2082.0,
+            "direct_amt": 2082.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ05174",
+            "cand_name": "STOVALL, ALEX NICOLAS",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 1041.0,
+            "direct_amt": 1041.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00921023",
+            "pac_name": "OLA VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00833848"
+}

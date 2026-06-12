@@ -1,0 +1,173 @@
+@import 'tailwindcss';
+@plugin 'flowbite/plugin';
+@custom-variant dark (&:where(.dark, .dark *));
+@source "../../node_modules/flowbite-svelte/dist";
+@source "../../node_modules/flowbite-svelte-icons/dist";
+
+body {
+    background: #1c1c20;
+    color: #f9fafb;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+}
+
+/* ── Page layout ──────────────────────────────────── */
+.page {
+    padding: 2rem;
+    background: #1c1c20;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.header-section {
+    margin-bottom: 1.5rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 1.25rem;
+    font-size: 0.875rem;
+    color: #60a5fa;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+/* ── Tags & metadata ──────────────────────────────── */
+.meta {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+    background: #374151;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #d1d5db;
+}
+
+/* ── Stat cards ───────────────────────────────────── */
+.stats-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.stat-card {
+    background: #1c1c20;
+    border: 1px solid #2d3d52;
+    border-radius: 0.5rem;
+    padding: 0.6rem 1rem;
+    min-width: 130px;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+}
+
+.stat-value {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #f9fafb;
+}
+
+/* ── Table sections ───────────────────────────────── */
+.table-section {
+    background: #1c1c20;
+    border-radius: 0.75rem;
+    padding: 1.5rem 0;
+    margin-bottom: 1.5rem;
+}
+
+.subtitle {
+    margin: 0 0 1rem;
+    font-size: 0.875rem;
+    color: #9ca3af;
+}
+
+/* ── Grid scroll wrapper ──────────────────────────── */
+.grid-scroll {
+    overflow-x: auto;
+}
+
+/* ── External links inside AG Grid cells ─────────── */
+.pac-link,
+.fec-link {
+    color: #60a5fa;
+    text-decoration: none;
+}
+
+.pac-link:hover,
+.fec-link:hover {
+    text-decoration: underline;
+}
+
+/* ── Search results ───────────────────────────────── */
+.query-label {
+    color: #9ca3af;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+.result-section {
+    margin-bottom: 2rem;
+}
+
+.empty {
+    color: #6b7280;
+    font-size: 0.875rem;
+    margin: 0;
+}
+
+.result-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #374151;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.result-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    background: #263244;
+    border-bottom: 1px solid #374151;
+    transition: background 0.1s;
+}
+
+.result-list li:last-child .result-item {
+    border-bottom: none;
+}
+
+.result-item:hover {
+    background: #2f3d52;
+}
+
+.result-name {
+    font-weight: 500;
+    color: #f9fafb;
+}
+
+.result-meta {
+    font-size: 0.875rem;
+    color: #9ca3af;
+}
+
+.party {
+    font-weight: 700;
+}

@@ -1,0 +1,58 @@
+{
+    "pac": {
+        "name": "RURAL FREEDOM NETWORK",
+        "committee_type": "O",
+        "total_receipts": 104250.0,
+        "indiv_contrib": 104250.0,
+        "total_spent": 105721.0,
+        "cash_on_hand": 45012.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA14200",
+            "cand_name": "BRADSTOCK, DAVID ALAN",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 481.0,
+            "direct_amt": 0.0,
+            "ie_amt": 481.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H8PA15195",
+            "pac_name": "ZIPPITYPRINT",
+            "total_amt": 1517.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4NY22051",
+            "pac_name": "VISTAPRINT",
+            "total_amt": 1292.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "VISTAPRINT",
+            "total_amt": 1240.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6PA14200",
+            "pac_name": "ZIPPITYPRINT",
+            "total_amt": 481.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA18199",
+            "pac_name": "ZIPPITYPRINT",
+            "total_amt": 173.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00647966"
+}

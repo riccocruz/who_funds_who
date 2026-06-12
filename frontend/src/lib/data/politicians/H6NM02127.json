@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "CUNNINGHAM, GREG",
+        "party": "REP",
+        "state": "NM",
+        "indiv_total": 387445.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00493221",
+            "pac_name": "THE GUARDIAN FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 94,
+        "oos_donors": 12,
+        "oos_total": 17839.0
+    },
+    "opposition": []
+}

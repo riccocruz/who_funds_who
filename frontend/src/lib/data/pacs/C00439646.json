@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "DEMOCRATS OF ORANGE COUNTY POLITICAL ACTION COMMITTEE (DEMOC PAC)",
+        "committee_type": "Q",
+        "total_receipts": 86062.0,
+        "indiv_contrib": 82812.0,
+        "total_spent": 31611.0,
+        "cash_on_hand": 60724.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "ROBERT GARCIA FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00439646"
+}

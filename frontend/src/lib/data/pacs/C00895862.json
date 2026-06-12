@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "LEVEL UP PAC",
+        "committee_type": "V",
+        "total_receipts": 399862.0,
+        "indiv_contrib": 47315.0,
+        "total_spent": 393635.0,
+        "cash_on_hand": 6227.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00458",
+            "cand_name": "STRATTON, JULIANA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00902320",
+            "pac_name": "ILLINOIS FUTURE PAC",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00895862"
+}

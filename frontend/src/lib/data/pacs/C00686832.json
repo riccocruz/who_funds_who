@@ -1,0 +1,76 @@
+{
+    "pac": {
+        "name": "WAY TO LEAD PAC",
+        "committee_type": "W",
+        "total_receipts": 640181.0,
+        "indiv_contrib": 33390.0,
+        "total_spent": 397756.0,
+        "cash_on_hand": 273760.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX18232",
+            "cand_name": "MENEFEE, CHRISTIAN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX35144",
+            "cand_name": "CASAR, GREG",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09178",
+            "cand_name": "ABUGHAZALEH, KATHERINE M.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IL00151",
+            "cand_name": "DURBIN, RICHARD J.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00782508",
+            "pac_name": "CHANGE FOR ARIZONA 2024 PAC",
+            "total_amt": 48122.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00756940",
+            "pac_name": "TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00686832"
+}

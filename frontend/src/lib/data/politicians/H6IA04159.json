@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WOLFTORNABANE, ASHLEY",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 15408.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00802827",
+            "pac_name": "IOWANS FOR ASHLEY WOLFTORNABANE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 17,
+        "oos_donors": 2,
+        "oos_total": 975.0
+    },
+    "opposition": []
+}

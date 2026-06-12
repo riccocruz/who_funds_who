@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CARBONARA, MICHAEL",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 49132.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00902106",
+            "pac_name": "AMERICA'S RENEWAL PAC, INC.",
+            "total_amt": 6668.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6668.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 21,
+        "oos_donors": 12,
+        "oos_total": 15250.0
+    },
+    "opposition": []
+}

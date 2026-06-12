@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "THE PROGRESS COALITION",
+        "committee_type": "O",
+        "total_receipts": 373706.0,
+        "indiv_contrib": 373706.0,
+        "total_spent": 508057.0,
+        "cash_on_hand": 2156.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4FL01197",
+            "cand_name": "VALIMONT, JENNIFER GAY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 9615.0,
+            "direct_amt": 0.0,
+            "ie_amt": 9615.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4FL01197",
+            "pac_name": "TABOOLA, INC.",
+            "total_amt": 9615.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00887323"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "MAGA INC.",
+        "committee_type": "V",
+        "total_receipts": 332786084.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 8822783.0,
+        "cash_on_hand": 347763297.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 843891.0,
+            "direct_amt": 0.0,
+            "ie_amt": 843891.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "DEL RAY MEDIA LLC",
+            "total_amt": 846461.0,
+            "tx_count": 14
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "DEL RAY MEDIA LLC",
+            "total_amt": 843891.0,
+            "tx_count": 17
+        }
+    ],
+    "cmte_id": "C00892471"
+}

@@ -1,0 +1,96 @@
+{
+    "politician": {
+        "cand_name": "HERRERA, BRANDON",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 34270.0,
+        "pac_receipts_summary": 29500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00552851",
+            "pac_name": "FREEDOM CAUCUS FUND",
+            "total_amt": 45305.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 40305.0
+        },
+        {
+            "cmte_id": "C00540146",
+            "pac_name": "FIRST IN FREEDOM PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00823914",
+            "pac_name": "EVER RELENTLESS IN CONSERVATISM",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00481200",
+            "pac_name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545749",
+            "pac_name": "BRANDON HERRERA FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00634519",
+            "pac_name": "DEFEND FREEDOM POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00742635",
+            "pac_name": "GUN RIGHTS AMERICA",
+            "total_amt": 2000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2000.0
+        },
+        {
+            "cmte_id": "C00503094",
+            "pac_name": "FREEDOM FIRST PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00731133",
+            "pac_name": "MAKE LIBERTY WIN",
+            "total_amt": 447.0,
+            "direct_amt": 0.0,
+            "ie_amt": 447.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 11,
+        "oos_donors": 6,
+        "oos_total": 1632.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00809970",
+            "pac_name": "HISPANIC LEADERSHIP TRUST",
+            "total_amt": 75200.0
+        },
+        {
+            "cmte_id": "C00826263",
+            "pac_name": "HISPANIC LEADERSHIP ACTION",
+            "total_amt": 72917.0
+        },
+        {
+            "cmte_id": "C00799031",
+            "pac_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+            "total_amt": -45.0
+        }
+    ]
+}

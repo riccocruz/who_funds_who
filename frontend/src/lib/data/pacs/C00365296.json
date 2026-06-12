@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS, LOCAL 42 POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 152613.0,
+        "indiv_contrib": 152613.0,
+        "total_spent": 210000.0,
+        "cash_on_hand": 557125.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MO05234",
+            "cand_name": "CLEAVER, EMANUEL II",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00599092",
+            "pac_name": "WOLF PACK",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00936153",
+            "pac_name": "STRONGER TOGETHER PA",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00365296"
+}

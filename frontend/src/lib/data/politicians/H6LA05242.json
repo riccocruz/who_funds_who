@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "ECHOLS, MICHAEL CHARLES",
+        "party": "REP",
+        "state": "LA",
+        "indiv_total": 336023.0,
+        "pac_receipts_summary": 13000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00480228",
+            "pac_name": "CONTINUING AMERICA'S STRENGTH AND SECURITY PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00221077",
+            "pac_name": "CRESCENT RIVER PORT PILOTS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE/CRPPA FED PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00686949",
+            "pac_name": "PATTERN ENERGY GROUP INC. PAC (PATTERN PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 170,
+        "oos_donors": 8,
+        "oos_total": 12994.0
+    },
+    "opposition": []
+}

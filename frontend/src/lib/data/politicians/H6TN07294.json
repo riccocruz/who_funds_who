@@ -1,0 +1,22 @@
+{
+    "politician": {
+        "cand_name": "BULSO, GINO",
+        "party": "REP",
+        "state": "TN",
+        "indiv_total": 64783.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [],
+    "indivStats": {
+        "unique_donors": 43,
+        "oos_donors": 7,
+        "oos_total": 7917.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00662221",
+            "pac_name": "HOUSE FREEDOM ACTION",
+            "total_amt": 129.0
+        }
+    ]
+}

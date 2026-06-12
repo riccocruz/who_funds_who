@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DEM TURNOUT FUND",
+        "committee_type": "V",
+        "total_receipts": 1385757.0,
+        "indiv_contrib": 1292318.0,
+        "total_spent": 1464666.0,
+        "cash_on_hand": 44463.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 580000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00847673",
+            "pac_name": "STOP THESE OPPRESSIVE PEOPLE: TYRANTS RACISTS UNQUALIFIEDS MISOGYNISTS PROPAGANDISTS (STOP TRUMP)",
+            "total_amt": 75000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00889808"
+}

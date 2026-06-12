@@ -1,0 +1,66 @@
+{
+    "politician": {
+        "cand_name": "MORAITIS, GEORGE R",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 571408.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00786368",
+            "pac_name": "31 DAYS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00671891",
+            "pac_name": "GEORGE MORAITIS FOR CONGRESS COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00695874",
+            "pac_name": "GETTING REPUBLICANS ELECTED FOR GENERATIONS PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00004101",
+            "pac_name": "NATIONAL UTILITY CONTRACTORS ASSOCIATION LEGISLATIVE INFORMATION AND ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00408534",
+            "pac_name": "GEORGE MORAITIS FOR CONGRESS COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00856195",
+            "pac_name": "LINCOLN REAGAN COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00345132",
+            "pac_name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "total_amt": 10.0,
+            "direct_amt": 10.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 344,
+        "oos_donors": 36,
+        "oos_total": 39407.0
+    },
+    "opposition": []
+}

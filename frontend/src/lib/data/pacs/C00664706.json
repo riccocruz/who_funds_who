@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "AMERICAN SYRIAN POLITICAL ACTION COMMITTEE- ASPAC/AMERICANSYRIANPAC",
+        "committee_type": "Q",
+        "total_receipts": 10670.0,
+        "indiv_contrib": 10670.0,
+        "total_spent": 12192.0,
+        "cash_on_hand": 5169.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MI10284",
+            "cand_name": "GREIMEL, TIM",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00696088",
+            "pac_name": "THE BERGMAN VICTORY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00664706"
+}

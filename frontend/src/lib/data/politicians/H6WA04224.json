@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BOEHNKE, MATTHEW",
+        "party": "REP",
+        "state": "WA",
+        "indiv_total": 54702.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00497578",
+            "pac_name": "ROLL ON COLUMBIA POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 46,
+        "oos_donors": 2,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

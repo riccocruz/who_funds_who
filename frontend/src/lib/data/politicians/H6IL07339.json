@@ -1,0 +1,63 @@
+{
+    "politician": {
+        "cand_name": "FRIEDMAN, JASON",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 1842408.0,
+        "pac_receipts_summary": 11199.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00931048",
+            "pac_name": "STRONGER ILLINOIS PAC",
+            "total_amt": 348441.0,
+            "direct_amt": 0.0,
+            "ie_amt": 348441.0
+        },
+        {
+            "cmte_id": "C00001198",
+            "pac_name": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00035451",
+            "pac_name": "AIR LINE PILOTS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00652164",
+            "pac_name": "JERSEY VALUES PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00106435",
+            "pac_name": "BUILDING OWNERS AND MANAGERS ASSOCIATION INTERNATIONAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 710,
+        "oos_donors": 117,
+        "oos_total": 263311.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00799031",
+            "pac_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+            "total_amt": 59748.0
+        },
+        {
+            "cmte_id": "C90015868",
+            "pac_name": "THE PEOPLE'S LOBBY",
+            "total_amt": 1166.0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "MONDAY MEETING PAC",
+        "committee_type": "N",
+        "total_receipts": 343594.0,
+        "indiv_contrib": 341500.0,
+        "total_spent": 263758.0,
+        "cash_on_hand": 81314.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00413948",
+            "pac_name": "ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)",
+            "total_amt": 24547.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 24547.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00492058",
+            "pac_name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
+            "total_amt": 24129.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00147173",
+            "pac_name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2094.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00494567"
+}

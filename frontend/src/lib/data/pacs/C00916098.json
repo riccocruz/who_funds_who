@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "ZETA GLOBAL HOLDINGS CORP. EMPLOYEE PAC",
+        "committee_type": "N",
+        "total_receipts": 35000.0,
+        "indiv_contrib": 35000.0,
+        "total_spent": 19500.0,
+        "cash_on_hand": 15500.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0WA08046",
+            "cand_name": "DELBENE, SUZAN K",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00761767",
+            "pac_name": "DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00291898",
+            "pac_name": "JOYCE FOR CONGRESS",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00754044",
+            "pac_name": "TEAM RONNY",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00916098"
+}

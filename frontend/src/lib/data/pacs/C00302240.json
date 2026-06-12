@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "EXPRESS SERVICES INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 86262.0,
+        "indiv_contrib": 86262.0,
+        "total_spent": 5014.0,
+        "cash_on_hand": 88569.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "HUSTED FOR SENATE",
+            "party": null,
+            "state": null,
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MT00183",
+            "cand_name": "SHEEHY, TIM",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00866947",
+            "pac_name": "CORNYN LONESTAR VICTORY FUND",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00302240"
+}

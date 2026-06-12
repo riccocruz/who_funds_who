@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MICHIGAN MOVEMENT LABS",
+        "committee_type": "V",
+        "total_receipts": 58697.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 133655.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00881136",
+            "pac_name": "TEXAS POLITICAL INNOVATIONS",
+            "total_amt": 94974.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00890376",
+            "pac_name": "ALLVOTE",
+            "total_amt": 38666.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00880898"
+}

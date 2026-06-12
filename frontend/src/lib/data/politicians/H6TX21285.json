@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BETTS, DANIEL",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 177132.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00587022",
+            "pac_name": "COURAGEOUS CONSERVATIVES PAC",
+            "total_amt": 16550.0,
+            "direct_amt": 0.0,
+            "ie_amt": 16550.0
+        },
+        {
+            "cmte_id": "C00570416",
+            "pac_name": "GATORPAC",
+            "total_amt": 7761.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7761.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 64,
+        "oos_donors": 27,
+        "oos_total": 58016.0
+    },
+    "opposition": []
+}

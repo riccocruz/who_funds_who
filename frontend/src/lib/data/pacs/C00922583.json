@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "COPPER STATE VALUES",
+        "committee_type": "O",
+        "total_receipts": 3311102.0,
+        "indiv_contrib": 2772916.0,
+        "total_spent": 1574906.0,
+        "cash_on_hand": 1736196.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00921353",
+            "pac_name": "KATIE HOBBS VICTORY FUND",
+            "total_amt": 257560.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00576975",
+            "pac_name": "LATINO LEADERS FOR EQUALITY, GROWTH, OPPORTUNITY, PROGRESSIVE ACTION & CHANGE (LLEGO-PAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00922583"
+}

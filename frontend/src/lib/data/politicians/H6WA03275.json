@@ -1,0 +1,143 @@
+{
+    "politician": {
+        "cand_name": "BRAUN, JOHN",
+        "party": "REP",
+        "state": "WA",
+        "indiv_total": 1107540.0,
+        "pac_receipts_summary": 77570.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00904102",
+            "pac_name": "BOLD ACTION PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00940122",
+            "pac_name": "TIMBERLINE PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00010421",
+            "pac_name": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00250399",
+            "pac_name": "AUTOMOTIVE FREE INTERNATIONAL TRADE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00559740",
+            "pac_name": "GOPAC ELECTION FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00559393",
+            "pac_name": "JOHN BRAUN FOR CONGRESS",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685115",
+            "pac_name": "GROWING OUR OWN DYNAMIC ECONOMY NOW",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00712695",
+            "pac_name": "VITORIA PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00817338",
+            "pac_name": "MVL PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00900688",
+            "pac_name": "BAUM PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00921551",
+            "pac_name": "OVER THE TARGET PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00611400",
+            "pac_name": "NEW ENERGY IN WASHINGTON HOUSE PAC (N.E.W. HOUSE PAC)",
+            "total_amt": 2070.0,
+            "direct_amt": 2070.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00877324",
+            "pac_name": "JOHN BRAUN FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00480863",
+            "pac_name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. POLITICAL ACTION COMMITTEE (NSSF PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00761528",
+            "pac_name": "OREGON FRONTIER PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00878389",
+            "pac_name": "HEAL AMERICA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00886325",
+            "pac_name": "HAMPTON LUMBER MILLS, INC. POLITICAL ACTION COMMITTEE (HAMPTON LUMBER PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 351,
+        "oos_donors": 14,
+        "oos_total": 36082.0
+    },
+    "opposition": []
+}

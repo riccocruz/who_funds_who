@@ -1,0 +1,100 @@
+{
+    "pac": {
+        "name": "TRANSPORTATION TRUST FUND",
+        "committee_type": "H",
+        "total_receipts": 98383.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 43455.0,
+        "cash_on_hand": 57358.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4PA08124",
+            "cand_name": "BRESNAHAN, ROB",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": -382.0,
+            "direct_amt": -382.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00499400",
+            "pac_name": "TRALAPAC (TRUCK RENTING AND LEASING ASSOCIATION PAC)",
+            "total_amt": 26000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00366070",
+            "pac_name": "FAA MANAGERS ASSOCIATION INC. PAC",
+            "total_amt": 12000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00131185",
+            "pac_name": "AIRCRAFT OWNERS AND PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00849323",
+            "pac_name": "INDEPENDENT PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (IPAC)",
+            "total_amt": 9000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00004101",
+            "pac_name": "NATIONAL UTILITY CONTRACTORS ASSOCIATION LEGISLATIVE INFORMATION AND ACTION COMMITTEE",
+            "total_amt": 6000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00021295",
+            "pac_name": "BRACEPAC",
+            "total_amt": 4000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00346353",
+            "pac_name": "CRH AMERICAS, INC. PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00360669",
+            "pac_name": "SOUTHWEST AIRLINES PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (SWAPA PAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00711747",
+            "pac_name": "THE GREENBRIER COMPANIES, INC. PAC (AKA GREENBRIER PAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00806513",
+            "pac_name": "THE REAL ESTATE BOARD OF NEW YORK, INC. FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00899872",
+            "pac_name": "LET EXPERIENCED PILOTS FLY PAC",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00478099",
+            "pac_name": "ATLAS AIR WORLDWIDE HOLDINGS, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00834739"
+}

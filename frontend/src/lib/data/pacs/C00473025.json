@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "BRIGHTSTAR GLOBAL SOLUTIONS CORPORATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 87766.0,
+        "indiv_contrib": 87766.0,
+        "total_spent": 98000.0,
+        "cash_on_hand": 122026.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4RI01265",
+            "cand_name": "AMO, GABRIEL F",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX12065",
+            "cand_name": "GOLDMAN, CRAIG",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA33119",
+            "cand_name": "LIEU, TED",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2RI02184",
+            "cand_name": "MAGAZINER, SETH",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00506907",
+            "pac_name": "ASPIRE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00473025"
+}

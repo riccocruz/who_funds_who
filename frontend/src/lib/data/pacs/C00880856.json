@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "ARIZONA MOVEMENT LABS",
+        "committee_type": "V",
+        "total_receipts": 68413.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 145520.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00881151",
+            "pac_name": "ARIZONA PROGRESS INCUBATOR",
+            "total_amt": 86042.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881193",
+            "pac_name": "NEVADA PROGRESS INCUBATOR",
+            "total_amt": 22852.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881086",
+            "pac_name": "NEVADA POLITICAL INNOVATIONS",
+            "total_amt": 21049.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881185",
+            "pac_name": "MICHIGAN PROGRESS INCUBATOR",
+            "total_amt": 6617.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881094",
+            "pac_name": "NORTH CAROLINA POLITICAL INNOVATIONS",
+            "total_amt": 5689.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00880914",
+            "pac_name": "NEVADA MOVEMENT LABS",
+            "total_amt": 3255.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00880856"
+}

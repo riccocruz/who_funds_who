@@ -1,0 +1,84 @@
+{
+    "pac": {
+        "name": "MILWAUKEE POLICE ASSOCIATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 80290.0,
+        "indiv_contrib": 80290.0,
+        "total_spent": 85000.0,
+        "cash_on_hand": 35486.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H0WI07101",
+            "cand_name": "TIFFANY, TOM",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WI03175",
+            "cand_name": "VAN ORDEN, DERRICK F. MR.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0WI05113",
+            "cand_name": "FITZGERALD, SCOTT",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX22302",
+            "cand_name": "NEHLS, TROY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4WI06048",
+            "cand_name": "GROTHMAN, GLENN S.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8WI01156",
+            "cand_name": "STEIL, BRYAN GEORGE",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00686980",
+            "pac_name": "STEIL VICTORY FUND",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00324673"
+}

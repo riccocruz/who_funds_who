@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF GUAM",
+        "committee_type": "X",
+        "total_receipts": 80966.0,
+        "indiv_contrib": 12511.0,
+        "total_spent": 81715.0,
+        "cash_on_hand": 13217.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 68454.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 68454.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00804930"
+}

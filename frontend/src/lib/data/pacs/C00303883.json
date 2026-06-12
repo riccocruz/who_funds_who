@@ -1,0 +1,106 @@
+{
+    "pac": {
+        "name": "CASE NEW HOLLAND INDUSTRIAL INC. EXCELLENCE IN GOVERNMENT FUND (CNH INDUSTRIAL EXCELLENCE IN GOVERNMENT FUND)",
+        "committee_type": "Q",
+        "total_receipts": 92389.0,
+        "indiv_contrib": 92363.0,
+        "total_spent": 42167.0,
+        "cash_on_hand": 229058.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H8WI01156",
+            "cand_name": "STEIL, BRYAN GEORGE",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8KS04112",
+            "cand_name": "ESTES, RON",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA16320",
+            "cand_name": "SMUCKER, LLOYD K.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MN06087",
+            "cand_name": "EMMER, THOMAS EARL JR.",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00631051",
+            "pac_name": "ABRAHAM LINCOLN PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00001727",
+            "pac_name": "BUSINESS-INDUSTRY POLITICAL ACTION COMMITTEE",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00697326",
+            "pac_name": "ON WISCONSIN PAC, INC.",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00303883"
+}

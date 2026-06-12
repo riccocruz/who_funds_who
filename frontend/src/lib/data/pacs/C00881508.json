@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "STUTZMAN VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 452500.0,
+        "indiv_contrib": 452500.0,
+        "total_spent": 454588.0,
+        "cash_on_hand": 2662.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 300063.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00838128",
+            "pac_name": "MAKING AMERICA RESTORE LEADERSHIP & INDEPENDENCE NOW POLITICAL ACTION COMMITTEE",
+            "total_amt": 27202.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00881508"
+}

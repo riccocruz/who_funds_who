@@ -1,0 +1,562 @@
+{
+    "pac": {
+        "name": "SENATE CONSERVATIVES FUND",
+        "committee_type": "Q",
+        "total_receipts": 3691596.0,
+        "indiv_contrib": 3645046.0,
+        "total_spent": 4523302.0,
+        "cash_on_hand": 917204.0
+    },
+    "stats": {
+        "candidates_funded": 30
+    },
+    "recipients": [
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 200066.0,
+            "direct_amt": 6024.0,
+            "ie_amt": 171267.0,
+            "bundled_amt": 22775.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 194057.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 115893.0,
+            "bundled_amt": 73164.0
+        },
+        {
+            "cand_id": "S0TN00169",
+            "cand_name": "HAGERTY, BILL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 189200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 118294.0,
+            "bundled_amt": 70906.0
+        },
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 172455.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 110096.0,
+            "bundled_amt": 52359.0
+        },
+        {
+            "cand_id": "S6KY00302",
+            "cand_name": "MORRIS, NATE",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 138493.0,
+            "direct_amt": 0.0,
+            "ie_amt": 78478.0,
+            "bundled_amt": 60015.0
+        },
+        {
+            "cand_id": "S0WY00137",
+            "cand_name": "LUMMIS, CYNTHIA MARIE MRS.",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 118941.0,
+            "direct_amt": 0.0,
+            "ie_amt": 73715.0,
+            "bundled_amt": 45226.0
+        },
+        {
+            "cand_id": "S0AL00230",
+            "cand_name": "TUBERVILLE, THOMAS H",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 117462.0,
+            "direct_amt": 3886.0,
+            "ie_amt": 78889.0,
+            "bundled_amt": 34687.0
+        },
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 101908.0,
+            "direct_amt": 0.0,
+            "ie_amt": 63870.0,
+            "bundled_amt": 38038.0
+        },
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 87275.0,
+            "direct_amt": 0.0,
+            "ie_amt": 62998.0,
+            "bundled_amt": 24277.0
+        },
+        {
+            "cand_id": "S2MO00544",
+            "cand_name": "SCHMITT, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 87273.0,
+            "direct_amt": 0.0,
+            "ie_amt": 65503.0,
+            "bundled_amt": 21770.0
+        },
+        {
+            "cand_id": "S8FL00273",
+            "cand_name": "SCOTT, RICK SEN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 84500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 58662.0,
+            "bundled_amt": 25838.0
+        },
+        {
+            "cand_id": "S0KY00156",
+            "cand_name": "PAUL, RAND",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 82089.0,
+            "direct_amt": 0.0,
+            "ie_amt": 57246.0,
+            "bundled_amt": 24843.0
+        },
+        {
+            "cand_id": "S8MO00160",
+            "cand_name": "HAWLEY, JOSHUA DAVID SEN",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 76617.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 50538.0,
+            "bundled_amt": 21079.0
+        },
+        {
+            "cand_id": "S0WI00197",
+            "cand_name": "JOHNSON, RON HAROLD MR.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 75949.0,
+            "direct_amt": 0.0,
+            "ie_amt": 46929.0,
+            "bundled_amt": 29020.0
+        },
+        {
+            "cand_id": "H8AL02171",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 75673.0,
+            "direct_amt": 0.0,
+            "ie_amt": 75673.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY00302",
+            "cand_name": "TMA DIRECT",
+            "party": null,
+            "state": null,
+            "total_amt": 61947.0,
+            "direct_amt": 0.0,
+            "ie_amt": 61947.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4OH00192",
+            "cand_name": "MORENO, BERNIE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 50059.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 28248.0,
+            "bundled_amt": 16811.0
+        },
+        {
+            "cand_id": "H6CA46116",
+            "cand_name": "CORREA, LOU",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 29000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 29000.0
+        },
+        {
+            "cand_id": "S6WY00209",
+            "cand_name": "HAGEMAN, HARRIET",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 28961.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11601.0,
+            "bundled_amt": 17360.0
+        },
+        {
+            "cand_id": "H8WY00148",
+            "cand_name": "LUMMIS, CYNTHIA MARIE",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 21921.0,
+            "direct_amt": 0.0,
+            "ie_amt": 21921.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0WI99197",
+            "cand_name": "SENATE CONSERVATIVES FUND",
+            "party": null,
+            "state": null,
+            "total_amt": 16384.0,
+            "direct_amt": 0.0,
+            "ie_amt": 16384.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA04135",
+            "cand_name": "PERRY, SCOTT",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 12137.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 802.0,
+            "bundled_amt": 6335.0
+        },
+        {
+            "cand_id": "H2AZ01354",
+            "cand_name": "CRANE, ELI",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 10255.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 684.0,
+            "bundled_amt": 4571.0
+        },
+        {
+            "cand_id": "H6OH04082",
+            "cand_name": "JORDAN, JAMES D.",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 4521.0,
+            "direct_amt": 0.0,
+            "ie_amt": 641.0,
+            "bundled_amt": 3880.0
+        },
+        {
+            "cand_id": "S4MT00183",
+            "cand_name": "SHEEHY, TIM",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 2691.0,
+            "direct_amt": 0.0,
+            "ie_amt": 126.0,
+            "bundled_amt": 2565.0
+        },
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2227.0,
+            "direct_amt": 0.0,
+            "ie_amt": 977.0,
+            "bundled_amt": 1250.0
+        },
+        {
+            "cand_id": "H6TX02244",
+            "cand_name": "BONCK, JON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2057.0,
+            "direct_amt": 0.0,
+            "ie_amt": 607.0,
+            "bundled_amt": 1450.0
+        },
+        {
+            "cand_id": "H6IA02237",
+            "cand_name": "MITCHELL, JOE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 1935.0,
+            "direct_amt": 0.0,
+            "ie_amt": 885.0,
+            "bundled_amt": 1050.0
+        },
+        {
+            "cand_id": "H6KS01179",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 165.0,
+            "direct_amt": 0.0,
+            "ie_amt": 165.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2OH00436",
+            "cand_name": "VANCE, J D",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6AL00476",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 171267.0,
+            "tx_count": 42
+        },
+        {
+            "cmte_id": "S0TN00169",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 118294.0,
+            "tx_count": 87
+        },
+        {
+            "cmte_id": "S0KS00315",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 115893.0,
+            "tx_count": 82
+        },
+        {
+            "cmte_id": "S6FL00640",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 110096.0,
+            "tx_count": 71
+        },
+        {
+            "cmte_id": "S0AL00230",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 78889.0,
+            "tx_count": 40
+        },
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 78478.0,
+            "tx_count": 39
+        },
+        {
+            "cmte_id": "H8AL02171",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 75673.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S0WY00137",
+            "pac_name": "48 HOUR PRINT",
+            "total_amt": 73715.0,
+            "tx_count": 53
+        },
+        {
+            "cmte_id": "S2MO00544",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 65503.0,
+            "tx_count": 86
+        },
+        {
+            "cmte_id": "S2TX00312",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 63870.0,
+            "tx_count": 85
+        },
+        {
+            "cmte_id": "S0UT00165",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 62998.0,
+            "tx_count": 85
+        },
+        {
+            "cmte_id": "H6KY00302",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 61947.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "S8FL00273",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 58662.0,
+            "tx_count": 84
+        },
+        {
+            "cmte_id": "S0KY00156",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 57246.0,
+            "tx_count": 77
+        },
+        {
+            "cmte_id": "S8MO00160",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 50538.0,
+            "tx_count": 82
+        },
+        {
+            "cmte_id": "S0WI00197",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 46929.0,
+            "tx_count": 79
+        },
+        {
+            "cmte_id": "S4OH00192",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 28248.0,
+            "tx_count": 77
+        },
+        {
+            "cmte_id": "H8WY00148",
+            "pac_name": "CANVA",
+            "total_amt": 21921.0,
+            "tx_count": 21
+        },
+        {
+            "cmte_id": "S0WI99197",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 16384.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "S6WY00209",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 11601.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "S0AZ00350",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S0GA00559",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S2WI00219",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4AZ00139",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4MI00355",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4MI00470",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6NV00200",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6PA00274",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S8NV00156",
+            "pac_name": "ALLEGIANCE DIRECT LLC",
+            "total_amt": 7351.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX09140",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 977.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H6IA02237",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 885.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 802.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H2AZ01354",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 684.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H2AK01083",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 641.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H6TX02244",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 607.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H6KS01179",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 165.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S4MT00183",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 126.0,
+            "tx_count": 47
+        },
+        {
+            "cmte_id": "S2OH00436",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 0.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00448696"
+}

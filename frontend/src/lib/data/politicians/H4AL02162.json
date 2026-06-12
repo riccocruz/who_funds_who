@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "DANIELS, ANTHONY",
+        "party": "DEM",
+        "state": "AL",
+        "indiv_total": 15500.0,
+        "pac_receipts_summary": 14000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00358440",
+            "pac_name": "BALCH AND BINGHAM LLP FEDERAL POLITICAL COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00457242",
+            "pac_name": "BLUE CROSS BLUE SHIELD OF ALABAMA PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00077305",
+            "pac_name": "ALABAMA POWER CO EMPLOYEES FEDERAL POLITICAL ACTION CMTE (APC EMPLOYEES FEDERAL PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00432252",
+            "pac_name": "REGIONS FINANCIAL CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 17,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

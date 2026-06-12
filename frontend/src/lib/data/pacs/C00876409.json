@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "NHA ACTION",
+        "committee_type": "O",
+        "total_receipts": 1100000.0,
+        "indiv_contrib": 1000000.0,
+        "total_spent": 1821478.0,
+        "cash_on_hand": 605005.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00571703",
+            "pac_name": "SLF PAC",
+            "total_amt": 1550000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00876409"
+}

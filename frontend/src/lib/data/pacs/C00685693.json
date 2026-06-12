@@ -1,0 +1,88 @@
+{
+    "pac": {
+        "name": "CASA IN ACTION PAC",
+        "committee_type": "O",
+        "total_receipts": 896802.0,
+        "indiv_contrib": 586765.0,
+        "total_spent": 1119541.0,
+        "cash_on_hand": 330390.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "P00009423",
+            "cand_name": "CASA IN ACTION",
+            "party": null,
+            "state": null,
+            "total_amt": 11595.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11595.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6PA00217",
+            "cand_name": "CASEY, ROBERT P. JR.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5560.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5560.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA07234",
+            "cand_name": "VINDMAN, YEVGENY 'EUGENE'",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 287.0,
+            "direct_amt": 0.0,
+            "ie_amt": 287.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MD00327",
+            "cand_name": "ALSOBROOKS, ANGELA",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 274.0,
+            "direct_amt": 0.0,
+            "ie_amt": 274.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "CASA IN ACTION",
+            "total_amt": 11595.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S6PA00217",
+            "pac_name": "CASA IN ACTION",
+            "total_amt": 5560.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H4PA10104",
+            "pac_name": "CASA IN ACTION",
+            "total_amt": 2991.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H4VA07234",
+            "pac_name": "CASA IN ACTION",
+            "total_amt": 287.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S4MD00327",
+            "pac_name": "CASA IN ACTION",
+            "total_amt": 274.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00685693"
+}

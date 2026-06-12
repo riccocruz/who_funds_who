@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "DAVIDSON VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 251760.0,
+        "indiv_contrib": 242135.0,
+        "total_spent": 252178.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 54592.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00634519",
+            "pac_name": "DEFEND FREEDOM POLITICAL ACTION COMMITTEE",
+            "total_amt": 27717.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00690735",
+            "pac_name": "CGCN PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00364455",
+            "pac_name": "FIDELITY NATIONAL FINANCIAL INC PAC 2001",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00254201",
+            "pac_name": "NATIONAL ASSOCIATION OF MORTGAGE BROKERS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00441311",
+            "pac_name": "CNG HOLDINGS, INC. PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00866483",
+            "pac_name": "CINCINNATI BELL INC. (DBA ALTAFIBER) FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00652206"
+}

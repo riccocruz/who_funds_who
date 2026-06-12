@@ -1,0 +1,30 @@
+{
+    "politician": {
+        "cand_name": "CHAKRABARTI, SAIKAT",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 359891.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 180,
+        "oos_donors": 88,
+        "oos_total": 40212.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00922229",
+            "pac_name": "ABUNDANT FUTURE",
+            "total_amt": 135547.0
+        }
+    ]
+}

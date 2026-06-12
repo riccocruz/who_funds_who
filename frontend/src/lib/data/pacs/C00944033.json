@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "STRONG MICHIGAN VALUES",
+        "committee_type": "N",
+        "total_receipts": 89439.0,
+        "indiv_contrib": 89439.0,
+        "total_spent": 74489.0,
+        "cash_on_hand": 14950.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 14986.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00764886",
+            "pac_name": "LASTING INVESTMENTS STRENGTHENING AMERICA PAC",
+            "total_amt": 4050.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00944033"
+}

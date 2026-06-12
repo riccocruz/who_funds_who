@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "CONSERVATIVES FOR AMERICA PAC",
+        "committee_type": "O",
+        "total_receipts": 1793200.0,
+        "indiv_contrib": 1523076.0,
+        "total_spent": 271681.0,
+        "cash_on_hand": 1521519.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00878264",
+            "pac_name": "CONSERVATIVE FUTURE FUND",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00935536",
+            "pac_name": "NORTH GEORGIANS FOR OUR CONSERVATIVE FUTURE PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00857649",
+            "pac_name": "AMERICAN BATTLEGROUND FUND",
+            "total_amt": 11668.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00753913",
+            "pac_name": "PFLUGER VICTORY COMMITTEE",
+            "total_amt": 8455.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00893263"
+}

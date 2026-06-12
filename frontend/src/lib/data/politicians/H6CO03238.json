@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SCHEPPELMAN, HOPE G",
+        "party": "REP",
+        "state": "CO",
+        "indiv_total": 135309.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00481200",
+            "pac_name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 108,
+        "oos_donors": 15,
+        "oos_total": 25015.0
+    },
+    "opposition": []
+}

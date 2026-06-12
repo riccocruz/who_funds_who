@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "DEFENDING AMERICA'S FUTURE",
+        "committee_type": "O",
+        "total_receipts": 2280202.0,
+        "indiv_contrib": 1755201.0,
+        "total_spent": 2500786.0,
+        "cash_on_hand": 156266.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AL01086",
+            "cand_name": "MARQUES, RHETT",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 73923.0,
+            "direct_amt": 0.0,
+            "ie_amt": 73923.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00782656",
+            "pac_name": "ALABAMA CHRISTIAN CONSERVATIVES (ACC)",
+            "total_amt": 700000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6AL01086",
+            "pac_name": "STRATEGIC IMPACT STRATEGIES",
+            "total_amt": 73923.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00829432"
+}

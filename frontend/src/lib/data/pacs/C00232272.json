@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "PAN-AMERICAN LIFE INSURANCE COMPANY PAC (PALIC PAC)",
+        "committee_type": "Q",
+        "total_receipts": 24700.0,
+        "indiv_contrib": 24700.0,
+        "total_spent": 14500.0,
+        "cash_on_hand": 133854.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S2AL00145",
+            "cand_name": "BRITT, KATIE BOYD",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00771246",
+            "pac_name": "JOHNSON LEADERSHIP FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00232272"
+}

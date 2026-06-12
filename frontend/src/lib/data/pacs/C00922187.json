@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "FIGHTING FOR TEXAS",
+        "committee_type": "O",
+        "total_receipts": 1650135.0,
+        "indiv_contrib": 1645135.0,
+        "total_spent": 1650135.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00511",
+            "cand_name": "HUNT, WESLEY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 930000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 930000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00511",
+            "pac_name": "TAG LLC",
+            "total_amt": 930000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S2TX00106",
+            "pac_name": "TAG LLC",
+            "total_amt": 700000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00922187"
+}

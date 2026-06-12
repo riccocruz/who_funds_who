@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "HAL ROGERS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 192450.0,
+        "indiv_contrib": 192450.0,
+        "total_spent": 128751.0,
+        "cash_on_hand": 63699.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 1777.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00376038",
+            "pac_name": "HELP AMERICA'S LEADERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 725.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00898296"
+}

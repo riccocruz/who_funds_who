@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "VALIMONT, JENNIFER GAY",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 36746.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00890889",
+            "pac_name": "CONGRESS MAJORITY PAC",
+            "total_amt": 42295.0,
+            "direct_amt": 0.0,
+            "ie_amt": 42295.0
+        },
+        {
+            "cmte_id": "C00892984",
+            "pac_name": "NATIONAL GROUND GAME PAC",
+            "total_amt": 38711.0,
+            "direct_amt": 0.0,
+            "ie_amt": 38711.0
+        },
+        {
+            "cmte_id": "C00887323",
+            "pac_name": "THE PROGRESS COALITION",
+            "total_amt": 9615.0,
+            "direct_amt": 0.0,
+            "ie_amt": 9615.0
+        },
+        {
+            "cmte_id": "C00812792",
+            "pac_name": "EVERY STATE",
+            "total_amt": 5225.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5225.0
+        },
+        {
+            "cmte_id": "C00640300",
+            "pac_name": "ACTIVATE AMERICA",
+            "total_amt": 563.0,
+            "direct_amt": 0.0,
+            "ie_amt": 563.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 5413,
+        "oos_donors": 4848,
+        "oos_total": 4447798.0
+    },
+    "opposition": []
+}

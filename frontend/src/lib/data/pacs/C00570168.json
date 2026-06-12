@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "NEWPORT BEACH WOMEN'S DEMOCRATIC CLUB FEDERAL PAC",
+        "committee_type": "N",
+        "total_receipts": 78314.0,
+        "indiv_contrib": 74503.0,
+        "total_spent": 55060.0,
+        "cash_on_hand": 38636.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00625772",
+            "pac_name": "DEMOCRATIC WOMEN OF THE SOUTH ORANGE COUNTY",
+            "total_amt": 2548.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00455683",
+            "pac_name": "LAGUNA BEACH DEMOCRATIC CLUB FEDERAL",
+            "total_amt": 1061.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 610.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00321943",
+            "pac_name": "DEMOCRATIC PARTY OF ORANGE COUNTY FED PAC",
+            "total_amt": 325.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00701961",
+            "pac_name": "LAVENDER DEMOCRATS",
+            "total_amt": 200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00570168"
+}

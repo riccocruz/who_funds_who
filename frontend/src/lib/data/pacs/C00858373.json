@@ -1,0 +1,460 @@
+{
+    "pac": {
+        "name": "GROW THE MAJORITY",
+        "committee_type": "N",
+        "total_receipts": 83375652.0,
+        "indiv_contrib": 81964317.0,
+        "total_spent": 72797560.0,
+        "cash_on_hand": 10609208.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": "H8WI01156",
+            "cand_name": "STEIL, BRYAN GEORGE",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 5006.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 5006.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 19022133.0,
+            "tx_count": 32
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 3072643.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00639229",
+            "pac_name": "AMERICAN REVIVAL PAC",
+            "total_amt": 2233339.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00504530",
+            "pac_name": "CLF",
+            "total_amt": 331960.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00044842",
+            "pac_name": "REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA",
+            "total_amt": 228021.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00099259",
+            "pac_name": "REPUBLICAN PARTY OF FLORIDA",
+            "total_amt": 225552.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00153031",
+            "pac_name": "OREGON REPUBLICAN PARTY",
+            "total_amt": 225036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00006486",
+            "pac_name": "INDIANA REPUBLICAN STATE COMMITTEE, INC.",
+            "total_amt": 219533.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00162339",
+            "pac_name": "OHIO REPUBLICAN PARTY STATE CENTRAL & EXECUTIVE COMMITTEE",
+            "total_amt": 217036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00014498",
+            "pac_name": "REPUBLICAN PARTY OF IOWA",
+            "total_amt": 216552.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00187450",
+            "pac_name": "REPUBLICAN PARTY OF LOUISIANA",
+            "total_amt": 216552.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00008086",
+            "pac_name": "MONTANA REPUBLICAN STATE CENTRAL COMMITTEE",
+            "total_amt": 216429.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00074450",
+            "pac_name": "REPUBLICAN PARTY OF WISCONSIN",
+            "total_amt": 211443.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00038505",
+            "pac_name": "NORTH CAROLINA REPUBLICAN PARTY",
+            "total_amt": 209484.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00001305",
+            "pac_name": "REPUBLICAN PARTY OF VIRGINIA INC",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003111",
+            "pac_name": "MAINE REPUBLICAN PARTY",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00020818",
+            "pac_name": "REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00041160",
+            "pac_name": "MICHIGAN REPUBLICAN PARTY",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00082925",
+            "pac_name": "NEVADA REPUBLICAN CENTRAL COMMITTEE",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00136457",
+            "pac_name": "NEW HAMPSHIRE REPUBLICAN STATE COMMITTEE",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00253260",
+            "pac_name": "ALASKA REPUBLICAN PARTY",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00008227",
+            "pac_name": "REPUBLICAN PARTY OF ARIZONA, LLC",
+            "total_amt": 207036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 133090.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00894535",
+            "pac_name": "GTM NOMINEE FUND: OH-09",
+            "total_amt": 108673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894451",
+            "pac_name": "GTM NOMINEE FUND: ME-02",
+            "total_amt": 105673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894444",
+            "pac_name": "GTM NOMINEE FUND: CA-13",
+            "total_amt": 105654.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894527",
+            "pac_name": "GTM NOMINEE FUND: NY-03",
+            "total_amt": 105654.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894469",
+            "pac_name": "GTM NOMINEE FUND: MI-08",
+            "total_amt": 102673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894493",
+            "pac_name": "GTM NOMINEE FUND: NJ-09",
+            "total_amt": 102673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894501",
+            "pac_name": "GTM NOMINEE FUND: NM-02",
+            "total_amt": 102673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894519",
+            "pac_name": "GTM NOMINEE FUND: NV-03",
+            "total_amt": 102673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894568",
+            "pac_name": "GTM NOMINEE FUND: WA-03",
+            "total_amt": 101672.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00894436",
+            "pac_name": "GTM NOMINEE FUND: CA-09",
+            "total_amt": 84673.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00919415",
+            "pac_name": "GTM NOMINEE FUND: FL-23",
+            "total_amt": 51704.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00919431",
+            "pac_name": "GTM NOMINEE FUND: MI-10",
+            "total_amt": 51704.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00919449",
+            "pac_name": "GTM NOMINEE FUND: NE-02",
+            "total_amt": 51704.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00919456",
+            "pac_name": "GTM NOMINEE FUND: NV-01",
+            "total_amt": 51704.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00680504",
+            "pac_name": "BROADCOM INC. POLITICAL ACTION COMMITTEE (BROADCOM PAC)",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00779538",
+            "pac_name": "UNITED WHOLESALE MORTGAGE PAC (UWM PAC)",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00284885",
+            "pac_name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 45000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00475665",
+            "pac_name": "GROWTH ENERGY PAC",
+            "total_amt": 40000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00053553",
+            "pac_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "total_amt": 30000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00267849",
+            "pac_name": "ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 30000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00919464",
+            "pac_name": "GTM NOMINEE FUND: OH-13",
+            "total_amt": 26704.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00082792",
+            "pac_name": "ELI LILLY AND COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00328401",
+            "pac_name": "THE LINCOLN CLUB OF ORANGE COUNTY FEDERAL PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00518910",
+            "pac_name": "RENEWABLE FUELS ASSOCIATION PAC (RENEWABLE FUELS PAC)",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540518",
+            "pac_name": "THE CAPITAL GROUP COMPANIES INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00686709",
+            "pac_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC. POLITICAL ACTION COMMITTEE (KRATOS PAC)",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00211318",
+            "pac_name": "DELOITTE POLITICAL ACTION COMMITTEE",
+            "total_amt": 22500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00035519",
+            "pac_name": "BIPARTISAN VOLUNTARY PUBLIC AFFAIRS COMMITTEE OF THE PNC FINANCIAL SERVICES GROUP, INC. (PNC PAC)",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00360354",
+            "pac_name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00450692",
+            "pac_name": "POET PAC",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00197228",
+            "pac_name": "ELEVANCE HEALTH, INC. POLITICAL ACTION COMMITTEE (ELEVANCE HEALTH PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00443671",
+            "pac_name": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00510016",
+            "pac_name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00563072",
+            "pac_name": "COEUR MINING, INC. PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00741355",
+            "pac_name": "MAJORITY PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00883116",
+            "pac_name": "STRIPE INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00335570",
+            "pac_name": "ACADIAN AMBULANCE  SERVICE EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE, INC.",
+            "total_amt": 9000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00079566",
+            "pac_name": "CALIFORNIA WESTSIDE FARMERS FED PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00208322",
+            "pac_name": "MANAGEMENT AND TRAINING CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00213066",
+            "pac_name": "CAREER EDUCATION COLLEGES AND UNIVERSITIES POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00309781",
+            "pac_name": "PHOENIX EDUCATION PARTNERS, INC. GOVERNANCE FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00366013",
+            "pac_name": "NASDAQ, INC. PAC (NASDAQ PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00869230",
+            "pac_name": "ROYAL CARIBBEAN GROUP USA INC. PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00387274",
+            "pac_name": "NEW MAJORITY FEDERAL PAC",
+            "total_amt": 4000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00080135",
+            "pac_name": "BLUE DIAMOND GROWERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720920",
+            "pac_name": "EMPLOYEES OF QUANTA SERVICES, INC.",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00883645",
+            "pac_name": "CFD RESEARCH CORPORATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00808253",
+            "pac_name": "CALIFORNIANS FOR FREEDOM",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00858373"
+}

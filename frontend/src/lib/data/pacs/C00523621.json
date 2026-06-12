@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "UNITED WE CAN",
+        "committee_type": "O",
+        "total_receipts": 924972.0,
+        "indiv_contrib": 357393.0,
+        "total_spent": 983566.0,
+        "cash_on_hand": 176736.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL07420",
+            "cand_name": "DRIVER, ANTHONY JR.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 565867.0,
+            "direct_amt": 0.0,
+            "ie_amt": 565867.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL07420",
+            "pac_name": "SCALE TO WIN",
+            "total_amt": 565867.0,
+            "tx_count": 39
+        },
+        {
+            "cmte_id": "C00341396",
+            "pac_name": "MOVEON.ORG POLITICAL ACTION",
+            "total_amt": 100000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4IL07177",
+            "pac_name": "TECHNICOLOR POLITICAL",
+            "total_amt": 55000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00523621"
+}

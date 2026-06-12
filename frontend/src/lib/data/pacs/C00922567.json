@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WYDEN FUND FOR A SENATE MAJORITY 2026",
+        "committee_type": "N",
+        "total_receipts": 41560.0,
+        "indiv_contrib": 41560.0,
+        "total_spent": 40528.0,
+        "cash_on_hand": 1032.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6750.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6750.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00922567"
+}

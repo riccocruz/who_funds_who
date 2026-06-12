@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "FAITH IN AMERICA PAC",
+        "committee_type": "N",
+        "total_receipts": 16018.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 14485.0,
+        "cash_on_hand": 4410.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00925362",
+            "pac_name": "FAITH AND FAMILY FIRST FUND",
+            "total_amt": 11161.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00809921",
+            "pac_name": "MARY MILLER VICTORY COMMITTEE",
+            "total_amt": 4175.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00805671"
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "BRICK INDUSTRY ASSOCIATION'S BRICK PAC FOR A STRONGER AMERICA (BRICK PAC)",
+        "committee_type": "Q",
+        "total_receipts": 34629.0,
+        "indiv_contrib": 31005.0,
+        "total_spent": 9715.0,
+        "cash_on_hand": 135307.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H4AL06098",
+            "cand_name": "PALMER, GARY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AL07086",
+            "cand_name": "SEWELL, TERRI A.",
+            "party": "DEM",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4ND00061",
+            "cand_name": "FEDORCHAK, JULIE",
+            "party": "REP",
+            "state": "ND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00429712"
+}

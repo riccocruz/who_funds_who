@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "CINCINNATI BELL INC. (DBA ALTAFIBER) FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 63745.0,
+        "indiv_contrib": 63745.0,
+        "total_spent": 45550.0,
+        "cash_on_hand": 33561.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH05036",
+            "cand_name": "LATTA, ROBERT EDWARD",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2HI02128",
+            "cand_name": "CASE, EDWARD",
+            "party": "DEM",
+            "state": "HI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OH02248",
+            "cand_name": "TAYLOR, DAVID",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000984",
+            "pac_name": "UNITED STATES TELECOM ASSOCIATION POLITICAL ACTION COMMITTEE (TELECOMPAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00162339",
+            "pac_name": "OHIO REPUBLICAN PARTY STATE CENTRAL & EXECUTIVE COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00652206",
+            "pac_name": "DAVIDSON VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00866483"
+}

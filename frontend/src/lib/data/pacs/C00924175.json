@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM SUNUNU",
+        "committee_type": "N",
+        "total_receipts": 1189855.0,
+        "indiv_contrib": 1169855.0,
+        "total_spent": 1077696.0,
+        "cash_on_hand": 112160.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00924753",
+            "pac_name": "LIVE FREE OR DIE PAC",
+            "total_amt": 119976.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00387464",
+            "pac_name": "ALAMO PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00924175"
+}

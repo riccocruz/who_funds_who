@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "SELF, KEITH ALAN",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 347917.0,
+        "pac_receipts_summary": 150873.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027532",
+            "pac_name": "AMERICAN MARITIME OFFICERS VOLUNTARY POLITICAL ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00123612",
+            "pac_name": "TEXTRON INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00164939",
+            "pac_name": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00254847",
+            "pac_name": "WESTERN PEANUT GROWERS ASSOCIATION, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00306175",
+            "pac_name": "LYONDELL CHEMICAL COMPANY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00479998",
+            "pac_name": "TENASKA INC EMPLOYEES POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00754218",
+            "pac_name": "TEXAS ALLIANCE FOR LIFE FED PAC",
+            "total_amt": 52.0,
+            "direct_amt": 0.0,
+            "ie_amt": 52.0
+        },
+        {
+            "cmte_id": "C00552851",
+            "pac_name": "FREEDOM CAUCUS FUND",
+            "total_amt": 3.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 212,
+        "oos_donors": 72,
+        "oos_total": 73071.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "ACTION CAN'T WAIT PAC",
+        "committee_type": "N",
+        "total_receipts": 18764.0,
+        "indiv_contrib": 18764.0,
+        "total_spent": 13945.0,
+        "cash_on_hand": 4818.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6SD01141",
+            "cand_name": "GRONLI, NICOLE",
+            "party": "DEM",
+            "state": "SD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA05377",
+            "cand_name": "MASUDA, MICHAEL",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ05240",
+            "cand_name": "LEE, ELIZABETH",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00777086"
+}

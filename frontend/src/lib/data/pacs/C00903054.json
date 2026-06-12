@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "STEAM FORWARD PAC",
+        "committee_type": "N",
+        "total_receipts": 266604.0,
+        "indiv_contrib": 247955.0,
+        "total_spent": 232157.0,
+        "cash_on_hand": 34447.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NY06048",
+            "cand_name": "MEEKS, GREGORY W.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00147512",
+            "pac_name": "CONGRESSIONAL BLACK CAUCUS PAC",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00252338",
+            "pac_name": "AMERICAN CHEMISTRY COUNCIL PAC",
+            "total_amt": 850.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00903054"
+}

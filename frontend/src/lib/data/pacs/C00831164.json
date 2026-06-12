@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "NEW YORK MAJORITY FUND",
+        "committee_type": "N",
+        "total_receipts": 1193265.0,
+        "indiv_contrib": 1193265.0,
+        "total_spent": 1194183.0,
+        "cash_on_hand": 13303.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00143230",
+            "pac_name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+            "total_amt": 284550.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "C00525600",
+            "pac_name": "OFF THE SIDELINES PAC",
+            "total_amt": 215100.0,
+            "tx_count": 12
+        }
+    ],
+    "cmte_id": "C00831164"
+}

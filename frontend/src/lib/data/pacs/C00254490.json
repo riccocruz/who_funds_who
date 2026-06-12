@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF SACRAMENTO COUNTY (FED. ACCT.)",
+        "committee_type": "Y",
+        "total_receipts": 108739.0,
+        "indiv_contrib": 96979.0,
+        "total_spent": 76103.0,
+        "cash_on_hand": 43871.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00327106",
+            "pac_name": "YUBA COUNTY REPUBLICAN PARTY (FED. ACCT.)",
+            "total_amt": 1370.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00254490"
+}

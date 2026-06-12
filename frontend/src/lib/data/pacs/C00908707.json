@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "BDA PAC",
+        "committee_type": "V",
+        "total_receipts": 1375006.0,
+        "indiv_contrib": 9347.0,
+        "total_spent": 1317838.0,
+        "cash_on_hand": 57168.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 997768.0,
+            "direct_amt": 0.0,
+            "ie_amt": 997768.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX35095",
+            "cand_name": "GARCIA, JOHNNY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 300000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "MATT FOR COLORADO",
+            "party": null,
+            "state": null,
+            "total_amt": 658.0,
+            "direct_amt": 658.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "BOTTLED LIGHTNING COLLECTIVE",
+            "total_amt": 997768.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6TX35095",
+            "pac_name": "TARGETED MEDIA PLATFORM, LLC",
+            "total_amt": 300000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00908707"
+}

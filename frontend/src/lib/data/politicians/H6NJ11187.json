@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WILLIAMS, ANNA LEE",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 26970.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00907733",
+            "pac_name": "ANNA LEE WILLIAMS FOR CONGRESS",
+            "total_amt": 1365.0,
+            "direct_amt": 1365.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 20,
+        "oos_donors": 2,
+        "oos_total": 1000.0
+    },
+    "opposition": []
+}

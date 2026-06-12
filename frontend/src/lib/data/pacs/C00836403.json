@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "TEAM EMMER",
+        "committee_type": "N",
+        "total_receipts": 5034752.0,
+        "indiv_contrib": 5023749.0,
+        "total_spent": 5421574.0,
+        "cash_on_hand": 341686.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 21640.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00550467",
+            "pac_name": "CD6 GOP FEDERAL COMMITTEE",
+            "total_amt": 11108.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00690735",
+            "pac_name": "CGCN PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00327072",
+            "pac_name": "SANTANDER HOLDINGS USA INC. PAC (SANTANDER US PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00836403"
+}

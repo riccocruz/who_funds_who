@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "EARLY, JUSTIN",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 43906.0,
+        "pac_receipts_summary": 2750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002469",
+            "pac_name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 46,
+        "oos_donors": 9,
+        "oos_total": 3925.0
+    },
+    "opposition": []
+}

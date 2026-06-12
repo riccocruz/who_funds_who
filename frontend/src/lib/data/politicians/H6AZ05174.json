@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "STOVALL, ALEX NICOLAS",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 60013.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00386755",
+            "pac_name": "PROJECTHEALTHSOLUTIONS PAC - PHSPAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00833848",
+            "pac_name": "BLAC PAC",
+            "total_amt": 1041.0,
+            "direct_amt": 1041.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 34,
+        "oos_donors": 25,
+        "oos_total": 41853.0
+    },
+    "opposition": []
+}

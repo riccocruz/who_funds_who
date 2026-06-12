@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BRODEN, STEPHEN",
+        "party": "IND",
+        "state": "FL",
+        "indiv_total": 3800.0,
+        "pac_receipts_summary": 7541.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00895813",
+            "pac_name": "DESTROY THE DEMOCRAT PARTY",
+            "total_amt": 4391.0,
+            "direct_amt": 4391.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 3,
+        "oos_donors": 3,
+        "oos_total": 12000.0
+    },
+    "opposition": []
+}

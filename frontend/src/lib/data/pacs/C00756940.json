@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE",
+        "committee_type": "V",
+        "total_receipts": 1107747.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 1039201.0,
+        "cash_on_hand": 423400.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00552",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 198593.0,
+            "direct_amt": 0.0,
+            "ie_amt": 198593.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX29052",
+            "cand_name": "GARCIA, SYLVIA R",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 28575.0,
+            "direct_amt": 0.0,
+            "ie_amt": 28575.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX18232",
+            "cand_name": "MENEFEE, CHRISTIAN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 6975.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6975.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00552",
+            "pac_name": "PERFECT GIFT",
+            "total_amt": 198593.0,
+            "tx_count": 31
+        },
+        {
+            "cmte_id": "H8TX29052",
+            "pac_name": "PERFECT GIFT",
+            "total_amt": 28575.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "H6TX18232",
+            "pac_name": "PERFECT GIFT",
+            "total_amt": 6975.0,
+            "tx_count": 12
+        }
+    ],
+    "cmte_id": "C00756940"
+}

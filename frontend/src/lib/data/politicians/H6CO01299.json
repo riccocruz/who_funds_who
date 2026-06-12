@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JAMES, WANDA",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 233033.0,
+        "pac_receipts_summary": 1300.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00849398",
+            "pac_name": "COURIER PLUS, INC. D/B/A DUTCHIE POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 197,
+        "oos_donors": 56,
+        "oos_total": 62848.0
+    },
+    "opposition": []
+}

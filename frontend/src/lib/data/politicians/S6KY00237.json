@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "CAMERON, DANIEL",
+        "party": "REP",
+        "state": "KY",
+        "indiv_total": 2179651.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00392670",
+            "pac_name": "JUSTICE FREEDOM & LIBERTY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00887331",
+            "pac_name": "RED STATE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1330,
+        "oos_donors": 539,
+        "oos_total": 540592.0
+    },
+    "opposition": []
+}

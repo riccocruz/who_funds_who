@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "ATTICUS LABS INC. PAC",
+        "committee_type": "N",
+        "total_receipts": 30000.0,
+        "indiv_contrib": 30000.0,
+        "total_spent": 6860.0,
+        "cash_on_hand": 23140.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 6725.0,
+            "direct_amt": 6725.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00916940"
+}

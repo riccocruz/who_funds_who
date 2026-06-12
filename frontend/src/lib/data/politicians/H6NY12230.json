@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KASKY, CAMERON",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 173843.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00879080",
+            "pac_name": "CITIZENS AGAINST AIPAC CORRUPTION",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 83,
+        "oos_donors": 54,
+        "oos_total": 42045.0
+    },
+    "opposition": []
+}

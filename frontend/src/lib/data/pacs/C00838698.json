@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "TEAM NUNN",
+        "committee_type": "N",
+        "total_receipts": 1334787.0,
+        "indiv_contrib": 1307030.0,
+        "total_spent": 1020399.0,
+        "cash_on_hand": 320988.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00818740",
+            "pac_name": "CALL TO SERVICE PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881433",
+            "pac_name": "ALBANIANS FOR AMERICA PAC",
+            "total_amt": 8900.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00481176",
+            "pac_name": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00689208",
+            "pac_name": "RVFPAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00809012",
+            "pac_name": "FROGMAN PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00117614",
+            "pac_name": "FARMERS MUTUAL HAIL INS CO OF IOWA POLITICAL ACTION COMMITTEE (FMH PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00450916",
+            "pac_name": "ASURION LLC POLITICAL ACTION COMMITTEE (ASURION PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00882332",
+            "pac_name": "RIGHT TRACK USA PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00838698"
+}

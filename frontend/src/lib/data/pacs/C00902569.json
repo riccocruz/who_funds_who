@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "OHIO ERIE PAC",
+        "committee_type": "N",
+        "total_receipts": 19784.0,
+        "indiv_contrib": 19784.0,
+        "total_spent": 10860.0,
+        "cash_on_hand": 8924.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6SC05178",
+            "cand_name": "HARPER, ALEX",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": 920.0,
+            "direct_amt": 0.0,
+            "ie_amt": 920.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00163",
+            "cand_name": "BROWN, SHERROD",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 900.0,
+            "direct_amt": 0.0,
+            "ie_amt": 900.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6SC05178",
+            "pac_name": "HUNTINGTON BILLBOARDS",
+            "total_amt": 920.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6OH00163",
+            "pac_name": "HUNTINGTON BILLBOARDS",
+            "total_amt": 900.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00902569"
+}

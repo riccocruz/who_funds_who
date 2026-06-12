@@ -1,0 +1,65 @@
+{
+    "politician": {
+        "cand_name": "MOLINARO, MARCUS J.",
+        "party": "REP",
+        "state": "NY",
+        "indiv_total": 246.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00083758",
+            "pac_name": "NATIONAL FUEL GAS COMPANY FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": -500.0,
+            "direct_amt": -500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00214981",
+            "pac_name": "TEXAS FARM BUREAU AGFUND",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00543967",
+            "pac_name": "MARC FOR US INC.",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00597062",
+            "pac_name": "BUDDY PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00874362",
+            "pac_name": "AMERICAN DREAM DELIVERED",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00359539",
+            "pac_name": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION POLITICAL ACTION COMMITTEE (SKINPAC)",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 2,
+        "oos_donors": 1,
+        "oos_total": 7.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00489799",
+            "pac_name": "PLANNED PARENTHOOD VOTES",
+            "total_amt": 2908.0
+        }
+    ]
+}

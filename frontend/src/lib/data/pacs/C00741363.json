@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "PENNSYLVANIA ADVOCATES AND RESOURCES FOR AUTISM AND INTELLECTUAL DISABILITIES PAC",
+        "committee_type": "N",
+        "total_receipts": 19350.0,
+        "indiv_contrib": 19350.0,
+        "total_spent": 22605.0,
+        "cash_on_hand": 18582.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA08277",
+            "cand_name": "FITZPATRICK, BRIAN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00741363"
+}

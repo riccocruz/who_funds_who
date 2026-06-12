@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "TULLY, DAN",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 226241.0,
+        "pac_receipts_summary": 5800.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00899427",
+            "pac_name": "SERVANT-LEADER FUND, INC.",
+            "total_amt": 96358.0,
+            "direct_amt": 0.0,
+            "ie_amt": 96358.0
+        },
+        {
+            "cmte_id": "C00893982",
+            "pac_name": "POPULAR HOPE & RENEWAL PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00264689",
+            "pac_name": "ILLINOIS POLITICAL ACTIVE LETTER CARRIERS",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 229,
+        "oos_donors": 96,
+        "oos_total": 59470.0
+    },
+    "opposition": []
+}

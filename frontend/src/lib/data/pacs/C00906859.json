@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "TRUE ANOMALY, INC. PAC",
+        "committee_type": "N",
+        "total_receipts": 10300.0,
+        "indiv_contrib": 10300.0,
+        "total_spent": 7610.0,
+        "cash_on_hand": 2690.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CO05142",
+            "cand_name": "CRANK, JEFF",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA24303",
+            "cand_name": "CARBAJAL, SALUD O.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN04195",
+            "cand_name": "DESJARLAIS, SCOTT HON.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00902817",
+            "pac_name": "COLORADO CONSERVATIVE VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00906859"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ADERHOLT MAJORITY FUND",
+        "committee_type": "N",
+        "total_receipts": 71500.0,
+        "indiv_contrib": 64000.0,
+        "total_spent": 42423.0,
+        "cash_on_hand": 30009.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00762427",
+            "pac_name": "APPLIED RESEARCH ASSOCIATES, INC. POLITICAL ACTION COMMITTEE (ARAPAC)",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00487942",
+            "pac_name": "REACHING FOR A BRIGHTER AMERICA PAC",
+            "total_amt": 2887.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00776187"
+}

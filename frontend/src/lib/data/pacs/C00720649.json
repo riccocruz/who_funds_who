@@ -1,0 +1,146 @@
+{
+    "pac": {
+        "name": "REFORM LEADERS PAC",
+        "committee_type": "O",
+        "total_receipts": 27812.0,
+        "indiv_contrib": 27812.0,
+        "total_spent": 24840.0,
+        "cash_on_hand": 54541.0
+    },
+    "stats": {
+        "candidates_funded": 8
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CA49128",
+            "cand_name": "DESMOND, JIM",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3500.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA50000",
+            "cand_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "party": null,
+            "state": null,
+            "total_amt": 3000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA49169",
+            "cand_name": "KURDIAN, ARMEN",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 2500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2500.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA51000",
+            "cand_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "party": null,
+            "state": null,
+            "total_amt": 1500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1500.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA21234",
+            "cand_name": "RIOS, LORENZO",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA13199",
+            "cand_name": "KIRKLAND, KYLE",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA03174",
+            "cand_name": "TUCKER, ROBB",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA03157",
+            "cand_name": "KILEY, KEVIN",
+            "party": "OTH",
+            "state": "CA",
+            "total_amt": 200.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6CA49128",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA50000",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA49169",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA51000",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2CA03157",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA03174",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA13199",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA21234",
+            "pac_name": "REFORM CALIFORNIA VOTER GUIDE",
+            "total_amt": 200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00720649"
+}

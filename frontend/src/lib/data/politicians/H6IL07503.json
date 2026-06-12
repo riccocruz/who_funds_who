@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "SHOWALTER, REED",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 313101.0,
+        "pac_receipts_summary": 5750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00907188",
+            "pac_name": "PEOPLE OVER MONOPOLIES",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00508770",
+            "pac_name": "NATIONAL GROCERS ASSOCIATION GROCERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 240,
+        "oos_donors": 155,
+        "oos_total": 122362.0
+    },
+    "opposition": []
+}

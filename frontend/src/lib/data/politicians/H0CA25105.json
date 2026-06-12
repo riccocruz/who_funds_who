@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "GARCIA, MICHAEL",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 478.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00279216",
+            "pac_name": "IHEARTMEDIA, INC. PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00691501",
+            "pac_name": "REJOICE PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00028787",
+            "pac_name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00389429",
+            "pac_name": "CALPORTLAND COMPANY POLITICAL ACTION COMMITTEE (CALPORTLANDPAC)",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00758722",
+            "pac_name": "PATRIOTS ALWAYS TRIUMPH",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

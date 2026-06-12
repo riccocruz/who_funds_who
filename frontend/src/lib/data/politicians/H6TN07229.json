@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "DIXIE, VINCENT",
+        "party": "DEM",
+        "state": "TN",
+        "indiv_total": 162132.0,
+        "pac_receipts_summary": 11000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C90023292",
+            "pac_name": "UNITED WE SUCCEED",
+            "total_amt": 100000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 100000.0
+        },
+        {
+            "cmte_id": "C00617381",
+            "pac_name": "THE COLLECTIVE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00277152",
+            "pac_name": "ROGERS GROUP INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 168,
+        "oos_donors": 23,
+        "oos_total": 24250.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,62 @@
+{
+    "pac": {
+        "name": "AMERICAN LIBERTY FOUNDATION",
+        "committee_type": "V",
+        "total_receipts": 989339.0,
+        "indiv_contrib": 10159.0,
+        "total_spent": 798161.0,
+        "cash_on_hand": 214042.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 383777.0,
+            "direct_amt": 0.0,
+            "ie_amt": 383777.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 380666.0,
+            "direct_amt": 0.0,
+            "ie_amt": 380666.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "GRP BUYING LLC",
+            "total_amt": 383777.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX09140",
+            "pac_name": "MEDIUM BUYING LLC",
+            "total_amt": 380666.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00873828",
+            "pac_name": "THE 2026 VICTORY COMMITTEE",
+            "total_amt": 110115.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00857615",
+            "pac_name": "TEAM JORDAN",
+            "total_amt": 56125.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00830042"
+}

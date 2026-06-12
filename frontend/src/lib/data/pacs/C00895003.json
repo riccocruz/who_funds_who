@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "SERBIAN AMERICAN PAC",
+        "committee_type": "V",
+        "total_receipts": 250035.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 41110.0,
+        "cash_on_hand": 208925.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MI10359",
+            "cand_name": "BOUCHARD, MICHAEL",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00895003"
+}

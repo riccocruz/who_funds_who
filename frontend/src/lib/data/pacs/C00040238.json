@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "ELEVATE TEXTILES POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 12650.0,
+        "indiv_contrib": 12650.0,
+        "total_spent": 0.0,
+        "cash_on_hand": 51869.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NC14015",
+            "cand_name": "MOORE, TIM",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC08185",
+            "cand_name": "HUDSON, RICHARD L. JR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00405555",
+            "pac_name": "NATIONAL COUNCIL OF TEXTILE ORGANIZATIONS INC POLITICAL ACTION COMMITTEE",
+            "total_amt": 0.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00834507",
+            "pac_name": "BUILDING UP DEMOCRACY'S DREAM",
+            "total_amt": 0.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00040238"
+}

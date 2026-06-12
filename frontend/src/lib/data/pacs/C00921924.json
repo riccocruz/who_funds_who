@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "MC-KEE PAC",
+        "committee_type": "N",
+        "total_receipts": 10506.0,
+        "indiv_contrib": 500.0,
+        "total_spent": 10506.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00457",
+            "cand_name": "SCHWARZE, ADAM",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01523",
+            "cand_name": "FRANKMAN, JOHN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00921932",
+            "pac_name": "MCKEE VICTORY FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00921924"
+}

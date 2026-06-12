@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "SOLIDARITY VICTORY PAC",
+        "committee_type": "O",
+        "total_receipts": 654862.0,
+        "indiv_contrib": 557362.0,
+        "total_spent": 1243616.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S6PA00217",
+            "cand_name": "CASEY, ROBERT P. JR.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 89877.0,
+            "direct_amt": 0.0,
+            "ie_amt": 89877.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00009423",
+            "cand_name": "THE MOVEMENT LAB LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 89877.0,
+            "direct_amt": 0.0,
+            "ie_amt": 89877.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 13751.0,
+            "direct_amt": 0.0,
+            "ie_amt": 13751.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA18200",
+            "cand_name": "LEE, SUMMER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 12114.0,
+            "direct_amt": 0.0,
+            "ie_amt": 12114.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00902189",
+            "pac_name": "FREEDOM PA",
+            "total_amt": 485098.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "ORGANIZE PENNSYLVANIA",
+            "total_amt": 89877.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6PA00217",
+            "pac_name": "ORGANIZE PENNSYLVANIA",
+            "total_amt": 89877.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 75000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4PA10104",
+            "pac_name": "ORGANIZE PENNSYLVANIA",
+            "total_amt": 13751.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2PA18200",
+            "pac_name": "ORGANIZE PENNSYLVANIA",
+            "total_amt": 12114.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00873877"
+}

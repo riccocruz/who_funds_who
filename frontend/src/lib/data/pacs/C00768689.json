@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "AMERICA FIRST PATRIOTS PAC",
+        "committee_type": "N",
+        "total_receipts": 270769.0,
+        "indiv_contrib": 263485.0,
+        "total_spent": 236776.0,
+        "cash_on_hand": 62262.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2CT02161",
+            "pac_name": "FRANCE, MIKE",
+            "total_amt": 40000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00818864",
+            "pac_name": "FRANCE FOR CT02",
+            "total_amt": 7000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00768689"
+}

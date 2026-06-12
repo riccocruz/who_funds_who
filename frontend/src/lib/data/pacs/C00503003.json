@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "BLUECROSS BLUESHIELD OF TENNESSEE INC POLITICAL ACTION COMMITTEE (BCBSTN PAC)",
+        "committee_type": "Q",
+        "total_receipts": 44352.0,
+        "indiv_contrib": 39352.0,
+        "total_spent": 33075.0,
+        "cash_on_hand": 247654.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0TN01118",
+            "cand_name": "HARSHBARGER, DIANA",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN09068",
+            "cand_name": "COHEN, STEVE I MR.",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00194746",
+            "pac_name": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+            "total_amt": 17500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 0.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00503003"
+}

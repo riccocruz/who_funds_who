@@ -1,0 +1,78 @@
+{
+    "pac": {
+        "name": "INDIVISIBLE PROJECT INC.",
+        "committee_type": "I",
+        "total_receipts": 541087.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 6698.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1048.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY10176",
+            "cand_name": "LANDER, BRAD MR.",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1048.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA13070",
+            "cand_name": "CLARK, JASMINE",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1048.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2AZ02360",
+            "pac_name": "GLOO FACTORY",
+            "total_amt": 3268.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H6GA13070",
+            "pac_name": "LEMONADA MEDIA",
+            "total_amt": 1048.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NY10176",
+            "pac_name": "LEMONADA MEDIA",
+            "total_amt": 1048.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6MN00440",
+            "pac_name": "LEMONADA MEDIA",
+            "total_amt": 1048.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S4NC00162",
+            "pac_name": "USPS",
+            "total_amt": 282.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C90017492"
+}

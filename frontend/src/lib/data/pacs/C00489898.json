@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "TURKISH COALITION CALIFORNIA PAC (TC-CAL PAC)",
+        "committee_type": "Q",
+        "total_receipts": 21269.0,
+        "indiv_contrib": 21269.0,
+        "total_spent": 21505.0,
+        "cash_on_hand": 996.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4VA10279",
+            "cand_name": "SUBRAMANYAM, SUHAS",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00489898"
+}

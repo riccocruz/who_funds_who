@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "MARKEY VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 1738779.0,
+        "indiv_contrib": 1723629.0,
+        "total_spent": 1736859.0,
+        "cash_on_hand": 9174.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00564187",
+            "pac_name": "EDUCATE AND INNOVATE PAC",
+            "total_amt": 110000.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00073056",
+            "pac_name": "MASTERS, MATES AND PILOTS POLITICAL CONTRIBUTION FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00274944",
+            "pac_name": "COLLEGE OF AMERICAN PATHOLOGISTS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00383950",
+            "pac_name": "NATIONAL ELEVATOR CONSTRUCTORS PAC/ INTN'L  UNION OF ELEVATOR CONSTRUCTORS (NEC PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00246421",
+            "pac_name": "ASSOCIATION OF PROFESSIONAL FLIGHT ATTENDANTS (APFA PAC) POLITICAL ACTION COMMITTEE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00362210",
+            "pac_name": "O'NEILL AND ASSOCIATES PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00021972",
+            "pac_name": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA BETTER GOVERNMENT COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00462630",
+            "pac_name": "COVINGTON AND BURLING LLP PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00094185",
+            "pac_name": "COMPUTER AND COMMUNICATIONS INDUSTRY ASSOCIATION PAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00698340"
+}

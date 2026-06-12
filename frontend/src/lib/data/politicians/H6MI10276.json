@@ -1,0 +1,129 @@
+{
+    "politician": {
+        "cand_name": "HINES, CHRISTINA",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 838406.0,
+        "pac_receipts_summary": 45298.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00716423",
+            "pac_name": "THE NEXT 50 PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00692137",
+            "pac_name": "VOTE MAMA",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 5624.0,
+            "direct_amt": 5624.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00462861",
+            "pac_name": "CHRISTINA FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00784371",
+            "pac_name": "CHRISTINA FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00807727",
+            "pac_name": "CHRISTINA FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00641555",
+            "pac_name": "SQUARE ONE POLITICS",
+            "total_amt": 1996.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00540443",
+            "pac_name": "GIFFORDS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545137",
+            "pac_name": "LEADERSHIP OPPORTUNITY INNOVATION SERVICE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00921833",
+            "pac_name": "DONT GIVE UP THE SHIP PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00358564",
+            "pac_name": "SINGH PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00824607",
+            "pac_name": "TOMORROW'S JOBS",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765768",
+            "pac_name": "HER BOLD MOVE ACTION",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00847137",
+            "pac_name": "ENGAGE Y'ALL PAC",
+            "total_amt": 51.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 658,
+        "oos_donors": 220,
+        "oos_total": 218285.0
+    },
+    "opposition": []
+}

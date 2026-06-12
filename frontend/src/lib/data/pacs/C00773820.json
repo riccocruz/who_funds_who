@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "KIRSTEN PAC",
+        "committee_type": "N",
+        "total_receipts": 61439.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 64665.0,
+        "cash_on_hand": 29193.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07121",
+            "cand_name": "GRIJALVA, ADELITA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AZ06099",
+            "cand_name": "MENDOZA, JOANNA",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00773820"
+}

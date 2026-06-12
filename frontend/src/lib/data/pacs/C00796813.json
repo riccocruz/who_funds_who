@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "CATALENT, INC. PAC",
+        "committee_type": "Q",
+        "total_receipts": 63456.0,
+        "indiv_contrib": 63456.0,
+        "total_spent": 2500.0,
+        "cash_on_hand": 118817.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00796813"
+}

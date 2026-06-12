@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MARKERT, GEORGE WASHINGTON MR V",
+        "party": "REP",
+        "state": "CO",
+        "indiv_total": 159220.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00386755",
+            "pac_name": "PROJECTHEALTHSOLUTIONS PAC - PHSPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00647420",
+            "pac_name": "BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 91,
+        "oos_donors": 60,
+        "oos_total": 97400.0
+    },
+    "opposition": []
+}

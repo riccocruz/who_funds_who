@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "CHICAGO PROGRESSIVE PARTNERSHIP",
+        "committee_type": "O",
+        "total_receipts": 2036537.0,
+        "indiv_contrib": 1022500.0,
+        "total_spent": 1979819.0,
+        "cash_on_hand": 56718.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09236",
+            "cand_name": "AMIWALA, BUSHRA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 104555.0,
+            "direct_amt": 0.0,
+            "ie_amt": 104555.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL09178",
+            "pac_name": "BUYING TIME",
+            "total_amt": 1183677.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H2IL08146",
+            "pac_name": "BUYING TIME",
+            "total_amt": 663879.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6IL09236",
+            "pac_name": "MIQ DIGITAL USA INC",
+            "total_amt": 104555.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00935809"
+}

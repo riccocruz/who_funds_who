@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "PROJECT RESCUE AMERICA",
+        "committee_type": "O",
+        "total_receipts": 586430.0,
+        "indiv_contrib": 75000.0,
+        "total_spent": 529338.0,
+        "cash_on_hand": 345302.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00542217",
+            "pac_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692343",
+            "pac_name": "TEAM RICK SCOTT",
+            "total_amt": 6115.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00837427"
+}

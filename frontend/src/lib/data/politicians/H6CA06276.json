@@ -1,0 +1,94 @@
+{
+    "politician": {
+        "cand_name": "BABB TOMLINSON, LAUREN",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 312582.0,
+        "pac_receipts_summary": 57100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00692137",
+            "pac_name": "VOTE MAMA",
+            "total_amt": 13500.0,
+            "direct_amt": 13500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00692319",
+            "pac_name": "VPP",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00147512",
+            "pac_name": "CONGRESSIONAL BLACK CAUCUS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00843110",
+            "pac_name": "LEADERS WE DESERVE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00625558",
+            "pac_name": "MILK RIVER PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00507368",
+            "pac_name": "LBT FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00763649",
+            "pac_name": "LBT FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00822478",
+            "pac_name": "SECURING A KINDER DEMOCRACY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829754",
+            "pac_name": "DEFEAT EXTREMISTS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00878603",
+            "pac_name": "LBT FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00459800",
+            "pac_name": "PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT FEDERAL PAC (PECG FED-PAC)",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 99,
+        "oos_donors": 25,
+        "oos_total": 18051.0
+    },
+    "opposition": []
+}

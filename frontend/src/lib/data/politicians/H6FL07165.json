@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KINTER, MARIALANA",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 334143.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 92,
+        "oos_donors": 54,
+        "oos_total": 27930.0
+    },
+    "opposition": []
+}

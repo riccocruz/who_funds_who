@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "FUTURE THAT WORKS 4 EVERYONE PAC",
+        "committee_type": "O",
+        "total_receipts": 10040.0,
+        "indiv_contrib": 10040.0,
+        "total_spent": 10040.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09236",
+            "cand_name": "AMIWALA, BUSHRA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 7600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7600.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL09236",
+            "pac_name": "SOLIDARITY STRATEGIES",
+            "total_amt": 7600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00920298"
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "DUNN, HARRY",
+        "party": "DEM",
+        "state": "MD",
+        "indiv_total": 2073664.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00933796",
+            "pac_name": "BLUE DEMOCRACY NETWORK",
+            "total_amt": 600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 600.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 613,
+        "oos_donors": 565,
+        "oos_total": 244057.0
+    },
+    "opposition": []
+}

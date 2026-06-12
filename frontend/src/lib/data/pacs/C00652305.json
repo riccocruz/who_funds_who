@@ -1,0 +1,52 @@
+{
+    "pac": {
+        "name": "REDEMPTION PAC",
+        "committee_type": "Q",
+        "total_receipts": 142581.0,
+        "indiv_contrib": 24885.0,
+        "total_spent": 134566.0,
+        "cash_on_hand": 37236.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0VA05160",
+            "cand_name": "GOOD, ROBERT G. HON.",
+            "party": "REP",
+            "state": "VA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00776708",
+            "pac_name": "HIGGINS VICTORY COMMITTEE",
+            "total_amt": 102000.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00380527",
+            "pac_name": "PERNOD RICARD USA, LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00807230",
+            "pac_name": "CONRAD SHIPYARD LLC PAC",
+            "total_amt": 795.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00652305"
+}

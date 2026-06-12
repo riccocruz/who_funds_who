@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "COWAN, JOHN",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 345453.0,
+        "pac_receipts_summary": 45000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00413955",
+            "pac_name": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS POLITICAL ACTION COMMITTEE (NEUROSURGERYPAC)",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 138,
+        "oos_donors": 32,
+        "oos_total": 52335.0
+    },
+    "opposition": []
+}

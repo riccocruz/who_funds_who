@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "EDW ACTION FUND",
+        "committee_type": "V",
+        "total_receipts": 787639.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 927799.0,
+        "cash_on_hand": 26541.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09194",
+            "cand_name": "FINE, LAURA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 500345.0,
+            "direct_amt": 0.0,
+            "ie_amt": 500345.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL09194",
+            "pac_name": "SYMMETRY MEDIA, LLC",
+            "total_amt": 500345.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00863472"
+}

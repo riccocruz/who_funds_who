@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "SCHLOSSBERG, JOHN (JACK) BOUVIER KENNE",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 2281518.0,
+        "pac_receipts_summary": 13500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00344234",
+            "pac_name": "PAC TO THE FUTURE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00431601",
+            "pac_name": "OCEANS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00913012",
+            "pac_name": "DEMOCRATIC ACTION NETWORK",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1309,
+        "oos_donors": 837,
+        "oos_total": 712414.0
+    },
+    "opposition": []
+}

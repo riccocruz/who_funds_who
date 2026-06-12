@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PINTO, BROOKE",
+        "party": "DEM",
+        "state": "DC",
+        "indiv_total": 1240852.0,
+        "pac_receipts_summary": 500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00241380",
+            "pac_name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 480,
+        "oos_donors": 243,
+        "oos_total": 449747.0
+    },
+    "opposition": []
+}

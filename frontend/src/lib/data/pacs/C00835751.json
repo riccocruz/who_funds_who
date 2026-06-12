@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "FRIENDS OF KENNEDY",
+        "committee_type": "N",
+        "total_receipts": 1771337.0,
+        "indiv_contrib": 1770338.0,
+        "total_spent": 1721707.0,
+        "cash_on_hand": 98236.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00634774",
+            "pac_name": "COMMON SENSE FOR AMERICA PAC",
+            "total_amt": 145399.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00632679",
+            "pac_name": "CONSERVATIVE LOUISIANA",
+            "total_amt": 128810.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00892000",
+            "pac_name": "GA SENATE REPUBLICAN NOMINEE FUND 2026",
+            "total_amt": 20242.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00892018",
+            "pac_name": "NH SENATE REPUBLICAN NOMINEE FUND 2026",
+            "total_amt": 20242.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00892026",
+            "pac_name": "MI SENATE REPUBLICAN NOMINEE FUND 2026",
+            "total_amt": 20242.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00898403",
+            "pac_name": "KY SENATE REPUBLICAN NOMINEE FUND 2026",
+            "total_amt": 20242.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00835751"
+}

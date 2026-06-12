@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "TEXAS PATH TO FREEDOM PAC",
+        "committee_type": "O",
+        "total_receipts": 349776.0,
+        "indiv_contrib": 326025.0,
+        "total_spent": 219791.0,
+        "cash_on_hand": 129985.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX32159",
+            "cand_name": "BINKLEY, RYAN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 173910.0,
+            "direct_amt": 0.0,
+            "ie_amt": 173910.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX32159",
+            "pac_name": "VICTORY ENTERPRISES, INC.",
+            "total_amt": 173910.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H6TX32225",
+            "pac_name": "VICTORY ENTERPRISES, INC.",
+            "total_amt": 2125.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00921775"
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "ALASKA REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 1387014.0,
+        "indiv_contrib": 616631.0,
+        "total_spent": 1071592.0,
+        "cash_on_hand": 576303.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AK00045",
+            "cand_name": "THE ALASKA LANDMINE",
+            "party": null,
+            "state": null,
+            "total_amt": -800.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 456986.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 432986.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 208036.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 136705.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00770511",
+            "pac_name": "TZEDEK PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6AK00045",
+            "pac_name": "THE ALASKA LANDMINE",
+            "total_amt": -800.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00253260"
+}

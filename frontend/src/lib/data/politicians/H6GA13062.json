@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "BLAIR, EVERTON",
+        "party": "DEM",
+        "state": "GA",
+        "indiv_total": 693527.0,
+        "pac_receipts_summary": 13000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00476978",
+            "pac_name": "LGBTQ VICTORY FUND FEDERAL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00901496",
+            "pac_name": "FORGING PROGRESS PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00760736",
+            "pac_name": "RESIST RECLAIM REBUILD PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00765537",
+            "pac_name": "POLICY IS PERSONAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00831289",
+            "pac_name": "EVERTON BLAIR FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 460,
+        "oos_donors": 338,
+        "oos_total": 292887.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,80 @@
+{
+    "politician": {
+        "cand_name": "BOUCHARD, MICHAEL",
+        "party": "REP",
+        "state": "MI",
+        "indiv_total": 941299.0,
+        "pac_receipts_summary": 36000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00895003",
+            "pac_name": "SERBIAN AMERICAN PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00693796",
+            "pac_name": "BUCKEYE LIBERTY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00524314",
+            "pac_name": "AMERICA'S FIRST PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786368",
+            "pac_name": "31 DAYS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00416594",
+            "pac_name": "FRIENDS OF MICHAEL BOUCHARD INC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00583526",
+            "pac_name": "TOGETHER UNITED FOR LIBERTY, INTEGRITY AND PROSPERITY PAC (TULIP PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00882134",
+            "pac_name": "THIN BLUE LINE PAC",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00809012",
+            "pac_name": "FROGMAN PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 283,
+        "oos_donors": 42,
+        "oos_total": 103960.0
+    },
+    "opposition": []
+}

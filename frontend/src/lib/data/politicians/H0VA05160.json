@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "GOOD, ROBERT G. HON.",
+        "party": "REP",
+        "state": "VA",
+        "indiv_total": 9964.0,
+        "pac_receipts_summary": 18800.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00781740",
+            "pac_name": "CONSERVATIVE OPPORTUNITY FUND",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00801993",
+            "pac_name": "VA CONSERVATIVE LEADERSHIP FUND",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00617662",
+            "pac_name": "GOOD FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00652305",
+            "pac_name": "REDEMPTION PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00676965",
+            "pac_name": "GOOD FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00648295",
+            "pac_name": "GOOD FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00655332",
+            "pac_name": "GOOD FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00692327",
+            "pac_name": "LETS GET TO WORK PAC",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 19,
+        "oos_donors": 6,
+        "oos_total": 20275.0
+    },
+    "opposition": []
+}

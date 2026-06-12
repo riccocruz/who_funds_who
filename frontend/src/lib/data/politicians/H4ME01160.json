@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "RUSSELL, RONALD CHARLES MR.",
+        "party": "REP",
+        "state": "ME",
+        "indiv_total": 59918.0,
+        "pac_receipts_summary": 819.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00254656",
+            "pac_name": "SUGAR CANE GROWERS COOPERATIVE OF FLORIDA (PAC)",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 43,
+        "oos_donors": 29,
+        "oos_total": 47546.0
+    },
+    "opposition": []
+}

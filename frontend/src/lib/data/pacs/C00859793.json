@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "RULLI VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 146233.0,
+        "indiv_contrib": 130233.0,
+        "total_spent": 148233.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00610956",
+            "pac_name": "MEMORIALHEALTHPAC",
+            "total_amt": 12500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00859546",
+            "pac_name": "OHIO VALLEY LEADERSHIP PAC",
+            "total_amt": 10670.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00303032",
+            "pac_name": "INTERNATIONAL WAREHOUSE LOGISTICS ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00309468",
+            "pac_name": "MSCPAC",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00859793"
+}

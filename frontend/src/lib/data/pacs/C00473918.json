@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "WOMEN VOTE",
+        "committee_type": "O",
+        "total_receipts": 2240347.0,
+        "indiv_contrib": 1212962.0,
+        "total_spent": 2600484.0,
+        "cash_on_hand": 2005989.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00854059",
+            "pac_name": "ONE GIANT LEAP PAC",
+            "total_amt": 100000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00492520",
+            "pac_name": "AMERICA VOTES ACTION FUND",
+            "total_amt": 95000.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00473918"
+}

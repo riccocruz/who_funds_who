@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "MARINETTE MARINE CORPORATION PAC FINCUSA PAC",
+        "committee_type": "Q",
+        "total_receipts": 12760.0,
+        "indiv_contrib": 12760.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 12488.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0WI05113",
+            "cand_name": "FITZGERALD, SCOTT",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00410092",
+            "pac_name": "PEOPLE'S VOICE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692343",
+            "pac_name": "TEAM RICK SCOTT",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00459453"
+}

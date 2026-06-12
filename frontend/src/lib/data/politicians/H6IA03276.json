@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "KONFRST, JENNIFER",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 593913.0,
+        "pac_receipts_summary": 13589.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00497131",
+            "pac_name": "PURPOSE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "JENNIFER KONFRST FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00784371",
+            "pac_name": "JENNIFER KONFRST FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00868976",
+            "pac_name": "HOLD THE LINE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00641555",
+            "pac_name": "SQUARE ONE POLITICS",
+            "total_amt": 1088.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629063",
+            "pac_name": "THE MAJORITY RULES",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 582,
+        "oos_donors": 105,
+        "oos_total": 135593.0
+    },
+    "opposition": []
+}

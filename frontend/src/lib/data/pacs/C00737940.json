@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "DICKINSON WRIGHT PLLC PAC",
+        "committee_type": "N",
+        "total_receipts": 10000.0,
+        "indiv_contrib": 10000.0,
+        "total_spent": 3562.0,
+        "cash_on_hand": 16425.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH03125",
+            "cand_name": "BEATTY, JOYCE",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00806612",
+            "pac_name": "JOHN JAMES FOR MICHIGAN",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00737940"
+}

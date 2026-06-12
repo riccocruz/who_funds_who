@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "NEXION HEALTH FUND FOR QUALITY LONG TERM CARE INC",
+        "committee_type": "Q",
+        "total_receipts": 70074.0,
+        "indiv_contrib": 70074.0,
+        "total_spent": 22500.0,
+        "cash_on_hand": 101979.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4LA06211",
+            "cand_name": "FIELDS, CLEO",
+            "party": "DEM",
+            "state": "LA",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00816058",
+            "pac_name": "LETLOW VICTORY FUND",
+            "total_amt": 7500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00409003",
+            "pac_name": "HEARTLAND VALUES PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00866947",
+            "pac_name": "CORNYN LONESTAR VICTORY FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00434233"
+}

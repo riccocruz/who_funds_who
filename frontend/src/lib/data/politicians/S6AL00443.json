@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "HUDSON, JARED",
+        "party": "REP",
+        "state": "AL",
+        "indiv_total": 1537930.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00906685",
+            "pac_name": "ALABAMA CONSERVATIVES",
+            "total_amt": 102523.0,
+            "direct_amt": 0.0,
+            "ie_amt": 102523.0
+        },
+        {
+            "cmte_id": "C00570226",
+            "pac_name": "SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00638882",
+            "pac_name": "RIVER FINANCIAL CORPORATION (RFC) PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 366,
+        "oos_donors": 143,
+        "oos_total": 335915.0
+    },
+    "opposition": []
+}

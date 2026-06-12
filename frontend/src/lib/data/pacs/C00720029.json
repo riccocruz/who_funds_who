@@ -1,0 +1,71 @@
+{
+    "pac": {
+        "name": "EVERYDAY PEOPLE",
+        "committee_type": "O",
+        "total_receipts": 896815.0,
+        "indiv_contrib": 853337.0,
+        "total_spent": 2012495.0,
+        "cash_on_hand": 2010465.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00754051",
+            "pac_name": "WORKERS VOTE",
+            "total_amt": 422424.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00869321",
+            "pac_name": "VICTORY PAC",
+            "total_amt": 213983.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00626861",
+            "pac_name": "WFP IE COMMITTEE",
+            "total_amt": 159302.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00756569",
+            "pac_name": "WORKER POWER PAC",
+            "total_amt": 121112.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00733915",
+            "pac_name": "MICHIGAN PEOPLES CHOICE",
+            "total_amt": 119595.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00761064",
+            "pac_name": "API PA VOTES",
+            "total_amt": 88236.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00742205",
+            "pac_name": "SURJ PAC",
+            "total_amt": 16655.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "P80001571",
+            "pac_name": "RESILIENT STRATEGIES",
+            "total_amt": 3631.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00743021",
+            "pac_name": "PA STANDS UP POLITICAL ACTION",
+            "total_amt": 299.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00720029"
+}

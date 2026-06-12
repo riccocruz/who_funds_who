@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "MOORE, COLTON",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 165405.0,
+        "pac_receipts_summary": 27087.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00731133",
+            "pac_name": "MAKE LIBERTY WIN",
+            "total_amt": 168654.0,
+            "direct_amt": 0.0,
+            "ie_amt": 168654.0
+        },
+        {
+            "cmte_id": "C00736140",
+            "pac_name": "HOLD THE LINE PAC",
+            "total_amt": 26500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 26500.0
+        },
+        {
+            "cmte_id": "C00481200",
+            "pac_name": "NATIONAL ASSOCIATION FOR GUN RIGHTS INC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 77,
+        "oos_donors": 27,
+        "oos_total": 87200.0
+    },
+    "opposition": []
+}

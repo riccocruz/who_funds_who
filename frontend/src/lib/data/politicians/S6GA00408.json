@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "DOOLEY, DEREK",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 3858189.0,
+        "pac_receipts_summary": 15499.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00828608",
+            "pac_name": "HARDWORKING AMERICANS INC.",
+            "total_amt": 1396282.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1396282.0
+        },
+        {
+            "cmte_id": "C00345132",
+            "pac_name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "total_amt": 8022.0,
+            "direct_amt": 8022.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00400135",
+            "pac_name": "UNITED HEALTH SERVICES PAC, INC.",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1236,
+        "oos_donors": 314,
+        "oos_total": 1948236.0
+    },
+    "opposition": []
+}

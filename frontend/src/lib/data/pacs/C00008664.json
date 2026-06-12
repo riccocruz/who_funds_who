@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "MISSOURI REPUBLICAN STATE COMMITTEE-FEDERAL",
+        "committee_type": "Y",
+        "total_receipts": 884414.0,
+        "indiv_contrib": 314395.0,
+        "total_spent": 776862.0,
+        "cash_on_hand": 131942.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 107962.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 63317.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 48317.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00775387",
+            "pac_name": "WAGNER VICTORY COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00008664"
+}

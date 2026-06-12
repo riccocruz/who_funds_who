@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "CITIZENS FOR A CONSERVATIVE TENNESSEE PAC",
+        "committee_type": "O",
+        "total_receipts": 122000.0,
+        "indiv_contrib": 122000.0,
+        "total_spent": 122000.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07203",
+            "cand_name": "BARRETT, JOSEPH MICHAEL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 52237.0,
+            "direct_amt": 0.0,
+            "ie_amt": 52237.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07203",
+            "pac_name": "ARMADA STRATEGIES",
+            "total_amt": 52237.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "ARMADA STRATEGIES",
+            "total_amt": 38751.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00917427"
+}

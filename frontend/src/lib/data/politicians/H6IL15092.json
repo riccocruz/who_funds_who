@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "TODD, JENNIFER ANN",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 53065.0,
+        "pac_receipts_summary": 1265.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00883017",
+            "pac_name": "JOIN THE UNION",
+            "total_amt": 494.0,
+            "direct_amt": 494.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 24,
+        "oos_donors": 2,
+        "oos_total": 1050.0
+    },
+    "opposition": []
+}

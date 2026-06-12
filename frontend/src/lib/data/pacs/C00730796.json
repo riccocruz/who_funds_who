@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "TEAM MURPHY",
+        "committee_type": "N",
+        "total_receipts": 608600.0,
+        "indiv_contrib": 608100.0,
+        "total_spent": 604203.0,
+        "cash_on_hand": 7347.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 306631.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00724229",
+            "pac_name": "VICTORY EAST",
+            "total_amt": 39174.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00445817",
+            "pac_name": "AMERICAN COLLEGE OF RADIATION ONCOLOGY, INC. POLITICAL ACTION COMMITEE (ACRO PAC)",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00730796"
+}

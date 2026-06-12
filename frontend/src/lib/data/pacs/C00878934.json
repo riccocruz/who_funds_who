@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "ON THE MOVE PAC",
+        "committee_type": "N",
+        "total_receipts": 67329.0,
+        "indiv_contrib": 49500.0,
+        "total_spent": 95916.0,
+        "cash_on_hand": 15061.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL02298",
+            "cand_name": "PETERS, ROBERT JAMES",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY11138",
+            "cand_name": "CLARKE, YVETTE D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA22190",
+            "cand_name": "VILLEGAS, RANDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003632",
+            "pac_name": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00913962",
+            "pac_name": "LATEEFAH VICTORY FUND",
+            "total_amt": 4828.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00346353",
+            "pac_name": "CRH AMERICAS, INC. PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00878934"
+}

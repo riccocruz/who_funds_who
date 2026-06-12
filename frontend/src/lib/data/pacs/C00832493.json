@@ -1,0 +1,258 @@
+{
+    "pac": {
+        "name": "YOUTH SAVE DEMOCRACY PAC",
+        "committee_type": "N",
+        "total_receipts": 1548299.0,
+        "indiv_contrib": 1546190.0,
+        "total_spent": 1740049.0,
+        "cash_on_hand": 117481.0
+    },
+    "stats": {
+        "candidates_funded": 15
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07139",
+            "cand_name": "OPERANA-FOXX, DEJA CHERISE",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 35000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA11116",
+            "cand_name": "WIENER, SCOTT",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX18232",
+            "cand_name": "MENEFEE, CHRISTIAN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA48310",
+            "cand_name": "VON WILPERT, MARNI",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4OR05304",
+            "cand_name": "BYNUM, JANELLE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 3750.0,
+            "direct_amt": 3750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3750.0,
+            "direct_amt": 3750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3750.0,
+            "direct_amt": 3750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NM02191",
+            "cand_name": "VASQUEZ, GABRIEL",
+            "party": "DEM",
+            "state": "NM",
+            "total_amt": 3750.0,
+            "direct_amt": 3750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA22208",
+            "cand_name": "BAINS, JASMEET",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA22190",
+            "cand_name": "VILLEGAS, RANDY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA31125",
+            "cand_name": "AGUILAR, PETE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA03078",
+            "cand_name": "BERA, AMERISH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00756",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 3300.0,
+            "direct_amt": 3300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6AZ07139",
+            "pac_name": "EVOLVE MEDIA, LLC",
+            "total_amt": 35000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NE02125",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 9282.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8IA02043",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 7555.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4AZ06045",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 6521.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2AZ02360",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 6476.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA07143",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 6260.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA15195",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 6044.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00300731",
+            "pac_name": "LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00840983",
+            "pac_name": "BLUE WAVE CALIFORNIA",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2MI07123",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 4965.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4CO08034",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 4749.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2CA37023",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 3669.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6CA40309",
+            "pac_name": "CIVITECH, PBC",
+            "total_amt": 3238.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 2250.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 2109.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00832493"
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "TENNESSEE DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 1697040.0,
+        "indiv_contrib": 762682.0,
+        "total_spent": 1685791.0,
+        "cash_on_hand": 51937.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN05397",
+            "cand_name": "MOLDER, CHAZ",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 327307.0,
+            "tx_count": 41
+        },
+        {
+            "cmte_id": "C00924878",
+            "pac_name": "BEHN VICTORY FUND",
+            "total_amt": 59069.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 58914.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540997",
+            "pac_name": "READY PAC",
+            "total_amt": 3000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00930248",
+            "pac_name": "MOLDER VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00167346"
+}

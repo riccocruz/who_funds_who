@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "GENTEX CORPORATION POLITICAL ACTION COMMITTEE; THE",
+        "committee_type": "Q",
+        "total_receipts": 25715.0,
+        "indiv_contrib": 25715.0,
+        "total_spent": 17500.0,
+        "cash_on_hand": 37032.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA31125",
+            "cand_name": "AGUILAR, PETE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA08124",
+            "cand_name": "BRESNAHAN, ROB",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00386128"
+}

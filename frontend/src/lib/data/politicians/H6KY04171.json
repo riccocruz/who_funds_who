@@ -1,0 +1,80 @@
+{
+    "politician": {
+        "cand_name": "GALLREIN, ED",
+        "party": "REP",
+        "state": "KY",
+        "indiv_total": 3138163.0,
+        "pac_receipts_summary": 25730.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00528554",
+            "pac_name": "RJC VICTORY FUND",
+            "total_amt": 2519620.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2519620.0
+        },
+        {
+            "cmte_id": "C00908723",
+            "pac_name": "MAGA KY",
+            "total_amt": 468910.0,
+            "direct_amt": 0.0,
+            "ie_amt": 468910.0
+        },
+        {
+            "cmte_id": "C00345132",
+            "pac_name": "REPUBLICAN JEWISH COALITION POLITICAL ACTION COMMITTEE (RJC-PAC)",
+            "total_amt": 54398.0,
+            "direct_amt": 54398.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00378216",
+            "pac_name": "SUN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00473249",
+            "pac_name": "GRAND CANYON STATE CAUCUS",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00082040",
+            "pac_name": "CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA PAC (US CHAMBER PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00127811",
+            "pac_name": "U.S. ISRAEL PAC  (USI PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629709",
+            "pac_name": "NO LABELS PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00492579",
+            "pac_name": "AMERICAN PRINCIPLES",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1451,
+        "oos_donors": 1353,
+        "oos_total": 2226777.0
+    },
+    "opposition": []
+}

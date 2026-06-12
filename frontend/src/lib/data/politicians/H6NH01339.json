@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BERIONT, CARLEIGH",
+        "party": "DEM",
+        "state": "NH",
+        "indiv_total": 379482.0,
+        "pac_receipts_summary": 1750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00903245",
+            "pac_name": "HUMANITIES FOR THE PUBLIC",
+            "total_amt": 1250.0,
+            "direct_amt": 1250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 242,
+        "oos_donors": 168,
+        "oos_total": 161380.0
+    },
+    "opposition": []
+}

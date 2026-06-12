@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ENRIQUEZ, EZEKIEL",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 60668.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00630830",
+            "pac_name": "PA PAC AKA PATRIOT ACTION",
+            "total_amt": 4170.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4170.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 50,
+        "oos_donors": 31,
+        "oos_total": 27280.0
+    },
+    "opposition": []
+}

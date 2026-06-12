@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "CALIFORNIA STATE PIPE TRADES COUNCIL VOLUNTARY POLITICAL ACTION FUND",
+        "committee_type": "Q",
+        "total_receipts": 24700.0,
+        "indiv_contrib": 24700.0,
+        "total_spent": 32534.0,
+        "cash_on_hand": 138138.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00940346",
+            "pac_name": "SERVING CA",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00868117",
+            "pac_name": "ADELANTE FUND",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00265033"
+}

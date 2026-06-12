@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "ENERGY INNOVATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 30000.0,
+        "indiv_contrib": 30000.0,
+        "total_spent": 29103.0,
+        "cash_on_hand": 99127.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00692921"
+}

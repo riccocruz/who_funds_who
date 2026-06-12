@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "FIGHT PAC",
+        "committee_type": "N",
+        "total_receipts": 92741.0,
+        "indiv_contrib": 26741.0,
+        "total_spent": 63053.0,
+        "cash_on_hand": 29688.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00916700",
+            "pac_name": "FIGHT AND WIN FUND",
+            "total_amt": 66000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00912543"
+}

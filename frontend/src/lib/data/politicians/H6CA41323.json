@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KEISSIEH, CLAUDE MANUEL",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 1000.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00916601",
+            "pac_name": "CLAUDE KEISSIEH FOR CONGRESS",
+            "total_amt": 21100.0,
+            "direct_amt": 21100.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

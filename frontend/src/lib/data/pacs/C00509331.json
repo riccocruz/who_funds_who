@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "STARR INSURANCE HOLDINGS INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 41853.0,
+        "indiv_contrib": 40350.0,
+        "total_spent": 11323.0,
+        "cash_on_hand": 44702.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0MI02094",
+            "cand_name": "HUIZENGA, WILLIAM P",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00817379",
+            "pac_name": "LAWLER VICTORY FUND",
+            "total_amt": 8500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00509331"
+}

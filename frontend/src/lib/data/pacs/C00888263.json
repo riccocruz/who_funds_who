@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "ONDER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 157550.0,
+        "indiv_contrib": 123501.0,
+        "total_spent": 147950.0,
+        "cash_on_hand": 9600.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4MO03221",
+            "cand_name": "ONDER, ROBERT FOR JR.",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 96000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00888255",
+            "pac_name": "TIGER PAC",
+            "total_amt": 30500.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00888263"
+}

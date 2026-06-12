@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "ROGERS GROUP INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 66584.0,
+        "indiv_contrib": 53697.0,
+        "total_spent": 54635.0,
+        "cash_on_hand": 383181.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H4IN04248",
+            "cand_name": "HAGGARD, CRAIG",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07229",
+            "cand_name": "DIXIE, VINCENT",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN06213",
+            "cand_name": "GARRETT, JOHNNY",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN06205",
+            "cand_name": "HILLEARY, WILLIAM V.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AL05102",
+            "cand_name": "STRONG, DALE WHITNEY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00909077",
+            "pac_name": "TEAM BRAUN",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00277152"
+}

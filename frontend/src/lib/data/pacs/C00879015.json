@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "CLOUD VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 184829.0,
+        "indiv_contrib": 184829.0,
+        "total_spent": 33883.0,
+        "cash_on_hand": 150946.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00729616",
+            "pac_name": "CITY ON A HILL PAC",
+            "total_amt": 8075.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 405.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00879015"
+}

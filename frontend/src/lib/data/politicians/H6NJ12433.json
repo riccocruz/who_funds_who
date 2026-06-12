@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ALTMAN, SUSAN COPIUS",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 403375.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00347591",
+            "pac_name": "ALTMAN FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 269,
+        "oos_donors": 86,
+        "oos_total": 109829.0
+    },
+    "opposition": []
+}

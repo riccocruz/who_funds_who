@@ -1,0 +1,112 @@
+{
+    "pac": {
+        "name": "ENVISION HEALTHCARE OPERATING, INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 57941.0,
+        "indiv_contrib": 58968.0,
+        "total_spent": 22400.0,
+        "cash_on_hand": 69706.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NC03172",
+            "cand_name": "MURPHY, GREGORY FRANCIS DR.",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA13125",
+            "cand_name": "JOYCE, JOHN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL02208",
+            "cand_name": "DUNN, NEAL PATRICK MD, FACS",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": -500.0,
+            "direct_amt": -500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2CT00132",
+            "cand_name": "MURPHY, CHRISTOPHER S",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00480228",
+            "pac_name": "CONTINUING AMERICA'S STRENGTH AND SECURITY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00714501",
+            "pac_name": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00390674",
+            "pac_name": "FREEDOM FUND",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00388470",
+            "pac_name": "EMERGENCY DEPARTMENT PRACTICE MANAGEMENT ASSOCIATION PAC (EDPMA-PAC)",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00398271"
+}

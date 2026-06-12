@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "ADKERSON, ROB",
+        "party": "REP",
+        "state": "GA",
+        "indiv_total": 135855.0,
+        "pac_receipts_summary": 25500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00568089",
+            "pac_name": "STAND PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00503094",
+            "pac_name": "FREEDOM FIRST PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

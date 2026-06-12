@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "SMITHFIELD FOODS INC POLITICAL ACTION COMMITTEE, (HAMPAC)",
+        "committee_type": "Q",
+        "total_receipts": 20209.0,
+        "indiv_contrib": 20209.0,
+        "total_spent": 9500.0,
+        "cash_on_hand": 24701.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MD01094",
+            "cand_name": "HARRIS, ANDREW P",
+            "party": "REP",
+            "state": "MD",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL13153",
+            "cand_name": "BUDZINSKI, NIKKI",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00024281",
+            "pac_name": "MEAT INSTITUTE POLITICAL ACTION COMMITTEE ('MEAT PAC')",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00359075"
+}

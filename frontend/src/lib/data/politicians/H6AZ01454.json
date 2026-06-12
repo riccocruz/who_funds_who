@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CHAPLIK, JOSEPH",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 167471.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00935072",
+            "pac_name": "ARIZONA QUALITY PAC",
+            "total_amt": 43381.0,
+            "direct_amt": 0.0,
+            "ie_amt": 43381.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 103,
+        "oos_donors": 8,
+        "oos_total": 16000.0
+    },
+    "opposition": []
+}

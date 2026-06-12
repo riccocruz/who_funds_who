@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "FRANKMAN, JOHN",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 19402.0,
+        "pac_receipts_summary": 19000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00892786",
+            "pac_name": "MAKE ACCOUNTABILITY GREAT AGAIN PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00921924",
+            "pac_name": "MC-KEE PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00837567",
+            "pac_name": "JOHN FRANKMAN FOR FLORIDA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 19,
+        "oos_donors": 5,
+        "oos_total": 4337.0
+    },
+    "opposition": []
+}

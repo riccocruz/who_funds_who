@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "PEOPLETEC, INC. POLITICAL ACTION COMMITTEE (PEOPLETEC PAC)",
+        "committee_type": "Q",
+        "total_receipts": 57228.0,
+        "indiv_contrib": 57228.0,
+        "total_spent": 44000.0,
+        "cash_on_hand": 43996.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2AL03032",
+            "cand_name": "ROGERS, MICHAEL",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AL04098",
+            "cand_name": "ADERHOLT, ROBERT B. REP.",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TN04195",
+            "cand_name": "DESJARLAIS, SCOTT HON.",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00900472",
+            "pac_name": "BRITT SENATE VICTORY",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00845792",
+            "pac_name": "SHEEHY VICTORY COMMITTEE",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00699553",
+            "pac_name": "CALVERT VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00744425"
+}

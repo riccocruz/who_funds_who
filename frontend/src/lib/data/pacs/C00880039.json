@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "PAT HARRIGAN VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 442500.0,
+        "indiv_contrib": 442500.0,
+        "total_spent": 434250.0,
+        "cash_on_hand": 8250.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 264517.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00874560",
+            "pac_name": "DUTY HONOR VICTORY PAC",
+            "total_amt": 21160.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00880039"
+}

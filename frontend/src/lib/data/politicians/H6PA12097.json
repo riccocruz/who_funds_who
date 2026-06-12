@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "FORGIE, ADAM ROBERT",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 27351.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00899039",
+            "pac_name": "FORGIE VICTORY FUND",
+            "total_amt": 4995.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4995.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 23,
+        "oos_donors": 1,
+        "oos_total": 1500.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DAVIS DEMOCRATIC CLUB",
+        "committee_type": "Q",
+        "total_receipts": 30152.0,
+        "indiv_contrib": 29402.0,
+        "total_spent": 7617.0,
+        "cash_on_hand": 28061.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4NE00207",
+            "cand_name": "OSBORN, DAN",
+            "party": "IND",
+            "state": "NE",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00453712",
+            "pac_name": "YOLO COUNTY DEMOCRATIC CENTRAL COMMITTEE - FEDERAL ACCOUNT",
+            "total_amt": 2703.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00491050"
+}

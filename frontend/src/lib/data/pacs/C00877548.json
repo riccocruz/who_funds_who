@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "BOLD ERA JFC",
+        "committee_type": "N",
+        "total_receipts": 1445049.0,
+        "indiv_contrib": 1442418.0,
+        "total_spent": 997283.0,
+        "cash_on_hand": 460131.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 150000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00877365",
+            "pac_name": "AMERICA'S BOLD ERA PAC",
+            "total_amt": 95390.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00808253",
+            "pac_name": "CALIFORNIANS FOR FREEDOM",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00877548"
+}

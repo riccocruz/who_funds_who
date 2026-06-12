@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "FREE MARKET FUND",
+        "committee_type": "N",
+        "total_receipts": 39719.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 39221.0,
+        "cash_on_hand": 904.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IA02043",
+            "cand_name": "MILLER-MEEKS, MARIANNETTE JANE",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2KY04121",
+            "cand_name": "MASSIE, THOMAS H.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00751883",
+            "pac_name": "VICTORIA VICTORY FUND",
+            "total_amt": 37217.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00592089",
+            "pac_name": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00764134"
+}

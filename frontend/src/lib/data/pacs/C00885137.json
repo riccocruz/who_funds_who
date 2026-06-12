@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "SPEAK UP PAC",
+        "committee_type": "W",
+        "total_receipts": 2138117.0,
+        "indiv_contrib": 2036183.0,
+        "total_spent": 2038223.0,
+        "cash_on_hand": 272370.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "TOM PERRIELLO FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 14000.0,
+            "direct_amt": 14000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MS00133",
+            "cand_name": "COLOM, SCOTT",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00734319",
+            "pac_name": "BOOKER VICTORY FUND",
+            "total_amt": 3300.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 1323.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00885137"
+}

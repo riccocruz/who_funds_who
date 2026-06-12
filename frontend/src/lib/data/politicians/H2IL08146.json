@@ -1,0 +1,114 @@
+{
+    "politician": {
+        "cand_name": "AHMED, JUNAID",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 1397467.0,
+        "pac_receipts_summary": 50318.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 56750.0,
+            "direct_amt": 0.0,
+            "ie_amt": 56750.0
+        },
+        {
+            "cmte_id": "C00685552",
+            "pac_name": "MEDICARE FOR ALL",
+            "total_amt": 30000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 25000.0
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00688846",
+            "pac_name": "INSPIRING LEADERSHIP HAS A NAME PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00889469",
+            "pac_name": "THE JUSTICE COALITION ACTION PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00741371",
+            "pac_name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00500843",
+            "pac_name": "FRIENDS OF JUNAID",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00791780",
+            "pac_name": "FRIENDS OF JUNAID",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00573261",
+            "pac_name": "END CITIZENS UNITED",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00776419",
+            "pac_name": "THE PEOPLE UNITED PAC",
+            "total_amt": 300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300.0
+        },
+        {
+            "cmte_id": "C00674697",
+            "pac_name": "SUNRISE PAC",
+            "total_amt": 58.0,
+            "direct_amt": 58.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": -700.0,
+            "direct_amt": -700.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 816,
+        "oos_donors": 366,
+        "oos_total": 488845.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00935809",
+            "pac_name": "CHICAGO PROGRESSIVE PARTNERSHIP",
+            "total_amt": 663879.0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MORLEY, HARRY CLARE MR JR",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 11406.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

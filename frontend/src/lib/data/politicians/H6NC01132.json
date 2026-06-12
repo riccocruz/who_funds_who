@@ -1,0 +1,44 @@
+{
+    "politician": {
+        "cand_name": "HANIG, BOBBY",
+        "party": "REP",
+        "state": "NC",
+        "indiv_total": 234696.0,
+        "pac_receipts_summary": 25900.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00000901",
+            "pac_name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00724229",
+            "pac_name": "VICTORY EAST",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00354605",
+            "pac_name": "GRASS ROOTS NORTH CAROLINA/FORUM FOR FIREARMS EDUC POL VICTORY FUND",
+            "total_amt": 923.0,
+            "direct_amt": 0.0,
+            "ie_amt": 923.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 192,
+        "oos_donors": 15,
+        "oos_total": 18050.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00698936",
+            "pac_name": "WFW ACTION FUND INC",
+            "total_amt": 365.0
+        }
+    ]
+}

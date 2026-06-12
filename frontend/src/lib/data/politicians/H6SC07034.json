@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "VINCENT, JOHN GREGORY",
+        "party": "DEM",
+        "state": "SC",
+        "indiv_total": 196750.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00906248",
+            "pac_name": "FIGHTING FOR DEMOCRACY",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 83,
+        "oos_donors": 11,
+        "oos_total": 5041.0
+    },
+    "opposition": []
+}

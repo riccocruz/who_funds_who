@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "CLARK PAC",
+        "committee_type": "N",
+        "total_receipts": 37500.0,
+        "indiv_contrib": 37500.0,
+        "total_spent": 49778.0,
+        "cash_on_hand": 4812.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00286",
+            "cand_name": "BARR, GARLAND ANDY",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2700.0,
+            "direct_amt": 2700.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6KY01110",
+            "cand_name": "COMER, JAMES",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 2700.0,
+            "direct_amt": 2700.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MS03125",
+            "cand_name": "GUEST, MICHAEL PATRICK",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00144766",
+            "pac_name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00828038",
+            "pac_name": "KBA PAC",
+            "total_amt": 4500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00528349"
+}

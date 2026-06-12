@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "DAVID, KIM",
+        "party": "REP",
+        "state": "OK",
+        "indiv_total": 125826.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00444430",
+            "pac_name": "THE PETROLEUM ALLIANCE OF OKLAHOMA, INC. PAC (PETROLEUM ALLIANCE PAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00551184",
+            "pac_name": "CONTINENTAL RESOURCES, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 49,
+        "oos_donors": 7,
+        "oos_total": 9536.0
+    },
+    "opposition": []
+}

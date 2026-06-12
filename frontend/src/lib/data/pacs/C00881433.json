@@ -1,0 +1,100 @@
+{
+    "pac": {
+        "name": "ALBANIANS FOR AMERICA PAC",
+        "committee_type": "Q",
+        "total_receipts": 37376.0,
+        "indiv_contrib": 37345.0,
+        "total_spent": 35737.0,
+        "cash_on_hand": 2857.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TX03290",
+            "cand_name": "SELF FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX26149",
+            "cand_name": "GILL, BRANDON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MI10326",
+            "cand_name": "LULGJURAJ, ROBERT",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2800.0,
+            "direct_amt": 2800.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL18097",
+            "cand_name": "MAST, BRIAN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0TX04219",
+            "cand_name": "FALLON, PATRICK",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2300.0,
+            "direct_amt": 2300.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00838698",
+            "pac_name": "TEAM NUNN",
+            "total_amt": 8900.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00821959",
+            "pac_name": "ALL AMERICAN PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881433"
+}

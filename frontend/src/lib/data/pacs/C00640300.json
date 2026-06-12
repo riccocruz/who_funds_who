@@ -1,0 +1,302 @@
+{
+    "pac": {
+        "name": "ACTIVATE AMERICA",
+        "committee_type": "O",
+        "total_receipts": 1644080.0,
+        "indiv_contrib": 1636850.0,
+        "total_spent": 1185276.0,
+        "cash_on_hand": 723335.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 11092.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11092.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03247",
+            "cand_name": "SUOZZI, THOMAS",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1255.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1255.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00163",
+            "cand_name": "BROWN, SHERROD",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 855.0,
+            "direct_amt": 0.0,
+            "ie_amt": 855.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0CA03078",
+            "cand_name": "BERA, AMERISH",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 771.0,
+            "direct_amt": 0.0,
+            "ie_amt": 771.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY21199",
+            "cand_name": "GENDEBIEN, BLAKE",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 737.0,
+            "direct_amt": 0.0,
+            "ie_amt": 737.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA47085",
+            "cand_name": "MIN, DAVE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 680.0,
+            "direct_amt": 0.0,
+            "ie_amt": 680.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL01197",
+            "cand_name": "VALIMONT, JENNIFER GAY",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 563.0,
+            "direct_amt": 0.0,
+            "ie_amt": 563.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA42205",
+            "cand_name": "ROLLINS, WILL",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 430.0,
+            "direct_amt": 0.0,
+            "ie_amt": 430.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 392.0,
+            "direct_amt": 0.0,
+            "ie_amt": 392.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 285.0,
+            "direct_amt": 0.0,
+            "ie_amt": 285.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 279.0,
+            "direct_amt": 0.0,
+            "ie_amt": 279.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "AMAZON",
+            "total_amt": 11092.0,
+            "tx_count": 32
+        },
+        {
+            "cmte_id": "H2CA20094",
+            "pac_name": "L2, INC.",
+            "total_amt": 6797.0,
+            "tx_count": 19
+        },
+        {
+            "cmte_id": "S6OH00304",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 6583.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H2CA37023",
+            "pac_name": "FIELD TEAM 6 FEC",
+            "total_amt": 3512.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H0CA48024",
+            "pac_name": "POLITICAL DATA INC. (PDI)",
+            "total_amt": 3487.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0WI03175",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 2928.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H8IA02043",
+            "pac_name": "L2, INC.",
+            "total_amt": 2491.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2IA03119",
+            "pac_name": "L2, INC.",
+            "total_amt": 2393.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4AZ06045",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 1989.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H6NE02125",
+            "pac_name": "L2, INC.",
+            "total_amt": 1852.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8CA39240",
+            "pac_name": "L2, INC.",
+            "total_amt": 1731.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA15195",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 1700.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4PA08124",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 1538.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0NJ07261",
+            "pac_name": "L2, INC.",
+            "total_amt": 1517.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2NY17162",
+            "pac_name": "L2, INC.",
+            "total_amt": 1425.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2AZ02360",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 1412.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NY03247",
+            "pac_name": "SCALE TO WIN",
+            "total_amt": 1255.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "AMERICA VOTES",
+            "total_amt": 1144.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6OH00163",
+            "pac_name": "VAN ZWALENBURG, NANCY",
+            "total_amt": 855.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H0CA03078",
+            "pac_name": "POLITICAL DATA INC. (PDI)",
+            "total_amt": 771.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NY21199",
+            "pac_name": "NEO PHILANTHROPY ACTION FUND, INC.",
+            "total_amt": 737.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4CA47085",
+            "pac_name": "POLITICAL DATA INC. (PDI)",
+            "total_amt": 680.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4FL01197",
+            "pac_name": "AMAZON",
+            "total_amt": 563.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H2CA42205",
+            "pac_name": "CARMAN, LINDA",
+            "total_amt": 430.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8CA49058",
+            "pac_name": "AMAZON",
+            "total_amt": 392.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H2AZ01354",
+            "pac_name": "AMAZON",
+            "total_amt": 371.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S4NC00162",
+            "pac_name": "FIELD TEAM 6 FEC",
+            "total_amt": 370.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "AMAZON",
+            "total_amt": 285.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "AMAZON",
+            "total_amt": 279.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00640300"
+}

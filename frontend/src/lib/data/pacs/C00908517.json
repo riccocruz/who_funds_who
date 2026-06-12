@@ -1,0 +1,58 @@
+{
+    "pac": {
+        "name": "BALDERSON VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 136225.0,
+        "indiv_contrib": 130725.0,
+        "total_spent": 131225.0,
+        "cash_on_hand": 5000.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 44732.0,
+            "direct_amt": 44732.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 42004.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00706176",
+            "pac_name": "YOUR OHIO REPUBLICAN TEAM",
+            "total_amt": 23866.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00210617",
+            "pac_name": "OHIOHEALTH STAR CORPORATION POLITICAL ACTION COMMITTEE DBA OHIOHEALTH PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00302695",
+            "pac_name": "GRANGE MUTUAL HOLDING CO. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00332031",
+            "pac_name": "INDEPENDENT ELECTRICAL CONTRACTORS PAC (IEC PAC)",
+            "total_amt": 500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00908517"
+}

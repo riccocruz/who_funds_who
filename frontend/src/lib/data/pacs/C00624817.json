@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "EARN INTERNATIONAL UNION OF OPERATING ENGINEERS",
+        "committee_type": "O",
+        "total_receipts": 2037500.0,
+        "indiv_contrib": 2037500.0,
+        "total_spent": 2038794.0,
+        "cash_on_hand": 205485.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 575000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 575000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00741769",
+            "pac_name": "STRATEGIC VICTORY FUND IE PAC",
+            "total_amt": 400000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00627414",
+            "pac_name": "POLICY OVER PARTY",
+            "total_amt": 312500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 100000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00473918",
+            "pac_name": "WOMEN VOTE",
+            "total_amt": 75000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00624817"
+}

@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "LAWRENCE, WILLIAM",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 550963.0,
+        "pac_receipts_summary": 8159.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00674697",
+            "pac_name": "SUNRISE PAC",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 465,
+        "oos_donors": 226,
+        "oos_total": 236298.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,100 @@
+{
+    "politician": {
+        "cand_name": "CASEY, ROBERT P. JR.",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 0.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00873877",
+            "pac_name": "SOLIDARITY VICTORY PAC",
+            "total_amt": 89877.0,
+            "direct_amt": 0.0,
+            "ie_amt": 89877.0
+        },
+        {
+            "cmte_id": "C00761064",
+            "pac_name": "API PA VOTES",
+            "total_amt": 34699.0,
+            "direct_amt": 0.0,
+            "ie_amt": 34699.0
+        },
+        {
+            "cmte_id": "C00490375",
+            "pac_name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+            "total_amt": 10917.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10917.0
+        },
+        {
+            "cmte_id": "C00685693",
+            "pac_name": "CASA IN ACTION PAC",
+            "total_amt": 5560.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5560.0
+        },
+        {
+            "cmte_id": "C00004036",
+            "pac_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "total_amt": 5337.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5337.0
+        },
+        {
+            "cmte_id": "C00349373",
+            "pac_name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": -1250.0,
+            "direct_amt": -1250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00828509",
+            "pac_name": "INTERSECT LLC POLITICAL ACTION COMMITTEE",
+            "total_amt": -1300.0,
+            "direct_amt": -1300.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00279216",
+            "pac_name": "IHEARTMEDIA, INC. PAC",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00761957",
+            "pac_name": "IN OUR HANDS",
+            "total_amt": -3400.0,
+            "direct_amt": -3400.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": -4300.0,
+            "direct_amt": -4300.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 124,
+        "oos_donors": 90,
+        "oos_total": 133917.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00747121",
+            "pac_name": "RED SENATE",
+            "total_amt": 10000.0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BULLER, KAILEE",
+        "party": "REP",
+        "state": "NY",
+        "indiv_total": 173211.0,
+        "pac_receipts_summary": 7450.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00817338",
+            "pac_name": "MVL PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00913707",
+            "pac_name": "BLUESTEM BIOSCIENCES INC PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "SHEETZ INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 24290.0,
+        "indiv_contrib": 24290.0,
+        "total_spent": 16875.0,
+        "cash_on_hand": 66724.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00219121"
+}

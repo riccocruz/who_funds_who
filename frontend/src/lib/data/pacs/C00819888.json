@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DUTY FIRST PAC",
+        "committee_type": "N",
+        "total_receipts": 60875.0,
+        "indiv_contrib": 17.0,
+        "total_spent": 289612.0,
+        "cash_on_hand": 4703.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00850321",
+            "pac_name": "SAM BROWN VICTORY FUND",
+            "total_amt": 53032.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00845396",
+            "pac_name": "SAM BROWN VICTORY COMMITTEE",
+            "total_amt": 825.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00819888"
+}

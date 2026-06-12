@@ -1,0 +1,350 @@
+{
+    "pac": {
+        "name": "API PA VOTES",
+        "committee_type": "O",
+        "total_receipts": 127110.0,
+        "indiv_contrib": 30160.0,
+        "total_spent": 757932.0,
+        "cash_on_hand": 605563.0
+    },
+    "stats": {
+        "candidates_funded": 20
+    },
+    "recipients": [
+        {
+            "cand_id": "P00009423",
+            "cand_name": "GLOBAL WORDSMITHS",
+            "party": null,
+            "state": null,
+            "total_amt": 102271.0,
+            "direct_amt": 0.0,
+            "ie_amt": 102271.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6PA00217",
+            "cand_name": "CASEY, ROBERT P. JR.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 34699.0,
+            "direct_amt": 0.0,
+            "ie_amt": 34699.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA01099",
+            "cand_name": "EHASZ, ASHLEY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 3462.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3462.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P80000722",
+            "cand_name": "BASE BUILDER",
+            "party": null,
+            "state": null,
+            "total_amt": 2292.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2292.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA17103",
+            "cand_name": "DELUZIO, CHRISTOPHER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1132.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1132.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA15229",
+            "cand_name": "WILD, SUSAN",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1015.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1015.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA07200",
+            "cand_name": "SCANLON, MARY GAY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA06087",
+            "cand_name": "HOULAHAN, CHRISSY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA04116",
+            "cand_name": "DEAN, MADELEINE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA02171",
+            "cand_name": "EVANS, DWIGHT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA16093",
+            "cand_name": "NOURI, PRESTON",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA15152",
+            "cand_name": "WOMER, ZACHERAY MR.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA14106",
+            "cand_name": "GLOBAL WORDSMITHS",
+            "party": null,
+            "state": null,
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA13298",
+            "cand_name": "FARNHAM, ELIZABETH RHOADS",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA13199",
+            "cand_name": "BOYLE, BRENDAN F",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA11094",
+            "cand_name": "ATKINSON, JAMES FREDRICK",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA10104",
+            "cand_name": "STELSON, JANELLE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA18200",
+            "cand_name": "LEE, SUMMER",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA17079",
+            "cand_name": "CARTWRIGHT, MATTHEW A.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2PA09126",
+            "cand_name": "WALDMAN, AMANDA",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 95.0,
+            "direct_amt": 0.0,
+            "ie_amt": 95.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 102271.0,
+            "tx_count": 90
+        },
+        {
+            "cmte_id": "S6PA00217",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 34699.0,
+            "tx_count": 92
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720029",
+            "pac_name": "EVERYDAY PEOPLE",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2PA01099",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 3462.0,
+            "tx_count": 41
+        },
+        {
+            "cmte_id": "P80000722",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 2292.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2PA17103",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 1132.0,
+            "tx_count": 20
+        },
+        {
+            "cmte_id": "H8PA15229",
+            "pac_name": "BASE BUILDER",
+            "total_amt": 1015.0,
+            "tx_count": 18
+        },
+        {
+            "cmte_id": "H2PA09126",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2PA17079",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2PA18200",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA10104",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA11094",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA13199",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA13298",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA14106",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA15152",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4PA16093",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6PA02171",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA04116",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA06087",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8PA07200",
+            "pac_name": "GLOBAL WORDSMITHS",
+            "total_amt": 95.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00761064"
+}

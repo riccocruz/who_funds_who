@@ -1,0 +1,83 @@
+{
+    "pac": {
+        "name": "REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO",
+        "committee_type": "Y",
+        "total_receipts": 996128.0,
+        "indiv_contrib": 259586.0,
+        "total_spent": 716379.0,
+        "cash_on_hand": 406308.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00858373",
+            "pac_name": "GROW THE MAJORITY",
+            "total_amt": 286480.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 201306.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 75999.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 42499.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00808311",
+            "pac_name": "RSLC VICTORY FUND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00008227",
+            "pac_name": "REPUBLICAN PARTY OF ARIZONA, LLC",
+            "total_amt": 1213.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00876821",
+            "pac_name": "NLD PAC",
+            "total_amt": 75.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00868034",
+            "pac_name": "NELLA VICTORY FUND",
+            "total_amt": 8.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00020818"
+}

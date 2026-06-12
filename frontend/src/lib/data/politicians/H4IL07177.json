@@ -1,0 +1,63 @@
+{
+    "politician": {
+        "cand_name": "CONYEARS-ERVIN, MELISSA",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 807853.0,
+        "pac_receipts_summary": 13500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00799031",
+            "pac_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+            "total_amt": 4968493.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4968493.0
+        },
+        {
+            "cmte_id": "C00135541",
+            "pac_name": "TO PROTECT OUR HERITAGE PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00378216",
+            "pac_name": "SUN POLITICAL ACTION COMMITTEE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00292367",
+            "pac_name": "MICHIGAN INDEPENDENT POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 578,
+        "oos_donors": 169,
+        "oos_total": 261402.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00523621",
+            "pac_name": "UNITED WE CAN",
+            "total_amt": 55000.0
+        },
+        {
+            "cmte_id": "C90015868",
+            "pac_name": "THE PEOPLE'S LOBBY",
+            "total_amt": 1166.0
+        }
+    ]
+}

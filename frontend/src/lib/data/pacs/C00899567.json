@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "GREATER ROCHESTER CHAMBER OF COMMERCE FEDERAL ECONOMIC ALLIANCE",
+        "committee_type": "N",
+        "total_receipts": 13901.0,
+        "indiv_contrib": 10000.0,
+        "total_spent": 11901.0,
+        "cash_on_hand": 2000.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY22051",
+            "cand_name": "TENNEY, CLAUDIA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00571109",
+            "pac_name": "COMMITTEE FOR A STRONG ECONOMY",
+            "total_amt": 6044.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00899567"
+}

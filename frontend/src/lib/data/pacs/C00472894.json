@@ -1,0 +1,62 @@
+{
+    "pac": {
+        "name": "ELECTING WOMEN DENVER",
+        "committee_type": "W",
+        "total_receipts": 442054.0,
+        "indiv_contrib": 339740.0,
+        "total_spent": 304795.0,
+        "cash_on_hand": 267643.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00458",
+            "cand_name": "STRATTON, JULIANA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CO04202",
+            "cand_name": "LAUBACHER, EILEEN",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 1000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 1000.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00450098",
+            "pac_name": "WOMENCOUNT PAC",
+            "total_amt": 10600.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00380675",
+            "pac_name": "INDIVIDUALS DEDICATED TO ETHICS AND SCIENCE PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00720052",
+            "pac_name": "FIGHT FOR OUR DEMOCRACY PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00472894"
+}

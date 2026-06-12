@@ -1,0 +1,89 @@
+{
+    "pac": {
+        "name": "MESSMER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 601609.0,
+        "indiv_contrib": 583109.0,
+        "total_spent": 545390.0,
+        "cash_on_hand": 57419.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00880674",
+            "pac_name": "INDIANAENGRPAC",
+            "total_amt": 28675.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 4400.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00110478",
+            "pac_name": "PEABODY ENERGY CORPORATION POLITICAL ACTION COMMITTEE  (PEABODY PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00354548",
+            "pac_name": "AMERICAN WATER WORKS COMPANY, INC. EMPLOYEE FEDERAL PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00255752",
+            "pac_name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00247981",
+            "pac_name": "CORTEVA, INC. EMPLOYEES PAC (CORTEVA AGRISCIENCE PAC)",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00264770",
+            "pac_name": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00201871",
+            "pac_name": "NATIONAL PORK PRODUCERS COUNCIL PORK PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00333534",
+            "pac_name": "CENTERPOINT ENERGY, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00395947",
+            "pac_name": "BARNES & THORNBURG POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00520973",
+            "pac_name": "ICE MILLER PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00615690",
+            "pac_name": "BOSE PUBLIC AFFAIRS GROUP LLC/BOSE MCKINNEY & EVANS LLP PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881441"
+}

@@ -1,0 +1,76 @@
+{
+    "pac": {
+        "name": "HEALTHCARE INSTITUTE OF NEW JERSEY (HINJ) FEDERAL PAC INC",
+        "committee_type": "N",
+        "total_receipts": 25500.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 7000.0,
+        "cash_on_hand": 18500.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NJ03073",
+            "cand_name": "PALLONE, FRANK JR",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NJ07261",
+            "cand_name": "KEAN, THOMAS H. JR.",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NJ02166",
+            "cand_name": "VAN DREW, JEFF MR",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NJ08232",
+            "cand_name": "MENENDEZ, ROBERT",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00553834",
+            "pac_name": "OTSUKA AMERICA PHARMACEUTICAL INC. POLITICAL ACTION COMMITTEE (OTSUKA US PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00569152",
+            "pac_name": "ST SHARED SERVICES LLC D/B/A KEENOVA THERAPEUTICS PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00104471",
+            "pac_name": "NEW JERSEY DEMOCRATIC STATE COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00915330"
+}

@@ -1,0 +1,110 @@
+{
+    "pac": {
+        "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+        "committee_type": "O",
+        "total_receipts": 89239856.0,
+        "indiv_contrib": 86894199.0,
+        "total_spent": 24610179.0,
+        "cash_on_hand": 93432572.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4IL07177",
+            "cand_name": "CONYEARS-ERVIN, MELISSA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 4968493.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4968493.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA34266",
+            "cand_name": "GOMEZ, JIMMY",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": -28159.0,
+            "direct_amt": 0.0,
+            "ie_amt": -28159.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4IL07177",
+            "pac_name": "MAIL MATTERS LLC",
+            "total_amt": 4968493.0,
+            "tx_count": 20
+        },
+        {
+            "cmte_id": "C00936724",
+            "pac_name": "ELECT CHICAGO WOMEN AKA ECW",
+            "total_amt": 4011200.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NJ11245",
+            "pac_name": "SKDKNICKERBOCKER LLC",
+            "total_amt": 2326917.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00935049",
+            "pac_name": "AFFORDABLE CHICAGO NOW! (ACN)",
+            "total_amt": 1320000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6IL07339",
+            "pac_name": "MVAR MEDIA LLC",
+            "total_amt": 59748.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4TX23120",
+            "pac_name": "ONMESSAGE INC",
+            "total_amt": -45.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2KY04121",
+            "pac_name": "ONMESSAGE INC",
+            "total_amt": -1860.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H4IN08108",
+            "pac_name": "ONMESSAGE INC",
+            "total_amt": -6917.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0IL07167",
+            "pac_name": "MVAR MEDIA LLC",
+            "total_amt": -9678.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8MO01143",
+            "pac_name": "TARGETED PLATFORM MEDIA LLC",
+            "total_amt": -22643.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8CA34266",
+            "pac_name": "TARGETED PLATFORM MEDIA LLC",
+            "total_amt": -28159.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0NY16143",
+            "pac_name": "MVAR MEDIA LLC",
+            "total_amt": -31052.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00799031"
+}

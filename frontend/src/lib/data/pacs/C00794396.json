@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "SCHOOL FREEDOM FUND",
+        "committee_type": "O",
+        "total_receipts": 15074854.0,
+        "indiv_contrib": 15000000.0,
+        "total_spent": 1623632.0,
+        "cash_on_hand": 13579508.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 74951.0,
+            "direct_amt": 0.0,
+            "ie_amt": 74951.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07203",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 785726.0,
+            "tx_count": 53
+        },
+        {
+            "cmte_id": "C00844613",
+            "pac_name": "WIN IT BACK PAC",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 74951.0,
+            "tx_count": 16
+        }
+    ],
+    "cmte_id": "C00794396"
+}

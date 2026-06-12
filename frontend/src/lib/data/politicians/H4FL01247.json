@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GROSS, KEITH",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 72092.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00892786",
+            "pac_name": "MAKE ACCOUNTABILITY GREAT AGAIN PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 15,
+        "oos_donors": 9,
+        "oos_total": 80500.0
+    },
+    "opposition": []
+}

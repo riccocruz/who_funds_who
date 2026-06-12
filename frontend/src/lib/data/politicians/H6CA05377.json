@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "MASUDA, MICHAEL",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 205019.0,
+        "pac_receipts_summary": 4500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00777086",
+            "pac_name": "ACTION CAN'T WAIT PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00905133",
+            "pac_name": "MASUDA, MICHAEL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 84,
+        "oos_donors": 20,
+        "oos_total": 44885.0
+    },
+    "opposition": []
+}

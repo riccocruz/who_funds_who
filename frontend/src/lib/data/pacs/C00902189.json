@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "FREEDOM PA",
+        "committee_type": "O",
+        "total_receipts": 570158.0,
+        "indiv_contrib": 5060.0,
+        "total_spent": 219536.0,
+        "cash_on_hand": 350622.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA03203",
+            "cand_name": "RABB, CHRISTOPHER M.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 11878.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11878.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA10182",
+            "cand_name": "DOUGLAS, JUSTIN",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 6642.0,
+            "direct_amt": 0.0,
+            "ie_amt": 6642.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6PA03203",
+            "pac_name": "CIVITECH",
+            "total_amt": 11878.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 8000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6PA10182",
+            "pac_name": "CIVITECH",
+            "total_amt": 6642.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00902189"
+}

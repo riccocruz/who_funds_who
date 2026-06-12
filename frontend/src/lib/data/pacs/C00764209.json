@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "LEADERSHIP IN ACTION",
+        "committee_type": "V",
+        "total_receipts": 770867.0,
+        "indiv_contrib": 100496.0,
+        "total_spent": 676480.0,
+        "cash_on_hand": 530016.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6MT01152",
+            "cand_name": "FLINT, AARON",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 53561.0,
+            "direct_amt": 6110.0,
+            "ie_amt": 47451.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6MT01152",
+            "pac_name": "THE POLITICAL COMPANY",
+            "total_amt": 47451.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6MT00287",
+            "pac_name": "THE POLITICAL COMPANY",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00076810",
+            "pac_name": "GENERAL MOTORS COMPANY POLITICAL ACTION COMMITTEE (GM PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00739003",
+            "pac_name": "MONTANA RED",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00284885",
+            "pac_name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00053553",
+            "pac_name": "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00764209"
+}

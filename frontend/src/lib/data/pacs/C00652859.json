@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "NEW DEMOCRACY FUND",
+        "committee_type": "V",
+        "total_receipts": 27382.0,
+        "indiv_contrib": 27382.0,
+        "total_spent": 10798.0,
+        "cash_on_hand": 32180.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "S0CO00575",
+            "cand_name": "HICKENLOOPER, JOHN W.",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY01159",
+            "cand_name": "GALLANT, CHRISTOPHER",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX18153",
+            "cand_name": "MARTIN, ISAIAH MR.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL21059",
+            "cand_name": "DANDIYA, PIA",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00652859"
+}

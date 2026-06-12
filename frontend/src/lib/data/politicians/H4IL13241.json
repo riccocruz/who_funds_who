@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "LOYD, JOSHUA",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 11976.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00629832",
+            "pac_name": "BUILDING OPPORTUNITIES FOR A STRONGER TOMORROW B.O.S.T. PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 13,
+        "oos_donors": 6,
+        "oos_total": 5200.0
+    },
+    "opposition": []
+}

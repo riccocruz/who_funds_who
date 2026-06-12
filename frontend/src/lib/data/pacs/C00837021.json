@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "314 ACTION IMPACT SLATE",
+        "committee_type": "V",
+        "total_receipts": 433238.0,
+        "indiv_contrib": 421877.0,
+        "total_spent": 427973.0,
+        "cash_on_hand": 5650.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": "S6SC04239",
+            "cand_name": "ANDREWS, ANNIE",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": 14000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 14000.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00633248",
+            "pac_name": "314 ACTION FUND",
+            "total_amt": 73000.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 196.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00837021"
+}

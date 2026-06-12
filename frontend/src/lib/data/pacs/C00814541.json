@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "SUMMIT UTILITIES, INC. POLITICAL ACTION COMMITTEE (SUMMIT PAC)",
+        "committee_type": "N",
+        "total_receipts": 42215.0,
+        "indiv_contrib": 42215.0,
+        "total_spent": 7706.0,
+        "cash_on_hand": 97907.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OK04055",
+            "cand_name": "COLE, TOM",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0AR03055",
+            "cand_name": "WOMACK, STEPHEN A THE HON",
+            "party": "REP",
+            "state": "AR",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00814541"
+}

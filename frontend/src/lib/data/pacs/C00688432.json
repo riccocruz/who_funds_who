@@ -1,0 +1,162 @@
+{
+    "pac": {
+        "name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC",
+        "committee_type": "O",
+        "total_receipts": 235937.0,
+        "indiv_contrib": 235187.0,
+        "total_spent": 244516.0,
+        "cash_on_hand": 138328.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CA42205",
+            "cand_name": "ROLLINS, WILL",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2990.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2990.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49058",
+            "cand_name": "LEVIN, MIKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 8.0,
+            "direct_amt": 0.0,
+            "ie_amt": 8.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4CA00555",
+            "cand_name": "SCHIFF, ADAM",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00009423",
+            "cand_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "party": null,
+            "state": null,
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA49074",
+            "cand_name": "JACOBS, SARA",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA52089",
+            "cand_name": "PETERS, SCOTT",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA50026",
+            "cand_name": "VARGAS, JUAN C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA43245",
+            "cand_name": "TAKANO, MARK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA36439",
+            "cand_name": "RUIZ, RAUL DR.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2CA42205",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 2990.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H8CA49058",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 8.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2CA36439",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2CA43245",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2CA50026",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2CA52089",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8CA49074",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4CA00555",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+            "total_amt": 7.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00688432"
+}

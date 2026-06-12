@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "UPL NA INC. POLITICAL ACTION COMMITTEE (AKA UPL PAC)",
+        "committee_type": "N",
+        "total_receipts": 21095.0,
+        "indiv_contrib": 21095.0,
+        "total_spent": 4000.0,
+        "cash_on_hand": 17095.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00408468",
+            "pac_name": "AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00904615"
+}

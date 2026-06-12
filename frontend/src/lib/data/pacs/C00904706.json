@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "GEORGIA FIRST ACTION PAC",
+        "committee_type": "O",
+        "total_receipts": 191040.0,
+        "indiv_contrib": 191000.0,
+        "total_spent": 93519.0,
+        "cash_on_hand": 97521.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6GA01109",
+            "cand_name": "KINGSTON, JAMES MORRIS",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 75445.0,
+            "direct_amt": 0.0,
+            "ie_amt": 75445.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6GA01109",
+            "pac_name": "AXIOM STRATEGIES",
+            "total_amt": 75445.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00904706"
+}

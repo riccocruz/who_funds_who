@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "MCAULIFFE, DOROTHY",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 1091775.0,
+        "pac_receipts_summary": 8000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00811786",
+            "pac_name": "DEMOCRACY DEFENSE FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00220764",
+            "pac_name": "VSS&P FEDPAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00853887",
+            "pac_name": "ENERGIZED FOR CHANGE FEDERAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 526,
+        "oos_donors": 320,
+        "oos_total": 662650.0
+    },
+    "opposition": []
+}

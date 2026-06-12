@@ -1,0 +1,58 @@
+{
+    "pac": {
+        "name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+        "committee_type": "O",
+        "total_receipts": 35583600.0,
+        "indiv_contrib": 34318301.0,
+        "total_spent": 32764925.0,
+        "cash_on_hand": 4168633.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 4933920.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4933920.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00388",
+            "pac_name": "CONVERGENCE MEDIA LLC",
+            "total_amt": 14031890.0,
+            "tx_count": 31
+        },
+        {
+            "cmte_id": "S6TX00511",
+            "pac_name": "CONVERGENCE MEDIA LLC",
+            "total_amt": 5144209.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "S2TX00106",
+            "pac_name": "CONVERGENCE MEDIA LLC",
+            "total_amt": 4933920.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00770180",
+            "pac_name": "CORNYN VICTORY COMMITTEE",
+            "total_amt": 261347.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00911537",
+            "pac_name": "SECURE THE US SENATE 2026",
+            "total_amt": 32316.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00542217"
+}

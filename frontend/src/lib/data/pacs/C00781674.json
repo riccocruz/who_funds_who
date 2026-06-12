@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ELECT BLACK DEMOCRATS",
+        "committee_type": "N",
+        "total_receipts": 341808.0,
+        "indiv_contrib": 341808.0,
+        "total_spent": 348971.0,
+        "cash_on_hand": 21344.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00592808",
+            "pac_name": "THE COLLECTIVE SUPER PAC",
+            "total_amt": 35100.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00617381",
+            "pac_name": "THE COLLECTIVE PAC",
+            "total_amt": 100.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00781674"
+}

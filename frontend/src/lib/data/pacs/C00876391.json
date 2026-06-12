@@ -1,0 +1,164 @@
+{
+    "pac": {
+        "name": "THE IMPACT FUND",
+        "committee_type": "V",
+        "total_receipts": 1380940.0,
+        "indiv_contrib": 69334.0,
+        "total_spent": 1402030.0,
+        "cash_on_hand": 197332.0
+    },
+    "stats": {
+        "candidates_funded": 11
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00474",
+            "cand_name": "KELLY, ROBIN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 432756.0,
+            "direct_amt": 0.0,
+            "ie_amt": 432756.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 164621.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 158621.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 53500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 50000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NJ07250",
+            "cand_name": "SHAH, TINA",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 6500.0,
+            "direct_amt": 6500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA07458",
+            "cand_name": "JAYAPAL, PRAMILA",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL08147",
+            "cand_name": "KRISHNAMOORTHI, S. RAJA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6CA41281",
+            "cand_name": "DIXIT, ANUJ",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA10279",
+            "cand_name": "SUBRAMANYAM, SUHAS",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ01194",
+            "cand_name": "SHAH, AMISH DR.",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL21059",
+            "cand_name": "DANDIYA, PIA",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09236",
+            "cand_name": "AMIWALA, BUSHRA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6IL00474",
+            "pac_name": "TKO BUYING LLC",
+            "total_amt": 432756.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6IL00458",
+            "pac_name": "TKO BUYING LLC",
+            "total_amt": 158621.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6IL00482",
+            "pac_name": "TKO BUYING LLC",
+            "total_amt": 158621.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2NC06098",
+            "pac_name": "LC MEDIA LLC",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00674127",
+            "pac_name": "INDIAN AMERICAN IMPACT FUND",
+            "total_amt": 2552.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00216184",
+            "pac_name": "ANESTHESIA SERVICE MEDICAL GROUP ADVOCACY FUND",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00876391"
+}

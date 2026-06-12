@@ -1,0 +1,190 @@
+{
+    "pac": {
+        "name": "CLUB FOR GROWTH ACTION",
+        "committee_type": "O",
+        "total_receipts": 20514645.0,
+        "indiv_contrib": 14425033.0,
+        "total_spent": 8468609.0,
+        "cash_on_hand": 12241698.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H0GA14030",
+            "cand_name": "FULLER, CLAY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 516238.0,
+            "direct_amt": 0.0,
+            "ie_amt": 516238.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 309852.0,
+            "direct_amt": 0.0,
+            "ie_amt": 309852.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX02244",
+            "cand_name": "BONCK, JON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 279561.0,
+            "direct_amt": 0.0,
+            "ie_amt": 279561.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX21301",
+            "cand_name": "TEIXEIRA, MARK CHARLES",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 260145.0,
+            "direct_amt": 0.0,
+            "ie_amt": 260145.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX10221",
+            "cand_name": "GOBER, CHRIS",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 229853.0,
+            "direct_amt": 0.0,
+            "ie_amt": 229853.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 165757.0,
+            "direct_amt": 0.0,
+            "ie_amt": 165757.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6LA05234",
+            "cand_name": "MIGUEZ, BLAKE",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 11500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 11500.0
+        },
+        {
+            "cand_id": "H4AZ06045",
+            "cand_name": "SCHWEIKERT, DAVID S.",
+            "party": "REP",
+            "state": "AZ",
+            "total_amt": 9250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 9250.0
+        },
+        {
+            "cand_id": "H2PA04135",
+            "cand_name": "PERRY, SCOTT",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 2250.0
+        },
+        {
+            "cand_id": "H2AK01083",
+            "cand_name": "BEGICH, NICHOLAS III",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 250.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 250.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00571588",
+            "pac_name": "RESTORATION OF AMERICA PAC",
+            "total_amt": 2500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00937094",
+            "pac_name": "STRONG PAC",
+            "total_amt": 1700000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H0GA14030",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 516238.0,
+            "tx_count": 21
+        },
+        {
+            "cmte_id": "H6TX09140",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 309852.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 306823.0,
+            "tx_count": 14
+        },
+        {
+            "cmte_id": "H6TX02244",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 279561.0,
+            "tx_count": 22
+        },
+        {
+            "cmte_id": "H6TX21301",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 260145.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TX10221",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 229853.0,
+            "tx_count": 16
+        },
+        {
+            "cmte_id": "C00924951",
+            "pac_name": "ALAMO FREEDOM FIGHTERS PAC",
+            "total_amt": 200000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00844613",
+            "pac_name": "WIN IT BACK PAC",
+            "total_amt": 175000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 165757.0,
+            "tx_count": 19
+        },
+        {
+            "cmte_id": "S6KY00286",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 35911.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00487470"
+}

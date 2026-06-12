@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MAHA VALUES",
+        "committee_type": "N",
+        "total_receipts": 50526.0,
+        "indiv_contrib": 45625.0,
+        "total_spent": 119737.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00821439",
+            "pac_name": "MAHA PAC",
+            "total_amt": 8359.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00888172",
+            "pac_name": "MAHA ALLIANCE",
+            "total_amt": 8259.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00890004"
+}

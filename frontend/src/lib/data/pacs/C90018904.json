@@ -1,0 +1,98 @@
+{
+    "pac": {
+        "name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
+        "committee_type": "I",
+        "total_receipts": 106109.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 116270.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 39927.0,
+            "direct_amt": 0.0,
+            "ie_amt": 39927.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 39927.0,
+            "direct_amt": 0.0,
+            "ie_amt": 39927.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 39927.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 39927.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2CA13115",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H2CA36439",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CA20082",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CA27111",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CA45170",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CA47085",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H8CA10126",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H8CA49058",
+            "pac_name": "UNITED STATES POSTAL SERVICE",
+            "total_amt": 4548.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C90018904"
+}

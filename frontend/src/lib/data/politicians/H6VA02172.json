@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "DEVANATH, NILA",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 220052.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00888669",
+            "pac_name": "KEY TO THE KEYSTONE PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 150,
+        "oos_donors": 83,
+        "oos_total": 80722.0
+    },
+    "opposition": []
+}

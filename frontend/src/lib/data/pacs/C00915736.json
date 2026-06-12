@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "PRO-CHOICE DEMOCRATS",
+        "committee_type": "N",
+        "total_receipts": 1420644.0,
+        "indiv_contrib": 1304416.0,
+        "total_spent": 831851.0,
+        "cash_on_hand": 588794.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 115000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 928.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00840702",
+            "pac_name": "PRO-CHOICE WOMEN",
+            "total_amt": 300.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00915736"
+}

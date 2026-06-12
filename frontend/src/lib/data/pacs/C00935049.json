@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "AFFORDABLE CHICAGO NOW! (ACN)",
+        "committee_type": "O",
+        "total_receipts": 4473038.0,
+        "indiv_contrib": 3153000.0,
+        "total_spent": 4382428.0,
+        "cash_on_hand": 90610.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL02355",
+            "cand_name": "MILLER, DONNA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2359440.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2359440.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL02355",
+            "pac_name": "BUYING TIME",
+            "total_amt": 2359440.0,
+            "tx_count": 15
+        }
+    ],
+    "cmte_id": "C00935049"
+}

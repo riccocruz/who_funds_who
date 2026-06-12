@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "HANSON PROFESSIONAL SERVICES INC PAC",
+        "committee_type": "Q",
+        "total_receipts": 35000.0,
+        "indiv_contrib": 35000.0,
+        "total_spent": 24500.0,
+        "cash_on_hand": 28647.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL18088",
+            "cand_name": "LAHOOD, DARIN MCKAY",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010868",
+            "pac_name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00694992",
+            "pac_name": "SAM GRAVES LEADERSHIP FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00406124"
+}

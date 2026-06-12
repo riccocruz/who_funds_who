@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "KENTUCKY BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 162212.0,
+        "indiv_contrib": 162212.0,
+        "total_spent": 183204.0,
+        "cash_on_hand": 561228.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 86000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00156810",
+            "pac_name": "REPUBLICAN PARTY OF KENTUCKY",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00015594",
+            "pac_name": "LOUISVILLE & JEFFERSON COUNTY REPUBLICAN EXECUTIVE COMMITTEE",
+            "total_amt": 800.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00062836"
+}

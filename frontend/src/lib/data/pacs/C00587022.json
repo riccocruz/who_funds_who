@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "COURAGEOUS CONSERVATIVES PAC",
+        "committee_type": "O",
+        "total_receipts": 40095.0,
+        "indiv_contrib": 30595.0,
+        "total_spent": 31548.0,
+        "cash_on_hand": 14531.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX21285",
+            "cand_name": "BETTS, DANIEL",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 16550.0,
+            "direct_amt": 0.0,
+            "ie_amt": 16550.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX21285",
+            "pac_name": "GO RIGHT STRATEGIES, INC.",
+            "total_amt": 16550.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00587022"
+}

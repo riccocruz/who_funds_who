@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "HOPE IN ACTION PAC",
+        "committee_type": "V",
+        "total_receipts": 2860779.0,
+        "indiv_contrib": 2644500.0,
+        "total_spent": 2834948.0,
+        "cash_on_hand": 169670.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00940957",
+            "pac_name": "ACCOUNTABILITY PROJECT INC",
+            "total_amt": 1290000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00816058",
+            "pac_name": "LETLOW VICTORY FUND",
+            "total_amt": 205586.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00829952"
+}

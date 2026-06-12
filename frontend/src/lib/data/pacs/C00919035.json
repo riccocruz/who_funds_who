@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "OPERATION GUARDIAN SUPPORT PAC",
+        "committee_type": "O",
+        "total_receipts": 495000.0,
+        "indiv_contrib": 375000.0,
+        "total_spent": 486268.0,
+        "cash_on_hand": 8732.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX34080",
+            "cand_name": "FLORES, ERIC",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 167748.0,
+            "direct_amt": 0.0,
+            "ie_amt": 167748.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX34080",
+            "pac_name": "APEX CANVASSING & CONSULTING LLC",
+            "total_amt": 167748.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00559740",
+            "pac_name": "GOPAC ELECTION FUND",
+            "total_amt": 82000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00540203",
+            "pac_name": "DEFENDING MAIN STREET SUPERPAC INC.",
+            "total_amt": 80000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00919035"
+}

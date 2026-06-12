@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "ERNST VICTORY IOWA",
+        "committee_type": "N",
+        "total_receipts": 32400.0,
+        "indiv_contrib": 32400.0,
+        "total_spent": 58287.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4IA00129",
+            "cand_name": "ERNST, JONI K",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 3245.0,
+            "direct_amt": 3245.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00566851",
+            "pac_name": "JOBS OPPORTUNITY AND NEW IDEAS PAC",
+            "total_amt": 7523.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00610428"
+}

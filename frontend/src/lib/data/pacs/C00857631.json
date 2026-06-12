@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "RIGHT TEXAS",
+        "committee_type": "V",
+        "total_receipts": 32041.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 4549.0,
+        "cash_on_hand": 29329.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX26149",
+            "cand_name": "GILL, BRANDON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00866954",
+            "pac_name": "BRANDON GILL VICTORY FUND",
+            "total_amt": 32040.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00857631"
+}

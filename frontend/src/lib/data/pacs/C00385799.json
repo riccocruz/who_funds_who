@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "YOLO COUNTY REPUBLICAN CENTRAL COMMITTEE (FED ACCT.)",
+        "committee_type": "Y",
+        "total_receipts": 52555.0,
+        "indiv_contrib": 48664.0,
+        "total_spent": 57448.0,
+        "cash_on_hand": 13821.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 1120.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00385799"
+}

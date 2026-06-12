@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "COMPOSITION ROOFERS LOCAL UNION #30 POLITICAL ACTION & EDUCATION FUND",
+        "committee_type": "Q",
+        "total_receipts": 635332.0,
+        "indiv_contrib": 634332.0,
+        "total_spent": 680792.0,
+        "cash_on_hand": 411878.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4NJ01084",
+            "cand_name": "NORCROSS, DONALD W",
+            "party": "DEM",
+            "state": "NJ",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA08277",
+            "cand_name": "FITZPATRICK, BRIAN",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA03195",
+            "cand_name": "STREET, SHARIF",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA02171",
+            "cand_name": "EVANS, DWIGHT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00125534"
+}

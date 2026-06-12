@@ -1,0 +1,148 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC PARTY OF ILLINOIS",
+        "committee_type": "Y",
+        "total_receipts": 3925443.0,
+        "indiv_contrib": 399367.0,
+        "total_spent": 3916141.0,
+        "cash_on_hand": 234607.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8IL09067",
+            "cand_name": "SCHAKOWSKY, JANICE D",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 230012.0,
+            "tx_count": 40
+        },
+        {
+            "cmte_id": "C00658476",
+            "pac_name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+            "total_amt": 58714.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00007542",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+            "total_amt": 25000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00822056",
+            "pac_name": "ERIC SORENSEN VICTORY FUND",
+            "total_amt": 20900.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00688168",
+            "pac_name": "LAUREN UNDERWOOD VICTORY FUND",
+            "total_amt": 11000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00649772",
+            "pac_name": "REVIVING AMERICAN JOBS AGAIN PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00846071",
+            "pac_name": "STORM PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 9561.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00001636",
+            "pac_name": "SMART TD PAC",
+            "total_amt": 5500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00027359",
+            "pac_name": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00029447",
+            "pac_name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00449512",
+            "pac_name": "ILLINOIS DEMOCRATIC COUNTY CHAIRS' ASSOCIATION",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00544254",
+            "pac_name": "PERIMETER PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00785816",
+            "pac_name": "LIFTOFF PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00819441",
+            "pac_name": "BUDZINSKI VICTORY FUND",
+            "total_amt": 4500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00101766",
+            "pac_name": "UNITED AIRLINES, INC. POLITICAL ACTION COMMITTEE (UAPAC)",
+            "total_amt": 3000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00023580",
+            "pac_name": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00225342",
+            "pac_name": "MCGUIREWOODS FEDERAL PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00347195",
+            "pac_name": "PRAIRIE POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00167015"
+}

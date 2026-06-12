@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "SERVANT-LEADER FUND, INC.",
+        "committee_type": "O",
+        "total_receipts": 1823608.0,
+        "indiv_contrib": 40000.0,
+        "total_spent": 1711102.0,
+        "cash_on_hand": 112506.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL08287",
+            "cand_name": "TULLY, DAN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 96358.0,
+            "direct_amt": 0.0,
+            "ie_amt": 96358.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00854059",
+            "pac_name": "ONE GIANT LEAP PAC",
+            "total_amt": 300000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6IL08287",
+            "pac_name": "1150 PUBLIC AFFAIRS",
+            "total_amt": 96358.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00899427"
+}

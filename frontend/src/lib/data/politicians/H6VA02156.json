@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WILLIAMSON, MICHAEL",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 342800.0,
+        "pac_receipts_summary": 500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 138,
+        "oos_donors": 96,
+        "oos_total": 69858.0
+    },
+    "opposition": []
+}

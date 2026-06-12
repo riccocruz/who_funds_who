@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "AVILA CHEVALIER, DARIALIZA",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 390332.0,
+        "pac_receipts_summary": 12500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 5111.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 111.0
+        },
+        {
+            "cmte_id": "C00937888",
+            "pac_name": "PEACE, ACCOUNTABILITY, AND LEADERSHIP POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 1425.0,
+            "direct_amt": 1425.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 245,
+        "oos_donors": 112,
+        "oos_total": 129036.0
+    },
+    "opposition": []
+}

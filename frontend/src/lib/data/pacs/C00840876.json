@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "AARON BEAN TEAM",
+        "committee_type": "N",
+        "total_receipts": 146776.0,
+        "indiv_contrib": 146776.0,
+        "total_spent": 146776.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00824938",
+            "pac_name": "BE AN AMERICAN PAC",
+            "total_amt": 29153.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 22830.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00840876"
+}

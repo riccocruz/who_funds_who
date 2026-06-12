@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "THE 2026 VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 1176621.0,
+        "indiv_contrib": 1167371.0,
+        "total_spent": 1161278.0,
+        "cash_on_hand": 39693.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00830042",
+            "pac_name": "AMERICAN LIBERTY FOUNDATION",
+            "total_amt": 148115.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00818591",
+            "pac_name": "GRASSROOTS AMERICA PAC",
+            "total_amt": 143150.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00873828"
+}

@@ -1,0 +1,166 @@
+{
+    "pac": {
+        "name": "INDIGO PAC",
+        "committee_type": "O",
+        "total_receipts": 60239.0,
+        "indiv_contrib": 60138.0,
+        "total_spent": 53928.0,
+        "cash_on_hand": 6311.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2994.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2994.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2CA13115",
+            "cand_name": "GRAY, ADAM C.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2315.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2315.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00407",
+            "cand_name": "COOPER, ROY",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 718.0,
+            "direct_amt": 0.0,
+            "ie_amt": 718.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8GA00180",
+            "cand_name": "OSSOFF, T. JONATHAN",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 422.0,
+            "direct_amt": 0.0,
+            "ie_amt": 422.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 316.0,
+            "direct_amt": 0.0,
+            "ie_amt": 316.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH09031",
+            "cand_name": "KAPTUR, MARCY HON. M.C.",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 267.0,
+            "direct_amt": 0.0,
+            "ie_amt": 267.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 144.0,
+            "direct_amt": 0.0,
+            "ie_amt": 144.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H8IA02043",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 3196.0,
+            "tx_count": 14
+        },
+        {
+            "cmte_id": "S6TX00479",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 2994.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H2CA13115",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 2315.0,
+            "tx_count": 21
+        },
+        {
+            "cmte_id": "H8PA15195",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 1834.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "H4CO08034",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 857.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 718.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S6NE00129",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 431.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 422.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 400.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H4CA45170",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 316.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H2OH09031",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 267.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TX15162",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 144.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6ME00159",
+            "pac_name": "META PLATFORMS, INC.",
+            "total_amt": 47.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00909465"
+}

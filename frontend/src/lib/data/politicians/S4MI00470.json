@@ -1,0 +1,161 @@
+{
+    "politician": {
+        "cand_name": "SLOTKIN, ELISSA",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 4146863.0,
+        "pac_receipts_summary": 13000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00490375",
+            "pac_name": "NATIONAL NURSES UNITED FOR PATIENT PROTECTION",
+            "total_amt": 10917.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10917.0
+        },
+        {
+            "cmte_id": "C00365270",
+            "pac_name": "M-PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00004036",
+            "pac_name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+            "total_amt": 7186.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7186.0
+        },
+        {
+            "cmte_id": "C00093989",
+            "pac_name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 324 NATIONAL POLITICAL ACTIVITIES COMM.",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00309146",
+            "pac_name": "AMERICAN GAMING ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00497545",
+            "pac_name": "CONCORDE CAREER COLLEGES AND UNIVERSAL TECHNICAL INSTITUTE INC. PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 2477.0,
+            "direct_amt": 2477.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00785014",
+            "pac_name": "CONQUERING CANCER PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00048579",
+            "pac_name": "SALT RIVER VALLEY WATER USERS' ASSOCIATION POLITICAL INVOLVEMENT COMMITTEE ( SRPPIC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00832139",
+            "pac_name": "MI CORN GROWERS ASSOCIATION PAC (MI CORN PAC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00199711",
+            "pac_name": "HEALTH CARE SERVICE CORPORATION EMPLOYEES' POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00452961",
+            "pac_name": "FRIENDS OF WAYNE STATE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829119",
+            "pac_name": "BACPAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00488387",
+            "pac_name": "TRI-STATE MAXED-OUT WOMEN",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00067231",
+            "pac_name": "HCA HEALTHCARE, INC. GOOD GOVERNMENT FUND",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00335570",
+            "pac_name": "ACADIAN AMBULANCE  SERVICE EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE, INC.",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00761957",
+            "pac_name": "IN OUR HANDS",
+            "total_amt": -1700.0,
+            "direct_amt": -1700.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002089",
+            "pac_name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 3256,
+        "oos_donors": 1800,
+        "oos_total": 977389.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00448696",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 7351.0
+        },
+        {
+            "cmte_id": "C00747121",
+            "pac_name": "RED SENATE",
+            "total_amt": 5001.0
+        }
+    ]
+}

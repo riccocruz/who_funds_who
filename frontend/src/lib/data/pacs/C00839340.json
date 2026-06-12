@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "HUMANETICS CORPORATION PAC",
+        "committee_type": "N",
+        "total_receipts": 17800.0,
+        "indiv_contrib": 17800.0,
+        "total_spent": 15000.0,
+        "cash_on_hand": 10300.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H0MN04049",
+            "cand_name": "MCCOLLUM, BETTY",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MN01223",
+            "cand_name": "FINSTAD, BRAD",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2PA00661",
+            "cand_name": "MCCORMICK, DAVE",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00839340"
+}

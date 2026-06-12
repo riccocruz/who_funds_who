@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "HAWATMEH, OLA NESHESWAT",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 137315.0,
+        "pac_receipts_summary": 4000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00856831",
+            "pac_name": "PEOPLE FOR OLA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00833848",
+            "pac_name": "BLAC PAC",
+            "total_amt": 2082.0,
+            "direct_amt": 2082.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 37,
+        "oos_donors": 19,
+        "oos_total": 56241.0
+    },
+    "opposition": []
+}

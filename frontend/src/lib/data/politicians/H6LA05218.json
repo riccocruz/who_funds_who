@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MCMAKIN, DIXON",
+        "party": "REP",
+        "state": "LA",
+        "indiv_total": 63400.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00583492",
+            "pac_name": "HEALTH AGENTS OF AMERICA PAC-HAFA-PAC",
+            "total_amt": 300.0,
+            "direct_amt": 300.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 30,
+        "oos_donors": 3,
+        "oos_total": 18000.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "UNITED FOR LIBERTY PAC",
+        "committee_type": "N",
+        "total_receipts": 12100.0,
+        "indiv_contrib": 12100.0,
+        "total_spent": 11828.0,
+        "cash_on_hand": 924.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H8TX29110",
+            "cand_name": "BLANCO, JAIMY",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 9800.0,
+            "direct_amt": 9800.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4RI00051",
+            "cand_name": "MCKAY, RAYMOND TYLER MR",
+            "party": "REP",
+            "state": "RI",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IL16153",
+            "cand_name": "MARTER, JAMES THOMAS",
+            "party": "REP",
+            "state": "IL",
+            "total_amt": 104.0,
+            "direct_amt": 104.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MS02203",
+            "cand_name": "ELLER, RON",
+            "party": "REP",
+            "state": "MS",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00794255",
+            "pac_name": "FIGHTING FOR NEW ENGLAND PAC",
+            "total_amt": 100.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00794222"
+}

@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "PLUMBERS UNION LOCAL 690 POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 1400889.0,
+        "indiv_contrib": 1395889.0,
+        "total_spent": 1259295.0,
+        "cash_on_hand": 1577806.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "SHARIF STREET FOR US",
+            "party": null,
+            "state": null,
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07147",
+            "cand_name": "MCCLURE, LAMONT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA02171",
+            "cand_name": "EVANS, DWIGHT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA04116",
+            "cand_name": "DEAN, MADELEINE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 2800.0,
+            "direct_amt": 2800.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00012476",
+            "pac_name": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)",
+            "total_amt": 101234.0,
+            "tx_count": 8
+        }
+    ],
+    "cmte_id": "C00252825"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "ASSOCIATIONS INC. PAC/ASSOCIA PAC",
+        "committee_type": "Q",
+        "total_receipts": 150309.0,
+        "indiv_contrib": 150216.0,
+        "total_spent": 87688.0,
+        "cash_on_hand": 87393.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6HI01311",
+            "cand_name": "KEOHOKALOLE, JARRETT",
+            "party": "DEM",
+            "state": "HI",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00608380",
+            "pac_name": "DLCC PAC",
+            "total_amt": 0.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00779595",
+            "pac_name": "RSLC PAC",
+            "total_amt": 0.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00413856"
+}

@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "MI CORN GROWERS ASSOCIATION PAC (MI CORN PAC)",
+        "committee_type": "N",
+        "total_receipts": 16076.0,
+        "indiv_contrib": 16076.0,
+        "total_spent": 2500.0,
+        "cash_on_hand": 37129.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S4MI00470",
+            "cand_name": "SLOTKIN, ELISSA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI04126",
+            "cand_name": "MOOLENAAR, JOHN MR.",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI13204",
+            "cand_name": "THANEDAR, SHRI",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MI00372",
+            "cand_name": "JAMES, JOHN",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00650150",
+            "pac_name": "SLOTKIN VICTORY FUND 2024",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00832139"
+}

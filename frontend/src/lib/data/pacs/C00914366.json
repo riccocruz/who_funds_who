@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "NO FAIL MISSION PAC",
+        "committee_type": "N",
+        "total_receipts": 56264.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 30347.0,
+        "cash_on_hand": 25917.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CA39240",
+            "cand_name": "KIM, YOUNG",
+            "party": "REP",
+            "state": "CA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6ME02148",
+            "cand_name": "LEPAGE, PAUL",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AL02175",
+            "cand_name": "MCKEE, JOSHUA LOGAN",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00457",
+            "cand_name": "SCHWARZE, ADAM",
+            "party": "REP",
+            "state": "MN",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MT01160",
+            "cand_name": "JACOBSEN, CHRISTI",
+            "party": "REP",
+            "state": "MT",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00915132",
+            "pac_name": "ADAM SCHWARZE VICTORY FUND",
+            "total_amt": 36263.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00914366"
+}

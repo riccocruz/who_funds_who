@@ -1,0 +1,67 @@
+{
+    "pac": {
+        "name": "NBT PAC FEDERAL FUND",
+        "committee_type": "Q",
+        "total_receipts": 10700.0,
+        "indiv_contrib": 10700.0,
+        "total_spent": -6500.0,
+        "cash_on_hand": 159488.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S2CT00132",
+            "cand_name": "MURPHY, CHRISTOPHER S",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NH00219",
+            "cand_name": "SHAHEEN, JEANNE",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY26078",
+            "cand_name": "KENNEDY, TIMOTHY",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NY00410",
+            "cand_name": "GILLIBRAND, KIRSTEN",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00207795"
+}

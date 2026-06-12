@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 324 NATIONAL POLITICAL ACTIVITIES COMM.",
+        "committee_type": "Q",
+        "total_receipts": 567831.0,
+        "indiv_contrib": 567831.0,
+        "total_spent": 569080.0,
+        "cash_on_hand": 742384.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S4MI00470",
+            "cand_name": "SLOTKIN, ELISSA",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI08218",
+            "cand_name": "MCDONALD RIVET, KRISTEN",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0MI03316",
+            "cand_name": "SCHOLTEN, HILLARY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MI12079",
+            "cand_name": "DINGELL, DEBBIE",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MI11254",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00029504",
+            "pac_name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "total_amt": 377600.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00627414",
+            "pac_name": "POLICY OVER PARTY",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00093989"
+}

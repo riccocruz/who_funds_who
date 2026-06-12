@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "PEARSON, JUSTIN J.",
+        "party": "DEM",
+        "state": "TN",
+        "indiv_total": 1086788.0,
+        "pac_receipts_summary": 18500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 6234.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 1234.0
+        },
+        {
+            "cmte_id": "C00843110",
+            "pac_name": "LEADERS WE DESERVE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00847137",
+            "pac_name": "ENGAGE Y'ALL PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 554,
+        "oos_donors": 353,
+        "oos_total": 411041.0
+    },
+    "opposition": []
+}

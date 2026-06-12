@@ -1,0 +1,52 @@
+{
+    "pac": {
+        "name": "AS MAINE GOES PAC",
+        "committee_type": "N",
+        "total_receipts": 55572.0,
+        "indiv_contrib": 20000.0,
+        "total_spent": 57323.0,
+        "cash_on_hand": 12646.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4WI03169",
+            "cand_name": "COOKE, REBECCA",
+            "party": "DEM",
+            "state": "WI",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00305318",
+            "pac_name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00696591",
+            "pac_name": "ACROSS THE AISLE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00900258",
+            "pac_name": "JARED GOLDEN VICTORY FUND 2026",
+            "total_amt": 4734.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00834101"
+}

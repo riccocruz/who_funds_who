@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "POINT BLANK ENTERPRISES INC POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 15500.0,
+        "indiv_contrib": 15500.0,
+        "total_spent": 9978.0,
+        "cash_on_hand": 11140.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2FL25018",
+            "cand_name": "DIAZ-BALART, MARIO",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2AL00145",
+            "cand_name": "BRITT, KATIE BOYD",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00692343",
+            "pac_name": "TEAM RICK SCOTT",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00622118"
+}

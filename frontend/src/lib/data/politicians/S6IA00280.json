@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "NORRIS, JACKIE",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 351418.0,
+        "pac_receipts_summary": 4000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "JACKIE NORRIS FOR US SENATE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00784371",
+            "pac_name": "JACKIE NORRIS FOR US SENATE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 384,
+        "oos_donors": 247,
+        "oos_total": 189975.0
+    },
+    "opposition": []
+}

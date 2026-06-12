@@ -1,0 +1,87 @@
+{
+    "politician": {
+        "cand_name": "OSYF, JAMES",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 373655.0,
+        "pac_receipts_summary": 29500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00753947",
+            "pac_name": "LA BAMBA PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00920553",
+            "pac_name": "OUR SERVICE YOUR FUTURE PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00868976",
+            "pac_name": "HOLD THE LINE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00912261",
+            "pac_name": "JAMES OSYF FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00914770",
+            "pac_name": "JAMES OSYF FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00550970",
+            "pac_name": "EQUALITY PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00772848",
+            "pac_name": "NO VOTE LEFT BEHIND PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00829895",
+            "pac_name": "TAKE BACK THE HOUSE PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892216",
+            "pac_name": "RESISTANCE PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 266,
+        "oos_donors": 205,
+        "oos_total": 267297.0
+    },
+    "opposition": []
+}

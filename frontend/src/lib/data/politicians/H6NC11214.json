@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BRIARWOOD, ZELDA",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 21949.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 26,
+        "oos_donors": 4,
+        "oos_total": 1751.0
+    },
+    "opposition": []
+}

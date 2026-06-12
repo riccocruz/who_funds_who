@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MERRIN, DEREK",
+        "party": "REP",
+        "state": "OH",
+        "indiv_total": 354198.0,
+        "pac_receipts_summary": 7400.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00878439",
+            "pac_name": "GLASS CITY PAC",
+            "total_amt": 6999.0,
+            "direct_amt": 6999.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 140,
+        "oos_donors": 30,
+        "oos_total": 54145.0
+    },
+    "opposition": []
+}

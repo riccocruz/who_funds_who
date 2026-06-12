@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "MANNIK AND SMITH GROUP INC PAC THE AKA MSG PAC",
+        "committee_type": "N",
+        "total_receipts": 18150.0,
+        "indiv_contrib": 18150.0,
+        "total_spent": 20725.0,
+        "cash_on_hand": 16351.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00497313"
+}

@@ -1,0 +1,156 @@
+{
+    "pac": {
+        "name": "BLUE BATTLEGROUND PROJECT",
+        "committee_type": "V",
+        "total_receipts": 108854.0,
+        "indiv_contrib": 73338.0,
+        "total_spent": 138263.0,
+        "cash_on_hand": 3925.0
+    },
+    "stats": {
+        "candidates_funded": 9
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA07188",
+            "cand_name": "BROOKS, BOB",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 18232.0,
+            "direct_amt": 0.0,
+            "ie_amt": 18232.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02174",
+            "cand_name": "POWELL, DENISE",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 18232.0,
+            "direct_amt": 0.0,
+            "ie_amt": 18232.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 14900.0,
+            "direct_amt": 0.0,
+            "ie_amt": 14900.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6AK00276",
+            "cand_name": "PELTOLA, MARY",
+            "party": "DEM",
+            "state": "AK",
+            "total_amt": 10000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AZ00350",
+            "cand_name": "KELLY, MARK",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 5000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00855",
+            "cand_name": "VINDMAN, ALEXANDER",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 3332.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3332.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NH00141",
+            "cand_name": "PAPPAS, CHRIS",
+            "party": "DEM",
+            "state": "NH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00499",
+            "cand_name": "CRAIG, ANGIE",
+            "party": "DEM",
+            "state": "MN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MI00426",
+            "cand_name": "STEVENS, HALEY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00897363",
+            "pac_name": "BLUE MAJORITY PROJECT",
+            "total_amt": 21500.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6NE02174",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 18232.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6PA07188",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 18232.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 14900.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00902254",
+            "pac_name": "BLUE MICHIGAN PAC",
+            "total_amt": 12000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6AK00276",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S0AZ00350",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6FL00855",
+            "pac_name": "ACTIVATE CHANGE LLC",
+            "total_amt": 3332.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00704593"
+}

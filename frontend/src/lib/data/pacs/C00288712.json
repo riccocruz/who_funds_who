@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "AVIENT CORP. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 15960.0,
+        "indiv_contrib": 15944.0,
+        "total_spent": 6625.0,
+        "cash_on_hand": 132432.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC13243",
+            "cand_name": "HARRIGAN, PAT",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "THE PAT HARRIGAN COMMITTEE",
+            "party": null,
+            "state": null,
+            "total_amt": 125.0,
+            "direct_amt": 125.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00796342",
+            "pac_name": "MURPHY FOR CONGRESS",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00288712"
+}

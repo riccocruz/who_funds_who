@@ -1,0 +1,154 @@
+{
+    "pac": {
+        "name": "NEA ADVOCACY FUND",
+        "committee_type": "O",
+        "total_receipts": 7053546.0,
+        "indiv_contrib": 7053546.0,
+        "total_spent": 3156364.0,
+        "cash_on_hand": 4031114.0
+    },
+    "stats": {
+        "candidates_funded": 7
+    },
+    "recipients": [
+        {
+            "cand_id": "S4MD00327",
+            "cand_name": "ALSOBROOKS, ANGELA",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 8394.0,
+            "direct_amt": 0.0,
+            "ie_amt": 8394.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "P00009423",
+            "cand_name": "MITTERA",
+            "party": null,
+            "state": null,
+            "total_amt": 7424.0,
+            "direct_amt": 0.0,
+            "ie_amt": 7424.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6MD08457",
+            "cand_name": "RASKIN, JAMIE",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 3970.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3970.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD06340",
+            "cand_name": "DELANEY, APRIL MCCLAIN",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 3909.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3909.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MD04315",
+            "cand_name": "MITTERA",
+            "party": null,
+            "state": null,
+            "total_amt": 3544.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3544.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MD05155",
+            "cand_name": "HOYER, STENY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 2469.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2469.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MD03156",
+            "cand_name": "ELFRETH, SARAH KELLY",
+            "party": "DEM",
+            "state": "MD",
+            "total_amt": 1646.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1646.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00473918",
+            "pac_name": "WOMEN VOTE",
+            "total_amt": 75000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00492140",
+            "pac_name": "AB PAC",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00626861",
+            "pac_name": "WFP IE COMMITTEE",
+            "total_amt": 25000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S4MD00327",
+            "pac_name": "MITTERA",
+            "total_amt": 8394.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "P00009423",
+            "pac_name": "MITTERA",
+            "total_amt": 7424.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6MD08457",
+            "pac_name": "MITTERA",
+            "total_amt": 3970.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4MD06340",
+            "pac_name": "MITTERA",
+            "total_amt": 3909.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2MD04315",
+            "pac_name": "MITTERA",
+            "total_amt": 3544.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2MD05155",
+            "pac_name": "MITTERA",
+            "total_amt": 2469.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4MD03156",
+            "pac_name": "MITTERA",
+            "total_amt": 1646.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00489815"
+}

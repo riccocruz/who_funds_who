@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "YOUNG, TODD CHRISTOPHER",
+        "party": "REP",
+        "state": "IN",
+        "indiv_total": 953814.0,
+        "pac_receipts_summary": 492510.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00722165",
+            "pac_name": "ELANCO US INC. POLITICAL ACTION COMMITTEE ('ELANCO PAC')",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00390112",
+            "pac_name": "RED GOLD, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

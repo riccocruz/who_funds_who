@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "MENTAL HEALTH PAC",
+        "committee_type": "V",
+        "total_receipts": 91446.0,
+        "indiv_contrib": 73645.0,
+        "total_spent": 63856.0,
+        "cash_on_hand": 46050.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8CO07045",
+            "cand_name": "PETTERSEN, BRITTANY LOUISE",
+            "party": "DEM",
+            "state": "CO",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0UT01205",
+            "cand_name": "MOORE, BLAKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00695254",
+            "pac_name": "BALLARD SPAHR LLP PAC",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00762062"
+}

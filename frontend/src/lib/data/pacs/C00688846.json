@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "INSPIRING LEADERSHIP HAS A NAME PAC",
+        "committee_type": "Q",
+        "total_receipts": 80127.0,
+        "indiv_contrib": 2805.0,
+        "total_spent": 90985.0,
+        "cash_on_hand": 64531.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL08146",
+            "cand_name": "AHMED, JUNAID",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8IN07184",
+            "cand_name": "CARSON, ANDRE",
+            "party": "DEM",
+            "state": "IN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00750166",
+            "pac_name": "THE SQUAD VICTORY FUND",
+            "total_amt": 268149.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00688846"
+}

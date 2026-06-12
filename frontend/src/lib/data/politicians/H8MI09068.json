@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PETERS, GARY",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 18622.0,
+        "pac_receipts_summary": 9500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00342113",
+            "pac_name": "DYKEMA GOSSETT FEDERAL PAC",
+            "total_amt": -5000.0,
+            "direct_amt": -5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

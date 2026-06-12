@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PYATI, NICK",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 261568.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 200,
+        "oos_donors": 162,
+        "oos_total": 229811.0
+    },
+    "opposition": []
+}

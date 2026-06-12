@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "ROLLINS, WILL",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 500.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00688432",
+            "pac_name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC",
+            "total_amt": 2990.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2990.0
+        },
+        {
+            "cmte_id": "C00640300",
+            "pac_name": "ACTIVATE AMERICA",
+            "total_amt": 430.0,
+            "direct_amt": 0.0,
+            "ie_amt": 430.0
+        },
+        {
+            "cmte_id": "C00556860",
+            "pac_name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA VOTES PAC",
+            "total_amt": 213.0,
+            "direct_amt": 0.0,
+            "ie_amt": 213.0
+        },
+        {
+            "cmte_id": "C00461418",
+            "pac_name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00510461",
+            "pac_name": "WILL ROLLINS FOR CONGRESS",
+            "total_amt": -2000.0,
+            "direct_amt": -2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 3,
+        "oos_donors": 1,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

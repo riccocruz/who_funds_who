@@ -1,0 +1,121 @@
+{
+    "politician": {
+        "cand_name": "FETTERMAN, JOHN KARL",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 1697304.0,
+        "pac_receipts_summary": 25500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00032979",
+            "pac_name": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00200139",
+            "pac_name": "THE HERSHEY COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629709",
+            "pac_name": "NO LABELS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00127811",
+            "pac_name": "U.S. ISRAEL PAC  (USI PAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00000059",
+            "pac_name": "HALLMARK CARDS, INC. PAC (HALLPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00004325",
+            "pac_name": "SEAFARERS POLITICAL ACTIVITY DONATION - SEAFARERS INTERNATIONAL UNION OF NA-AGLIW",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00040741",
+            "pac_name": "UTILITY WORKERS UNION OF AMERICA COPE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00114025",
+            "pac_name": "NATIONAL READY MIXED CONCRETE ASSN. PAC (CONCRETEPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00232843",
+            "pac_name": "INFIN, A FINANCIAL SERVICES ALLIANCE, INC. PAC ('INFIN PAC')",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00241380",
+            "pac_name": "ARENTFOX SCHIFF CIVIC PARTICIPATION FUND (AFSPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00262295",
+            "pac_name": "CTIA - THE WIRELESS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00483677",
+            "pac_name": "AMERICAN PETROLEUM INSTITUTE POLITICAL ACTION COMMITTEE (API PAC)",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00009985",
+            "pac_name": "NATIONAL ASSOCIATION OF BROADCASTERS POLITICAL ACTION COMMITTEE (NABPAC)",
+            "total_amt": 375.0,
+            "direct_amt": 375.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00392290",
+            "pac_name": "POPULUS FINANCIAL GROUP, INC. PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 4291,
+        "oos_donors": 2559,
+        "oos_total": 944627.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00448696",
+            "pac_name": "SENATE CONSERVATIVES FUND",
+            "total_amt": 7351.0
+        }
+    ]
+}

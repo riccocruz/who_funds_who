@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "DAVIS, CHRISTY",
+        "party": "DEM",
+        "state": "KS",
+        "indiv_total": 137068.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00701748",
+            "pac_name": "CHRISTY DAVIS FOR KANSAS 2026",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 50,
+        "oos_donors": 8,
+        "oos_total": 3000.0
+    },
+    "opposition": []
+}

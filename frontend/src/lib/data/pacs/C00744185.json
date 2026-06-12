@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "NUESTRO PAC",
+        "committee_type": "O",
+        "total_receipts": 222793.0,
+        "indiv_contrib": 2793.0,
+        "total_spent": 254887.0,
+        "cash_on_hand": 50199.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX32089",
+            "cand_name": "JOHNSON, JULIE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 220000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 220000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4TX32089",
+            "pac_name": "GRASSROOT PARTNERS LLC",
+            "total_amt": 220000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00744185"
+}

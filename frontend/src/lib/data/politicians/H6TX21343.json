@@ -1,0 +1,59 @@
+{
+    "politician": {
+        "cand_name": "KARLSRUHER, JESSICA",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 156968.0,
+        "pac_receipts_summary": 31000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00934604",
+            "pac_name": "CONSERVATIVE FUTURE TEXAS",
+            "total_amt": 12000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 12000.0
+        },
+        {
+            "cmte_id": "C00039578",
+            "pac_name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00007880",
+            "pac_name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00327189",
+            "pac_name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00349373",
+            "pac_name": "GULF STATES TOYOTA INC FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00892042",
+            "pac_name": "FIRST SERVICE CREDIT UNION POLITICAL ACTION COMMITTEE (FSCU PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 139,
+        "oos_donors": 16,
+        "oos_total": 22524.0
+    },
+    "opposition": []
+}

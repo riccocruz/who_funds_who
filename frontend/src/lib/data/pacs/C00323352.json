@@ -1,0 +1,57 @@
+{
+    "pac": {
+        "name": "COMMITTEE FOR A LIVABLE FUTURE",
+        "committee_type": "Q",
+        "total_receipts": 909014.0,
+        "indiv_contrib": 440.0,
+        "total_spent": 259515.0,
+        "cash_on_hand": 921392.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H4OR03192",
+            "cand_name": "DEXTER, MAXINE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8CA01109",
+            "cand_name": "THOMPSON, MIKE MR.",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OR04095",
+            "cand_name": "HOYLE, VALERIE",
+            "party": "DEM",
+            "state": "OR",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00323352"
+}

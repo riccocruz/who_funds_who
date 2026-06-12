@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "WITH HONOR FUND II, INC.",
+        "committee_type": "O",
+        "total_receipts": 2592044.0,
+        "indiv_contrib": 2616208.0,
+        "total_spent": 2586598.0,
+        "cash_on_hand": 120697.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00898890",
+            "pac_name": "WITH HONOR FUND III, INC.",
+            "total_amt": 2430454.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00899427",
+            "pac_name": "SERVANT-LEADER FUND, INC.",
+            "total_amt": 90000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00772152",
+            "pac_name": "ELECT PRINCIPLED VETERANS FUND (EPV FUND)",
+            "total_amt": 637.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00831404"
+}

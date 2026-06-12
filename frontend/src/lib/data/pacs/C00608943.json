@@ -1,0 +1,98 @@
+{
+    "pac": {
+        "name": "CLEARPATH ACTION FUND, INC.",
+        "committee_type": "O",
+        "total_receipts": 4000000.0,
+        "indiv_contrib": 4000000.0,
+        "total_spent": 1846341.0,
+        "cash_on_hand": 2261470.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S4LA00107",
+            "cand_name": "CASSIDY, WILLIAM M.",
+            "party": "REP",
+            "state": "LA",
+            "total_amt": 597710.0,
+            "direct_amt": 0.0,
+            "ie_amt": 597710.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 514600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 514600.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 300497.0,
+            "direct_amt": 0.0,
+            "ie_amt": 300497.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00314",
+            "cand_name": "ARENHOLZ, ASHLEY HINSON",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 184503.0,
+            "direct_amt": 0.0,
+            "ie_amt": 184503.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8LA00017",
+            "cand_name": "MAJORITY STRATEGIES LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 24229.0,
+            "direct_amt": 0.0,
+            "ie_amt": 24229.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S4LA00107",
+            "pac_name": "MAJORITY STRATEGIES LLC",
+            "total_amt": 597710.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S2TX00106",
+            "pac_name": "MAJORITY STRATEGIES LLC",
+            "total_amt": 514600.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6ME00159",
+            "pac_name": "MAJORITY STRATEGIES LLC",
+            "total_amt": 300497.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "S6IA00314",
+            "pac_name": "MAJORITY STRATEGIES LLC",
+            "total_amt": 184503.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H8LA00017",
+            "pac_name": "MAJORITY STRATEGIES LLC",
+            "total_amt": 24229.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00608943"
+}

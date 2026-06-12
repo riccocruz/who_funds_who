@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "TRANSYSTEMS CORPORATION PAC",
+        "committee_type": "Q",
+        "total_receipts": 26175.0,
+        "indiv_contrib": 26175.0,
+        "total_spent": 111511.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8OH12180",
+            "cand_name": "BALDERSON, WILLIAM TROY",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00141382",
+            "pac_name": "GFT INFRASTRUCTURE PAC",
+            "total_amt": 96811.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00010868",
+            "pac_name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "total_amt": 4800.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00433672"
+}

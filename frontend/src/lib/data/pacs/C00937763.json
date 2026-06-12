@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "LEADING DEMOCRACY INC",
+        "committee_type": "O",
+        "total_receipts": 290100.0,
+        "indiv_contrib": 290100.0,
+        "total_spent": 265469.0,
+        "cash_on_hand": 24631.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09301",
+            "cand_name": "ANDREW, PHILIP JEROME",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 262500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 262500.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6IL09301",
+            "pac_name": "COMPELLING ENTERTAINMENT",
+            "total_amt": 262500.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00937763"
+}

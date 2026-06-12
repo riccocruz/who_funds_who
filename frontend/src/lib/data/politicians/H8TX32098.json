@@ -1,0 +1,22 @@
+{
+    "politician": {
+        "cand_name": "ALLRED, COLIN",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 2586808.0,
+        "pac_receipts_summary": 18000.0
+    },
+    "donations": [],
+    "indivStats": {
+        "unique_donors": 1422,
+        "oos_donors": 802,
+        "oos_total": 445605.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00938589",
+            "pac_name": "DON'T MESS WITH TX PAC",
+            "total_amt": 56486.0
+        }
+    ]
+}

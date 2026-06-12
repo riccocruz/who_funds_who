@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "CONSERVATIVE FIGHTER PAC",
+        "committee_type": "O",
+        "total_receipts": 2874841.0,
+        "indiv_contrib": 2198841.0,
+        "total_spent": 2849049.0,
+        "cash_on_hand": 25793.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1734288.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1734288.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "ELECTORAL COMMUNICATIONS GROUP LLC",
+            "total_amt": 1734288.0,
+            "tx_count": 37
+        },
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "DEL CIELO MEDIA LLC",
+            "total_amt": 857466.0,
+            "tx_count": 10
+        }
+    ],
+    "cmte_id": "C00893198"
+}

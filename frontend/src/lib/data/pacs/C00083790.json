@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "NEBRASKA BANKERS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 46402.0,
+        "indiv_contrib": 46402.0,
+        "total_spent": 103000.0,
+        "cash_on_hand": 50205.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 103000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00083790"
+}

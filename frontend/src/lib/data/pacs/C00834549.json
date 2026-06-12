@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "JEFFRIES MAJORITY FUND",
+        "committee_type": "N",
+        "total_receipts": 185211.0,
+        "indiv_contrib": 182711.0,
+        "total_spent": 185027.0,
+        "cash_on_hand": 413.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00617803",
+            "pac_name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+            "total_amt": 51000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00007948",
+            "pac_name": "WEYERHAEUSER COMPANY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00834549"
+}

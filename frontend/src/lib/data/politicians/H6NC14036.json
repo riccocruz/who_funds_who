@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "CALDWELL, BRENT",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 46760.0,
+        "pac_receipts_summary": 6000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00552919",
+            "pac_name": "YELLOW DOG",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00498568",
+            "pac_name": "CALDWELL FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 58,
+        "oos_donors": 24,
+        "oos_total": 16100.0
+    },
+    "opposition": []
+}

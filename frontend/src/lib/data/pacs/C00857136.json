@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MARCY KAPTUR VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 51099.0,
+        "indiv_contrib": 46095.0,
+        "total_spent": 53268.0,
+        "cash_on_hand": 10069.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 34932.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00417865",
+            "pac_name": "TRUEDEM LEADERSHIP FUND",
+            "total_amt": 4600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00857136"
+}

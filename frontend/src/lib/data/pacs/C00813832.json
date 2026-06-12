@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "DLZ CORP INFRASTRUCTURE ADVOCACY FEDERAL PAC",
+        "committee_type": "N",
+        "total_receipts": 106000.0,
+        "indiv_contrib": 106000.0,
+        "total_spent": 59675.0,
+        "cash_on_hand": 88422.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00896928",
+            "pac_name": "TEAM HUSTED",
+            "total_amt": 10000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00823997",
+            "pac_name": "RUDY VICTORY FUND",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00577189",
+            "pac_name": "DUCKWORTH VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00813832"
+}

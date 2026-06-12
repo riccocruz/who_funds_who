@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "MONROE ENERGY LLC FUELING THE CLIMB POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 36132.0,
+        "indiv_contrib": 36132.0,
+        "total_spent": 24500.0,
+        "cash_on_hand": 90102.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA15195",
+            "cand_name": "MACKENZIE, RYAN EDWARD",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00764373",
+            "pac_name": "BARRASSO VICTORY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00613133"
+}

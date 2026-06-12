@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MURPHY, ADAM",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 27348.0,
+        "pac_receipts_summary": 3100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00893529",
+            "pac_name": "RURAL AMERICA RISING",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 10,
+        "oos_donors": 2,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

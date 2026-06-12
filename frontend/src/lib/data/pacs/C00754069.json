@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "PAF",
+        "committee_type": "V",
+        "total_receipts": 2946953.0,
+        "indiv_contrib": 1831380.0,
+        "total_spent": 2387410.0,
+        "cash_on_hand": 861487.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6CA32207",
+            "cand_name": "LEVINE, JAKE",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00754069"
+}

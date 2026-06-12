@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "PEACE, ACCOUNTABILITY, AND LEADERSHIP POLITICAL ACTION COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 51867.0,
+        "indiv_contrib": 51867.0,
+        "total_spent": 17085.0,
+        "cash_on_hand": 34782.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX30245",
+            "cand_name": "HAYNES, FREDERICK III",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY13279",
+            "cand_name": "AVILA CHEVALIER, DARIALIZA",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL09178",
+            "cand_name": "ABUGHAZALEH, KATHERINE M.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00937888"
+}

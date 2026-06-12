@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "ELECTING WOMEN NATIONAL CAPITAL REGION PAC",
+        "committee_type": "V",
+        "total_receipts": 100550.0,
+        "indiv_contrib": 50550.0,
+        "total_spent": 46730.0,
+        "cash_on_hand": 53820.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6VA01299",
+            "cand_name": "TAYLOR, SHANNON LEIGH",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 379.0,
+            "direct_amt": 379.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2WA03217",
+            "cand_name": "GLUESENKAMP PEREZ, MARIE",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 248.0,
+            "direct_amt": 248.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00450098",
+            "pac_name": "WOMENCOUNT PAC",
+            "total_amt": 5500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00916742"
+}

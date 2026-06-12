@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "SOUTH DAKOTA BANKERS ASSOCIATION PUBLIC AFFAIRS COMMITTEE (SDBANKPAC)",
+        "committee_type": "Q",
+        "total_receipts": 34949.0,
+        "indiv_contrib": 33565.0,
+        "total_spent": 18231.0,
+        "cash_on_hand": 94575.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 15500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00117911",
+            "pac_name": "NORTH DAKOTA BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 1060.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00109439",
+            "pac_name": "MONTANA BANKERS  PAC",
+            "total_amt": 660.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00423459",
+            "pac_name": "WYOMING BANKERS ASSOCIATION BANKPAC",
+            "total_amt": 380.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00436055"
+}

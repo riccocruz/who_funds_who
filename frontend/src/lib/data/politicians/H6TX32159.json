@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "BINKLEY, RYAN",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 453173.0,
+        "pac_receipts_summary": 8500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00921775",
+            "pac_name": "TEXAS PATH TO FREEDOM PAC",
+            "total_amt": 173910.0,
+            "direct_amt": 0.0,
+            "ie_amt": 173910.0
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786368",
+            "pac_name": "31 DAYS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00575167",
+            "pac_name": "RYAN BINKLEY FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 138,
+        "oos_donors": 30,
+        "oos_total": 81750.0
+    },
+    "opposition": []
+}

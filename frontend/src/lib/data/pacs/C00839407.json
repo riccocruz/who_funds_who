@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "GET OUT THE VOTE PAC",
+        "committee_type": "W",
+        "total_receipts": 1176658.0,
+        "indiv_contrib": 1134068.0,
+        "total_spent": 1206017.0,
+        "cash_on_hand": 99860.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "SCALE TO WIN",
+            "party": null,
+            "state": null,
+            "total_amt": 4300.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4300.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8VA10080",
+            "cand_name": "HELMER, DANIEL",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": -100.0,
+            "direct_amt": -100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY24150",
+            "cand_name": "KLEE HOOD, SARAH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": -100.0,
+            "direct_amt": -100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2AK01158",
+            "cand_name": "PELTOLA, MARY",
+            "party": "DEM",
+            "state": "AK",
+            "total_amt": -100.0,
+            "direct_amt": -100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "SCALE TO WIN",
+            "total_amt": 4300.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00839407"
+}

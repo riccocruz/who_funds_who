@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "LARSEN, JONATHAN",
+        "party": "DEM",
+        "state": "UT",
+        "indiv_total": 8654.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00499947",
+            "pac_name": "DEMOCRACY FOR ALL NOW PAC",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 11,
+        "oos_donors": 2,
+        "oos_total": 1250.0
+    },
+    "opposition": []
+}

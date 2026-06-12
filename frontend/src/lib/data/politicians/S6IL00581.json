@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "RYAN, KEVIN",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 127617.0,
+        "pac_receipts_summary": 388.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 91,
+        "oos_donors": 21,
+        "oos_total": 32096.0
+    },
+    "opposition": []
+}

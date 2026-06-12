@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "IUOE OPERATING ENGINEERS",
+        "committee_type": "Q",
+        "total_receipts": 1319827.0,
+        "indiv_contrib": 1318627.0,
+        "total_spent": 1326148.0,
+        "cash_on_hand": 554761.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA07200",
+            "cand_name": "SCANLON, MARY GAY",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "CITIZENS FOR BOYLE",
+            "party": null,
+            "state": null,
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA03195",
+            "cand_name": "STREET, SHARIF",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8PA04116",
+            "cand_name": "DEAN, MADELEINE",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA07147",
+            "cand_name": "MCCLURE, LAMONT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6PA02171",
+            "cand_name": "EVANS, DWIGHT",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00136739"
+}

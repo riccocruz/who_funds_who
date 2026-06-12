@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BARR, KATE",
+        "party": "REP",
+        "state": "NC",
+        "indiv_total": 66840.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C90020058",
+            "pac_name": "RED WINE AND BLUE",
+            "total_amt": 230.0,
+            "direct_amt": 0.0,
+            "ie_amt": 230.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 28,
+        "oos_donors": 4,
+        "oos_total": 2250.0
+    },
+    "opposition": []
+}

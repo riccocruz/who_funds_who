@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "LUNDGREN, SHANNON",
+        "party": "REP",
+        "state": "IA",
+        "indiv_total": 69709.0,
+        "pac_receipts_summary": 12500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00327189",
+            "pac_name": "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00170258",
+            "pac_name": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 65,
+        "oos_donors": 3,
+        "oos_total": 7750.0
+    },
+    "opposition": []
+}

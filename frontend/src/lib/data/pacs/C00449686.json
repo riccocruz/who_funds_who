@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "REPUBLICAN PARTY OF MADERA COUNTY (FED.)",
+        "committee_type": "Y",
+        "total_receipts": 114892.0,
+        "indiv_contrib": 104541.0,
+        "total_spent": 84416.0,
+        "cash_on_hand": 96606.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 301.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00455725",
+            "pac_name": "MARIPOSA COUNTY REPUBLICAN CENTRAL COMMITTEE (FEDERAL)",
+            "total_amt": 50.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00449686"
+}

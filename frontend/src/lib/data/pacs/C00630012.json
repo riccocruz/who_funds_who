@@ -1,0 +1,180 @@
+{
+    "pac": {
+        "name": "EVERY STATE BLUE",
+        "committee_type": "V",
+        "total_receipts": 378846.0,
+        "indiv_contrib": 228541.0,
+        "total_spent": 195277.0,
+        "cash_on_hand": 222324.0
+    },
+    "stats": {
+        "candidates_funded": 15
+    },
+    "recipients": [
+        {
+            "cand_id": "H4UT04060",
+            "cand_name": "FALLICK-WANG, KATRINA",
+            "party": "DEM",
+            "state": "UT",
+            "total_amt": -3.0,
+            "direct_amt": -3.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4VA09057",
+            "cand_name": "BAKER, KAREN G.H. MS.",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX31081",
+            "cand_name": "WHITLOW, STUART NORMAN MR.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TN01185",
+            "cand_name": "KEVIN JENKINS FOR US HOUSE",
+            "party": null,
+            "state": null,
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA16093",
+            "cand_name": "NOURI, PRESTON",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4PA15152",
+            "cand_name": "WOMER, ZACHERAY MR.",
+            "party": "DEM",
+            "state": "PA",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NY11211",
+            "cand_name": "MORSE FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC07134",
+            "cand_name": "MARLANDO PRIDGEN FOR US CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO07156",
+            "cand_name": "HESKETH, MISSI",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4MO06125",
+            "cand_name": "MAY, PAM",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4IL12086",
+            "cand_name": "BRIAN ROBERTS FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4FL28042",
+            "cand_name": "EHR, PHIL",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4AZ09049",
+            "cand_name": "SMITH, QUACY L",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2SC05102",
+            "cand_name": "HUNDLEY, EVANGELINE",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": -188.0,
+            "direct_amt": -188.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4SC02089",
+            "cand_name": "ROBINSON, ROGER DAVID JR",
+            "party": "DEM",
+            "state": "SC",
+            "total_amt": -555.0,
+            "direct_amt": -555.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00863738",
+            "pac_name": "DR LORENZEN FOR CONGRESS",
+            "total_amt": -188.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00877282",
+            "pac_name": "MEGHANN HOVEY FOR CONGRESS",
+            "total_amt": -188.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00630012"
+}

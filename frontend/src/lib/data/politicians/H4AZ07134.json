@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BUTIEREZ, DANIEL",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 39072.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00401786",
+            "pac_name": "FREEDOM'S DEFENSE FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00767640",
+            "pac_name": "RANGER PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 38,
+        "oos_donors": 1,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BALDWIN FOR WISCONSIN",
+        "committee_type": "N",
+        "total_receipts": 60886.0,
+        "indiv_contrib": 59886.0,
+        "total_spent": 341448.0,
+        "cash_on_hand": 25592.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00019331",
+            "pac_name": "DEMOCRATIC PARTY OF WISCONSIN FEDERAL",
+            "total_amt": 70406.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00299750",
+            "pac_name": "TDS TELECOMMUNICATIONS CORPORATION PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00830687"
+}

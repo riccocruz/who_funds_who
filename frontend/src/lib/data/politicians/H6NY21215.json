@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "SMULLEN, ROBERT",
+        "party": "REP",
+        "state": "NY",
+        "indiv_total": 161797.0,
+        "pac_receipts_summary": 10100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00786202",
+            "pac_name": "CROSSPARTISAN PAC II",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00493221",
+            "pac_name": "THE GUARDIAN FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 2,
+        "oos_total": 750.0
+    },
+    "opposition": []
+}

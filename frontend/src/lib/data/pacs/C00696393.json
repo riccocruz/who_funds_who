@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "GREG STEUBE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 321914.0,
+        "indiv_contrib": 320914.0,
+        "total_spent": 320664.0,
+        "cash_on_hand": 3650.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 59273.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00695874",
+            "pac_name": "GETTING REPUBLICANS ELECTED FOR GENERATIONS PAC",
+            "total_amt": 12270.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00224790",
+            "pac_name": "GRAYROBINSON P.A. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00696393"
+}

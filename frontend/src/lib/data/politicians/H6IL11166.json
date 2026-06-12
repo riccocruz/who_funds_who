@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "WALTER, JEFFREY D",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 56880.0,
+        "pac_receipts_summary": 2354.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00376590",
+            "pac_name": "ILLINOIS CORN GROWERS ASSOCIATION POLITICAL INVOLVEMENT FUND-FEDERAL",
+            "total_amt": 1350.0,
+            "direct_amt": 1350.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00308460",
+            "pac_name": "A BRTHD AIMED TOWARD EDUC OF IL FED ELEC DEVICE FOR POLITICALLY ACTIVE MOTORCYCLISTS...",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 49,
+        "oos_donors": 8,
+        "oos_total": 19882.0
+    },
+    "opposition": []
+}

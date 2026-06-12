@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC PARTY COMMITTEE ABROAD",
+        "committee_type": "Y",
+        "total_receipts": 742909.0,
+        "indiv_contrib": 635365.0,
+        "total_spent": 554339.0,
+        "cash_on_hand": 553325.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 105000.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00099267",
+            "pac_name": "TEXAS DEMOCRATIC PARTY",
+            "total_amt": 2784.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00259481",
+            "pac_name": "ASSOCIATION OF STATE DEMOCRATIC COMMITTEES",
+            "total_amt": 250.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00216614"
+}

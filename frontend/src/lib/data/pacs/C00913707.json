@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "BLUESTEM BIOSCIENCES INC PAC",
+        "committee_type": "N",
+        "total_receipts": 47509.0,
+        "indiv_contrib": 42500.0,
+        "total_spent": 15500.0,
+        "cash_on_hand": 32009.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S2NE00094",
+            "cand_name": "FISCHER, DEBRA S.",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY22213",
+            "cand_name": "BULLER, KAILEE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE03115",
+            "cand_name": "SMITH, ADRIAN",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00832949",
+            "pac_name": "PETE RICKETTS VICTORY FUND",
+            "total_amt": 12500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00658831",
+            "pac_name": "SIOUXLAND ETHANOL LLC PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00913707"
+}

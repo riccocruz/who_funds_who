@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "MESSER NORTH AMERICA, INC. ALLIANCE FOR GOOD GOVERNMENT (MESSER PAC)",
+        "committee_type": "Q",
+        "total_receipts": 17301.0,
+        "indiv_contrib": 14008.0,
+        "total_spent": 4184.0,
+        "cash_on_hand": 98473.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00034272",
+            "pac_name": "NATIONAL CHICKEN COUNCIL POLITICAL ACTION COMMITTEE (FKA) NATIONAL BROILER COUNCIL PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00076182",
+            "pac_name": "NATIONAL TURKEY FEDERATION POLITICAL ACTION COMMITEE/TURPAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571331",
+            "pac_name": "ALUMINUM ASSOCIATION POLITICAL ACTION COMMITTEE ALUMINUM PAC; THE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00695239"
+}

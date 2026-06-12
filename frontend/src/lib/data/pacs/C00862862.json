@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "JUST PAC",
+        "committee_type": "V",
+        "total_receipts": 40736.0,
+        "indiv_contrib": 35736.0,
+        "total_spent": 42542.0,
+        "cash_on_hand": 12775.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX09095",
+            "cand_name": "GREEN, ALEXANDER",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00862862"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES FEDERAL SPEECH PAC",
+        "committee_type": "O",
+        "total_receipts": 255137.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 125000.0,
+        "cash_on_hand": 305947.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00528455"
+}

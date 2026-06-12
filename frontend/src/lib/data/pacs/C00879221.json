@@ -1,0 +1,74 @@
+{
+    "pac": {
+        "name": "CRUSH MAGA PAC",
+        "committee_type": "W",
+        "total_receipts": 2363636.0,
+        "indiv_contrib": 1933936.0,
+        "total_spent": 1335611.0,
+        "cash_on_hand": 1079525.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "LA GENTE FOR GRIJALVA",
+            "party": null,
+            "state": null,
+            "total_amt": 7500.0,
+            "direct_amt": 7500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06114",
+            "cand_name": "FOUSHEE, VALERIE",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00884874",
+            "pac_name": "STOP PROJECT 2025",
+            "total_amt": 425000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00685719",
+            "pac_name": "DLGA",
+            "total_amt": 28000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 25000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 15000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00147512",
+            "pac_name": "CONGRESSIONAL BLACK CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00365536",
+            "pac_name": "CHC BOLD PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00879221"
+}

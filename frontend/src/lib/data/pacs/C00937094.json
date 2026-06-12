@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "STRONG PAC",
+        "committee_type": "O",
+        "total_receipts": 1706500.0,
+        "indiv_contrib": 6500.0,
+        "total_spent": 1646449.0,
+        "cash_on_hand": 60051.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX32225",
+            "cand_name": "YARBROUGH, JACE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 1397684.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1397684.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX35087",
+            "cand_name": "DE LA CRUZ, CARLOS JR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 243076.0,
+            "direct_amt": 0.0,
+            "ie_amt": 243076.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX32225",
+            "pac_name": "BALLAST LLC",
+            "total_amt": 1397684.0,
+            "tx_count": 18
+        },
+        {
+            "cmte_id": "H6TX35087",
+            "pac_name": "BALLAST LLC",
+            "total_amt": 243076.0,
+            "tx_count": 8
+        }
+    ],
+    "cmte_id": "C00937094"
+}

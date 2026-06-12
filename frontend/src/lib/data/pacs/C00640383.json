@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "NEWS/MEDIA ALLIANCE POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 30010.0,
+        "indiv_contrib": 30010.0,
+        "total_spent": 1492.0,
+        "cash_on_hand": 28533.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2FL15241",
+            "cand_name": "LEE, LAUREL",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00640383"
+}

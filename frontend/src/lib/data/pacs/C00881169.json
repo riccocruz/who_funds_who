@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "GEORGIA PROGRESS INCUBATOR",
+        "committee_type": "V",
+        "total_receipts": 31472.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 108261.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00890376",
+            "pac_name": "ALLVOTE",
+            "total_amt": 50655.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881219",
+            "pac_name": "PENNSYLVANIA PROGRESS INCUBATOR",
+            "total_amt": 46090.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00880955",
+            "pac_name": "TEXAS MOVEMENT LABS",
+            "total_amt": 11500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881169"
+}

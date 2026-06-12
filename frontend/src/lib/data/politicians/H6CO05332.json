@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CAVANAUGH, MATTHEW",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 130759.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00833574",
+            "pac_name": "TIMBER PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 74,
+        "oos_donors": 46,
+        "oos_total": 109929.0
+    },
+    "opposition": []
+}

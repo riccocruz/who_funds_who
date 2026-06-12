@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "ROSEN, JACKY",
+        "party": "DEM",
+        "state": "NV",
+        "indiv_total": 863506.0,
+        "pac_receipts_summary": 123000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00679373",
+            "pac_name": "MODA, INC. PAC",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00001388",
+            "pac_name": "DAIRY FARMERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE; AKA DFA-PAC",
+            "total_amt": -2500.0,
+            "direct_amt": -2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

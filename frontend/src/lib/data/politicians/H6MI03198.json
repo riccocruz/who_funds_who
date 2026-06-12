@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "DEBOER, TERRI",
+        "party": "REP",
+        "state": "MI",
+        "indiv_total": 196081.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00583526",
+            "pac_name": "TOGETHER UNITED FOR LIBERTY, INTEGRITY AND PROSPERITY PAC (TULIP PAC)",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

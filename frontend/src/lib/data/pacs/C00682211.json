@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "COMMON POWER",
+        "committee_type": "W",
+        "total_receipts": 805116.0,
+        "indiv_contrib": 352658.0,
+        "total_spent": 782855.0,
+        "cash_on_hand": 145525.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6FL00756",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 2849.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1846.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00005561",
+            "pac_name": "DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA",
+            "total_amt": 3664.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00682211"
+}

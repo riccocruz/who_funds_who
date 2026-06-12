@@ -1,0 +1,371 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 8757437.0,
+        "indiv_contrib": 6906354.0,
+        "total_spent": 8545052.0,
+        "cash_on_hand": 711013.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 3715000.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 986000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 320000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00031054",
+            "pac_name": "MICHIGAN DEMOCRATIC STATE CENTRAL COMMITTEE",
+            "total_amt": 54000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00025254",
+            "pac_name": "MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY",
+            "total_amt": 53500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00166710",
+            "pac_name": "ARIZONA DEMOCRATIC PARTY",
+            "total_amt": 53500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00211763",
+            "pac_name": "DEMOCRATIC STATE COMMITTEE (DELAWARE)",
+            "total_amt": 46500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00041269",
+            "pac_name": "GEORGIA FEDERAL ELECTIONS COMMITTEE",
+            "total_amt": 45732.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00001917",
+            "pac_name": "WY DEMOCRATIC STATE CENTRAL COMMITTEE",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00010033",
+            "pac_name": "MONTANA DEMOCRATIC PARTY",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00013748",
+            "pac_name": "NORTH DAKOTA DEMOCRATIC-NONPARTISAN LEAGUE PARTY",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00071365",
+            "pac_name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF LA",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00099267",
+            "pac_name": "TEXAS DEMOCRATIC PARTY",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00105973",
+            "pac_name": "UTAH STATE DEMOCRATIC COMMITTEE",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00135558",
+            "pac_name": "MISSOURI DEMOCRATIC STATE COMMITTEE (FEDERAL)",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00136200",
+            "pac_name": "RHODE ISLAND DEMOCRATIC STATE COMMITTEE",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00149641",
+            "pac_name": "MISSISSIPPI DEMOCRATIC PARTY",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00161810",
+            "pac_name": "DEMOCRATIC PARTY OF NEW MEXICO - FEDERAL",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00190934",
+            "pac_name": "OKLAHOMA DEMOCRATIC PARTY",
+            "total_amt": 44500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003988",
+            "pac_name": "NEBRASKA DEMOCRATIC PARTY",
+            "total_amt": 44000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00007658",
+            "pac_name": "DEMOCRATIC PARTY OF SOUTH CAROLINA",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00019380",
+            "pac_name": "KANSAS DEMOCRATIC PARTY- FEDERAL",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00024372",
+            "pac_name": "DEMOCRATIC PARTY OF ARKANSAS",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00035600",
+            "pac_name": "IOWA DEMOCRATIC PARTY",
+            "total_amt": 44000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00108613",
+            "pac_name": "INDIANA DEMOCRATIC CONGRESSIONAL VICTORY COMMITTEE",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00160937",
+            "pac_name": "SOUTH DAKOTA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00162578",
+            "pac_name": "W VA STATE DEMOCRATIC EX COM",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00167346",
+            "pac_name": "TENNESSEE DEMOCRATIC PARTY",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00191247",
+            "pac_name": "ALASKA DEMOCRATIC PARTY",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00212787",
+            "pac_name": "DEMOCRATIC PARTY OF HAWAII",
+            "total_amt": 44000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00005173",
+            "pac_name": "STATE DEMOCRATIC EXECUTIVE COMMITTEE OF ALABAMA",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00005561",
+            "pac_name": "DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00010439",
+            "pac_name": "IDAHO STATE DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00019331",
+            "pac_name": "DEMOCRATIC PARTY OF WISCONSIN FEDERAL",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00024679",
+            "pac_name": "VERMONT DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00089243",
+            "pac_name": "MASSACHUSETTS DEMOCRATIC STATE COMMITTEE - FED FUND",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00114439",
+            "pac_name": "WASHINGTON STATE DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00141812",
+            "pac_name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00143230",
+            "pac_name": "NEW YORK STATE DEMOCRATIC COMMITTEE",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00161786",
+            "pac_name": "FEDERAL: COLORADO DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00167015",
+            "pac_name": "DEMOCRATIC PARTY OF ILLINOIS",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00167130",
+            "pac_name": "PENNSYLVANIA DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00167320",
+            "pac_name": "CONNECTICUT DEMOCRATIC STATE CENTRAL COMMITTEE",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00178038",
+            "pac_name": "NEW HAMPSHIRE DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00179408",
+            "pac_name": "MAINE DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00188367",
+            "pac_name": "DEMOCRATIC PARTY OF OREGON",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00208991",
+            "pac_name": "NEVADA STATE DEMOCRATIC PARTY",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00295964",
+            "pac_name": "DC DEMOCRATIC STATE COMMITTEE",
+            "total_amt": 43500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00730754",
+            "pac_name": "DEMOCRATIC PARTY OF PUERTO RICO",
+            "total_amt": 43000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00817478",
+            "pac_name": "DEMOCRATIC PARTY OF GUAM",
+            "total_amt": 43000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00850065",
+            "pac_name": "DEMOCRATIC PARTY OF THE NORTHERN MARIANAS",
+            "total_amt": 43000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00894238",
+            "pac_name": "AMERICAN SAMOA DEMOCRATIC PARTY",
+            "total_amt": 43000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00908343",
+            "pac_name": "DEMOCRATIC PARTY OF THE US VIRGIN ISLANDS",
+            "total_amt": 43000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00011197",
+            "pac_name": "KENTUCKY STATE DEMOCRATIC CENTRAL EXECUTIVE COMMITTEE",
+            "total_amt": 39500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00155952",
+            "pac_name": "DEMOCRATIC PARTY OF VIRGINIA",
+            "total_amt": 38000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 34500.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00104471",
+            "pac_name": "NEW JERSEY DEMOCRATIC STATE COMMITTEE",
+            "total_amt": 34500.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00658476"
+}

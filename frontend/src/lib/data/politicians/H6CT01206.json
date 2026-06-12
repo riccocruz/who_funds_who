@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BRONIN, LUKE",
+        "party": "DEM",
+        "state": "CT",
+        "indiv_total": 2292907.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1381,
+        "oos_donors": 561,
+        "oos_total": 977520.0
+    },
+    "opposition": []
+}

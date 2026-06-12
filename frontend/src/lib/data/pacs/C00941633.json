@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "THE MONTANA WAY PAC",
+        "committee_type": "N",
+        "total_receipts": 11150.0,
+        "indiv_contrib": 8150.0,
+        "total_spent": 10517.0,
+        "cash_on_hand": 633.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [
+        {
+            "cand_id": null,
+            "cand_name": "BRISCOE CAIN FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00731000",
+            "pac_name": "AIRBNB INC. PAC (AIRBNB PAC)",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00941633"
+}

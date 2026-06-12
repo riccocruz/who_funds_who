@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CHAPIN, DOUG",
+        "party": "DFL",
+        "state": "MN",
+        "indiv_total": 162405.0,
+        "pac_receipts_summary": 3190.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00887174",
+            "pac_name": "BLUE VISION",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 48,
+        "oos_donors": 32,
+        "oos_total": 27032.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "CLEAR VOICE MINNESOTA",
+        "committee_type": "O",
+        "total_receipts": 245625.0,
+        "indiv_contrib": 215625.0,
+        "total_spent": 191198.0,
+        "cash_on_hand": 54427.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 54000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 54000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6MN00499",
+            "pac_name": "THE NEW MEDIA FIRM, INC.",
+            "total_amt": 96000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6MN00440",
+            "pac_name": "THE NEW MEDIA FIRM, INC.",
+            "total_amt": 54000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00912477"
+}

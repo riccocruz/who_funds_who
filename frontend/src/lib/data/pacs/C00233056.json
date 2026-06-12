@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "AUTOZONE INC COMMITTEE FOR BETTER GOVERNMENT",
+        "committee_type": "Q",
+        "total_receipts": 16209.0,
+        "indiv_contrib": 16209.0,
+        "total_spent": 18500.0,
+        "cash_on_hand": 138707.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TN07103",
+            "cand_name": "KUSTOFF, DAVID",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN09068",
+            "cand_name": "COHEN, STEVE I MR.",
+            "party": "DEM",
+            "state": "TN",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00250753",
+            "pac_name": "AUTO CARE ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00375758",
+            "pac_name": "TAYLOR, BRENT",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00233056"
+}

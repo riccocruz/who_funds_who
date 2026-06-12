@@ -1,0 +1,70 @@
+{
+    "pac": {
+        "name": "TORCHLIGHT PAC",
+        "committee_type": "N",
+        "total_receipts": 1106329.0,
+        "indiv_contrib": 1063329.0,
+        "total_spent": 1005236.0,
+        "cash_on_hand": 101093.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NY07164",
+            "cand_name": "REYNOSO, ANTONIO",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00547356",
+            "pac_name": "INLAND EMPIRE STRIKES PAC; THE",
+            "total_amt": 7500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00772848",
+            "pac_name": "NO VOTE LEFT BEHIND PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00785899",
+            "pac_name": "EQUALITY PROJECT PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00892216",
+            "pac_name": "RESISTANCE PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00913012",
+            "pac_name": "DEMOCRATIC ACTION NETWORK",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00829895",
+            "pac_name": "TAKE BACK THE HOUSE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00866640",
+            "pac_name": "RESOLUTE COURAGE PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00922617"
+}

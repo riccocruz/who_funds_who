@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "THE MILLS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 197300.0,
+        "indiv_contrib": 194800.0,
+        "total_spent": 187006.0,
+        "cash_on_hand": 10644.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00778449",
+            "pac_name": "RESTORE AMERICA'S VOICE PAC",
+            "total_amt": 11500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 8000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00819854",
+            "pac_name": "EL SUENO AMERICANO",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00824698"
+}

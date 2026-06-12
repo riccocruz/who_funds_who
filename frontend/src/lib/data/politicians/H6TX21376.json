@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "TRAINOR, JAMES E III",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 143347.0,
+        "pac_receipts_summary": 8000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00810051",
+            "pac_name": "STAND FOR FREEDOM PAC",
+            "total_amt": 20000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 20000.0
+        },
+        {
+            "cmte_id": "C00692087",
+            "pac_name": "VICTORY AND NATION PAC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 102,
+        "oos_donors": 25,
+        "oos_total": 36429.0
+    },
+    "opposition": []
+}

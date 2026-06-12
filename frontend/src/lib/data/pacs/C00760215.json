@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "MANN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 671900.0,
+        "indiv_contrib": 670900.0,
+        "total_spent": 657267.0,
+        "cash_on_hand": 17111.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00758433",
+            "pac_name": "GREAT PLAINS PAC",
+            "total_amt": 101783.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 86824.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00921395",
+            "pac_name": "SELECTQUOTE POLITICAL ACTION COMMITTEE (SQ PAC)",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00760215"
+}

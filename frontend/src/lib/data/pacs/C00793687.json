@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "DEMOCRACY ON THE LINE",
+        "committee_type": "V",
+        "total_receipts": 138803.0,
+        "indiv_contrib": 138803.0,
+        "total_spent": 113967.0,
+        "cash_on_hand": 46254.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ01298",
+            "cand_name": "TREBLE, JONATHAN",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00793687"
+}

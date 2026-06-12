@@ -1,0 +1,58 @@
+{
+    "politician": {
+        "cand_name": "ABUGHAZALEH, KATHERINE M.",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 4055759.0,
+        "pac_receipts_summary": 12417.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 19926.0,
+            "direct_amt": 14926.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00937888",
+            "pac_name": "PEACE, ACCOUNTABILITY, AND LEADERSHIP POLITICAL ACTION COMMITTEE",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00686832",
+            "pac_name": "WAY TO LEAD PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00674697",
+            "pac_name": "SUNRISE PAC",
+            "total_amt": 616.0,
+            "direct_amt": 616.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00264689",
+            "pac_name": "ILLINOIS POLITICAL ACTIVE LETTER CARRIERS",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 2783,
+        "oos_donors": 2163,
+        "oos_total": 1034677.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00935809",
+            "pac_name": "CHICAGO PROGRESSIVE PARTNERSHIP",
+            "total_amt": 1183677.0
+        }
+    ]
+}

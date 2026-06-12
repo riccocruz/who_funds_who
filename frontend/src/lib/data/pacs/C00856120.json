@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "KARI LAKE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 141569.0,
+        "indiv_contrib": 14367.0,
+        "total_spent": 67877.0,
+        "cash_on_hand": 132786.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00856104",
+            "pac_name": "KEEP AMERICA RED INDEFINITELY PAC",
+            "total_amt": 23304.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00008227",
+            "pac_name": "REPUBLICAN PARTY OF ARIZONA, LLC",
+            "total_amt": 13384.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00856120"
+}

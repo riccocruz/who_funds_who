@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PARSI, AHSAN",
+        "party": "DEM",
+        "state": "WV",
+        "indiv_total": 76224.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00742429",
+            "pac_name": "WV CAN'T WAIT ACTION COMMITTEE",
+            "total_amt": 44.0,
+            "direct_amt": 44.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 83,
+        "oos_donors": 34,
+        "oos_total": 24550.0
+    },
+    "opposition": []
+}

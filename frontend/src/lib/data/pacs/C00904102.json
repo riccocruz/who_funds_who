@@ -1,0 +1,54 @@
+{
+    "pac": {
+        "name": "BOLD ACTION PAC",
+        "committee_type": "N",
+        "total_receipts": 49597.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 49369.0,
+        "cash_on_hand": 228.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6WA03275",
+            "cand_name": "BRAUN, JOHN",
+            "party": "REP",
+            "state": "WA",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY19268",
+            "cand_name": "OBERACKER, PETER KARL JR",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NY03304",
+            "cand_name": "LIPETRI, MIKE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00904110",
+            "pac_name": "LEPAGE VICTORY FUND",
+            "total_amt": 34395.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00904102"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "HARDWORKING AMERICANS INC.",
+        "committee_type": "O",
+        "total_receipts": 2572608.0,
+        "indiv_contrib": 1392608.0,
+        "total_spent": 2940465.0,
+        "cash_on_hand": 464507.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6GA00408",
+            "cand_name": "DOOLEY, DEREK",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1396282.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1396282.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6GA00408",
+            "pac_name": "APEX STRATEGIES",
+            "total_amt": 1396282.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "APEX STRATEGIES",
+            "total_amt": 53672.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00828608"
+}

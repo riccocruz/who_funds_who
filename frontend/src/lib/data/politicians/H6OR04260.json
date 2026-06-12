@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "DESPAIN, MONIQUE",
+        "party": "REP",
+        "state": "OR",
+        "indiv_total": 230469.0,
+        "pac_receipts_summary": 15250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00493221",
+            "pac_name": "THE GUARDIAN FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685115",
+            "pac_name": "GROWING OUR OWN DYNAMIC ECONOMY NOW",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00940122",
+            "pac_name": "TIMBERLINE PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 62,
+        "oos_donors": 7,
+        "oos_total": 8530.0
+    },
+    "opposition": []
+}

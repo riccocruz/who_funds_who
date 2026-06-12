@@ -1,0 +1,80 @@
+{
+    "pac": {
+        "name": "DEMOCRACY MOBILIZATION PROJECT PAC (DMP)",
+        "committee_type": "N",
+        "total_receipts": 676090.0,
+        "indiv_contrib": 395428.0,
+        "total_spent": 603473.0,
+        "cash_on_hand": 47339.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6RI00221",
+            "cand_name": "WHITEHOUSE, SHELDON",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NV04020",
+            "cand_name": "LEE, SUSIE",
+            "party": "DEM",
+            "state": "NV",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL04179",
+            "cand_name": "MACIAS, MAYRA",
+            "party": "IND",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL27072",
+            "cand_name": "PEGUERO, ROBIN",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06399",
+            "cand_name": "JENKINS, JENNIFER",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00875203",
+            "pac_name": "2024 GREEN SENATE",
+            "total_amt": 551.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00873737",
+            "pac_name": "MAJORITY 2024",
+            "total_amt": 77.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00848648"
+}

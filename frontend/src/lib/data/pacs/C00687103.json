@@ -1,0 +1,104 @@
+{
+    "pac": {
+        "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+        "committee_type": "V",
+        "total_receipts": 36115689.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 8890379.0,
+        "cash_on_hand": 31185777.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00415",
+            "cand_name": "WHATLEY, MICHAEL",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 1823771.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1823771.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MI00595",
+            "cand_name": "ROGERS, MICHAEL J",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 558862.0,
+            "direct_amt": 0.0,
+            "ie_amt": 558862.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NH00208",
+            "cand_name": "SUNUNU, JOHN E",
+            "party": "REP",
+            "state": "NH",
+            "total_amt": 266000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 266000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 166596.0,
+            "direct_amt": 0.0,
+            "ie_amt": 166596.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX34080",
+            "cand_name": "FLORES, ERIC",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3247.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3247.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6NC00415",
+            "pac_name": "IN PURSUIT OF LLC",
+            "total_amt": 1823771.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "S4MI00595",
+            "pac_name": "IN PURSUIT OF LLC",
+            "total_amt": 558862.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6NH00208",
+            "pac_name": "IN PURSUIT OF LLC",
+            "total_amt": 266000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "AMERICANS FOR PROSPERITY",
+            "total_amt": 166596.0,
+            "tx_count": 18
+        },
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "IN PURSUIT OF LLC",
+            "total_amt": 64000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX34080",
+            "pac_name": "PEOPLE WHO THINK",
+            "total_amt": 3247.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00687103"
+}

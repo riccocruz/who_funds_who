@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "JASSER, M. ZUHDI",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 434912.0,
+        "pac_receipts_summary": 5000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00255752",
+            "pac_name": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS POLITICAL ACTION COMMITTEE (ASA PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 251,
+        "oos_donors": 50,
+        "oos_total": 46171.0
+    },
+    "opposition": []
+}

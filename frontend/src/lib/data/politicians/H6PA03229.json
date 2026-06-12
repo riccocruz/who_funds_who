@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CEPHAS, MORGAN",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 292221.0,
+        "pac_receipts_summary": 21700.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00153577",
+            "pac_name": "ERIE INDEMNITY COMPANY PAC - FEDERAL",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 395,
+        "oos_donors": 64,
+        "oos_total": 58635.0
+    },
+    "opposition": []
+}

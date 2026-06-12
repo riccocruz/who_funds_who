@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GUY, TONY",
+        "party": "REP",
+        "state": "PA",
+        "indiv_total": 51928.0,
+        "pac_receipts_summary": 2600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00943472",
+            "pac_name": "KEYSTONE FEDERAL PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 4,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

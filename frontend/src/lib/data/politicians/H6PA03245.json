@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "STANFORD, ALA DR.",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 474353.0,
+        "pac_receipts_summary": 32000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00167130",
+            "pac_name": "PENNSYLVANIA DEMOCRATIC PARTY",
+            "total_amt": 6005.0,
+            "direct_amt": 6005.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00364133",
+            "pac_name": "DUANE MORRIS GOVERNMENT COMMITTEE",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00113803",
+            "pac_name": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC POLITICAL ACTION COMMITTEE",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00312777",
+            "pac_name": "COZEN O'CONNOR POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00546119",
+            "pac_name": "SELECT MEDICAL CORPORATION PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 112,
+        "oos_donors": 35,
+        "oos_total": 73540.0
+    },
+    "opposition": []
+}

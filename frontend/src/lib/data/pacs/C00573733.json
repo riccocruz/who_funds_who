@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "SECURITY IS STRENGTH PAC",
+        "committee_type": "O",
+        "total_receipts": 5055248.0,
+        "indiv_contrib": 4922000.0,
+        "total_spent": 2000387.0,
+        "cash_on_hand": 3785387.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "P60007697",
+            "cand_name": "UPT STRATEGIES LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 1484870.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1484870.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0SC00149",
+            "cand_name": "GRAHAM, LINDSEY O.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 357106.0,
+            "direct_amt": 0.0,
+            "ie_amt": 357106.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P60007697",
+            "pac_name": "BISHOP STRATEGY",
+            "total_amt": 1484870.0,
+            "tx_count": 23
+        },
+        {
+            "cmte_id": "S0SC00149",
+            "pac_name": "META PLATFORMS, INC",
+            "total_amt": 357106.0,
+            "tx_count": 11
+        }
+    ],
+    "cmte_id": "C00573733"
+}

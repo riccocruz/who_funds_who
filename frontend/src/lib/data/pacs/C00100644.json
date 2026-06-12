@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "RIVERSIDE COUNTY REPUBLICAN CENTRAL COMMITTEE (FED)",
+        "committee_type": "Y",
+        "total_receipts": 53730.0,
+        "indiv_contrib": 40170.0,
+        "total_spent": 57261.0,
+        "cash_on_hand": 10185.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00140590",
+            "pac_name": "CALIFORNIA REPUBLICAN PARTY FEDERAL ACCT.",
+            "total_amt": 2470.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00390161",
+            "pac_name": "EUREKA POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00100644"
+}

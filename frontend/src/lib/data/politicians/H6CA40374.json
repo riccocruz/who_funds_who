@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MEADE, PERRY",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 275079.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00461418",
+            "pac_name": "NATIONAL UNION OF HEALTHCARE WORKERS FEDERAL COMMITTEE ON POLITICAL EDUCATION",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 105,
+        "oos_donors": 24,
+        "oos_total": 93577.0
+    },
+    "opposition": []
+}

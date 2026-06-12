@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "RABB, CHRISTOPHER M.",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 923437.0,
+        "pac_receipts_summary": 43950.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00902189",
+            "pac_name": "FREEDOM PA",
+            "total_amt": 11878.0,
+            "direct_amt": 0.0,
+            "ie_amt": 11878.0
+        },
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00943217",
+            "pac_name": "PA COMMUNITY PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00564260",
+            "pac_name": "CLEAN PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 676,
+        "oos_donors": 324,
+        "oos_total": 435528.0
+    },
+    "opposition": []
+}

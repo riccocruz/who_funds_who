@@ -1,0 +1,86 @@
+{
+    "pac": {
+        "name": "TZEDEK PAC",
+        "committee_type": "W",
+        "total_receipts": 23752.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 74371.0,
+        "cash_on_hand": 576544.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IA03119",
+            "cand_name": "NUNN, ZACH",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0SC00149",
+            "cand_name": "GRAHAM, LINDSEY O.",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 7000.0,
+            "direct_amt": 7000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NY01190",
+            "cand_name": "NICK, LALOTA",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00894360",
+            "pac_name": "TEAM FINE",
+            "total_amt": 19000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00815134",
+            "pac_name": "FETTERMAN VICTORY FUND",
+            "total_amt": 8400.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00827519",
+            "pac_name": "TOMORROW IS MEANINGFUL PAC - FEDERAL",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00770511"
+}

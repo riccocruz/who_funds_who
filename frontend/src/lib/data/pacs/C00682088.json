@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "KIM VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 683056.0,
+        "indiv_contrib": 681156.0,
+        "total_spent": 661374.0,
+        "cash_on_hand": 31124.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00683508",
+            "pac_name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+            "total_amt": 74596.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 15666.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00682088"
+}

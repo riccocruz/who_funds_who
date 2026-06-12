@@ -1,0 +1,59 @@
+{
+    "pac": {
+        "name": "FIRST STATE VICTORY FUND 2026",
+        "committee_type": "N",
+        "total_receipts": 419650.0,
+        "indiv_contrib": 402650.0,
+        "total_spent": 366361.0,
+        "cash_on_hand": 53289.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00211763",
+            "pac_name": "DEMOCRATIC STATE COMMITTEE (DELAWARE)",
+            "total_amt": 43000.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00493700",
+            "pac_name": "BLUE HEN FEDERAL PAC",
+            "total_amt": 29250.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00757898",
+            "pac_name": "CLARK STREET ASSOCIATES LLC PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00341271",
+            "pac_name": "DAY & ZIMMERMANN INC FEDERAL PAC (AKA 'DAYPAC - FEDERAL')",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00636753",
+            "pac_name": "ACADEMY OF RAIL LABOR ATTORNEYS POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00695254",
+            "pac_name": "BALLARD SPAHR LLP PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00905059",
+            "pac_name": "REVEAL TECHNOLOGY, INC. PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00903658"
+}

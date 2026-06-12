@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "NCHA, INC. POLITICAL ACTION COMMITTEE - FEDERAL",
+        "committee_type": "N",
+        "total_receipts": 67100.0,
+        "indiv_contrib": 67100.0,
+        "total_spent": 47989.0,
+        "cash_on_hand": 24865.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00106146",
+            "pac_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "total_amt": 46000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00194647"
+}

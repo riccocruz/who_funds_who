@@ -1,0 +1,53 @@
+{
+    "pac": {
+        "name": "ISSA VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 1229430.0,
+        "indiv_contrib": 1148430.0,
+        "total_spent": 1275485.0,
+        "cash_on_hand": 10263.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00350520",
+            "pac_name": "ISSA FOR CONGRESS",
+            "total_amt": 480146.0,
+            "tx_count": 20
+        },
+        {
+            "cmte_id": "C00002931",
+            "pac_name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE",
+            "total_amt": 354861.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00450320",
+            "pac_name": "INVEST IN A STRONG AND SECURE AMERICA",
+            "total_amt": 100373.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00452581",
+            "pac_name": "COPART INC POLITICAL ACTION COMMITTEE (COPART PAC)",
+            "total_amt": 75000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00741355",
+            "pac_name": "MAJORITY PAC",
+            "total_amt": 50496.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00808253",
+            "pac_name": "CALIFORNIANS FOR FREEDOM",
+            "total_amt": 6000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00725747"
+}

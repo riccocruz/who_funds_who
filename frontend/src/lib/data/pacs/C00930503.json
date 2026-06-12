@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "PUBLIC FIRST",
+        "committee_type": "O",
+        "total_receipts": 1500300.0,
+        "indiv_contrib": 500300.0,
+        "total_spent": 1054458.0,
+        "cash_on_hand": 445842.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00928374",
+            "pac_name": "JOBS AND DEMOCRACY PAC",
+            "total_amt": 740000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00928390",
+            "pac_name": "DEFENDING OUR VALUES PAC",
+            "total_amt": 300000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00930503"
+}

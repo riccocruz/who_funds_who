@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SHEEPDOG PAC",
+        "committee_type": "V",
+        "total_receipts": 214874.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 106760.0,
+        "cash_on_hand": 108114.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00915132",
+            "pac_name": "ADAM SCHWARZE VICTORY FUND",
+            "total_amt": 14857.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00001313",
+            "pac_name": "REPUBLICAN PARTY OF MINNESOTA - FEDERAL",
+            "total_amt": 1200.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00896548"
+}

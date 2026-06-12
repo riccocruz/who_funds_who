@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "FIGHT FOR KENTUCKY",
+        "committee_type": "O",
+        "total_receipts": 14215698.0,
+        "indiv_contrib": 13174961.0,
+        "total_spent": 14097016.0,
+        "cash_on_hand": 118682.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00302",
+            "cand_name": "MORRIS, NATE",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 9592942.0,
+            "direct_amt": 0.0,
+            "ie_amt": 9592942.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "4TH AVENUE STRATEGIES",
+            "total_amt": 9592942.0,
+            "tx_count": 17
+        },
+        {
+            "cmte_id": "S6KY00286",
+            "pac_name": "4TH AVENUE STRATEGIES",
+            "total_amt": 3841708.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00932525",
+            "pac_name": "TEAM MORRIS",
+            "total_amt": 40736.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00898130"
+}

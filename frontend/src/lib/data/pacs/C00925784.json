@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "POLITICAL INTEGRITY PAC",
+        "committee_type": "V",
+        "total_receipts": 92263.0,
+        "indiv_contrib": 55818.0,
+        "total_spent": 22390.0,
+        "cash_on_hand": 69873.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00728360",
+            "pac_name": "MOVEMENT VOTER PAC",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00925784"
+}

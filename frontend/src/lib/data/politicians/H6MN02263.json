@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PRATT, ERIC",
+        "party": "REP",
+        "state": "MN",
+        "indiv_total": 151926.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00022343",
+            "pac_name": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 139,
+        "oos_donors": 11,
+        "oos_total": 8913.0
+    },
+    "opposition": []
+}

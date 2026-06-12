@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "FRIX, AVERY",
+        "party": "REP",
+        "state": "OK",
+        "indiv_total": 38150.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00281717",
+            "pac_name": "AMERICAN TRAFFIC SAFETY SERVICES ASSOCIATION PAC",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 22,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

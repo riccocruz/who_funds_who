@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HALE, ALEXANDER",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 55641.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00510016",
+            "pac_name": "TARGA RESOURCES CORP. FEDERAL PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 48,
+        "oos_donors": 7,
+        "oos_total": 6010.0
+    },
+    "opposition": []
+}

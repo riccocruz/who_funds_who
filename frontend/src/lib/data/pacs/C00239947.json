@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "CAESARS ENTERTAINMENT, INC. POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 15000.0,
+        "indiv_contrib": 15000.0,
+        "total_spent": 22000.0,
+        "cash_on_hand": 8133.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NJ02166",
+            "cand_name": "VAN DREW, JEFF MR",
+            "party": "REP",
+            "state": "NJ",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NV02395",
+            "cand_name": "AMODEI, MARK EUGENE",
+            "party": "REP",
+            "state": "NV",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00239947"
+}

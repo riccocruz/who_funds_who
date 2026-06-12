@@ -1,0 +1,58 @@
+{
+    "pac": {
+        "name": "DESOTO COUNTY DEMOCRATIC EXECUTIVE COMMITTEE",
+        "committee_type": "X",
+        "total_receipts": 90697.0,
+        "indiv_contrib": 24330.0,
+        "total_spent": 83886.0,
+        "cash_on_hand": 8242.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S8MS00287",
+            "cand_name": "ESPY, MICHAEL",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 100.0,
+            "direct_amt": 100.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00693515",
+            "pac_name": "FAIR FIGHT",
+            "total_amt": 49200.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00835587",
+            "pac_name": "VOTE SAVE AMERICA",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00543504",
+            "pac_name": "GROUNDWORK PROJECT PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00850750",
+            "pac_name": "CONTEST EVERY RACE PAC",
+            "total_amt": 1780.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00149641",
+            "pac_name": "MISSISSIPPI DEMOCRATIC PARTY",
+            "total_amt": 35.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00931220"
+}

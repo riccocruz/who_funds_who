@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "KINGS COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 75340.0,
+        "indiv_contrib": 68750.0,
+        "total_spent": 63537.0,
+        "cash_on_hand": 16936.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00527747",
+            "pac_name": "TULARE COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 2622.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00409359",
+            "pac_name": "SAN MATEO COUNTY DEMOCRATIC CENTRAL COMMITTEE-FEDERAL",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00788190"
+}

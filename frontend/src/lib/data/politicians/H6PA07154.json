@@ -1,0 +1,122 @@
+{
+    "politician": {
+        "cand_name": "OBANDO-DERSTINE, CAROL",
+        "party": "DEM",
+        "state": "PA",
+        "indiv_total": 463342.0,
+        "pac_receipts_summary": 51335.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00776310",
+            "pac_name": "WE INVEST IN LIVES AND DREAMS PAC",
+            "total_amt": 6684.0,
+            "direct_amt": 6684.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 5396.0,
+            "direct_amt": 5396.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00365536",
+            "pac_name": "CHC BOLD PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00633248",
+            "pac_name": "314 ACTION FUND",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685297",
+            "pac_name": "ELECT DEMOCRATIC WOMEN",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00658567",
+            "pac_name": "CAROL FOR PA",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00894881",
+            "pac_name": "DEMOCRATS WIN FUND",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00423079",
+            "pac_name": "DEMOCRATS RESHAPING AMERICA (DREAMPAC)",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00452276",
+            "pac_name": "PODER PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00651042",
+            "pac_name": "MOMS FED UP",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00784371",
+            "pac_name": "CAROL FOR PA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00577353",
+            "pac_name": "CAROL FOR PA",
+            "total_amt": 1150.0,
+            "direct_amt": 1150.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00545137",
+            "pac_name": "LEADERSHIP OPPORTUNITY INNOVATION SERVICE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00562777",
+            "pac_name": "LATINO VICTORY FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00569871",
+            "pac_name": "DOING RIGHT - RESULTS ACTION UNITY LEADERSHIP PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 354,
+        "oos_donors": 108,
+        "oos_total": 86715.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "GRANTHAM, TRAVIS W.",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 351545.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00028787",
+            "pac_name": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00647420",
+            "pac_name": "BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 248,
+        "oos_donors": 127,
+        "oos_total": 69070.0
+    },
+    "opposition": []
+}

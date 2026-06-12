@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "CMR POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 53833.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 363107.0,
+        "cash_on_hand": 177462.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6GA00374",
+            "cand_name": "CARTER, EARL LEROY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 1500.0,
+            "direct_amt": 1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00031088",
+            "pac_name": "WASHINGTON STATE REPUBLICAN PARTY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00469429"
+}

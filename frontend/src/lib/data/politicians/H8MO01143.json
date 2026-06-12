@@ -1,0 +1,58 @@
+{
+    "politician": {
+        "cand_name": "BUSH, CORI",
+        "party": "DEM",
+        "state": "MO",
+        "indiv_total": 821756.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 14879.0,
+            "direct_amt": 0.0,
+            "ie_amt": 14879.0
+        },
+        {
+            "cmte_id": "C00630665",
+            "pac_name": "JUSTICE DEMOCRATS PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00881011",
+            "pac_name": "UNITY & JUSTICE FUND",
+            "total_amt": 1683.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1683.0
+        },
+        {
+            "cmte_id": "C00776419",
+            "pac_name": "THE PEOPLE UNITED PAC",
+            "total_amt": 175.0,
+            "direct_amt": 0.0,
+            "ie_amt": 175.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 399,
+        "oos_donors": 358,
+        "oos_total": 554788.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00799031",
+            "pac_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+            "total_amt": -22643.0
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "MCDONALD HOPKINS LLC PAC",
+        "committee_type": "Q",
+        "total_receipts": 36522.0,
+        "indiv_contrib": 36522.0,
+        "total_spent": 36290.0,
+        "cash_on_hand": 56607.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6IL00482",
+            "cand_name": "KRISHNAMOORTHI, S",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1750.0,
+            "direct_amt": 1750.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OH11169",
+            "cand_name": "BROWN, M SHONTEL",
+            "party": "DEM",
+            "state": "OH",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00394460"
+}

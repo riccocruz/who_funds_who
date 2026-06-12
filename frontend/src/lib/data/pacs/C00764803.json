@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM BOEBERT JOINT FUNDRAISING COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 126275.0,
+        "indiv_contrib": 126275.0,
+        "total_spent": 150045.0,
+        "cash_on_hand": 16406.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00764795",
+            "pac_name": "WE THE PEOPLE LEADERSHIP PAC",
+            "total_amt": 8760.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 4523.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00764803"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FLORIDA FIRST PAC",
+        "committee_type": "N",
+        "total_receipts": 44228.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 6544.0,
+        "cash_on_hand": 37683.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00900464",
+            "pac_name": "THE GREAT GULF OF AMERICA FUND",
+            "total_amt": 34220.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00030718",
+            "pac_name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00898734"
+}

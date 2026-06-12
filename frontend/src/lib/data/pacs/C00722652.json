@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "MACKINAC ISLAND TOURISM BUREAU POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 11000.0,
+        "indiv_contrib": 4500.0,
+        "total_spent": 10000.0,
+        "cash_on_hand": 25238.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H0MI10287",
+            "cand_name": "MCCLAIN, LISA",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MI00355",
+            "cand_name": "PETERS, GARY",
+            "party": "DEM",
+            "state": "MI",
+            "total_amt": -1500.0,
+            "direct_amt": -1500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00722652"
+}

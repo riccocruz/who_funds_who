@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "LAROSE, FRANK",
+        "party": "REP",
+        "state": "OH",
+        "indiv_total": 1500.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00001016",
+            "pac_name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00065870",
+            "pac_name": "POLITICAL EDUCATION PATTERNS POLITICAL ARM INTL UNION OPERATING ENG LOCAL 18",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 1,
+        "oos_donors": 0,
+        "oos_total": 0.0
+    },
+    "opposition": []
+}

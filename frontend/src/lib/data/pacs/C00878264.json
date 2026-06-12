@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "CONSERVATIVE FUTURE FUND",
+        "committee_type": "O",
+        "total_receipts": 771450.0,
+        "indiv_contrib": 341450.0,
+        "total_spent": 2044160.0,
+        "cash_on_hand": 42039.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1154855.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1154855.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2TX31044",
+            "cand_name": "CARTER, JOHN R REP.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 55000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 55000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "CALIBER CONTACT",
+            "total_amt": 1154855.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00904730",
+            "pac_name": "LAND I LOVE PAC",
+            "total_amt": 317733.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2TX31044",
+            "pac_name": "ONMESSAGE INC.",
+            "total_amt": 55000.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00878264"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "TUCSON FAMILIES FED UP PAC",
+        "committee_type": "O",
+        "total_receipts": 35095.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 33918.0,
+        "cash_on_hand": 1178.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6AZ07139",
+            "cand_name": "OPERANA-FOXX, DEJA CHERISE",
+            "party": "DEM",
+            "state": "AZ",
+            "total_amt": 24788.0,
+            "direct_amt": 0.0,
+            "ie_amt": 24788.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6AZ07121",
+            "pac_name": "PINWHEEL PRODUCTIONS",
+            "total_amt": 228863.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "H6AZ07139",
+            "pac_name": "PINWHEEL PRODUCTIONS",
+            "total_amt": 24788.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00908160"
+}

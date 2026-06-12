@@ -1,0 +1,50 @@
+{
+    "pac": {
+        "name": "PAID LEAVE PAC",
+        "committee_type": "V",
+        "total_receipts": 10725.0,
+        "indiv_contrib": 10725.0,
+        "total_spent": 9030.0,
+        "cash_on_hand": 11349.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H4DE00045",
+            "cand_name": "MCBRIDE, SARAH ELIZABETH",
+            "party": "DEM",
+            "state": "DE",
+            "total_amt": 600.0,
+            "direct_amt": 600.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00853630",
+            "pac_name": "DADS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00692137",
+            "pac_name": "VOTE MAMA",
+            "total_amt": 225.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00820845"
+}

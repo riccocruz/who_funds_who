@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GOODITIS, WENDY",
+        "party": "DEM",
+        "state": "VA",
+        "indiv_total": 51710.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00853887",
+            "pac_name": "ENERGIZED FOR CHANGE FEDERAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 43,
+        "oos_donors": 7,
+        "oos_total": 5750.0
+    },
+    "opposition": []
+}

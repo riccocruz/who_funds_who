@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "BLUE SENATE CANDIDATE FUND",
+        "committee_type": "N",
+        "total_receipts": 64460.0,
+        "indiv_contrib": 64460.0,
+        "total_spent": 68003.0,
+        "cash_on_hand": 6282.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 12600.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00744540"
+}

@@ -1,0 +1,78 @@
+{
+    "pac": {
+        "name": "TURN LEFT PAC",
+        "committee_type": "V",
+        "total_receipts": 1217940.0,
+        "indiv_contrib": 27517.0,
+        "total_spent": 1188411.0,
+        "cash_on_hand": 91492.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 5150.0,
+            "direct_amt": 5150.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1394.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1394.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NC09218",
+            "cand_name": "OJEDA, RICHARD N.",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 1335.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1335.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "CAMPAIGN AD-CLOUD",
+            "total_amt": 8720.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "CAMPAIGN AD-CLOUD",
+            "total_amt": 5136.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "TRIAD",
+            "total_amt": 5000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2NC06098",
+            "pac_name": "SWITCHBOARD",
+            "total_amt": 1394.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6NC09218",
+            "pac_name": "SWITCHBOARD",
+            "total_amt": 1335.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00839894"
+}

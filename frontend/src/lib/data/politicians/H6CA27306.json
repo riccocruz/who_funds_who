@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GIBBS, JASON",
+        "party": "REP",
+        "state": "CA",
+        "indiv_total": 333899.0,
+        "pac_receipts_summary": 10000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00742346",
+            "pac_name": "GET AMERICA RIGHT: COMMUNITY IN ACTION",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 109,
+        "oos_donors": 1,
+        "oos_total": 3500.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 57 POLITICAL ACTION FUND",
+        "committee_type": "Q",
+        "total_receipts": 49259.0,
+        "indiv_contrib": 45958.0,
+        "total_spent": 15000.0,
+        "cash_on_hand": 129026.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2RI02184",
+            "cand_name": "MAGAZINER, SETH",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4RI01265",
+            "cand_name": "AMO, GABRIEL F",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00448746"
+}

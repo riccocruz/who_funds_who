@@ -1,0 +1,88 @@
+{
+    "pac": {
+        "name": "INDIVISIBLE ACTION",
+        "committee_type": "W",
+        "total_receipts": 6719839.0,
+        "indiv_contrib": 91193.0,
+        "total_spent": 4304305.0,
+        "cash_on_hand": 3976401.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07195",
+            "cand_name": "SCALE TO WIN",
+            "party": null,
+            "state": null,
+            "total_amt": 25012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 25012.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6WA07458",
+            "cand_name": "JAYAPAL, PRAMILA",
+            "party": "DEM",
+            "state": "WA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6MN00440",
+            "cand_name": "FLANAGAN, MARGARET",
+            "party": "DFL",
+            "state": "MN",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA13070",
+            "cand_name": "CLARK, JASMINE",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07195",
+            "pac_name": "LAMAR ADVERTISING",
+            "total_amt": 25012.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "S4AK00214",
+            "pac_name": "BLUE STATE DIGITAL",
+            "total_amt": 15475.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S4IA00129",
+            "pac_name": "BLUE STATE DIGITAL",
+            "total_amt": 15475.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6OH00304",
+            "pac_name": "BLUE STATE DIGITAL",
+            "total_amt": 15475.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00513176",
+            "pac_name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00678839"
+}

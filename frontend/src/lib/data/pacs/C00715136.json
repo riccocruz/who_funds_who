@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "OREGON BLUE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 82683.0,
+        "indiv_contrib": 80183.0,
+        "total_spent": 83340.0,
+        "cash_on_hand": 1984.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00188367",
+            "pac_name": "DEMOCRATIC PARTY OF OREGON",
+            "total_amt": 73000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00403592",
+            "pac_name": "NARRAGANSETT BAY PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00715136"
+}

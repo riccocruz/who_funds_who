@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "OUTRIDER PAC",
+        "committee_type": "V",
+        "total_receipts": 50000.0,
+        "indiv_contrib": 50000.0,
+        "total_spent": 110548.0,
+        "cash_on_hand": 116748.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6SC01250",
+            "cand_name": "SMITH, MARK",
+            "party": "REP",
+            "state": "SC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00934760",
+            "pac_name": "TEAM SHEAHAN",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00901983",
+            "pac_name": "WYOMING VICTORY COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00816876"
+}

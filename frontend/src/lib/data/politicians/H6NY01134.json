@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "VENTOURAS, LUKAS",
+        "party": "DEM",
+        "state": "NY",
+        "indiv_total": 96617.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00889956",
+            "pac_name": "VENTOURAS 4 US",
+            "total_amt": 239.0,
+            "direct_amt": 239.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 25,
+        "oos_donors": 9,
+        "oos_total": 5950.0
+    },
+    "opposition": []
+}

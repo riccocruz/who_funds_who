@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PLUCINSKI, GREG",
+        "party": "REP",
+        "state": "KY",
+        "indiv_total": 52608.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00732925",
+            "pac_name": "SKOL PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 17,
+        "oos_donors": 11,
+        "oos_total": 12665.0
+    },
+    "opposition": []
+}

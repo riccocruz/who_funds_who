@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "KATHERINE CLARK VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 2288250.0,
+        "indiv_contrib": 2268250.0,
+        "total_spent": 2223674.0,
+        "cash_on_hand": 69587.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 1779500.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00574970",
+            "pac_name": "FAIR SHOT PAC",
+            "total_amt": 278000.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00108035",
+            "pac_name": "MCKESSON CORPORATION EMPLOYEES POLITICAL FUND",
+            "total_amt": 20000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00831917"
+}

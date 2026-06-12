@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "RABLE, KYLE",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 19886.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00002089",
+            "pac_name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00099234",
+            "pac_name": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN PAC FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 18,
+        "oos_donors": 1,
+        "oos_total": 80.0
+    },
+    "opposition": []
+}

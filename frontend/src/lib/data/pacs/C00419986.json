@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MONTEREY COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+        "committee_type": "X",
+        "total_receipts": 39739.0,
+        "indiv_contrib": 38239.0,
+        "total_spent": 36948.0,
+        "cash_on_hand": 33748.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00866145",
+            "pac_name": "DEMOCRATIC WOMEN OF MONTEREY COUNTY",
+            "total_amt": 4500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 725.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00419986"
+}

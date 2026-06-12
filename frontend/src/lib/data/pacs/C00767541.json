@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC CLUB AT CEDAR CREST",
+        "committee_type": "N",
+        "total_receipts": 12314.0,
+        "indiv_contrib": 12314.0,
+        "total_spent": 10072.0,
+        "cash_on_hand": 5949.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S0GA00559",
+            "cand_name": "WARNOCK, RAPHAEL",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": -250.0,
+            "direct_amt": -250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00767541"
+}

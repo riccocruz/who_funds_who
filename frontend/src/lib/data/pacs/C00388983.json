@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "ARCADIS U.S. INC. POLITICAL ACTION COMMITTEE (ARCADIS PAC)",
+        "committee_type": "Q",
+        "total_receipts": 61147.0,
+        "indiv_contrib": 61147.0,
+        "total_spent": 82750.0,
+        "cash_on_hand": 9738.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010868",
+            "pac_name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+            "total_amt": 1300.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00388983"
+}

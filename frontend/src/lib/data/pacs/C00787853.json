@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BO 34 PAC",
+        "committee_type": "Q",
+        "total_receipts": 890426.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 421257.0,
+        "cash_on_hand": 4821736.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00792069",
+            "pac_name": "HERSCHEL 34 PAC",
+            "total_amt": 644225.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00824151",
+            "pac_name": "COLLINS VICTORY FUND",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00787853"
+}

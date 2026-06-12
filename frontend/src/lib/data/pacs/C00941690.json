@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "FIGHT FOR NEBRASKA PAC",
+        "committee_type": "O",
+        "total_receipts": 1562722.0,
+        "indiv_contrib": 200.0,
+        "total_spent": 1242387.0,
+        "cash_on_hand": 320335.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NE02174",
+            "cand_name": "POWELL, DENISE",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 406662.0,
+            "direct_amt": 0.0,
+            "ie_amt": 406662.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NE02174",
+            "pac_name": "PAC SERVICES LLC",
+            "total_amt": 406662.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H6NE02190",
+            "pac_name": "PAC SERVICES LLC",
+            "total_amt": 32500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 12522.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00941690"
+}

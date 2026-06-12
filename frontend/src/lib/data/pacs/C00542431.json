@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "JOHN BOLTON PAC",
+        "committee_type": "W",
+        "total_receipts": 1440653.0,
+        "indiv_contrib": 110312.0,
+        "total_spent": 797756.0,
+        "cash_on_hand": 2217715.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NY17162",
+            "cand_name": "LAWLER, MICHAEL VINCENT",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NH00166",
+            "cand_name": "BROWN, SCOTT P.",
+            "party": "REP",
+            "state": "NH",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00542431"
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HARRIS, DIOP JERMAINE MR II",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 93663.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 84,
+        "oos_donors": 29,
+        "oos_total": 17525.0
+    },
+    "opposition": []
+}

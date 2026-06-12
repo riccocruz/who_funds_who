@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "STAUBER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 89006.0,
+        "indiv_contrib": 88000.0,
+        "total_spent": 93006.0,
+        "cash_on_hand": 1000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 26000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00698092",
+            "pac_name": "LET'S ALL KEEP ELECTING REPUBLICANS PAC",
+            "total_amt": 23006.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00475350",
+            "pac_name": "DULCICH INC DBA PACIFIC SEAFOOD GROUP EMPLOYEE PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00684175"
+}

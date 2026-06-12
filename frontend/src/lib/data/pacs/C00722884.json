@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "LGBTQ CONNECTION PAC",
+        "committee_type": "O",
+        "total_receipts": 933560.0,
+        "indiv_contrib": 883560.0,
+        "total_spent": 223365.0,
+        "cash_on_hand": 725754.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 4532.0,
+            "direct_amt": 0.0,
+            "ie_amt": 4532.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00914689",
+            "pac_name": "TRUST BRIGADE",
+            "total_amt": 60000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H4CO08034",
+            "pac_name": "DE LA CRUZ, DARIUS",
+            "total_amt": 14116.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H2PA04135",
+            "pac_name": "DICAMILLO, NATHAN",
+            "total_amt": 6969.0,
+            "tx_count": 7
+        }
+    ],
+    "cmte_id": "C00722884"
+}

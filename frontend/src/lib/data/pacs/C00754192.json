@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "ORANGE COUNTY PAC",
+        "committee_type": "O",
+        "total_receipts": 54241.0,
+        "indiv_contrib": 1842.0,
+        "total_spent": 66589.0,
+        "cash_on_hand": 27457.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4CA45170",
+            "cand_name": "TRAN, DEREK",
+            "party": "DEM",
+            "state": "CA",
+            "total_amt": 5641.0,
+            "direct_amt": 0.0,
+            "ie_amt": 5641.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H4CA45170",
+            "pac_name": "PILIPINO ACTION CENTER",
+            "total_amt": 5641.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00754192"
+}

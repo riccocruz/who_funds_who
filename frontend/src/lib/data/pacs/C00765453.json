@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "SANTA CLARITA VALLEY DEMOCRATS",
+        "committee_type": "N",
+        "total_receipts": 31943.0,
+        "indiv_contrib": 31386.0,
+        "total_spent": 30952.0,
+        "cash_on_hand": 3005.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00300731",
+            "pac_name": "LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 1300.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00326751",
+            "pac_name": "DEMOCRATIC PARTY OF THE SAN FERNANDO VALLEY",
+            "total_amt": 575.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00189472",
+            "pac_name": "LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 65.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00765453"
+}

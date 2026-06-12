@@ -1,0 +1,68 @@
+{
+    "pac": {
+        "name": "DOMESTIC ENERGY PRODUCERS ALLIANCE PAC (DEPA PAC)",
+        "committee_type": "Q",
+        "total_receipts": 22350.0,
+        "indiv_contrib": 21350.0,
+        "total_spent": 7775.0,
+        "cash_on_hand": 36031.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6PA16320",
+            "cand_name": "SMUCKER, LLOYD K.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2OK02315",
+            "cand_name": "BRECHEEN, JOSH",
+            "party": "REP",
+            "state": "OK",
+            "total_amt": -1000.0,
+            "direct_amt": -1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00736975",
+            "pac_name": "HERN VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00866947",
+            "pac_name": "CORNYN LONESTAR VICTORY FUND",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00706507",
+            "pac_name": "WESTERMAN VICTORY FUND",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00884296",
+            "pac_name": "TEAM ROGERS",
+            "total_amt": 500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00873893",
+            "pac_name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
+            "total_amt": -5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00484725"
+}

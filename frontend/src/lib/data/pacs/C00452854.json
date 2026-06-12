@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "NEWAYGO COUNTY DEMOCRATIC PARTY",
+        "committee_type": "Y",
+        "total_receipts": 59285.0,
+        "indiv_contrib": 53285.0,
+        "total_spent": 42463.0,
+        "cash_on_hand": 36034.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00021824",
+            "pac_name": "2ND DISTRICT DEMOCRATIC PARTY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00306035",
+            "pac_name": "SECOND CONGRESSIONAL DISTRICT DEMOCRATIC PARTY",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00452854"
+}

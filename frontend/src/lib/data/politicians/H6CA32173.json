@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "RAKOV, JAKE",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 81440.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00892216",
+            "pac_name": "RESISTANCE PAC",
+            "total_amt": 0.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 59,
+        "oos_donors": 47,
+        "oos_total": 51999.0
+    },
+    "opposition": []
+}

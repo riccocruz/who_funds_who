@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MCINNIS, VICTOR LEE",
+        "party": "DEM",
+        "state": "AL",
+        "indiv_total": 39858.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00857342",
+            "pac_name": "LEEMCINNIS4ALABAMA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 24,
+        "oos_donors": 3,
+        "oos_total": 600.0
+    },
+    "opposition": []
+}

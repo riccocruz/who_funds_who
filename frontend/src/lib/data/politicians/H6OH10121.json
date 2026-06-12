@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KNICKERBOCKER, KRISTINA",
+        "party": "DEM",
+        "state": "OH",
+        "indiv_total": 131972.0,
+        "pac_receipts_summary": 7500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00193433",
+            "pac_name": "EMILYS LIST",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 64,
+        "oos_donors": 31,
+        "oos_total": 44250.0
+    },
+    "opposition": []
+}

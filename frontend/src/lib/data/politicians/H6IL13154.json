@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "WILSON, JEFF",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 78133.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00258855",
+            "pac_name": "WILSON FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 69,
+        "oos_donors": 4,
+        "oos_total": 2000.0
+    },
+    "opposition": []
+}

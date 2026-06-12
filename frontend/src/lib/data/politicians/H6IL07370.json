@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BOYKIN, RICHARD",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 201397.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00100107",
+            "pac_name": "AMERICAN BEVERAGE ASSOCIATION POLITICAL ACTION COMMITTEE (AKA AMERICAN BEVERAGE PAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00143560",
+            "pac_name": "ACADEMY OF NUTRITION AND DIETETICS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 135,
+        "oos_donors": 17,
+        "oos_total": 29150.0
+    },
+    "opposition": []
+}

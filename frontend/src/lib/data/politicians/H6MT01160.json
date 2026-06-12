@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "JACOBSEN, CHRISTI",
+        "party": "REP",
+        "state": "MT",
+        "indiv_total": 134561.0,
+        "pac_receipts_summary": 10500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00914366",
+            "pac_name": "NO FAIL MISSION PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00918763",
+            "pac_name": "FOREVER TEXAS PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00927871",
+            "pac_name": "DEFENSE OF FREEDOM",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 42,
+        "oos_donors": 17,
+        "oos_total": 61700.0
+    },
+    "opposition": []
+}

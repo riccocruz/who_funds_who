@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "NANCY PELOSI VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 2494879.0,
+        "indiv_contrib": 2470166.0,
+        "total_spent": 2503075.0,
+        "cash_on_hand": 1127.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 1833224.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00344234",
+            "pac_name": "PAC TO THE FUTURE",
+            "total_amt": 102139.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00492421"
+}

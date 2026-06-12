@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "RESTORATION OF AMERICA PAC",
+        "committee_type": "O",
+        "total_receipts": 41882949.0,
+        "indiv_contrib": 40721244.0,
+        "total_spent": 29322120.0,
+        "cash_on_hand": 13976422.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6KY00302",
+            "cand_name": "MORRIS, NATE",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 1659890.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1659890.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00544387",
+            "pac_name": "AMERICAN PRINCIPLES PROJECT PAC",
+            "total_amt": 3617727.0,
+            "tx_count": 15
+        },
+        {
+            "cmte_id": "C00530766",
+            "pac_name": "WOMEN SPEAK OUT PAC",
+            "total_amt": 3156190.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00559906",
+            "pac_name": "AMERICAS PAC",
+            "total_amt": 1700000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "PATCHWORK CREATIVE",
+            "total_amt": 1659890.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00749671",
+            "pac_name": "CITIZENS FOR FREE ENTERPRISE",
+            "total_amt": 1465304.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00939934",
+            "pac_name": "CATHOLIC ENGAGEMENT PAC",
+            "total_amt": 181819.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00883322",
+            "pac_name": "THE L & C COALITION",
+            "total_amt": 167000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540898",
+            "pac_name": "TEA PARTY PATRIOTS CITIZENS FUND",
+            "total_amt": 136250.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00791848",
+            "pac_name": "MOMS FOR LIBERTY ACTION",
+            "total_amt": 125000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00814624",
+            "pac_name": "ELECTION INTEGRITY PAC",
+            "total_amt": 111111.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00805283",
+            "pac_name": "FAIR COURTS AMERICA",
+            "total_amt": 100205.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00571588"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM JACKLEY",
+        "committee_type": "N",
+        "total_receipts": 32000.0,
+        "indiv_contrib": 32000.0,
+        "total_spent": 31492.0,
+        "cash_on_hand": 508.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00913020",
+            "pac_name": "SOUTH DAKOTA VALUES PAC",
+            "total_amt": 9354.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00919795",
+            "pac_name": "605 LEADERSHIP PAC",
+            "total_amt": 9354.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00919894"
+}

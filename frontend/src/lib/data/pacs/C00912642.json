@@ -1,0 +1,41 @@
+{
+    "pac": {
+        "name": "UNRIGGED PAC",
+        "committee_type": "N",
+        "total_receipts": 3186443.0,
+        "indiv_contrib": 3007267.0,
+        "total_spent": 2959487.0,
+        "cash_on_hand": 226956.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00924878",
+            "pac_name": "BEHN VICTORY FUND",
+            "total_amt": 48152.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00167346",
+            "pac_name": "TENNESSEE DEMOCRATIC PARTY",
+            "total_amt": 7000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00580068",
+            "pac_name": "PROGRESSIVE TURNOUT PROJECT",
+            "total_amt": 5000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00488387",
+            "pac_name": "TRI-STATE MAXED-OUT WOMEN",
+            "total_amt": -1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00912642"
+}

@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "NATIONAL FRATERNAL ORDER OF POLICE PAC",
+        "committee_type": "Q",
+        "total_receipts": 50360.0,
+        "indiv_contrib": 50360.0,
+        "total_spent": 4000.0,
+        "cash_on_hand": 108540.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6RI00221",
+            "cand_name": "WHITEHOUSE, SHELDON",
+            "party": "DEM",
+            "state": "RI",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00106",
+            "cand_name": "CORNYN, JOHN SEN",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00382556"
+}

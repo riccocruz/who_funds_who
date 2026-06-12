@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "COWAN VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 24000.0,
+        "indiv_contrib": 24000.0,
+        "total_spent": 22500.0,
+        "cash_on_hand": 1500.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00940635",
+            "pac_name": "BRAINDOC PAC",
+            "total_amt": 9166.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00940700"
+}

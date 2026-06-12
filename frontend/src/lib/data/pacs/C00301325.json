@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "HOSPAC - FEDERAL   THE POLITICAL ACTION COMMITTEE OF THE TEXAS HOSPITAL ASSOCIATION",
+        "committee_type": "Q",
+        "total_receipts": 101511.0,
+        "indiv_contrib": 99516.0,
+        "total_spent": 68735.0,
+        "cash_on_hand": 39016.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00106146",
+            "pac_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "total_amt": 68000.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00301325"
+}

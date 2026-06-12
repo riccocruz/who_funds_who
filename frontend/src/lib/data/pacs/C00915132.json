@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "ADAM SCHWARZE VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 69500.0,
+        "indiv_contrib": 69500.0,
+        "total_spent": 56375.0,
+        "cash_on_hand": 13125.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00914366",
+            "pac_name": "NO FAIL MISSION PAC",
+            "total_amt": 36263.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00896548",
+            "pac_name": "SHEEPDOG PAC",
+            "total_amt": 14857.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00915132"
+}

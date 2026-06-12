@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HUNTER, MARVALETTE",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 127241.0,
+        "pac_receipts_summary": 8750.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00885301",
+            "pac_name": "MARVALETTE HUNTER CAMPAIGN",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 151,
+        "oos_donors": 10,
+        "oos_total": 5400.0
+    },
+    "opposition": []
+}

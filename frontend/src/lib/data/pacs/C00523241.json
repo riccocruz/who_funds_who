@@ -1,0 +1,120 @@
+{
+    "pac": {
+        "name": "SPECIAL OPERATIONS FOR AMERICA",
+        "committee_type": "O",
+        "total_receipts": 3086266.0,
+        "indiv_contrib": 3082146.0,
+        "total_spent": 3060501.0,
+        "cash_on_hand": 46054.0
+    },
+    "stats": {
+        "candidates_funded": 6
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 111000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 111000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4NC01137",
+            "cand_name": "BUCKHOUT, LAURIE",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 65000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 65000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 60000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 60000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4CO08034",
+            "cand_name": "EVANS, TIMOTHY GABRIEL JOSEPH",
+            "party": "REP",
+            "state": "CO",
+            "total_amt": 56000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 56000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2MI07123",
+            "cand_name": "BARRETT, THOMAS MORE",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 50987.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50987.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL01390",
+            "cand_name": "PATRONIS, JIMMY JR.",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 35000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "DRAGONFLY CONSULTING",
+            "total_amt": 111000.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H4NC01137",
+            "pac_name": "VALENTINE GROUP, LLC",
+            "total_amt": 65000.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "DRAGONFLY CONSULTING",
+            "total_amt": 60000.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "H4CO08034",
+            "pac_name": "DRAGONFLY CONSULTING",
+            "total_amt": 56000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H2MI07123",
+            "pac_name": "MWPOLITICAL INC.",
+            "total_amt": 50987.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6FL01390",
+            "pac_name": "DRAGONFLY CONSULTING",
+            "total_amt": 35000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00916387",
+            "pac_name": "WARRIOR PAC",
+            "total_amt": 4090.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00523241"
+}

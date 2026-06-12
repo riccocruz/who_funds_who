@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "SALAZAR VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 1279479.0,
+        "indiv_contrib": 1277479.0,
+        "total_spent": 929459.0,
+        "cash_on_hand": 425800.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 127739.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00769695",
+            "pac_name": "FREEDOM FORCE PAC",
+            "total_amt": 51802.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00769711"
+}

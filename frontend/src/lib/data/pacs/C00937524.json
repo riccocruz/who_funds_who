@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "TEAM MIKE",
+        "committee_type": "N",
+        "total_receipts": 306882.0,
+        "indiv_contrib": 304382.0,
+        "total_spent": 281226.0,
+        "cash_on_hand": 25656.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00937508",
+            "pac_name": "PROTECT AMERICA",
+            "total_amt": 55091.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00612218",
+            "pac_name": "SUFFOLK COUNTY CORRECTION OFFICERS ASSOCIATION INC PAC",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00937524"
+}

@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "OLA PAC",
+        "committee_type": "N",
+        "total_receipts": 23397.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 7211.0,
+        "cash_on_hand": 16185.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4VA05071",
+            "cand_name": "MCGUIRE FOR VIRGINIA",
+            "party": null,
+            "state": null,
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00921023",
+            "pac_name": "OLA VICTORY FUND",
+            "total_amt": 23396.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00921015"
+}

@@ -1,0 +1,23 @@
+{
+    "pac": {
+        "name": "AMERICA VOTES POLITICAL ACTION COMMITTEE",
+        "committee_type": "V",
+        "total_receipts": 60000.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 51150.0,
+        "cash_on_hand": 8850.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6NC00449",
+            "pac_name": "DUPRE, MARGOT",
+            "total_amt": 60000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00921965"
+}

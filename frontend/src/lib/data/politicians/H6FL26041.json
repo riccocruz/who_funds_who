@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GIL, YURINA",
+        "party": "DEM",
+        "state": "FL",
+        "indiv_total": 2820.0,
+        "pac_receipts_summary": 1988.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00920306",
+            "pac_name": "YURINA GIL FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 0,
+        "oos_donors": 0,
+        "oos_total": null
+    },
+    "opposition": []
+}

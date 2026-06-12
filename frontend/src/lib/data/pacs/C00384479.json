@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC PROPERTIES CORPORATION-FEDERAL",
+        "committee_type": "Y",
+        "total_receipts": 1120704.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 4550563.0,
+        "cash_on_hand": 30308.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 792924.0,
+            "tx_count": 24
+        },
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 157988.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 150000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00384479"
+}

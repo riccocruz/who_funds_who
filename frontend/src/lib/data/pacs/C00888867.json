@@ -1,0 +1,82 @@
+{
+    "pac": {
+        "name": "LATINOS FOR CONSERVATIVE VALUES",
+        "committee_type": "O",
+        "total_receipts": 221100.0,
+        "indiv_contrib": 191100.0,
+        "total_spent": 374214.0,
+        "cash_on_hand": 24310.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H0FL13158",
+            "cand_name": "PAULINA LUNA, ANNA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 125741.0,
+            "direct_amt": 0.0,
+            "ie_amt": 125741.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8FL27185",
+            "cand_name": "SALAZAR, MARIA ELVIRA",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 71252.0,
+            "direct_amt": 0.0,
+            "ie_amt": 71252.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2FL14186",
+            "cand_name": "DONALDS, BYRON",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 56350.0,
+            "direct_amt": 0.0,
+            "ie_amt": 56350.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0FL03175",
+            "cand_name": "CAMMACK, KAT",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 30870.0,
+            "direct_amt": 0.0,
+            "ie_amt": 30870.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0FL13158",
+            "pac_name": "JARMIN, EDWARD",
+            "total_amt": 125741.0,
+            "tx_count": 12
+        },
+        {
+            "cmte_id": "H8FL27185",
+            "pac_name": "BANK OF AMERICA",
+            "total_amt": 71252.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "H2FL14186",
+            "pac_name": "BANK OF AMERICA",
+            "total_amt": 56350.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "H0FL03175",
+            "pac_name": "GRACIAS, BIANCA",
+            "total_amt": 30870.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00888867"
+}

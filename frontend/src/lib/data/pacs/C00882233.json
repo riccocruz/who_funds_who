@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC YOUTH WAVE",
+        "committee_type": "V",
+        "total_receipts": 28017.0,
+        "indiv_contrib": 440.0,
+        "total_spent": 347363.0,
+        "cash_on_hand": 1030800.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL01349",
+            "cand_name": "JACKSON, JONATHAN",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 110.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00882233"
+}

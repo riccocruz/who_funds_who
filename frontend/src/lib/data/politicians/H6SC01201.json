@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "RIVERA-VAZQUEZ, MAYRA",
+        "party": "DEM",
+        "state": "SC",
+        "indiv_total": 101676.0,
+        "pac_receipts_summary": 16000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00822833",
+            "pac_name": "DEFENDING THE AMERICAN DREAM PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00723916",
+            "pac_name": "MAYRA FOR CONGRESS",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00893982",
+            "pac_name": "POPULAR HOPE & RENEWAL PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 61,
+        "oos_donors": 29,
+        "oos_total": 20386.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "LULGJURAJ, ROBERT",
+        "party": "REP",
+        "state": "MI",
+        "indiv_total": 1205593.0,
+        "pac_receipts_summary": 5400.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00881433",
+            "pac_name": "ALBANIANS FOR AMERICA PAC",
+            "total_amt": 2800.0,
+            "direct_amt": 2800.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00279380",
+            "pac_name": "DISTRICT NO. 1-PCD, MARINE ENGINEERS' BENEFICIAL ASSOC. - POLITICAL ACTION FUND (MEBA-PAF)",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00792754",
+            "pac_name": "ROBERT LULGJURAJ FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 749,
+        "oos_donors": 223,
+        "oos_total": 239359.0
+    },
+    "opposition": []
+}

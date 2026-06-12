@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "ARIZONA BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 14361.0,
+        "indiv_contrib": 7400.0,
+        "total_spent": 18786.0,
+        "cash_on_hand": 7915.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 14000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00654590",
+            "pac_name": "PATHWARD, N.A. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00102731",
+            "pac_name": "COLORADO BANKERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 325.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00039941"
+}

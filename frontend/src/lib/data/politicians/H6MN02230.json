@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "LITTLE, MATT",
+        "party": "DFL",
+        "state": "MN",
+        "indiv_total": 551807.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00446237",
+            "pac_name": "NATIONAL NURSES UNITED PAC - A FUND FOR A HEALTHY AMERICA",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 419,
+        "oos_donors": 43,
+        "oos_total": 49987.0
+    },
+    "opposition": []
+}

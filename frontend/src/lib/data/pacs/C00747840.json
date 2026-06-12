@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "AGUILAR LEADERSHIP FUND",
+        "committee_type": "N",
+        "total_receipts": 1285896.0,
+        "indiv_contrib": 1236596.0,
+        "total_spent": 1235042.0,
+        "cash_on_hand": 55901.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000935",
+            "pac_name": "DCCC",
+            "total_amt": 445353.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00573709",
+            "pac_name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+            "total_amt": 253343.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00360669",
+            "pac_name": "SOUTHWEST AIRLINES PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE (SWAPA PAC)",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00747840"
+}

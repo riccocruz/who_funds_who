@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "LEMONDES, JOHN",
+        "party": "REP",
+        "state": "NY",
+        "indiv_total": 39497.0,
+        "pac_receipts_summary": 4025.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00635367",
+            "pac_name": "TENACIOUS PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 35,
+        "oos_donors": 7,
+        "oos_total": 12065.0
+    },
+    "opposition": []
+}

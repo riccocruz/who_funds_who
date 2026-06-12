@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "MAKE LIBERTY WIN",
+        "committee_type": "V",
+        "total_receipts": 4935750.0,
+        "indiv_contrib": 13540.0,
+        "total_spent": 2192013.0,
+        "cash_on_hand": 2771947.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2KY04121",
+            "cand_name": "MASSIE, THOMAS H.",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 518205.0,
+            "direct_amt": 0.0,
+            "ie_amt": 518205.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6GA14193",
+            "cand_name": "MOORE, COLTON",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 168654.0,
+            "direct_amt": 0.0,
+            "ie_amt": 168654.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H4TX23120",
+            "cand_name": "HERRERA, BRANDON",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 447.0,
+            "direct_amt": 0.0,
+            "ie_amt": 447.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2KY04121",
+            "pac_name": "PAC MANAGEMENT SERVICES, LLC",
+            "total_amt": 518205.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6GA14193",
+            "pac_name": "CREATIVE INFLUENCE",
+            "total_amt": 168654.0,
+            "tx_count": 17
+        },
+        {
+            "cmte_id": "H4TX23120",
+            "pac_name": "CAMPAIGNHQ",
+            "total_amt": 447.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00731133"
+}

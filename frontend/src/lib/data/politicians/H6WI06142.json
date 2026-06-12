@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "WOJCIECHOWSKI, AARON MICHAEL",
+        "party": "DEM",
+        "state": "WI",
+        "indiv_total": 20546.0,
+        "pac_receipts_summary": 1250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00837468",
+            "pac_name": "SOLARPUNK PAC",
+            "total_amt": 169.0,
+            "direct_amt": 169.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 17,
+        "oos_donors": 1,
+        "oos_total": 500.0
+    },
+    "opposition": []
+}

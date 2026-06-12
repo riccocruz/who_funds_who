@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "VAN ORDEN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 787785.0,
+        "indiv_contrib": 787785.0,
+        "total_spent": 736584.0,
+        "cash_on_hand": 57193.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00809012",
+            "pac_name": "FROGMAN PAC",
+            "total_amt": 84372.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00074450",
+            "pac_name": "REPUBLICAN PARTY OF WISCONSIN",
+            "total_amt": 40132.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 9617.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00816017"
+}

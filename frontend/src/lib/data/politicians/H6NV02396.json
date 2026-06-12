@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SETTELMEYER, JAMES ARNOLD",
+        "party": "REP",
+        "state": "NV",
+        "indiv_total": 105770.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00496760",
+            "pac_name": "JAMES SETTELMEYER FOR NEVADA",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 77,
+        "oos_donors": 7,
+        "oos_total": 14000.0
+    },
+    "opposition": []
+}

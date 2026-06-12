@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "FIGHT THE RIGHT PAC",
+        "committee_type": "Q",
+        "total_receipts": 85319.0,
+        "indiv_contrib": 78059.0,
+        "total_spent": 132673.0,
+        "cash_on_hand": 1029.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00708552",
+            "pac_name": "ABOLISH THE ELECTORAL COLLEGE",
+            "total_amt": 568.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00401224",
+            "pac_name": "ACTBLUE",
+            "total_amt": 9.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00775205"
+}

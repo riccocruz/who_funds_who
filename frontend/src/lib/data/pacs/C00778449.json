@@ -1,0 +1,44 @@
+{
+    "pac": {
+        "name": "RESTORE AMERICA'S VOICE PAC",
+        "committee_type": "N",
+        "total_receipts": 15000.0,
+        "indiv_contrib": 3500.0,
+        "total_spent": 18402.0,
+        "cash_on_hand": 10683.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TX34113",
+            "cand_name": "FLORES, MAYRA NOHEMI",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6FL06258",
+            "cand_name": "FINE, RANDY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00824698",
+            "pac_name": "THE MILLS VICTORY FUND",
+            "total_amt": 11500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00778449"
+}

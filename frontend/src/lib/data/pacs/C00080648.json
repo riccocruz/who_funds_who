@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "MICHIGAN BANKERS ASSOCIATION - MIBANKPAC - FEDERAL",
+        "committee_type": "Q",
+        "total_receipts": 93636.0,
+        "indiv_contrib": 91136.0,
+        "total_spent": 81589.0,
+        "cash_on_hand": 26954.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00004275",
+            "pac_name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+            "total_amt": 79750.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00579540",
+            "pac_name": "ALLY FINANCIAL INC. ADVOCACY POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00080648"
+}

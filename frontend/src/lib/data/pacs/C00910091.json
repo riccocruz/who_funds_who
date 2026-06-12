@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "OSSOFF SCHIFF VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 388800.0,
+        "indiv_contrib": 387800.0,
+        "total_spent": 388800.0,
+        "cash_on_hand": 0.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00042366",
+            "pac_name": "DSCC",
+            "total_amt": 7906.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00890889",
+            "pac_name": "CONGRESS MAJORITY PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00910091"
+}

@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "FAIR FIGHT",
+        "committee_type": "V",
+        "total_receipts": 3480571.0,
+        "indiv_contrib": 819412.0,
+        "total_spent": 5102498.0,
+        "cash_on_hand": 468104.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "S6MS00133",
+            "cand_name": "COLOM, SCOTT",
+            "party": "DEM",
+            "state": "MS",
+            "total_amt": 4160.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA05301",
+            "cand_name": "WILLIAMS, NIKEMA N.",
+            "party": "DEM",
+            "state": "GA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00814202",
+            "pac_name": "NEW SOUTHERN MAJORITY IE PAC",
+            "total_amt": 56200.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00149641",
+            "pac_name": "MISSISSIPPI DEMOCRATIC PARTY",
+            "total_amt": 12988.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00693515"
+}

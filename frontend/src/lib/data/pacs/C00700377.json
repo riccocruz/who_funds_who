@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "PRA GROUP INC. POLITICAL ACTION COMMITTEE (PRA PAC)",
+        "committee_type": "N",
+        "total_receipts": 12175.0,
+        "indiv_contrib": 12175.0,
+        "total_spent": 11863.0,
+        "cash_on_hand": 59061.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0NY02234",
+            "cand_name": "GARBARINO, ANDREW",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00633792",
+            "pac_name": "FRIENDS OF ANDY BARR COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00773903",
+            "pac_name": "TEAM HILL",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00538835",
+            "pac_name": "COMMON GROUND PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00700377"
+}

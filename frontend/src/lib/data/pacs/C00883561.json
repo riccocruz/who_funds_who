@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "COLLEGE REPUBLICANS OF AMERICA",
+        "committee_type": "O",
+        "total_receipts": 75481.0,
+        "indiv_contrib": 75481.0,
+        "total_spent": 75596.0,
+        "cash_on_hand": 1009.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "P80001571",
+            "cand_name": "UNITED STATES POSTAL SERVICE",
+            "party": null,
+            "state": null,
+            "total_amt": 33550.0,
+            "direct_amt": 0.0,
+            "ie_amt": 33550.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P80001571",
+            "pac_name": "AMERICAN MAILING LISTS CORPORATION",
+            "total_amt": 33550.0,
+            "tx_count": 11
+        }
+    ],
+    "cmte_id": "C00883561"
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "BANKS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 520158.0,
+        "indiv_contrib": 518658.0,
+        "total_spent": 526161.0,
+        "cash_on_hand": 16221.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00832469",
+            "pac_name": "BUILDING A NATIONAL KNOWLEDGEABLE SECURITY PAC",
+            "total_amt": 76352.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00520973",
+            "pac_name": "ICE MILLER PAC",
+            "total_amt": 1500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00734913"
+}

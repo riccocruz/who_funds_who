@@ -1,0 +1,65 @@
+{
+    "pac": {
+        "name": "NORTH DAKOTA REPUBLICAN PARTY",
+        "committee_type": "Y",
+        "total_receipts": 561288.0,
+        "indiv_contrib": 231501.0,
+        "total_spent": 560862.0,
+        "cash_on_hand": 55622.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 108993.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 55193.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 40193.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00493072",
+            "pac_name": "DAKOTA PAC",
+            "total_amt": 2000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00876821",
+            "pac_name": "NLD PAC",
+            "total_amt": 75.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00018929"
+}

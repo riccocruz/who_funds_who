@@ -1,0 +1,258 @@
+{
+    "pac": {
+        "name": "SENATE CONSERVATIVES ACTION",
+        "committee_type": "O",
+        "total_receipts": 622849.0,
+        "indiv_contrib": 617919.0,
+        "total_spent": 879967.0,
+        "cash_on_hand": 417804.0
+    },
+    "stats": {
+        "candidates_funded": 15
+    },
+    "recipients": [
+        {
+            "cand_id": "S0WY00137",
+            "cand_name": "LUMMIS, CYNTHIA MARIE MRS.",
+            "party": "REP",
+            "state": "WY",
+            "total_amt": 35783.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35783.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0TN00169",
+            "cand_name": "HAGERTY, BILL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 35783.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35783.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2MO00544",
+            "cand_name": "SCHMITT, ERIC",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 34884.0,
+            "direct_amt": 0.0,
+            "ie_amt": 34884.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0AL00230",
+            "cand_name": "TUBERVILLE, THOMAS H",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 32821.0,
+            "direct_amt": 0.0,
+            "ie_amt": 32821.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 31990.0,
+            "direct_amt": 0.0,
+            "ie_amt": 31990.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KS00315",
+            "cand_name": "MARSHALL, ROGER W",
+            "party": "REP",
+            "state": "KS",
+            "total_amt": 23781.0,
+            "direct_amt": 0.0,
+            "ie_amt": 23781.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8MO00160",
+            "cand_name": "HAWLEY, JOSHUA DAVID SEN",
+            "party": "REP",
+            "state": "MO",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S8FL00273",
+            "cand_name": "SCOTT, RICK SEN",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2TX00312",
+            "cand_name": "CRUZ, RAFAEL EDWARD  TED",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0WI00197",
+            "cand_name": "JOHNSON, RON HAROLD MR.",
+            "party": "REP",
+            "state": "WI",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0UT00165",
+            "cand_name": "LEE, MIKE",
+            "party": "REP",
+            "state": "UT",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0KY00156",
+            "cand_name": "PAUL, RAND",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 22882.0,
+            "direct_amt": 0.0,
+            "ie_amt": 22882.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4OH00192",
+            "cand_name": "MORENO, BERNIE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 15795.0,
+            "direct_amt": 0.0,
+            "ie_amt": 15795.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6KY00302",
+            "cand_name": "MORRIS, NATE",
+            "party": "REP",
+            "state": "KY",
+            "total_amt": 10049.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10049.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 10049.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10049.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S0TN00169",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 35783.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S0WY00137",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 35783.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S2MO00544",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 34884.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S0AL00230",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 32821.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6FL00640",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 31990.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S0KS00315",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 23781.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S0KY00156",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S0UT00165",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S0WI00197",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S2TX00312",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S8FL00273",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S8MO00160",
+            "pac_name": "ENVISION MARKETING",
+            "total_amt": 22882.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S4OH00192",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 15795.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6AL00476",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 10049.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6KY00302",
+            "pac_name": "ALLEGIANCE DIRECT",
+            "total_amt": 10049.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00524181"
+}

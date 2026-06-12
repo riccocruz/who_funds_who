@@ -1,0 +1,214 @@
+{
+    "pac": {
+        "name": "SLF PAC",
+        "committee_type": "O",
+        "total_receipts": 175443566.0,
+        "indiv_contrib": 124046385.0,
+        "total_spent": 15114229.0,
+        "cash_on_hand": 166412014.0
+    },
+    "stats": {
+        "candidates_funded": 10
+    },
+    "recipients": [
+        {
+            "cand_id": "S6NC00415",
+            "cand_name": "WHATLEY, MICHAEL",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 617770.0,
+            "direct_amt": 0.0,
+            "ie_amt": 617770.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6OH00304",
+            "cand_name": "HUSTED, JON",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 577773.0,
+            "direct_amt": 0.0,
+            "ie_amt": 577773.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4MI00595",
+            "cand_name": "ROGERS, MICHAEL J",
+            "party": "REP",
+            "state": "MI",
+            "total_amt": 525579.0,
+            "direct_amt": 0.0,
+            "ie_amt": 525579.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6ME00159",
+            "cand_name": "COLLINS, SUSAN M.",
+            "party": "REP",
+            "state": "ME",
+            "total_amt": 518863.0,
+            "direct_amt": 0.0,
+            "ie_amt": 518863.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6IA00314",
+            "cand_name": "ARENHOLZ, ASHLEY HINSON",
+            "party": "REP",
+            "state": "IA",
+            "total_amt": 453379.0,
+            "direct_amt": 0.0,
+            "ie_amt": 453379.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S2MI00595",
+            "cand_name": "FINANCE STRATEGIES GROUP LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 331048.0,
+            "direct_amt": 0.0,
+            "ie_amt": 331048.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S0NH00201",
+            "cand_name": "FINANCE STRATEGIES GROUP LLC",
+            "party": null,
+            "state": null,
+            "total_amt": 227950.0,
+            "direct_amt": 0.0,
+            "ie_amt": 227950.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6FL00640",
+            "cand_name": "MOODY, ASHLEY",
+            "party": "REP",
+            "state": "FL",
+            "total_amt": 200000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 200000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S4AK00214",
+            "cand_name": "SULLIVAN, DAN",
+            "party": "REP",
+            "state": "AK",
+            "total_amt": 187925.0,
+            "direct_amt": 0.0,
+            "ie_amt": 187925.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 156666.0,
+            "direct_amt": 0.0,
+            "ie_amt": 156666.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6NC00415",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 617770.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "S6OH00304",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 577773.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "S4MI00595",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 525579.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6ME00159",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 518863.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "S6IA00314",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 453379.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S6NC00407",
+            "pac_name": "ACQUIRE DIGITAL LLC",
+            "total_amt": 449341.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S2MI00595",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 331048.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S8GA00180",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 313598.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6OH00163",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 309163.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S0NH00201",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 227950.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "S6FL00640",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 200000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S4AK00214",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 187925.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "S6NE00129",
+            "pac_name": "FINANCE STRATEGIES GROUP LLC",
+            "total_amt": 156666.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6NC00163",
+            "pac_name": "CAVALRY LLC",
+            "total_amt": 121459.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00742494",
+            "pac_name": "KEEP KENTUCKY GREAT",
+            "total_amt": 6000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00750174",
+            "pac_name": "PLAINS PAC",
+            "total_amt": 5500.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00571703"
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "MID-ATLANTIC LABORERS' POLITICAL LEAGUE/LABORERS' INTERNATIONAL UNION OF NORTH AMERICA",
+        "committee_type": "Q",
+        "total_receipts": 655121.0,
+        "indiv_contrib": 425521.0,
+        "total_spent": 652008.0,
+        "cash_on_hand": 224752.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00253294",
+            "pac_name": "LABORERS' DISTRICT COUNCIL OF THE METRO AREA OF PHILADELPHIA AND VICINITY PAC",
+            "total_amt": 229600.0,
+            "tx_count": 17
+        },
+        {
+            "cmte_id": "C00007922",
+            "pac_name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+            "total_amt": 130000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00689836",
+            "pac_name": "RESCHENTHALER VICTORY FUND",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00429175"
+}

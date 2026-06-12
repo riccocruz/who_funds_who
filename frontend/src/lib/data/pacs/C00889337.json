@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "COMMANDER PAC",
+        "committee_type": "N",
+        "total_receipts": 14100.0,
+        "indiv_contrib": 13300.0,
+        "total_spent": 8592.0,
+        "cash_on_hand": 5757.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H4TX28129",
+            "cand_name": "FURMAN, JAY COMMANDER",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00889352",
+            "pac_name": "FURMAN VICTORY FUND",
+            "total_amt": 800.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00889337"
+}

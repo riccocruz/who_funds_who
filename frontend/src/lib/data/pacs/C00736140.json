@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "HOLD THE LINE PAC",
+        "committee_type": "O",
+        "total_receipts": 103020.0,
+        "indiv_contrib": 10020.0,
+        "total_spent": 64309.0,
+        "cash_on_hand": 40522.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H6GA14193",
+            "cand_name": "MOORE, COLTON",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 26500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 26500.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07203",
+            "cand_name": "BARRETT, JOSEPH MICHAEL",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 10000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 10000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H0GA14030",
+            "pac_name": "SOUTHERN PINES STRATEGIES",
+            "total_amt": 26500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6GA14193",
+            "pac_name": "SOUTHERN PINES STRATEGIES",
+            "total_amt": 26500.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TN07203",
+            "pac_name": "SOUTHERN PINES STRATEGIES",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00736140"
+}

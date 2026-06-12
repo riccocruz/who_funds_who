@@ -1,0 +1,94 @@
+{
+    "pac": {
+        "name": "PROTECT PROGRESS",
+        "committee_type": "O",
+        "total_receipts": 4555044.0,
+        "indiv_contrib": 350000.0,
+        "total_spent": 4037569.0,
+        "cash_on_hand": 2414332.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX18232",
+            "cand_name": "MENEFEE, CHRISTIAN",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1564213.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1564213.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6VA11066",
+            "cand_name": "WALKINSHAW, JAMES",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 1012792.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012792.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL08329",
+            "cand_name": "BEAN, MELISSA LUBURICH",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 515519.0,
+            "direct_amt": 0.0,
+            "ie_amt": 515519.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H2IL13153",
+            "cand_name": "BUDZINSKI, NIKKI",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 83860.0,
+            "direct_amt": 0.0,
+            "ie_amt": 83860.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00835959",
+            "pac_name": "FAIRSHAKE",
+            "total_amt": 4000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TX18232",
+            "pac_name": "TARGETED PLATFORM MEDIA LLC",
+            "total_amt": 1564213.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "H6VA11066",
+            "pac_name": "TARGETED PLATFORM MEDIA LLC",
+            "total_amt": 1012792.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6IL08329",
+            "pac_name": "TARGETED PLATFORM MEDIA LLC",
+            "total_amt": 515519.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H2IL13153",
+            "pac_name": "KINETIC CAMPAIGNS",
+            "total_amt": 83860.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6VA11074",
+            "pac_name": "THE SEXTON GROUP",
+            "total_amt": 20482.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00848440"
+}

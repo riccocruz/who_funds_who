@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "KHOT, NEIL",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 470652.0,
+        "pac_receipts_summary": 5250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00729574",
+            "pac_name": "AMERICANS4HINDUS PAC (MULTI-CANDIDATE)",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00264689",
+            "pac_name": "ILLINOIS POLITICAL ACTIVE LETTER CARRIERS",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 346,
+        "oos_donors": 43,
+        "oos_total": 73832.0
+    },
+    "opposition": []
+}

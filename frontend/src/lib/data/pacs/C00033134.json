@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "COLORADO REPUBLICAN COMMITTEE",
+        "committee_type": "Y",
+        "total_receipts": 507483.0,
+        "indiv_contrib": 345277.0,
+        "total_spent": 678035.0,
+        "cash_on_hand": 69221.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 80062.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 57562.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00881870",
+            "pac_name": "CHAINSAW CAUCUS",
+            "total_amt": 180.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00033134"
+}

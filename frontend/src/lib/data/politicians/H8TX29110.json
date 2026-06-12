@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BLANCO, JAIMY",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 109994.0,
+        "pac_receipts_summary": 12840.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00794222",
+            "pac_name": "UNITED FOR LIBERTY PAC",
+            "total_amt": 9800.0,
+            "direct_amt": 9800.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00794255",
+            "pac_name": "FIGHTING FOR NEW ENGLAND PAC",
+            "total_amt": 4640.0,
+            "direct_amt": 4640.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 72,
+        "oos_donors": 59,
+        "oos_total": 85150.0
+    },
+    "opposition": []
+}

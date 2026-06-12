@@ -1,0 +1,52 @@
+{
+    "politician": {
+        "cand_name": "RIKER, BRANDON",
+        "party": "DEM",
+        "state": "CA",
+        "indiv_total": 954566.0,
+        "pac_receipts_summary": 1050.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00897363",
+            "pac_name": "BLUE MAJORITY PROJECT",
+            "total_amt": 35460.0,
+            "direct_amt": 0.0,
+            "ie_amt": 35460.0
+        },
+        {
+            "cmte_id": "C00934273",
+            "pac_name": "DEMOCRATIC FUTURE PAC",
+            "total_amt": 2600.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2600.0
+        },
+        {
+            "cmte_id": "C00933796",
+            "pac_name": "BLUE DEMOCRACY NETWORK",
+            "total_amt": 1012.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1012.0
+        },
+        {
+            "cmte_id": "C00176214",
+            "pac_name": "INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 598,
+        "oos_donors": 182,
+        "oos_total": 263565.0
+    },
+    "opposition": []
+}

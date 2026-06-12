@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "APL VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 540418.0,
+        "indiv_contrib": 530318.0,
+        "total_spent": 528625.0,
+        "cash_on_hand": 28137.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00764415",
+            "pac_name": "APL PAC",
+            "total_amt": 49190.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00328401",
+            "pac_name": "THE LINCOLN CLUB OF ORANGE COUNTY FEDERAL PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00382150",
+            "pac_name": "THE GEO GROUP, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 0.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00778357"
+}

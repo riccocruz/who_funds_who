@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "TECHAU, KEVIN W",
+        "party": "DEM",
+        "state": "IA",
+        "indiv_total": 139627.0,
+        "pac_receipts_summary": 2500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00708164",
+            "pac_name": "KEVIN TECHAU FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00629063",
+            "pac_name": "THE MAJORITY RULES",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 155,
+        "oos_donors": 34,
+        "oos_total": 32295.0
+    },
+    "opposition": []
+}

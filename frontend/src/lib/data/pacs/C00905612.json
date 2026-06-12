@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "TAKE ME HOME WV ACTION",
+        "committee_type": "O",
+        "total_receipts": 408054.0,
+        "indiv_contrib": 408054.0,
+        "total_spent": 384920.0,
+        "cash_on_hand": 23134.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S4WV00159",
+            "cand_name": "CAPITO, SHELLEY MOORE",
+            "party": "REP",
+            "state": "WV",
+            "total_amt": 337584.0,
+            "direct_amt": 0.0,
+            "ie_amt": 337584.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S4WV00159",
+            "pac_name": "LANDMARKSCM LLC",
+            "total_amt": 337584.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00905612"
+}

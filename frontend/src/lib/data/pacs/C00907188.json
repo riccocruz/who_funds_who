@@ -1,0 +1,64 @@
+{
+    "pac": {
+        "name": "PEOPLE OVER MONOPOLIES",
+        "committee_type": "V",
+        "total_receipts": 320829.0,
+        "indiv_contrib": 15261.0,
+        "total_spent": 284081.0,
+        "cash_on_hand": 36748.0
+    },
+    "stats": {
+        "candidates_funded": 4
+    },
+    "recipients": [
+        {
+            "cand_id": "H6VA11157",
+            "cand_name": "SHIN, IRENE",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 202368.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 198868.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6NE02190",
+            "cand_name": "CAVANAUGH, JOHN",
+            "party": "DEM",
+            "state": "NE",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL07503",
+            "cand_name": "SHOWALTER, REED",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6IL02298",
+            "cand_name": "PETERS, ROBERT JAMES",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6VA11157",
+            "pac_name": "RESONANCE CAMPAIGNS",
+            "total_amt": 198868.0,
+            "tx_count": 8
+        }
+    ],
+    "cmte_id": "C00907188"
+}

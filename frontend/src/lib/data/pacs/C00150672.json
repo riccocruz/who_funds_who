@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "GEORGIA REPUBLICAN PARTY INC.",
+        "committee_type": "X",
+        "total_receipts": 2034220.0,
+        "indiv_contrib": 1191166.0,
+        "total_spent": 2104329.0,
+        "cash_on_hand": 181917.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00003418",
+            "pac_name": "REPUBLICAN NATIONAL COMMITTEE",
+            "total_amt": 264548.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00837518",
+            "pac_name": "NRSC VICTORY",
+            "total_amt": 100122.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00867937",
+            "pac_name": "TRUMP 47 COMMITTEE, INC.",
+            "total_amt": 34448.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00822403",
+            "pac_name": "WALKER GRAHAM MAJORITY FUND",
+            "total_amt": 14038.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00172510",
+            "pac_name": "REPUBLICAN STATE COMMITTEE OF DELAWARE",
+            "total_amt": 11000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00502039",
+            "pac_name": "COLLINS FOR CONGRESS",
+            "total_amt": 505.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00540054",
+            "pac_name": "NEBRASKA SANDHILLS PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00571000",
+            "pac_name": "TRUE NORTH PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00821058",
+            "pac_name": "ALABAMA FIRST PAC",
+            "total_amt": 151.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00876821",
+            "pac_name": "NLD PAC",
+            "total_amt": 75.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00150672"
+}

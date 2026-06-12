@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "DAVE MIN VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 36525.0,
+        "indiv_contrib": 36525.0,
+        "total_spent": 36871.0,
+        "cash_on_hand": 3607.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00105668",
+            "pac_name": "CALIFORNIA DEMOCRATIC PARTY",
+            "total_amt": 10256.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00897553",
+            "pac_name": "MAINTAINING INTEGRITY IN OUR NATION PAC",
+            "total_amt": 4300.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00873059"
+}

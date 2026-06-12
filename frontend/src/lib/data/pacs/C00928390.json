@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "DEFENDING OUR VALUES PAC",
+        "committee_type": "O",
+        "total_receipts": 5327484.0,
+        "indiv_contrib": 161000.0,
+        "total_spent": 1586060.0,
+        "cash_on_hand": 3741424.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX35087",
+            "cand_name": "DE LA CRUZ, CARLOS JR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 479728.0,
+            "direct_amt": 0.0,
+            "ie_amt": 479728.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NE00129",
+            "cand_name": "RICKETTS, PETE",
+            "party": "REP",
+            "state": "NE",
+            "total_amt": 250765.0,
+            "direct_amt": 0.0,
+            "ie_amt": 250765.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 223733.0,
+            "direct_amt": 0.0,
+            "ie_amt": 223733.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX35087",
+            "pac_name": "ARENA MAIL + DIGITAL",
+            "total_amt": 479728.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S6NE00129",
+            "pac_name": "DEL CIELO MEDIA",
+            "total_amt": 250765.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6TX09140",
+            "pac_name": "ARENA MAIL + DIGITAL",
+            "total_amt": 223733.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00928390"
+}

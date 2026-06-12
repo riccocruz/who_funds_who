@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "LANKFORD VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 111930.0,
+        "indiv_contrib": 98300.0,
+        "total_spent": 106558.0,
+        "cash_on_hand": 5372.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00686709",
+            "pac_name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC. POLITICAL ACTION COMMITTEE (KRATOS PAC)",
+            "total_amt": 3500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00887133",
+            "pac_name": "MIDLAND FINANCIAL CO. POLITICAL ACTION COMMITTEE",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00492058",
+            "pac_name": "LEADERSHIP AND ACCOUNTABILITY ARE NATIONAL KEYS PAC",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00909184"
+}

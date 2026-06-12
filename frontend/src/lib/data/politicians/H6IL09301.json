@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "ANDREW, PHILIP JEROME",
+        "party": "DEM",
+        "state": "IL",
+        "indiv_total": 999332.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00937763",
+            "pac_name": "LEADING DEMOCRACY INC",
+            "total_amt": 262500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 262500.0
+        },
+        {
+            "cmte_id": "C00139659",
+            "pac_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 665,
+        "oos_donors": 150,
+        "oos_total": 244325.0
+    },
+    "opposition": []
+}

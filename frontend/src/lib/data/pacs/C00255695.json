@@ -1,0 +1,176 @@
+{
+    "pac": {
+        "name": "LIBERTARIAN NATIONAL COMMITTEE, INC.",
+        "committee_type": "Y",
+        "total_receipts": 5117859.0,
+        "indiv_contrib": 1053762.0,
+        "total_spent": 4530955.0,
+        "cash_on_hand": 889025.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "P40011793",
+            "cand_name": "KENNEDY, ROBERT F JR",
+            "party": "IND",
+            "state": "00",
+            "total_amt": 3249160.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8GA13027",
+            "cand_name": "BB&T - TRUIST BANK",
+            "party": null,
+            "state": null,
+            "total_amt": 1039.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "P40011793",
+            "pac_name": "HOLLOWAY LAW OFFICE, LLC",
+            "total_amt": 3249160.0,
+            "tx_count": 311
+        },
+        {
+            "cmte_id": "C00883751",
+            "pac_name": "KENNEDY VICTORY FUND 2024",
+            "total_amt": 1192796.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00725135",
+            "pac_name": "LIBERTARIAN PARTY OF MAINE - MAINE LIBERTARIANS",
+            "total_amt": 358118.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "C00618249",
+            "pac_name": "LIBERTARIAN PARTY OF MARYLAND",
+            "total_amt": 352470.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00897975",
+            "pac_name": "LIBERTARIAN PARTY OF IDAHO",
+            "total_amt": 287483.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00622795",
+            "pac_name": "LIBERTARIAN PARTY OF GEORGIA",
+            "total_amt": 188541.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00623397",
+            "pac_name": "LIBERTARIAN PARTY OF COLORADO",
+            "total_amt": 170772.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00736173",
+            "pac_name": "LIBERTARIAN PARTY OF CALIFORNIA",
+            "total_amt": 148169.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00403907",
+            "pac_name": "LIBERTARIAN PARTY OF MICHIGAN EXECUTIVE COMMITTEE, INC.",
+            "total_amt": 143979.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00886671",
+            "pac_name": "LIBERTARIAN PARTY OF CONNECTICUT",
+            "total_amt": 143979.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00887760",
+            "pac_name": "LIBERTARIAN PARTY OF NEBRASKA",
+            "total_amt": 143979.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00887869",
+            "pac_name": "THE LIBERTARIAN PARTY OF HAWAII",
+            "total_amt": 143979.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00876144",
+            "pac_name": "UNIFIED LIBERTARIANS OF MASSACHUSETTS",
+            "total_amt": 140469.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00889006",
+            "pac_name": "MONTANA LIBERTARIAN PARTY",
+            "total_amt": 129612.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00890210",
+            "pac_name": "FREE NEW MEXICO PARTY",
+            "total_amt": 102137.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00699785",
+            "pac_name": "MISES PAC",
+            "total_amt": 49237.0,
+            "tx_count": 6
+        },
+        {
+            "cmte_id": "C00886226",
+            "pac_name": "LIBERTARIAN MUTUAL AID PAC",
+            "total_amt": 42567.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00891176",
+            "pac_name": "LIBERTARIAN UNITY",
+            "total_amt": 40970.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00866350",
+            "pac_name": "AMERICAN INDEPENDENT PARTY OF CALIFORNIA",
+            "total_amt": 15000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8GA13027",
+            "pac_name": "BB&T - TRUIST BANK",
+            "total_amt": 1039.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00405092",
+            "pac_name": "LPAK - LP ALASKA",
+            "total_amt": 40.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00399865",
+            "pac_name": "LIBERTARIAN PARTY OF VIRGINIA",
+            "total_amt": 26.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00622803",
+            "pac_name": "LPNM - LP NEW MEXICO",
+            "total_amt": 4.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00255695"
+}

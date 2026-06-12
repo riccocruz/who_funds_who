@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "AMERICAN ETHIOPIAN PUBLIC AFFAIRS COMMITTEE",
+        "committee_type": "Q",
+        "total_receipts": 46845.0,
+        "indiv_contrib": 46845.0,
+        "total_spent": 60475.0,
+        "cash_on_hand": 126000.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL09293",
+            "cand_name": "SIMMONS, MIKE",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00772673"
+}

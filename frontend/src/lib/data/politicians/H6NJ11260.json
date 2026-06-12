@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "BEECHER, ZACH",
+        "party": "DEM",
+        "state": "NJ",
+        "indiv_total": 639207.0,
+        "pac_receipts_summary": 8000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C90010620",
+            "pac_name": "VOTEVETS.ORG ACTION FUND",
+            "total_amt": 306472.0,
+            "direct_amt": 0.0,
+            "ie_amt": 306472.0
+        },
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 367,
+        "oos_donors": 308,
+        "oos_total": 353401.0
+    },
+    "opposition": []
+}

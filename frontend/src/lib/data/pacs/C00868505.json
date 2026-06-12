@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "MADISON SQUARE GARDEN ENTERTAINMENT CORP. PAC (MSG-FEDPAC)",
+        "committee_type": "N",
+        "total_receipts": 14004.0,
+        "indiv_contrib": 3000.0,
+        "total_spent": 15451.0,
+        "cash_on_hand": 75.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H0NY11078",
+            "cand_name": "MALLIOTAKIS, NICOLE",
+            "party": "REP",
+            "state": "NY",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00868505"
+}

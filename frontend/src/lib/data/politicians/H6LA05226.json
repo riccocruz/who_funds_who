@@ -1,0 +1,38 @@
+{
+    "politician": {
+        "cand_name": "EDMONDS, RICK",
+        "party": "REP",
+        "state": "LA",
+        "indiv_total": 171425.0,
+        "pac_receipts_summary": 9000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00938910",
+            "pac_name": "LOUISIANA FIRST VICTORY FUND",
+            "total_amt": 140533.0,
+            "direct_amt": 0.0,
+            "ie_amt": 140533.0
+        },
+        {
+            "cmte_id": "C00221077",
+            "pac_name": "CRESCENT RIVER PORT PILOTS ASSOCIATION FEDERAL POLITICAL ACTION COMMITTEE/CRPPA FED PAC",
+            "total_amt": 4500.0,
+            "direct_amt": 4500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00826768",
+            "pac_name": "LIFEMARK PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 53,
+        "oos_donors": 4,
+        "oos_total": 18000.0
+    },
+    "opposition": []
+}

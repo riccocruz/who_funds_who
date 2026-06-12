@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ROCHFORD, ROBERT ANTHONY ROCKY CAPT",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 62385.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00386755",
+            "pac_name": "PROJECTHEALTHSOLUTIONS PAC - PHSPAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 23,
+        "oos_donors": 10,
+        "oos_total": 32500.0
+    },
+    "opposition": []
+}

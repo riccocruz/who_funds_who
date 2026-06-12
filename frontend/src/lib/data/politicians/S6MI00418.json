@@ -1,0 +1,101 @@
+{
+    "politician": {
+        "cand_name": "EL-SAYED, ABDUL",
+        "party": "DEM",
+        "state": "MI",
+        "indiv_total": 7572496.0,
+        "pac_receipts_summary": 38825.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00876904",
+            "pac_name": "A NEW POLICY PAC",
+            "total_amt": 17478.0,
+            "direct_amt": 17478.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00758219",
+            "pac_name": "NO DEM LEFT BEHIND PAC",
+            "total_amt": 10000.0,
+            "direct_amt": 10000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00406553",
+            "pac_name": "PROGRESSIVE VOTERS OF AMERICA",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00685552",
+            "pac_name": "MEDICARE FOR ALL",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00741371",
+            "pac_name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00908053",
+            "pac_name": "RISING DEMS",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00453704",
+            "pac_name": "EMGAGE FEDERAL POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00620021",
+            "pac_name": "COMMON DEFENSE ACTION FUND",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00808253",
+            "pac_name": "CALIFORNIANS FOR FREEDOM",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00002089",
+            "pac_name": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00776419",
+            "pac_name": "THE PEOPLE UNITED PAC",
+            "total_amt": 50.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 4479,
+        "oos_donors": 2814,
+        "oos_total": 3639340.0
+    },
+    "opposition": []
+}

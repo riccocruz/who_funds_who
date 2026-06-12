@@ -1,0 +1,56 @@
+{
+    "pac": {
+        "name": "ROLLING SEA ACTION FUND",
+        "committee_type": "V",
+        "total_receipts": 500615.0,
+        "indiv_contrib": 405040.0,
+        "total_spent": 539827.0,
+        "cash_on_hand": 29861.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06114",
+            "cand_name": "FOUSHEE, VALERIE",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 150000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 150000.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6TX00552",
+            "cand_name": "CROCKETT, JASMINE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 50000.0,
+            "direct_amt": 0.0,
+            "ie_amt": 50000.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NC06114",
+            "pac_name": "SYMMETRY MEDIA LLC",
+            "total_amt": 150000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6TX00552",
+            "pac_name": "SYMMETRY MEDIA LLC",
+            "total_amt": 50000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00032995",
+            "pac_name": "AMALGAMATED TRANSIT UNION - COPE",
+            "total_amt": 1000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00844530"
+}

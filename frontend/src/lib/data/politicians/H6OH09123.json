@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "KINSEL, WAYNE CHARLES",
+        "party": "REP",
+        "state": "OH",
+        "indiv_total": 36371.0,
+        "pac_receipts_summary": 2000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00719294",
+            "pac_name": "WAYNE KINSEL FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 21,
+        "oos_donors": 10,
+        "oos_total": 13985.0
+    },
+    "opposition": []
+}

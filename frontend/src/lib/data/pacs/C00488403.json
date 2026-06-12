@@ -1,0 +1,66 @@
+{
+    "pac": {
+        "name": "TEXAS PATRIOTS PAC",
+        "committee_type": "O",
+        "total_receipts": 102495.0,
+        "indiv_contrib": 82495.0,
+        "total_spent": 102666.0,
+        "cash_on_hand": 12449.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00388",
+            "cand_name": "PAXTON, WARREN KENNETH JR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 672.0,
+            "direct_amt": 0.0,
+            "ie_amt": 672.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX08233",
+            "cand_name": "JENSEN, BRETT",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 672.0,
+            "direct_amt": 0.0,
+            "ie_amt": 672.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX08175",
+            "cand_name": "TOTH, STEVE",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 672.0,
+            "direct_amt": 0.0,
+            "ie_amt": 672.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX08175",
+            "pac_name": "REMINGTON RESEARCH GROUP",
+            "total_amt": 672.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6TX08233",
+            "pac_name": "REMINGTON RESEARCH GROUP",
+            "total_amt": 672.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "S6TX00388",
+            "pac_name": "REMINGTON RESEARCH GROUP",
+            "total_amt": 672.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00488403"
+}

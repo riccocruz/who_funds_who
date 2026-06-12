@@ -1,0 +1,72 @@
+{
+    "pac": {
+        "name": "UNITY & JUSTICE FUND",
+        "committee_type": "O",
+        "total_receipts": 284843.0,
+        "indiv_contrib": 267016.0,
+        "total_spent": 239078.0,
+        "cash_on_hand": 50916.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H2NC06098",
+            "cand_name": "ALLAM, NIDA",
+            "party": "DEM",
+            "state": "NC",
+            "total_amt": 39415.0,
+            "direct_amt": 0.0,
+            "ie_amt": 39415.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0NY16143",
+            "cand_name": "BOWMAN, JAMAAL",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2627.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2627.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8MO01143",
+            "cand_name": "BUSH, CORI",
+            "party": "DEM",
+            "state": "MO",
+            "total_amt": 1683.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1683.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H2NC06098",
+            "pac_name": "MINUTEMAN PRESS",
+            "total_amt": 39415.0,
+            "tx_count": 10
+        },
+        {
+            "cmte_id": "C00606962",
+            "pac_name": "WORKING FAMILIES PARTY PAC",
+            "total_amt": 5000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0NY16143",
+            "pac_name": "THE TRUTH PROJECT",
+            "total_amt": 2627.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H8MO01143",
+            "pac_name": "THE TRUTH PROJECT",
+            "total_amt": 1683.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00881011"
+}

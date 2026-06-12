@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "GILCHREST, JILLIAN",
+        "party": "DEM",
+        "state": "CT",
+        "indiv_total": 120677.0,
+        "pac_receipts_summary": 4000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00453290",
+            "pac_name": "CONNECTICUT ASSOCIATION OF OPTOMETRISTS INC PAC; THE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 105,
+        "oos_donors": 10,
+        "oos_total": 13861.0
+    },
+    "opposition": []
+}

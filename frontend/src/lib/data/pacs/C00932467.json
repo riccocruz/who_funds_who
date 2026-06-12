@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "LAMANTIA FAMILY PAC",
+        "committee_type": "N",
+        "total_receipts": 25000.0,
+        "indiv_contrib": 25000.0,
+        "total_spent": 4300.0,
+        "cash_on_hand": 45700.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2TX23082",
+            "cand_name": "CUELLAR, HENRY R.",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00932467"
+}

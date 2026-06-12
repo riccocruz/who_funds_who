@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "AMALGAMATED BANK PAC",
+        "committee_type": "Q",
+        "total_receipts": 16487.0,
+        "indiv_contrib": 16487.0,
+        "total_spent": 7500.0,
+        "cash_on_hand": 11428.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6VA00093",
+            "cand_name": "WARNER, MARK ROBERT",
+            "party": "DEM",
+            "state": "VA",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00379693"
+}

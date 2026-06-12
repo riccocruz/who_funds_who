@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "BICE VICTORY COMMITTEE",
+        "committee_type": "N",
+        "total_receipts": 576226.0,
+        "indiv_contrib": 572726.0,
+        "total_spent": 533973.0,
+        "cash_on_hand": 46795.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 69308.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00765644",
+            "pac_name": "BIG IDEAS CREATE EXCELLENCE PAC",
+            "total_amt": 35593.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00276592",
+            "pac_name": "INTERNATIONAL BANK OF COMMERCE COMMITTEE FOR IMPROVEMENT AND BETTERMENT OF THE COUNTRY",
+            "total_amt": 2500.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00756866"
+}

@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "ADPAC INDEPENDENT EXPENDITURES COMMITTEE",
+        "committee_type": "O",
+        "total_receipts": 148612.0,
+        "indiv_contrib": 0.0,
+        "total_spent": 148528.0,
+        "cash_on_hand": 1129.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6IL02355",
+            "cand_name": "MILLER, DONNA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 28534.0,
+            "direct_amt": 0.0,
+            "ie_amt": 28534.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00000729",
+            "pac_name": "AMERICAN DENTAL ASSOCIATION POLITICAL ACTION COMMITTEE",
+            "total_amt": 72033.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "H6IL02355",
+            "pac_name": "FOUNDATION BLUE",
+            "total_amt": 28534.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00488338"
+}

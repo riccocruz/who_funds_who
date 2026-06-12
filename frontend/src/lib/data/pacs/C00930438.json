@@ -1,0 +1,46 @@
+{
+    "pac": {
+        "name": "ALABAMA FREEDOM FUND",
+        "committee_type": "O",
+        "total_receipts": 2738425.0,
+        "indiv_contrib": 1195100.0,
+        "total_spent": 2395071.0,
+        "cash_on_hand": 343354.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "S6AL00476",
+            "cand_name": "MOORE, FELIX BARRY",
+            "party": "REP",
+            "state": "AL",
+            "total_amt": 1255806.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1255806.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6AL00476",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 1255806.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "C00938928",
+            "pac_name": "BARRY MOORE ALABAMA VICTORY",
+            "total_amt": 63325.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "S6AL00450",
+            "pac_name": "CLUB FOR GROWTH",
+            "total_amt": 17143.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00930438"
+}

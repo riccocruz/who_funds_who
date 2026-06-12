@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "LONE STAR LIBERTY PAC",
+        "committee_type": "O",
+        "total_receipts": 8191736.0,
+        "indiv_contrib": 7176736.0,
+        "total_spent": 6243642.0,
+        "cash_on_hand": 1948094.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00511",
+            "pac_name": "ARMADA STRATEGIES",
+            "total_amt": 3050929.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "S2TX00106",
+            "pac_name": "ARMADA STRATEGIES",
+            "total_amt": 388289.0,
+            "tx_count": 5
+        }
+    ],
+    "cmte_id": "C00901223"
+}

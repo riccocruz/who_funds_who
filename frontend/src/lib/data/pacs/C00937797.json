@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "HUSTED VICTORY",
+        "committee_type": "N",
+        "total_receipts": 417500.0,
+        "indiv_contrib": 112500.0,
+        "total_spent": 2651.0,
+        "cash_on_hand": 414849.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00162339",
+            "pac_name": "OHIO REPUBLICAN PARTY STATE CENTRAL & EXECUTIVE COMMITTEE",
+            "total_amt": 200000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00896688",
+            "pac_name": "JOBS OPPORTUNITY NOW POLITICAL ACTION COMMITTEE",
+            "total_amt": 105000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00937797"
+}

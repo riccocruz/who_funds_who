@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "HUBBARD, CHUCK",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 245266.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 253,
+        "oos_donors": 44,
+        "oos_total": 36252.0
+    },
+    "opposition": []
+}

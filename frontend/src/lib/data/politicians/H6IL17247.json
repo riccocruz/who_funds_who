@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "VANCIL, DILLAN",
+        "party": "REP",
+        "state": "IL",
+        "indiv_total": 175899.0,
+        "pac_receipts_summary": 3950.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00906347",
+            "pac_name": "CONGRESSIONAL REPUBLICAN ORGANIZATION OF ILLINOIS PAC",
+            "total_amt": 1289.0,
+            "direct_amt": 1289.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00887810",
+            "pac_name": "APP BIG FAMILY PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 121,
+        "oos_donors": 7,
+        "oos_total": 2530.0
+    },
+    "opposition": []
+}

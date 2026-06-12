@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "PRESTON, JENNA MICHALIK",
+        "party": "DEM",
+        "state": "CO",
+        "indiv_total": 91117.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00522094",
+            "pac_name": "PSYCHOLOGY PAC OF AMERICAN PSYCHOLOGICAL ASSOCIATION SERVICES INC.",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 34,
+        "oos_donors": 26,
+        "oos_total": 29550.0
+    },
+    "opposition": []
+}

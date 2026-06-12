@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "STRAND, JOHN",
+        "party": "REP",
+        "state": "FL",
+        "indiv_total": 59913.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00764795",
+            "pac_name": "WE THE PEOPLE LEADERSHIP PAC",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 24,
+        "oos_donors": 11,
+        "oos_total": 23225.0
+    },
+    "opposition": []
+}

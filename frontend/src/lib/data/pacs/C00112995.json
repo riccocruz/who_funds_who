@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 158 VOLUNTARY POLITICAL ACTION FUND",
+        "committee_type": "Q",
+        "total_receipts": 286060.0,
+        "indiv_contrib": 285997.0,
+        "total_spent": 100445.0,
+        "cash_on_hand": 605424.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8NY22177",
+            "cand_name": "RILEY, JOSH",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 3500.0,
+            "direct_amt": 3500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8NY25105",
+            "cand_name": "MORELLE, JOSEPH D",
+            "party": "DEM",
+            "state": "NY",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": null,
+            "cand_name": "PAUL TONKO FOR CONGRESS",
+            "party": null,
+            "state": null,
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00426163",
+            "pac_name": "NEW YORK STATE  CONFERENCE OF THE INTERNATIONAL UNION OF OPERATING ENGINEERS FED VPAF (NYS CONF IUOE FED VPAF)",
+            "total_amt": 62500.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00029504",
+            "pac_name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "total_amt": 30535.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00112995"
+}

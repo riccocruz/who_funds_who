@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "TEAM SHREVE",
+        "committee_type": "N",
+        "total_receipts": 31792.0,
+        "indiv_contrib": 27792.0,
+        "total_spent": 27359.0,
+        "cash_on_hand": 4433.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 8822.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00165159",
+            "pac_name": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+            "total_amt": 4000.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00886234",
+            "pac_name": "SECURE HOMELAND REBUILD ECONOMY VOTE & EDUCATE PAC",
+            "total_amt": 3393.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00887372"
+}

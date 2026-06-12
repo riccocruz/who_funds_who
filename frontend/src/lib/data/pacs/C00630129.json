@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "DEMOCRACY LEGACY",
+        "committee_type": "O",
+        "total_receipts": 24059.0,
+        "indiv_contrib": 5559.0,
+        "total_spent": 20846.0,
+        "cash_on_hand": 4821.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX18364",
+            "cand_name": "JONES, JOLANDA",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2246.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2246.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX18364",
+            "pac_name": "STREET SMARTZ CONSULTING",
+            "total_amt": 2246.0,
+            "tx_count": 3
+        }
+    ],
+    "cmte_id": "C00630129"
+}

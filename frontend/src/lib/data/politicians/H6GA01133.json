@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "MCCORD, MICHAEL",
+        "party": "DEM",
+        "state": "GA",
+        "indiv_total": 94654.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 29,
+        "oos_donors": 19,
+        "oos_total": 38850.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ENRIQUEZ, ABRAHAM",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 536513.0,
+        "pac_receipts_summary": 3500.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00938415",
+            "pac_name": "AMERICA FIRST RESCUE PAC",
+            "total_amt": 153467.0,
+            "direct_amt": 0.0,
+            "ie_amt": 153467.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 120,
+        "oos_donors": 13,
+        "oos_total": 24862.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "CONROY, CARMELA",
+        "party": "DEM",
+        "state": "WA",
+        "indiv_total": 282301.0,
+        "pac_receipts_summary": 1100.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00545202",
+            "pac_name": "THE CENTER FOR FREETHOUGHT EQUALITY PAC",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 177,
+        "oos_donors": 19,
+        "oos_total": 11850.0
+    },
+    "opposition": []
+}

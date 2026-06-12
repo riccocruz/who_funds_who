@@ -1,0 +1,110 @@
+{
+    "pac": {
+        "name": "PATRIOTIC FUND, INC.",
+        "committee_type": "O",
+        "total_receipts": 1877126.0,
+        "indiv_contrib": 1002126.0,
+        "total_spent": 1248484.0,
+        "cash_on_hand": 628642.0
+    },
+    "stats": {
+        "candidates_funded": 5
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TX09140",
+            "cand_name": "MEALER, ALEXANDRA",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 278365.0,
+            "direct_amt": 0.0,
+            "ie_amt": 278365.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX02166",
+            "cand_name": "CRENSHAW, DANIEL",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 231915.0,
+            "direct_amt": 0.0,
+            "ie_amt": 231915.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TN07161",
+            "cand_name": "VAN EPPS, MATTHEW ROBERT",
+            "party": "REP",
+            "state": "TN",
+            "total_amt": 198835.0,
+            "direct_amt": 0.0,
+            "ie_amt": 198835.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0GA14030",
+            "cand_name": "FULLER, CLAY",
+            "party": "REP",
+            "state": "GA",
+            "total_amt": 54546.0,
+            "direct_amt": 0.0,
+            "ie_amt": 54546.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H8TX06266",
+            "cand_name": "ELLZEY, JOHN KEVIN SR.",
+            "party": "REP",
+            "state": "TX",
+            "total_amt": 34293.0,
+            "direct_amt": 0.0,
+            "ie_amt": 34293.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TX09140",
+            "pac_name": "PT STRATEGY LLC",
+            "total_amt": 278365.0,
+            "tx_count": 5
+        },
+        {
+            "cmte_id": "C00813089",
+            "pac_name": "FIGHT TO WIN AMERICA, INC.",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H8TX02166",
+            "pac_name": "PT STRATEGY LLC",
+            "total_amt": 231915.0,
+            "tx_count": 11
+        },
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "INVICTUS ADVERTISING",
+            "total_amt": 198835.0,
+            "tx_count": 7
+        },
+        {
+            "cmte_id": "C00898890",
+            "pac_name": "WITH HONOR FUND III, INC.",
+            "total_amt": 68907.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H0GA14030",
+            "pac_name": "PT STRATEGY LLC",
+            "total_amt": 54546.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H8TX06266",
+            "pac_name": "MENTZER MEDIA SERVICES, INC.",
+            "total_amt": 34293.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00899419"
+}

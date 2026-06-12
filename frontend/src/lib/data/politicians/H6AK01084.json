@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "SCHULTZ, MATTHEW DAMIAN",
+        "party": "DEM",
+        "state": "AK",
+        "indiv_total": 577936.0,
+        "pac_receipts_summary": 250.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00252940",
+            "pac_name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+            "total_amt": 50.0,
+            "direct_amt": 50.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 580,
+        "oos_donors": 66,
+        "oos_total": 59913.0
+    },
+    "opposition": []
+}

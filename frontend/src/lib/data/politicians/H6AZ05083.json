@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "BIGGS, ANDY",
+        "party": "REP",
+        "state": "AZ",
+        "indiv_total": 18326.0,
+        "pac_receipts_summary": 7000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00552851",
+            "pac_name": "FREEDOM CAUCUS FUND",
+            "total_amt": 5278.0,
+            "direct_amt": 5100.0,
+            "ie_amt": 178.0
+        },
+        {
+            "cmte_id": "C00416594",
+            "pac_name": "BIGGS FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00335257",
+            "pac_name": "HEALTH & FITNESS ASSOCIATION PAC (FITPAC)",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00614552",
+            "pac_name": "150PAC.ORG",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 8,
+        "oos_donors": 5,
+        "oos_total": 7300.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,35 @@
+{
+    "pac": {
+        "name": "JUDGE CARTER VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 712077.0,
+        "indiv_contrib": 702077.0,
+        "total_spent": 712077.0,
+        "cash_on_hand": 1000.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00427401",
+            "pac_name": "CONSERVATIVE & REPUBLICAN TOGETHER EQUALS RESULTS PAC",
+            "total_amt": 142416.0,
+            "tx_count": 4
+        },
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 18864.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00386029",
+            "pac_name": "HNTB HOLDINGS LTD. PAC",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00717272"
+}

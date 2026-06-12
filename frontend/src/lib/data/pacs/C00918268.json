@@ -1,0 +1,72 @@
+{
+    "pac": {
+        "name": "LONE STAR RISING PAC",
+        "committee_type": "O",
+        "total_receipts": 8988325.0,
+        "indiv_contrib": 4363325.0,
+        "total_spent": 8748229.0,
+        "cash_on_hand": 240096.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "S6TX00479",
+            "cand_name": "TALARICO, JAMES",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 3980256.0,
+            "direct_amt": 0.0,
+            "ie_amt": 3980256.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15246",
+            "cand_name": "PULIDO, BOBBY",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 2064.0,
+            "direct_amt": 0.0,
+            "ie_amt": 2064.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6TX15162",
+            "cand_name": "GONZALEZ, VICENTE",
+            "party": "DEM",
+            "state": "TX",
+            "total_amt": 1382.0,
+            "direct_amt": 0.0,
+            "ie_amt": 1382.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "S6TX00552",
+            "pac_name": "BLUE VICTORY COMMUNICATIONS",
+            "total_amt": 4475993.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "S6TX00479",
+            "pac_name": "CONVERGENCE TARGETED COMMUNICATIONS",
+            "total_amt": 3980256.0,
+            "tx_count": 16
+        },
+        {
+            "cmte_id": "H6TX15246",
+            "pac_name": "AMM POLITICAL STRATEGIES LLC",
+            "total_amt": 2064.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "H6TX15162",
+            "pac_name": "AMM POLITICAL STRATEGIES LLC",
+            "total_amt": 1382.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00918268"
+}

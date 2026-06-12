@@ -1,0 +1,73 @@
+{
+    "politician": {
+        "cand_name": "DEMBO, ZACH",
+        "party": "DEM",
+        "state": "KY",
+        "indiv_total": 932303.0,
+        "pac_receipts_summary": 18600.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00418897",
+            "pac_name": "VOTEVETS",
+            "total_amt": 5000.0,
+            "direct_amt": 5000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00786186",
+            "pac_name": "CROSSPARTISAN PAC I",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00555888",
+            "pac_name": "ZACH DEMBO FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00868976",
+            "pac_name": "HOLD THE LINE",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00911347",
+            "pac_name": "ZACH DEMBO FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00914770",
+            "pac_name": "ZACH DEMBO FOR CONGRESS",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00787945",
+            "pac_name": "BLUEWAVEAMERICA",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 580,
+        "oos_donors": 155,
+        "oos_total": 184422.0
+    },
+    "opposition": []
+}

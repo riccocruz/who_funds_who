@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "YOUR COMMUNITY PAC",
+        "committee_type": "O",
+        "total_receipts": 2085576.0,
+        "indiv_contrib": 1826278.0,
+        "total_spent": 1150740.0,
+        "cash_on_hand": 1070328.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6TN07153",
+            "cand_name": "THORP, JONATHAN",
+            "party": "IND",
+            "state": "TN",
+            "total_amt": 28156.0,
+            "direct_amt": 0.0,
+            "ie_amt": 28156.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6TN07161",
+            "pac_name": "CANAL PARTNERS MEDIA",
+            "total_amt": 737999.0,
+            "tx_count": 13
+        },
+        {
+            "cmte_id": "H6TN07153",
+            "pac_name": "DELIVER STRATEGIES LLC",
+            "total_amt": 60477.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00886614"
+}

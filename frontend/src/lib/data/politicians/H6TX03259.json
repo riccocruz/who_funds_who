@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "NEWGENT, MARK",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 165573.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00916379",
+            "pac_name": "ANTI-ZIONIST AMERICA PAC",
+            "total_amt": 3000.0,
+            "direct_amt": 3000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 121,
+        "oos_donors": 11,
+        "oos_total": 11481.0
+    },
+    "opposition": []
+}

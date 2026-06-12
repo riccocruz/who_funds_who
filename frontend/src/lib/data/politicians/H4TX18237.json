@@ -1,0 +1,45 @@
+{
+    "politician": {
+        "cand_name": "TURNER, SYLVESTER",
+        "party": "DEM",
+        "state": "TX",
+        "indiv_total": 20075.0,
+        "pac_receipts_summary": 9000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00106146",
+            "pac_name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00393348",
+            "pac_name": "MARCHANT GOOD GOVERNMENT FUND",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00346353",
+            "pac_name": "CRH AMERICAS, INC. PAC",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00147173",
+            "pac_name": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 3,
+        "oos_total": 6850.0
+    },
+    "opposition": []
+}

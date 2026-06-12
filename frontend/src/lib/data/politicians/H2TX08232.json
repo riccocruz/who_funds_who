@@ -1,0 +1,22 @@
+{
+    "politician": {
+        "cand_name": "ETWOP, MARTIN",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 9693.0,
+        "pac_receipts_summary": 0.0
+    },
+    "donations": [],
+    "indivStats": {
+        "unique_donors": 7,
+        "oos_donors": 2,
+        "oos_total": 1500.0
+    },
+    "opposition": [
+        {
+            "cmte_id": "C00813089",
+            "pac_name": "FIGHT TO WIN AMERICA, INC.",
+            "total_amt": 3157.0
+        }
+    ]
+}

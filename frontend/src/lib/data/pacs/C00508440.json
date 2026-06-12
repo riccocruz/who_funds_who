@@ -1,0 +1,40 @@
+{
+    "pac": {
+        "name": "HUMAN RIGHTS CAMPAIGN EQUALITY VOTES PAC",
+        "committee_type": "O",
+        "total_receipts": 14125.0,
+        "indiv_contrib": 12550.0,
+        "total_spent": 105363.0,
+        "cash_on_hand": 40385.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H6FL06266",
+            "cand_name": "WEIL, JOSHUA JOSEPH",
+            "party": "DEM",
+            "state": "FL",
+            "total_amt": 25.0,
+            "direct_amt": 0.0,
+            "ie_amt": 25.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6FL06258",
+            "pac_name": "HUMAN RIGHTS CAMPAIGN",
+            "total_amt": 25.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6FL06266",
+            "pac_name": "HUMAN RIGHTS CAMPAIGN",
+            "total_amt": 25.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00508440"
+}

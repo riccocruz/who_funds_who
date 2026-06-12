@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "FAIRSHAKE",
+        "committee_type": "O",
+        "total_receipts": 134606729.0,
+        "indiv_contrib": 106202988.0,
+        "total_spent": 33065936.0,
+        "cash_on_hand": 165784992.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00836221",
+            "pac_name": "DEFEND AMERICAN JOBS",
+            "total_amt": 9000000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "S6IL00458",
+            "pac_name": "TARGETED PLATFORM MEDIA",
+            "total_amt": 5168736.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "C00848440",
+            "pac_name": "PROTECT PROGRESS",
+            "total_amt": 4000000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "H6IL07354",
+            "pac_name": "TARGETED PLATFORM MEDIA",
+            "total_amt": 1803690.0,
+            "tx_count": 9
+        },
+        {
+            "cmte_id": "H6IL02298",
+            "pac_name": "KINETIC CAMPAIGNS",
+            "total_amt": 817065.0,
+            "tx_count": 6
+        }
+    ],
+    "cmte_id": "C00835959"
+}

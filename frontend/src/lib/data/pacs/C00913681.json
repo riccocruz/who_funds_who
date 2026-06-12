@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "FRANKLIN COUNTY REPUBLICAN PARTY",
+        "committee_type": "X",
+        "total_receipts": 23400.0,
+        "indiv_contrib": 825.0,
+        "total_spent": 16037.0,
+        "cash_on_hand": 39303.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2OH15228",
+            "cand_name": "CAREY, MIKE",
+            "party": "REP",
+            "state": "OH",
+            "total_amt": 500.0,
+            "direct_amt": 500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00790691",
+            "pac_name": "CAREY VICTORY FUND",
+            "total_amt": 11767.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00913681"
+}

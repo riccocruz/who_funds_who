@@ -1,0 +1,60 @@
+{
+    "pac": {
+        "name": "GRASS ROOTS NORTH CAROLINA/FORUM FOR FIREARMS EDUC POL VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 27034.0,
+        "indiv_contrib": 27001.0,
+        "total_spent": 18046.0,
+        "cash_on_hand": 11333.0
+    },
+    "stats": {
+        "candidates_funded": 3
+    },
+    "recipients": [
+        {
+            "cand_id": "H6NC01132",
+            "cand_name": "HANIG, BOBBY",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 923.0,
+            "direct_amt": 0.0,
+            "ie_amt": 923.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "S6NC00357",
+            "cand_name": "NILSSON, ROBERT ANDERS MR",
+            "party": "REP",
+            "state": "NC",
+            "total_amt": 500.0,
+            "direct_amt": 0.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H6AR02138",
+            "cand_name": "PEERLY.COM",
+            "party": null,
+            "state": null,
+            "total_amt": 334.0,
+            "direct_amt": 0.0,
+            "ie_amt": 334.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "H6NC01132",
+            "pac_name": "PEERLY.COM",
+            "total_amt": 923.0,
+            "tx_count": 3
+        },
+        {
+            "cmte_id": "H6AR02138",
+            "pac_name": "PEERLY.COM",
+            "total_amt": 334.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00354605"
+}

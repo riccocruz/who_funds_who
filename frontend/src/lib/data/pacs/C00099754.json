@@ -1,0 +1,37 @@
+{
+    "pac": {
+        "name": "BAKEPAC - THE POLITICAL ACTION COMMITTEE OF THE INDEPENDENT BAKERS ASSOCIATION",
+        "committee_type": "Q",
+        "total_receipts": 21317.0,
+        "indiv_contrib": 20500.0,
+        "total_spent": 2250.0,
+        "cash_on_hand": 59162.0
+    },
+    "stats": {
+        "candidates_funded": 2
+    },
+    "recipients": [
+        {
+            "cand_id": "H8PA05071",
+            "cand_name": "THOMPSON, GLENN MR.",
+            "party": "REP",
+            "state": "PA",
+            "total_amt": 350.0,
+            "direct_amt": 350.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        },
+        {
+            "cand_id": "H0IN03198",
+            "cand_name": "STUTZMAN, MARLIN A",
+            "party": "REP",
+            "state": "IN",
+            "total_amt": 350.0,
+            "direct_amt": 350.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00099754"
+}

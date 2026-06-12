@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "NH SENATE REPUBLICAN NOMINEE FUND 2026",
+        "committee_type": "N",
+        "total_receipts": 43528.0,
+        "indiv_contrib": 25512.0,
+        "total_spent": 5740.0,
+        "cash_on_hand": 38284.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00835751",
+            "pac_name": "FRIENDS OF KENNEDY",
+            "total_amt": 11370.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00897918",
+            "pac_name": "ONE TEAM SENATE MAJORITY",
+            "total_amt": 6644.0,
+            "tx_count": 2
+        }
+    ],
+    "cmte_id": "C00892018"
+}

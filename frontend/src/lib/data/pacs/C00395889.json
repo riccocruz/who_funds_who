@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "ILLINOIS TENTH CONGRESSIONAL DISTRICT DEMOCRATS",
+        "committee_type": "Q",
+        "total_receipts": 29409.0,
+        "indiv_contrib": 29274.0,
+        "total_spent": 26254.0,
+        "cash_on_hand": 3906.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL10068",
+            "cand_name": "SCHNEIDER, BRADLEY S.",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00389189",
+            "pac_name": "LAKE COUNTY DEMOCRATIC CENTRAL COMMITTEE",
+            "total_amt": 3949.0,
+            "tx_count": 10
+        }
+    ],
+    "cmte_id": "C00395889"
+}

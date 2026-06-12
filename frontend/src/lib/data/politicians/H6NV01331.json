@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "BUCK, CARRIE",
+        "party": "REP",
+        "state": "NV",
+        "indiv_total": 918096.0,
+        "pac_receipts_summary": 11000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00683508",
+            "pac_name": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+            "total_amt": 4000.0,
+            "direct_amt": 4000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 702,
+        "oos_donors": 504,
+        "oos_total": 255223.0
+    },
+    "opposition": []
+}

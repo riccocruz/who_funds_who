@@ -1,0 +1,34 @@
+{
+    "pac": {
+        "name": "OPERATING ENGINEERS LOCAL 478 POLITICAL ACTION COMMITTEE (OE478PAC)",
+        "committee_type": "Q",
+        "total_receipts": 62137.0,
+        "indiv_contrib": 62137.0,
+        "total_spent": 78805.0,
+        "cash_on_hand": 5183.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2CT02112",
+            "cand_name": "COURTNEY, JOSEPH",
+            "party": "DEM",
+            "state": "CT",
+            "total_amt": 2500.0,
+            "direct_amt": 2500.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00029504",
+            "pac_name": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC)/INTERNATIONAL UNION OF OPERATING ENGINEERS",
+            "total_amt": 75000.0,
+            "tx_count": 4
+        }
+    ],
+    "cmte_id": "C00434076"
+}

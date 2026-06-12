@@ -1,0 +1,47 @@
+{
+    "pac": {
+        "name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+        "committee_type": "O",
+        "total_receipts": 2597655.0,
+        "indiv_contrib": 2540410.0,
+        "total_spent": 2540410.0,
+        "cash_on_hand": 72669.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00571703",
+            "pac_name": "SLF PAC",
+            "total_amt": 750000.0,
+            "tx_count": 2
+        },
+        {
+            "cmte_id": "C00484642",
+            "pac_name": "SMP",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00495028",
+            "pac_name": "HMP",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00504530",
+            "pac_name": "CLF",
+            "total_amt": 500000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00542217",
+            "pac_name": "TEXANS FOR A CONSERVATIVE MAJORITY",
+            "total_amt": 250000.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00488742"
+}

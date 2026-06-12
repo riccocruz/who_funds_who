@@ -1,0 +1,24 @@
+{
+    "politician": {
+        "cand_name": "ROJAS, PAUL",
+        "party": "REP",
+        "state": "TX",
+        "indiv_total": 34026.0,
+        "pac_receipts_summary": 1000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00027342",
+            "pac_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 9,
+        "oos_donors": 1,
+        "oos_total": 2000.0
+    },
+    "opposition": []
+}

@@ -1,0 +1,29 @@
+{
+    "pac": {
+        "name": "HARIDOPOLOS VICTORY FUND",
+        "committee_type": "N",
+        "total_receipts": 465750.0,
+        "indiv_contrib": 455250.0,
+        "total_spent": 400533.0,
+        "cash_on_hand": 102897.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00075820",
+            "pac_name": "NRCC",
+            "total_amt": 246550.0,
+            "tx_count": 8
+        },
+        {
+            "cmte_id": "C00877506",
+            "pac_name": "SPACE COAST LEADERSHIP PAC",
+            "total_amt": 65760.0,
+            "tx_count": 7
+        }
+    ],
+    "cmte_id": "C00879163"
+}

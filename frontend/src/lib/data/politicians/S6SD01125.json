@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "BEAUDION, JULIAN C",
+        "party": "DEM",
+        "state": "SD",
+        "indiv_total": 183243.0,
+        "pac_receipts_summary": 3000.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00002766",
+            "pac_name": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+            "total_amt": 2000.0,
+            "direct_amt": 2000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00571091",
+            "pac_name": "LEE PAC",
+            "total_amt": 1000.0,
+            "direct_amt": 1000.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 155,
+        "oos_donors": 33,
+        "oos_total": 40302.0
+    },
+    "opposition": []
+}

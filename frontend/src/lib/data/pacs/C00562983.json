@@ -1,0 +1,77 @@
+{
+    "pac": {
+        "name": "DEMOCRATIC ACTION",
+        "committee_type": "N",
+        "total_receipts": 28478896.0,
+        "indiv_contrib": 26335692.0,
+        "total_spent": 16099081.0,
+        "cash_on_hand": 13229634.0
+    },
+    "stats": {
+        "candidates_funded": 0
+    },
+    "recipients": [],
+    "pacTransfers": [
+        {
+            "cmte_id": "C00010603",
+            "pac_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+            "total_amt": 39828.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00016899",
+            "pac_name": "OHIO DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00019380",
+            "pac_name": "KANSAS DEMOCRATIC PARTY- FEDERAL",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00104471",
+            "pac_name": "NEW JERSEY DEMOCRATIC STATE COMMITTEE",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00141812",
+            "pac_name": "DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00161786",
+            "pac_name": "FEDERAL: COLORADO DEMOCRATIC PARTY",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00161810",
+            "pac_name": "DEMOCRATIC PARTY OF NEW MEXICO - FEDERAL",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00167130",
+            "pac_name": "PENNSYLVANIA DEMOCRATIC PARTY",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00208991",
+            "pac_name": "NEVADA STATE DEMOCRATIC PARTY",
+            "total_amt": 10000.0,
+            "tx_count": 1
+        },
+        {
+            "cmte_id": "C00909655",
+            "pac_name": "NAVAJO COUNTY DEMOCRATIC COMMITTEE",
+            "total_amt": 9586.0,
+            "tx_count": 1
+        }
+    ],
+    "cmte_id": "C00562983"
+}

@@ -1,0 +1,31 @@
+{
+    "politician": {
+        "cand_name": "HARDY, KIMBERLY DR.",
+        "party": "DEM",
+        "state": "NC",
+        "indiv_total": 197493.0,
+        "pac_receipts_summary": 911.0
+    },
+    "donations": [
+        {
+            "cmte_id": "C00165688",
+            "pac_name": "NORTH CAROLINA DEMOCRATIC PARTY - FEDERAL",
+            "total_amt": 6000.0,
+            "direct_amt": 6000.0,
+            "ie_amt": 0.0
+        },
+        {
+            "cmte_id": "C00839662",
+            "pac_name": "COYOTE PAC",
+            "total_amt": 211.0,
+            "direct_amt": 211.0,
+            "ie_amt": 0.0
+        }
+    ],
+    "indivStats": {
+        "unique_donors": 137,
+        "oos_donors": 19,
+        "oos_total": 14373.0
+    },
+    "opposition": []
+}

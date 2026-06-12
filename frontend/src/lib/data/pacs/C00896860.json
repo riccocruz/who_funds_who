@@ -1,0 +1,27 @@
+{
+    "pac": {
+        "name": "LOCAL DEMOCRACY PROJECT",
+        "committee_type": "V",
+        "total_receipts": 260247.0,
+        "indiv_contrib": 171573.0,
+        "total_spent": 237607.0,
+        "cash_on_hand": 22640.0
+    },
+    "stats": {
+        "candidates_funded": 1
+    },
+    "recipients": [
+        {
+            "cand_id": "H2IL03162",
+            "cand_name": "RAMIREZ, DELIA",
+            "party": "DEM",
+            "state": "IL",
+            "total_amt": 250.0,
+            "direct_amt": 250.0,
+            "ie_amt": 0.0,
+            "bundled_amt": 0.0
+        }
+    ],
+    "pacTransfers": [],
+    "cmte_id": "C00896860"
+}
