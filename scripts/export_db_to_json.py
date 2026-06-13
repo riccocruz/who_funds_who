@@ -1,7 +1,7 @@
 """
-Pre-build data export script.
-Run: python scripts/export_data.py
-Outputs JSON files consumed by the static SvelteKit build.
+Build JSON data files for the frontend from the SQLite database.
+This script should be run after running `fec_loader.py` to populate the database with the latest FEC data.
+The output JSON files are written to `/frontend/src/lib/data/`.
 """
 
 import json
@@ -9,13 +9,13 @@ import os
 import sqlite3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.path.join(ROOT, 'fec.db')
-OUT_DIR = os.path.join(ROOT, 'frontend', 'src', 'lib', 'data')
+DB_PATH = os.path.join(ROOT, "fec.db")
+OUT_DIR = os.path.join(ROOT, "frontend", "src", "lib", "data")
 
 
 def write(file_path: str, data):
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    with open(file_path, 'w') as f:
+    with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
     print(f"wrote {os.path.relpath(file_path, ROOT)}")
 
@@ -37,7 +37,7 @@ pacs = [dict(row) for row in con.execute("""
     ORDER BY total_receipts DESC
     LIMIT 500
 """).fetchall()]
-write(os.path.join(OUT_DIR, 'pacs.json'), pacs)
+write(os.path.join(OUT_DIR, "pacs.json"), pacs)
 
 # ── Politicians list ───────────────────────────────────────────────────────────
 politicians = [dict(row) for row in con.execute("""
@@ -56,12 +56,15 @@ politicians = [dict(row) for row in con.execute("""
     ORDER BY total_raised DESC
     LIMIT 500
 """).fetchall()]
-write(os.path.join(OUT_DIR, 'politicians.json'), politicians)
+write(os.path.join(OUT_DIR, "politicians.json"), politicians)
 
 # ── Individual PAC detail pages ────────────────────────────────────────────────
-pac_list = [row['cmte_id'] for row in con.execute(
-    "SELECT cmte_id FROM pac_summary WHERE ttl_receipts >= 10000"
-).fetchall()]
+pac_list = [
+    row["cmte_id"]
+    for row in con.execute(
+        "SELECT cmte_id FROM pac_summary WHERE ttl_receipts >= 10000"
+    ).fetchall()
+]
 
 RECIPIENTS_SQL = """
     SELECT
@@ -140,17 +143,26 @@ for cmte_id in pac_list:
     if pac is None:
         continue
     stats = con.execute(CANDIDATES_FUNDED_SQL, (cmte_id,)).fetchone()
-    recipients = [dict(row) for row in con.execute(RECIPIENTS_SQL, (cmte_id, cmte_id)).fetchall()]
-    pac_transfers = [dict(row) for row in con.execute(PAC_TRANSFERS_SQL, (cmte_id,)).fetchall()]
+    recipients = [
+        dict(row) for row in con.execute(RECIPIENTS_SQL, (cmte_id, cmte_id)).fetchall()
+    ]
+    pac_transfers = [
+        dict(row) for row in con.execute(PAC_TRANSFERS_SQL, (cmte_id,)).fetchall()
+    ]
     write(
-        os.path.join(OUT_DIR, 'pacs', f'{cmte_id}.json'),
-        {'pac': dict(pac), 'stats': dict(stats), 'recipients': recipients, 'pacTransfers': pac_transfers, 'cmte_id': cmte_id}
+        os.path.join(OUT_DIR, "pacs", f"{cmte_id}.json"),
+        {
+            "pac": dict(pac),
+            "stats": dict(stats),
+            "recipients": recipients,
+            "pacTransfers": pac_transfers,
+            "cmte_id": cmte_id,
+        },
     )
 
 # ── Individual politician detail pages ─────────────────────────────────────────
 politician_list = [
-    {'cand_id': row['cand_id'], 'state': row['state']}
-    for row in con.execute("""
+    {"cand_id": row["cand_id"], "state": row["state"]} for row in con.execute("""
         SELECT MIN(cand_id) AS cand_id, cand_office_st AS state
         FROM all_candidates
         WHERE ttl_receipts >= 10000
@@ -208,22 +220,26 @@ OPPOSITION_SQL = """
 
 print(f"Exporting {len(politician_list)} politician detail pages...")
 for entry in politician_list:
-    cand_id = entry['cand_id']
-    state = entry['state']
+    cand_id = entry["cand_id"]
+    state = entry["state"]
     politician = con.execute(POLITICIAN_DETAIL_SQL, (cand_id,)).fetchone()
     if politician is None:
         continue
     donations = [dict(row) for row in con.execute(DONATIONS_SQL, (cand_id,)).fetchall()]
-    indiv_stats = con.execute(INDIV_STATS_SQL, {'state': state, 'cand_id': cand_id}).fetchone()
-    opposition = [dict(row) for row in con.execute(OPPOSITION_SQL, (cand_id,)).fetchall()]
+    indiv_stats = con.execute(
+        INDIV_STATS_SQL, {"state": state, "cand_id": cand_id}
+    ).fetchone()
+    opposition = [
+        dict(row) for row in con.execute(OPPOSITION_SQL, (cand_id,)).fetchall()
+    ]
     write(
-        os.path.join(OUT_DIR, 'politicians', f'{cand_id}.json'),
+        os.path.join(OUT_DIR, "politicians", f"{cand_id}.json"),
         {
-            'politician': dict(politician),
-            'donations': donations,
-            'indivStats': dict(indiv_stats) if indiv_stats else None,
-            'opposition': opposition,
-        }
+            "politician": dict(politician),
+            "donations": donations,
+            "indivStats": dict(indiv_stats) if indiv_stats else None,
+            "opposition": opposition,
+        },
     )
 
 # ── Search index ───────────────────────────────────────────────────────────────
@@ -245,7 +261,10 @@ search_pacs = [dict(row) for row in con.execute("""
     ORDER BY ttl_receipts DESC
 """).fetchall()]
 
-write(os.path.join(OUT_DIR, 'search-index.json'), {'politicians': search_politicians, 'pacs': search_pacs})
+write(
+    os.path.join(OUT_DIR, "search-index.json"),
+    {"politicians": search_politicians, "pacs": search_pacs},
+)
 
 con.close()
-print('Done.')
+print("Done.")

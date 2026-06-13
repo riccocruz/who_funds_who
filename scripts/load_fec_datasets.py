@@ -1,26 +1,43 @@
 #!/usr/bin/env python3
 """
-fec_loader.py — Load FEC bulk data files into SQLite.
+load_fec_datasets.py — Download and load FEC bulk data files into SQLite.
 
-Supported files (accepts .txt or .zip):
+The links below can be found here: https://www.fec.gov/data/browse-data/?tab=bulk-data
   weball26  → all_candidates table
+            https://www.fec.gov/files/bulk-downloads/2026/weball26.zip
+
   webk26    → pac_summary table
+            https://www.fec.gov/files/bulk-downloads/2026/webk26.zip
+
   ccl       → candidate_committee_linkage table
+            https://www.fec.gov/files/bulk-downloads/2026/ccl26.zip
+
   itpas2    → contributions table
+            https://www.fec.gov/files/bulk-downloads/2026/pas226.zip
 
 Usage:
-  python fec_loader.py datasets/weball26.txt datasets/ccl.txt
-  python fec_loader.py --db fec.db datasets/weball26.zip datasets/itpas2.zip
-  python fec_loader.py --db fec.db datasets/          # load a whole directory
+    python load_fec_datasets.py --download                # download + load all 4
+    python load_fec_datasets.py --download --db fec.db    # specify db path
+    python load_fec_datasets.py datasets/weball26.zip     # load a local file
+    python load_fec_datasets.py --db fec.db datasets/     # load a whole directory
 """
 
 import argparse
 import csv
 import io
 import sqlite3
+import ssl
 import sys
+import urllib.request
 import zipfile
 from pathlib import Path
+
+DOWNLOADS = {
+    "weball26": "https://www.fec.gov/files/bulk-downloads/2026/weball26.zip",
+    "webk26": "https://www.fec.gov/files/bulk-downloads/2026/webk26.zip",
+    "ccl26": "https://www.fec.gov/files/bulk-downloads/2026/ccl26.zip",
+    "pas226": "https://www.fec.gov/files/bulk-downloads/2026/pas226.zip",
+}
 
 BATCH_SIZE = 10_000
 
@@ -235,6 +252,46 @@ SCHEMAS = {
     },
 }
 
+# ── Downloader ───────────────────────────────────────────────────────────────
+
+
+def _fetch(url: str, dest: Path) -> None:
+    ctx = ssl.create_default_context()
+    try:
+        response = urllib.request.urlopen(url, context=ctx)
+    except urllib.error.URLError:
+        # macOS Python.org builds don't bundle CA certs; retry without verification
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        response = urllib.request.urlopen(url, context=ctx)
+
+    total = int(response.headers.get("Content-Length", 0))
+    downloaded = 0
+    with open(dest, "wb") as f:
+        while chunk := response.read(65536):
+            f.write(chunk)
+            downloaded += len(chunk)
+            mb = downloaded / 1_048_576
+            suffix = f" / {total / 1_048_576:.0f} MB" if total else ""
+            print(f"  {mb:.1f} MB{suffix}", end="\r")
+    print()
+
+
+def download_datasets(dest_dir: Path) -> list[Path]:
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    paths = []
+    for name, url in DOWNLOADS.items():
+        dest = dest_dir / f"{name}.zip"
+        if dest.exists():
+            print(f"[cache] {dest.name} already downloaded, skipping")
+        else:
+            print(f"[download] {name}  {url}")
+            _fetch(url, dest)
+            print(f"  Saved → {dest}")
+        paths.append(dest)
+    return paths
+
+
 # ── File-type detection ───────────────────────────────────────────────────────
 
 
@@ -385,17 +442,24 @@ def load_file(conn: sqlite3.Connection, path: Path) -> None:
 
 
 def build_derived_tables(conn: sqlite3.Connection) -> None:
-    required = {"individual_contributions", "candidate_committee_linkage", "all_candidates"}
-    existing = {r[0] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")}
+    required = {
+        "individual_contributions",
+        "candidate_committee_linkage",
+        "all_candidates",
+    }
+    existing = {
+        r[0] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")
+    }
     missing = required - existing
     if missing:
-        print(f"  [skip] Missing tables: {', '.join(missing)} — load required files first.")
+        print(
+            f"  [skip] Missing tables: {', '.join(missing)} — load required files first."
+        )
         return
 
     print("Building pac_bundled_recipients...")
     conn.execute("DROP TABLE IF EXISTS pac_bundled_recipients")
-    conn.execute(
-        """CREATE TABLE pac_bundled_recipients AS
+    conn.execute("""CREATE TABLE pac_bundled_recipients AS
         SELECT
             ic.other_id AS pac_id,
             ccl.cand_id,
@@ -407,8 +471,7 @@ def build_derived_tables(conn: sqlite3.Connection) -> None:
         JOIN candidate_committee_linkage ccl ON ic.cmte_id = ccl.cmte_id
         JOIN all_candidates ac ON ccl.cand_id = ac.cand_id
         WHERE ic.other_id IS NOT NULL AND ic.other_id != ''
-        GROUP BY ic.other_id, ccl.cand_id"""
-    )
+        GROUP BY ic.other_id, ccl.cand_id""")
     conn.execute(
         "CREATE INDEX idx_pbr_pac_id ON pac_bundled_recipients (pac_id, bundled_amt DESC)"
     )
@@ -452,6 +515,17 @@ def main() -> None:
         help="SQLite database file to write to (default: fec.db)",
     )
     parser.add_argument(
+        "--download",
+        action="store_true",
+        help="Download the 4 standard FEC datasets before loading",
+    )
+    parser.add_argument(
+        "--download-dir",
+        default="datasets",
+        metavar="DIR",
+        help="Directory for downloaded files (default: datasets/)",
+    )
+    parser.add_argument(
         "--build-derived",
         action="store_true",
         help="Skip file loading; just rebuild derived tables from existing data",
@@ -465,6 +539,10 @@ def main() -> None:
     conn.execute("PRAGMA journal_mode=WAL;")
     conn.execute("PRAGMA synchronous=NORMAL;")
     conn.execute("PRAGMA foreign_keys=ON;")
+
+    if args.download:
+        downloaded = download_datasets(Path(args.download_dir))
+        args.inputs = [str(p) for p in downloaded] + list(args.inputs)
 
     if not args.build_derived:
         paths = collect_paths(args.inputs)
